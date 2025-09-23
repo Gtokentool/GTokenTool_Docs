@@ -1,0 +1,25 @@
+# Arbitrum是什么链？三分钟快速了解Arbitrum公链
+
+Arbitrum其实就是一套以太坊的扩展解决方案，该方案不仅能够能够实现更高的吞吐量，更低的成本，并且它还是一个能够同时保持无信任和安全性的智能合约。Arbitrum这一方案共有三种模式，分别是AnyTrustChannels、AnyTrustSidechains和ArbitrrumRollup。Arbitrum可以说是现在第2层领域的市场领导者，它的锁定总价值已经达到了33亿美元，该项目还能够在一周内增长17.78%。很多投资者想要深入了解这个Arbitrum是什么链？下面就让[**GTokenTool**](https://docs.gtokentool.com/)小编带大家三分钟快速了解Arbitrum公链。
+
+## Arbitrum是什么链？
+
+Arbitrum是一个Optimistic Rollup，巩固了其作为以太坊顶级第2层解决方案的地位。就锁定在第2层领域的总价值而言，Arbitrum继续成为市场领导者。
+
+根据L2 Beat，Arbitrum目前冻结的总价值为33亿美元。这项措施在上周增加了17%，今年增加了23%。相比之下，Starkware上的链上衍生品交易系统dYdX的TVL为9.76亿美元，是以太坊上的第二大Layer 2产品。换句话说，Arbitrum比其最接近的竞争对手拥有23亿美元的TVL优势。
+
+上周，Arbitrum的链上活动也有所增加，根据关键措施。根据Arbitrum的官方区块浏览器Arbiscan的数据，上周网络上的每日总交易量翻了一番，从2月5日的32,113个增加到今天的73,845个。此外，在第2层上进行交易的唯一以太坊地址现在也增加了站在383,720并且每天都在增长。
+
+## Arbitrum公链怎么样？
+
+由Offchain Labs开发的Arbitrum有助于减少以太坊智能合约主网拥塞。Arbitrum的总价值锁定(TVL)为33亿美元，这得益于其快速扩展的DeFi生态系统，其中包括SushiSwap、Uniswap等DeFi中坚力量的健康组合、Curve等原生项目直接在其上引导。
+
+最初于2021年5月推出的大型去中心化交易所SushiSwap是Arbitrum上最大的dApp。自2022年初以来，SushiSwap在Arbitrum上的锁定价值翻了一番多。据DeFiLlama称，该金额已从1月3日的2.88亿美元增加到目前的700万美元。
+
+这表明SushiSwap用户继续将资产添加到其第2层流动性池中，从而提升了Arbitrum的整体价值。其他以DeFi为重点的dApp，例如Curve、Abracadabra、GMX、Balancer和Uniswap，在上周也出现了流入量的增加，从而提升了Arbitrum的网络价值。
+
+近期的其他有利事件也可能发挥了作用。FTX和Bybit这两家大型集中式加密交易所刚刚推出了Arbitrum功能，允许用户在Rollup上存入和提取ERC-20代币。集成可能会促进第2层网络上的更多活动。
+
+希望大家能够通过这篇文章三分钟快速了解Arbitrum公链，GTokenTool小编在这里提醒各位投资者，Arbitrum这一项目之所以能够吸引大量的加密资产锁仓，其实主要是因为它的链上生态非常的繁荣。去年9月该项目的主网Arbitrum One就上线了，而自此以后，以太坊Layer 1主网上的顶级DeFi协议纷纷在Arbitrum One上进行了整合部署，还有一些知名DeFi应用的开发者也对Arbitrum项目的扩容方案非常看好。Rollup技术是该项目，绕不开的核心，所以Arbitrum保留了这一技术。
+
+如有不明白或者不清楚的地方，请加入官方电报群：[**https://t.me/gtokentool**](https://t.me/gtokentool)
