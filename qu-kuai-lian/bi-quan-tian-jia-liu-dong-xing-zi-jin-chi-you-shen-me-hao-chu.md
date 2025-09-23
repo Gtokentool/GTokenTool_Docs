@@ -1,6 +1,6 @@
 # 币圈添加流动性资金池有什么好处？
 
-流动性对于加密原生金融市场的成功至关重要，以太坊和去中心化金融(DeFi)中最有前途的发展之一是流动资金池，它可以纯粹通过代码为资本提供者自动回报。例如，向[Uniswap](../uniswap-tian-jia-liu-dong-xing-jiao-cheng.md)或[Balancer](balancer-tian-jia-liu-dong-xing-shan-chu-liu-dong-xing-jiao-cheng.md)等[DeFi](shen-me-shi-defi-you-na-xie-you-shi-yu-te-dian.md)代币交易所添加抵押品，仅通过将资金存入区块链编程就可以为提供商赚取费用，并以治理代币的形式获得这些项目的潜在股权，这些创新使格言栩栩如生，让金钱机器人通过智能合约完成剩下的工作。那么究竟币圈[添加流动性](tian-jia-liu-dong-xing-shi-shen-me-yi-si.md)资金池有什么好处？
+流动性对于加密原生金融市场的成功至关重要，以太坊和去中心化金融(DeFi)中最有前途的发展之一是流动资金池，它可以纯粹通过代码为资本提供者自动回报。例如，向[Uniswap](../uniswap-add-liquidity.md)或[Balancer](balancer-tian-jia-liu-dong-xing-shan-chu-liu-dong-xing-jiao-cheng.md)等[DeFi](shen-me-shi-defi-you-na-xie-you-shi-yu-te-dian.md)代币交易所添加抵押品，仅通过将资金存入区块链编程就可以为提供商赚取费用，并以治理代币的形式获得这些项目的潜在股权，这些创新使格言栩栩如生，让金钱机器人通过智能合约完成剩下的工作。那么究竟币圈[添加流动性](tian-jia-liu-dong-xing-shi-shen-me-yi-si.md)资金池有什么好处？
 
 下面就让[**GTokenTool**](https://docs.gtokentool.com)小编为大家详细介绍一下。
 

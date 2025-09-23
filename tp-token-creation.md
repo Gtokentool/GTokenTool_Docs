@@ -5,7 +5,7 @@ icon: phone-arrow-up-right
 
 # TP手机发币教程
 
-## 1打开TP钱包（或者欧意web3钱包），切换您要发布的链，点击发现
+## 1. 打开TP钱包（或者欧意web3钱包），切换您要发布的链，点击发现
 
 (1)如果没有TP钱包，可在官网中下载：[https://www.tokenpocket.pro/](https://www.tokenpocket.pro/)
 

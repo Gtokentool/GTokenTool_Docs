@@ -26,7 +26,7 @@
 
 ### 4、例子
 
-[Uniswap](../uniswap-tian-jia-liu-dong-xing-jiao-cheng.md)、[SushiSwap](../solana-basic/sushiswap.md)等是知名的去中心化交易平台，它们通过资金池模型实现了用户之间的直接交易。
+[Uniswap](../uniswap-add-liquidity.md)、[SushiSwap](../solana-basic/sushiswap.md)等是知名的去中心化交易平台，它们通过资金池模型实现了用户之间的直接交易。
 
 比特币挖矿是最早的挖矿形式，以保障比特币网络的安全性和运行。
 

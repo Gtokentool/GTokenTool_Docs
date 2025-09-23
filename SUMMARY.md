@@ -1,36 +1,36 @@
 # Table of contents
 
 * [GTokenTool一键发币](README.md)
-* [TP手机发币教程](tp-shou-ji-fa-bi-jiao-cheng.md)
-* [联系我们](lian-xi-wo-men.md)
-* [代币怎么上头像logo？](dai-bi-zen-me-shang-tou-xiang-logo.md)
-* [域名解析教程](yu-ming-jie-xi-jiao-cheng.md)
-* [Uniswap添加流动性教程](uniswap-tian-jia-liu-dong-xing-jiao-cheng.md)
-* [服务费用](fu-wu-fei-yong.md)
+* [TP手机发币教程](tp-token-creation.md)
+* [联系我们](contact.md)
+* [代币怎么上头像logo？](upload-logo.md)
+* [域名解析教程](domain-name-resolution.md)
+* [Uniswap添加流动性教程](uniswap-add-liquidity.md)
+* [服务费用](service-fee.md)
 
-## 第三方支付
+## 第三方支付 <a href="#third-party-payment" id="third-party-payment"></a>
 
-* [开户](di-san-fang-zhi-fu/kai-hu.md)
-* [登录商户订单管理](di-san-fang-zhi-fu/deng-lu-shang-hu-ding-dan-guan-li.md)
-* [补发回调](di-san-fang-zhi-fu/bu-fa-hui-tiao.md)
-* [重置私钥](di-san-fang-zhi-fu/zhong-zhi-si-yao.md)
-* [接入第三方支付](di-san-fang-zhi-fu/jie-ru-di-san-fang-zhi-fu.md)
+* [开户](third-party-payment/create-account.md)
+* [登录商户订单管理](third-party-payment/order-management.md)
+* [补发回调](third-party-payment/reissue-callback.md)
+* [重置私钥](third-party-payment/reset-private-key.md)
+* [接入第三方支付](third-party-payment/access-third-party-payment.md)
 
 ## Soon svmBNB
 
-* [svmBNB适配钱包安装与使用](soon-svmbnb/svmbnb-shi-pei-qian-bao-an-zhuang-yu-shi-yong.md)
-* [svmBNB一键创建代币教程](soon-svmbnb/svmbnb-yi-jian-chuang-jian-dai-bi-jiao-cheng.md)
+* [svmBNB适配钱包安装与使用](soon-svmbnb/installation-and-usage-of-svmbnb-compatible-wallets.md)
+* [svmBNB一键创建代币教程](soon-svmbnb/svmbnb-token-creation.md)
 
-## 捆绑节点租借
+## 捆绑节点租借 <a href="#bundled-node-rental" id="bundled-node-rental"></a>
 
-* [注册 ApiKey](kun-bang-jie-dian-zu-jie/zhu-ce-apikey.md)
-* [节点的使用](kun-bang-jie-dian-zu-jie/jie-dian-de-shi-yong.md)
-* [币安捆绑服务使用对接教程](kun-bang-jie-dian-zu-jie/bi-an-kun-bang-fu-wu-shi-yong-dui-jie-jiao-cheng.md)
+* [注册 ApiKey](bundled-node-rental/register-apikey.md)
+* [节点的使用](bundled-node-rental/usage-of-nodes.md)
+* [币安捆绑服务使用对接教程](bundled-node-rental/binance-bundled-services-technical-integration.md)
 
 ## SVMBNB
 
-* [创建代币](svmbnb/chuang-jian-dai-bi/README.md)
-  * [SVMBNB一键发币教程](svmbnb/chuang-jian-dai-bi/svmbnb-yi-jian-fa-bi-jiao-cheng.md)
+* [创建代币](svmbnb/token-creation/README.md)
+  * [SVMBNB一键发币教程](svmbnb/token-creation/svmbnb-token-creation.md)
 
 ## Solana
 
