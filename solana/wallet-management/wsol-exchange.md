@@ -15,7 +15,7 @@ icon: right-left
 
 ### 1. 连接钱包
 
-WSOL兑换：[https://sol.gtokentool.com/zh-CN/walletManagement/relayTransfer](https://sol.gtokentool.com/zh-CN/walletManagement/relayTransfer)
+WSOL兑换：[https://sol.gtokentool.com/zh-CN/walletManagement/WSOL](https://sol.gtokentool.com/zh-CN/walletManagement/WSOL)
 
 进入WSOL兑换页面，右上角支持切换成中文。选择 Main 网络并连接钱包。
 
