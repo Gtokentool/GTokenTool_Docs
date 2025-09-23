@@ -85,6 +85,7 @@
   * [Solana迁移资产教程](solana/wallet-management/migrate-assets.md)
   * [Solana一键清仓教程](solana/wallet-management/swap-all-wallet-tokens.md)
   * [SOL中转转账教程](solana/wallet-management/sol-relay-transfer.md)
+  * [WSOL兑换教程](solana/wallet-management/wsol-dui-huan-jiao-cheng.md)
 * [流动性管理](solana/liquidity-management/README.md)
   * [OpenBook市场ID创建教程](solana/liquidity-management/openbook-market-id-creation.md)
   * [🔍 OpenBook Market ID查询教程](solana/liquidity-management/openbook-market-id-query.md)
