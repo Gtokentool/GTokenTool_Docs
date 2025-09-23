@@ -4,7 +4,7 @@ Sui代币作为Sui Network的原生加密货币，在网络生态系统中发挥
 
 ## 准备事项
 
-1. 安装好Suiet钱包或者SuiWallet插件：[Suiet钱包安装](suiet-installation.md)、[Suiwallet钱包安装](sui-wallet-installation.md)
+1. 安装好Suiet钱包或者SuiWallet插件：[Suiet钱包安装](suiet-qian-bao-an-zhuang-jiao-cheng.md)、[Suiwallet钱包安装](sui-wallet-qian-bao-an-zhuang-shi-yong-jiao-cheng.md)
 2. 如果没有安装这两个钱包，欧易Web3钱包也是支持的
 3. 钱包内最少准备11个SUI，如果数量不够，会导致发币失败
 4. 手机发币建议使用欧易Web3钱包，不要用TP钱包，TP不能传logo
