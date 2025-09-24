@@ -85,7 +85,7 @@ SOL中转转账：[https://sol.gtokentool.com/zh-CN/walletManagement/relayTransf
 
 转账完成会显示最后一次转账的哈希，可以点击哈希值去查看交易。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-09-06_10-51-25.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-09-24_13-38-25.png" alt=""><figcaption></figcaption></figure>
 
 [_**GTokenTool | 创建代币、批量空投和做市机器人等Solana工具集**_](https://sol.gtokentool.com)
 
