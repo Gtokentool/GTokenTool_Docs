@@ -18,23 +18,24 @@ icon: comment-dollar
 * [黑洞分红](https://www.gtokentool.com/tokenfactory)：0.25%交易手续费
 * [ERC404](https://www.gtokentool.com/tokenfactory)：0.06 BNB
 * [ERC314](https://www.gtokentool.com/tokenfactory)：0.08 BNB
-* [创建NFT](https://www.gtokentool.com/createnft?chainId=97)：0.01 BNB
+* [创建NFT](https://www.gtokentool.com/createnft?chainId=97)：0.06 BNB
 * [创建挖矿](https://www.gtokentool.com/mining?chainId=97)：0.3 BNB
 * [创建质押NFT](https://www.gtokentool.com/pledgeNFT?chainId=97)：0.3 BNB
 * [NFT铸造](https://www.gtokentool.com/tokencreatenft)：2%手续费
-* [创建符文](https://www.gtokentool.com/createInscription)：0.02+2%手续费
-* [创建IDO](https://www.gtokentool.com/idov2)：0.01+2%手续费
+* [创建符文](https://www.gtokentool.com/createInscription)：2%手续费
+* [创建IDO](https://www.gtokentool.com/idov2)：0.01 BNB + 2%手续费
 * [市值会员开通](https://www.gtokentool.com/bot?chainId=97)：日卡（0.2 BNB); 周卡（0.3 BNB); 月卡（0.6 BNB）；10个月会员（5 BNB); 永久卡（私聊管理员）
 * [市值机器人](https://robotv2.gtokentool.com/#/marketbot)：开会员使用
-* [FOUR创建并捆绑买入](https://www.gtokentool.com/bundle?chainId=97)：阶梯收费低至0.01 BNB/地址（10个（包含10个）及以下地址0.03 BNB/每地址，10个以上仅需0.01 BNB/地址）
-* [创建流动性并买入](https://www.gtokentool.com/createLiquidityAndBuy?chainId=97)：0.02 BNB/Address
+* [FOUR创建并捆绑买入](https://www.gtokentool.com/bundle?chainId=97)：阶梯收费低至0.005 BNB/地址（10个（包含10个）及以下地址0.03 BNB/每地址，10个以上仅需0.005 BNB/地址）
+* [创建流动性并买入](https://www.gtokentool.com/createLiquidityAndBuy?chainId=97)：0.005 BNB/Address
 * [FOUR一键卖出](https://www.gtokentool.com/FourSell?chainId=97)：阶梯收费低至0.015 BNB/地址（10个以下地址0.02 BNB/地址，10个钱包以上0.015 BNB/地址）
-* [批量发送代币](https://www.gtokentool.com/sendertoken?chainId=97)：免费
+* [批量发送代币](https://www.gtokentool.com/sendertoken?chainId=97)：0.02 BNB
+* [增加持币地址](https://www.gtokentool.com/increaseAddr?chainId=97)：0.02 BNB
 * [批量发送NFT](https://www.gtokentool.com/sendernft?chainId=97)：免费
 * [查询余额](https://www.gtokentool.com/batchCheckBalance?chainId=97)：免费
 * [批量归集](https://robotv2.gtokentool.com/#/collect)：免费
-* [增加持币地址](https://www.gtokentool.com/increaseAddr?chainId=97)：免费
 * [批量上传图片](https://www.gtokentool.com/uploadImage?chainId=97)：免费
+* [批量生成钱包](https://robotv2.gtokentool.com/#/createwallet)：免费
 
 ### 以太坊
 
@@ -144,12 +145,14 @@ icon: comment-dollar
 * [批量转代币](https://sol.gtokentool.com/zh-CN/batchTool/batchTransfer/Token)：0.004 SOL/每笔交易
 * [多对多转账](https://sol.gtokentool.com/zh-CN/batchTool/batchTransfer/ManyToManyTransfer)：0.001 SOL
 * [批量归集](https://sol.gtokentool.com/zh-CN/batchTool/gather)：0.0005 SOL/Address
-* [SOL中转转账](https://sol.gtokentool.com/zh-CN/batchTool/relayTransfer)：每中转100个地址仅需 0.01 SOL
 * [批量生成钱包](https://sol.gtokentool.com/zh-CN/walletManagement/batchCreateWallet)：免费
 * [靓号钱包](https://sol.gtokentool.com/zh-CN/walletManagement/LiangHao)：免费
 * [迁移资产](https://sol.gtokentool.com/zh-CN/walletManagement/migrateAssets)：0.001 SOL
 * [租金回收](https://sol.gtokentool.com/zh-CN/walletManagement/rentRecovery)：5%手续费
 * [批量租金回收](https://sol.gtokentool.com/zh-CN/walletManagement/batchRentRecovery)：5%手续费
+* [一键清仓](https://sol.gtokentool.com/zh-CN/walletManagement/swapWalletAllToken)：1%手续费
+* [SOL中转转账](https://sol.gtokentool.com/zh-CN/batchTool/relayTransfer)：每中转100个地址仅需 0.01 SOL
+* [WSOL兑换](https://sol.gtokentool.com/zh-CN/walletManagement/WSOL)：限时免费
 * [创建市场ID](https://sol.gtokentool.com/zh-CN/liquidityManagement/createMarket)：0.06 SOL
 * [查询市场ID](https://sol.gtokentool.com/zh-CN/liquidityManagement/searchId)：免费
 * [创建流动性](https://sol.gtokentool.com/zh-CN/liquidityManagement/CreatePool)：0.08 SOL/Address

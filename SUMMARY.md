@@ -84,6 +84,8 @@
   * [🗑️ Solana批量租金回收教程](solana/wallet-management/rent-bulk-withdrawal.md)
   * [Solana迁移资产教程](solana/wallet-management/migrate-assets.md)
   * [SOL中转转账教程](solana/wallet-management/sol-relay-transfer.md)
+  * [Solana一键清仓教程](solana/wallet-management/swap-all-wallet-tokens.md)
+  * [WSOL兑换教程](solana/wallet-management/wsol-exchange.md)
 * [流动性管理](solana/liquidity-management/README.md)
   * [OpenBook市场ID创建教程](solana/liquidity-management/openbook-marketplace-id-creation.md)
   * [🔍 OpenBook Market ID查询教程](solana/liquidity-management/openbook-market-id-query.md)
