@@ -19,7 +19,7 @@ Four.Meme 是BSC 上首个Meme 代币公平发布平台，旨在为部署者和�
 ## **如何使用FOUR创建并捆绑买入工具**
 
 1. 连接钱包
-2. logo 支持的文件类型：JPG、PNG、GIF、SVG、WEBM、WAV、OGG、GLB、GLTF。<mark style="color:orange;">图片最大不能超过1M</mark>
+2. logo 支持的文件类型：JPG、PNG、GIF、SVG、WEBM、WAV、OGG、GLB、GLTF。<mark style="color:red;">图片最大不能超过1M</mark>
 3. 代币名称 必须是英文
 4. 代币简称 必须是 英文
 5. 描述
@@ -59,7 +59,7 @@ logo：图片最大不能超过1M
 
 <figure><img src="../.gitbook/assets/Snipaste_2025-03-24_10-41-18.png" alt=""><figcaption></figcaption></figure>
 
-### 第3步，添加选填信息，选择标签
+### 第3步，添加选填信息
 
 网站：不填
 
@@ -67,9 +67,7 @@ logo：图片最大不能超过1M
 
 电报：不填
 
-标签：默认
-
-<figure><img src="../.gitbook/assets/Snipaste_2025-03-24_10-55-47.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-10-10_16-24-52.png" alt=""><figcaption></figcaption></figure>
 
 ### 第4步，导入小号
 
