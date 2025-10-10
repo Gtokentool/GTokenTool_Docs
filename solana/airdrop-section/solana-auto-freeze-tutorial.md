@@ -1,6 +1,6 @@
 ---
 description: 黑名单功能升级版，根据自定义参数配置，自动禁止某些帐户执行如发送交易等特定操作，有助于防止恶意机器人行为对资产造成损害。
-icon: file-lock
+icon: user-lock
 ---
 
 # Solana自动冻结教程
@@ -39,11 +39,11 @@ icon: file-lock
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-09-05_13-55-37.png" alt=""><figcaption></figcaption></figure>
 
-### 6. 冻结条件设置（可选）
+### 6. 触发条件设置（可选）
 
-默认全部冻结，可对USDC买入数量和代币买入数量进行条件设置。
+默认全部触发，可对USDC买入数量和代币买入数量进行条件设置。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-09-05_14-06-16.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-10-10_10-34-05.png" alt=""><figcaption></figcaption></figure>
 
 ### 7. 冻结白名单（可选）
 
@@ -96,7 +96,7 @@ icon: file-lock
 
 ### 12. 取消监控
 
-若要补充代币，请先关闭跟踪。点击“`停止选中`”可以关闭监控。日志中会显示代币已取消监控。代币状态会变回未激活。
+若要补充代币或者修改触发条件，请先关闭跟踪。点击“`停止选中`”可以关闭监控。日志中会显示代币已取消监控。代币状态会变回未激活。
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-09-05_14-18-50.png" alt=""><figcaption></figcaption></figure>
 

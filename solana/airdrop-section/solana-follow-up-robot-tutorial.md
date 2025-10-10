@@ -35,7 +35,15 @@ icon: camera-cctv
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-08-23_14-35-28.png" alt=""><figcaption></figcaption></figure>
 
-#### 4. 新增代币
+#### 4. 触发条件设置（可选）
+
+由于交易所本身收取费用，因此实际设置值要比期望值小一点。
+
+默认全部触发，可对USDC买入数量和代币买入数量进行条件设置。
+
+<figure><img src="../../.gitbook/assets/Snipaste_2025-10-10_10-30-04.png" alt=""><figcaption></figcaption></figure>
+
+#### 5. 新增代币
 
 点击“`新增代币`”，添加需要监控的代币。
 
@@ -50,7 +58,7 @@ icon: camera-cctv
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-08-23_14-45-43.png" alt=""><figcaption></figcaption></figure>
 
-#### 5. 导入钱包
+#### 6. 导入钱包
 
 点击“`导入钱包`”，添加代币所属的钱包。<mark style="color:purple;">注意：导入钱包的顺序要与监控的代币一致。</mark>
 
@@ -60,7 +68,7 @@ icon: camera-cctv
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-08-23_14-47-18.png" alt=""><figcaption></figcaption></figure>
 
-#### 6. 选择要监控的代币并点击“运行选中”
+#### 7. 选择要监控的代币并点击“运行选中”
 
 先勾选钱包，再选择要监控的代币，最后点击“`运行选中`”。
 
@@ -74,7 +82,7 @@ icon: camera-cctv
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-08-23_14-48-49.png" alt=""><figcaption></figcaption></figure>
 
-#### 7. 等待其他人的买入操作，机器人会自动卖出代币
+#### 8. 等待其他人的买入操作，机器人会自动卖出代币
 
 可以在日志中查看到交易哈希，复制哈希值后可在[区块链浏览器](https://solscan.io/)上查看交易记录。
 
@@ -98,7 +106,15 @@ icon: camera-cctv
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-08-23_14-43-59.png" alt=""><figcaption></figcaption></figure>
 
-#### 4. 新增代币
+#### 4. 触发条件设置（可选）
+
+由于交易所本身收取费用，因此实际设置值要比期望值小一点。
+
+默认全部触发，可对USDC买入数量和代币买入数量进行条件设置。
+
+<figure><img src="../../.gitbook/assets/Snipaste_2025-10-10_10-30-04.png" alt=""><figcaption></figcaption></figure>
+
+#### 5. 新增代币
 
 点击“`新增代币`”，添加需要监控的代币。
 
@@ -113,7 +129,7 @@ icon: camera-cctv
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-08-23_14-37-17.png" alt=""><figcaption></figcaption></figure>
 
-#### 5. 导入钱包
+#### 6. 导入钱包
 
 点击“`导入钱包`”，添加代币所属的钱包。<mark style="color:purple;">注意：导入钱包的顺序要与监控的代币一致。</mark>
 
@@ -123,7 +139,7 @@ icon: camera-cctv
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-08-23_14-41-36.png" alt=""><figcaption></figcaption></figure>
 
-#### 6. 选择要监控的代币并点击“运行选中”
+#### 7. 选择要监控的代币并点击“运行选中”
 
 先勾选钱包，再选择要监控的代币，最后点击“`运行选中`”。
 
@@ -137,7 +153,7 @@ icon: camera-cctv
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-08-23_14-42-20.png" alt=""><figcaption></figcaption></figure>
 
-#### 7. 等待其他人的买入操作，机器人会自动卖出代币
+#### 8. 等待其他人的买入操作，机器人会自动卖出代币
 
 可以在日志中查看到交易哈希，复制哈希值后可在[区块链浏览器](https://solscan.io/)上查看交易记录。
 
@@ -149,7 +165,7 @@ icon: camera-cctv
 
 ### 4. 取消监控
 
-若要补充代币，请先关闭跟踪。点击“`停止选中`”可以关闭监控。日志中会显示代币已取消监控。代币状态会变回未激活。
+若要补充代币或者修改触发条件，请先关闭跟踪。点击“`停止选中`”可以关闭监控。日志中会显示代币已取消监控。代币状态会变回未激活。
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-07-18_11-53-09.png" alt=""><figcaption></figcaption></figure>
 
