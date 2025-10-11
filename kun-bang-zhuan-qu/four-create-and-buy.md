@@ -16,16 +16,6 @@ icon: link
 
 Four.Meme 是BSC 上首个Meme 代币公平发布平台，旨在为部署者和投资者提供一种无缝且低成本的启动Meme 代币的方式。 其核心功能是帮助用户创建和发行Meme 代币。
 
-## **如何使用FOUR创建并捆绑买入工具**
-
-1. 连接钱包
-2. logo 支持的文件类型：JPG、PNG、GIF、SVG、WEBM、WAV、OGG、GLB、GLTF。<mark style="color:red;">图片最大不能超过1M</mark>
-3. 代币名称（支持中文）
-4. 代币简称（支持中文）
-5. 描述
-6. 选填信息
-7. 买入金额
-
 ## **准备事项**
 
 1. 一台电脑或者一部手机
@@ -37,39 +27,35 @@ Four.Meme 是BSC 上首个Meme 代币公平发布平台，旨在为部署者和�
 
 ### 第1步，连接钱包
 
-进入页面：[https://www.gtokentool.com/bundle](https://www.gtokentool.com/bundle)，点击右上角，连接[小狐狸钱包](../fu-zhu-xin-xi/metamask-installation.md)，并切换到主网。
+进入页面：[https://www.gtokentool.com/bundle](https://www.gtokentool.com/bundle)，点击右上角，连接[小狐狸钱包](../fu-zhu-xin-xi/metamask-installation.md)，并切换到币安链主网。完成后，会看到 “链名称” 和 您的“钱包地址” ，如下图：
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-03-24_10-29-58.png" alt=""><figcaption></figcaption></figure>
-
-完成后，会看到 “链名称” 和 您的“钱包地址” ，如下图：
-
-<figure><img src="../.gitbook/assets/Snipaste_2025-03-24_10-37-50.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-10-11_10-44-54.png" alt=""><figcaption></figcaption></figure>
 
 ### 第2步，填写信息并上传图片
 
-假设我们创建一个代币名称为GTokenTool的代币，填写信息如下：
+假设我们创建一个代币名称为GTokenTool一键发币的代币，填写信息如下：
 
-logo：图片最大不能超过1M
+Logo：图片最大不能超过1M
 
-代币名称：GTokenTool
+代币名称：GTokenTool一键发币
 
-代币简称：GTT&#x20;
+代币简称：一键发币
 
-描述：good job
+描述：GTokenTool——全网最强发币平台
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-03-24_10-41-18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-10-11_10-25-06.png" alt=""><figcaption></figcaption></figure>
 
-### 第3步，添加选填信息
+### 第3步，选择募捐币种
 
-网站：不填
+这里我选择BNB，也可以选择其他的币种（USDT、USD1、BUSD、DOGE、FIST）。
 
-推特：不填
+<figure><img src="../.gitbook/assets/Snipaste_2025-10-11_10-30-16.png" alt=""><figcaption></figcaption></figure>
 
-电报：不填
+### 第4步，添加联系方式（选填）
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-10-10_16-24-52.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-10-11_10-33-08.png" alt=""><figcaption></figcaption></figure>
 
-### 第4步，导入小号
+### 第5步，导入钱包
 
 手动复制填写，一行一个。
 
@@ -82,17 +68,21 @@ logo：图片最大不能超过1M
 * <mark style="color:red;">建议您在使用涉及私钥的功能后，及时更换钱包。</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-03-24_10-58-47.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-10-11_10-42-48.png" alt=""><figcaption></figcaption></figure>
 
-### 第5步，设置自动添加买入金额，点击“创建”
+### 第6步，设置买入金额
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-03-24_11-03-26.png" alt=""><figcaption></figcaption></figure>
+可单独设置，也可批量添加。
 
-创建成功后，下方会显示代币地址，可点击代币地址查看代币信息。
+<figure><img src="../.gitbook/assets/Snipaste_2025-10-11_10-35-54.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-03-24_11-06-00.png" alt=""><figcaption></figcaption></figure>
+### 第7步，点击“创建”
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-03-24_11-08-37.png" alt=""><figcaption></figcaption></figure>
+点击“创建”，等待一会。创建成功后，下方会显示代币地址，可点击代币地址查看代币信息。
+
+<figure><img src="../.gitbook/assets/Snipaste_2025-10-11_10-37-29.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Snipaste_2025-10-11_10-38-32.png" alt=""><figcaption></figcaption></figure>
 
 这样Four.meme整个流程就结束了，后面大家就可以自行操作啦！
 
