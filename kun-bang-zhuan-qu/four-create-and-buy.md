@@ -16,6 +16,10 @@ icon: link
 
 Four.Meme 是BSC 上首个Meme 代币公平发布平台，旨在为部署者和投资者提供一种无缝且低成本的启动Meme 代币的方式。 其核心功能是帮助用户创建和发行Meme 代币。
 
+## 视频教程
+
+{% embed url="https://youtu.be/Z6dwlMSAwb0?si=6PkKVAq0GoyS4xI9" %}
+
 ## **准备事项**
 
 1. 一台电脑或者一部手机
