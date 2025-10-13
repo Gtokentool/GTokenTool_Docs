@@ -219,7 +219,7 @@
 * [4️⃣ 批量上传图片](kuai-jie-gong-ju/upload-images.md)
 * [5️⃣ 合约靓号工具](kuai-jie-gong-ju/vanity-address-generator.md)
 * [6️⃣ 批量兑换(Swap)](kuai-jie-gong-ju/batch-swap.md)
-* [7️⃣ 代币快照使用教程](kuai-jie-gong-ju/dai-bi-kuai-zhao-shi-yong-jiao-cheng.md)
+* [7️⃣ 批量检查钱包余额](kuai-jie-gong-ju/check-balance.md)
 
 ## 辅助信息
 
