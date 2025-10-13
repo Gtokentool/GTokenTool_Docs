@@ -42,7 +42,7 @@
 
 ### 6. 点击“查询”
 
-点击“查询”后，下方显示对应钱包里的代币余额。
+点击“查询”后，下方会显示对应钱包里的代币余额。
 
 <figure><img src="../.gitbook/assets/Snipaste_2025-10-13_13-34-30.png" alt=""><figcaption></figcaption></figure>
 
