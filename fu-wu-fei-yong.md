@@ -17,20 +17,20 @@ icon: comment-dollar
 * [NFT分红](https://www.gtokentool.com/tokenfactory)：0.06 BNB
 * [黑洞分红](https://www.gtokentool.com/tokenfactory)：0.25%交易手续费
 * [ERC404](https://www.gtokentool.com/tokenfactory)：0.06 BNB
-* [ERC314](https://www.gtokentool.com/tokenfactory)：0.08 BNB
+* [ERC314](https://www.gtokentool.com/tokenfactory)：0.06 BNB
 * [创建NFT](https://www.gtokentool.com/createnft?chainId=97)：0.06 BNB
 * [创建挖矿](https://www.gtokentool.com/mining?chainId=97)：0.3 BNB
 * [创建质押NFT](https://www.gtokentool.com/pledgeNFT?chainId=97)：0.3 BNB
 * [NFT铸造](https://www.gtokentool.com/tokencreatenft)：2%手续费
 * [创建符文](https://www.gtokentool.com/createInscription)：2%手续费
 * [创建IDO](https://www.gtokentool.com/idov2)：0.01 BNB + 2%手续费
-* [市值会员开通](https://www.gtokentool.com/bot?chainId=97)：日卡（0.2 BNB); 周卡（0.3 BNB); 月卡（0.6 BNB）；10个月会员（5 BNB); 永久卡（私聊管理员）
+* [市值会员开通](https://www.gtokentool.com/bot?chainId=97)：日卡（0.2 BNB); 周卡（0.3 BNB); 月卡（0.6 BNB）；年卡（3 BNB); 永久卡（私聊管理员）
 * [市值机器人](https://robotv2.gtokentool.com/#/marketbot)：开会员使用
 * [FOUR创建并捆绑买入](https://www.gtokentool.com/bundle?chainId=97)：阶梯收费低至0.005 BNB/地址（10个（包含10个）及以下地址0.03 BNB/每地址，10个以上仅需0.005 BNB/地址）
 * [创建流动性并买入](https://www.gtokentool.com/createLiquidityAndBuy?chainId=97)：0.005 BNB/Address
 * [FOUR一键卖出](https://www.gtokentool.com/FourSell?chainId=97)：阶梯收费低至0.015 BNB/地址（10个以下地址0.02 BNB/地址，10个钱包以上0.015 BNB/地址）
 * [批量发送代币](https://www.gtokentool.com/sendertoken?chainId=97)：0.02 BNB
-* [增加持币地址](https://www.gtokentool.com/increaseAddr?chainId=97)：0.02 BNB
+* [增加持币地址](https://www.gtokentool.com/increaseAddr?chainId=97)：0.01 BNB
 * [批量发送NFT](https://www.gtokentool.com/sendernft?chainId=97)：免费
 * [查询余额](https://www.gtokentool.com/batchCheckBalance?chainId=97)：免费
 * [批量归集](https://robotv2.gtokentool.com/#/collect)：免费
@@ -122,6 +122,7 @@ icon: comment-dollar
 
 * [跟卖机器人](https://sol.gtokentool.com/zh-CN/airdropSection/ReTran)：5%手续费
 * [自动冻结](https://sol.gtokentool.com/zh-CN/airdropSection/AutoFreeze)：5%手续费
+* [便捷冻结](https://sol.gtokentool.com/zh-CN/airdropSection/ConvenientFreeze)：0.05 SOL
 * [创建预售](https://sol.gtokentool.com/zh-CN/presale/createPresale)：2%手续费
 * [创建代币](https://sol.gtokentool.com/zh-CN/Token/createToken)：0.08 SOL
 * [更新代币](https://sol.gtokentool.com/zh-CN/Token/management)：0.05 SOL
@@ -169,7 +170,7 @@ icon: comment-dollar
 * 天卡：0.2 BNB
 * 周卡：0.3 BNB
 * 月卡：0.6 BNB
-* 10月卡：5 BNB
+* 年卡：3 BNB
 * 永久卡：私聊
 
 如有不明白或者不清楚的地方，请加入官方电报群：[https://t.me/gtokentool](https://t.me/gtokentool)
