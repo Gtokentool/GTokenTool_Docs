@@ -16,11 +16,9 @@ NFT铸造指的是在区块链网络上初始创建一个非同质化代币的�
 
 进入创建页面：[https://www.gtokentool.com/tokencreatenft](https://www.gtokentool.com/tokencreatenft)，点击右上角，连接小狐狸钱包，并切换到主网（这里以BSC测试网为例)。
 
-<figure><img src="../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
-
 完成后，会看到您的 “链名称” 和 “钱包地址” ，如下图：
 
-<figure><img src="../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-10-24_11-12-33.png" alt=""><figcaption></figcaption></figure>
 
 ### (2) 输入信息
 
@@ -30,12 +28,12 @@ NFT铸造指的是在区块链网络上初始创建一个非同质化代币的�
 * NFT简称：G T
 * NFT描述：这是一个很棒的项目
 * NFT最大铸造数量：1000
-* 使用什么代币参与NFT铸造：TBNB
-* 需要多少 TBNB 铸造NFT：0.5
+* 参与铸造NFT代币：TBNB
+* 铸造NFT需 BNB：0.5
 
 输入完成后，点击 “提交” 按钮。
 
-<figure><img src="../.gitbook/assets/000 (8).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-10-24_11-17-20.png" alt=""><figcaption></figcaption></figure>
 
 ### (3) 完成
 

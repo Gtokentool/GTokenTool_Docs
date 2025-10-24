@@ -20,24 +20,24 @@ description: G TOKEN官网：https://www.gtokentool.com
 
 进入创建页面：[https://www.gtokentool.com/createInscription](https://www.gtokentool.com/createInscription)，点击右上角，连接小狐狸钱包，并切换到主网（这里以BSC测试网为例)。
 
-<figure><img src="../.gitbook/assets/image (211).png" alt=""><figcaption></figcaption></figure>
-
 完成后，会看到您的 “链名称” 和 “钱包地址” ，如下图：
 
-<figure><img src="../.gitbook/assets/image (212).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-10-24_10-30-12.png" alt=""><figcaption></figcaption></figure>
 
 ### (2) 输入信息
 
 假设我们创建一个符文，填写如下：
 
-* 代币地址：0x9cB153F97fBC6f9B34D6727E9a3F7efc7dF4120B
+* 代币地址：0x5B81C9bfFa3BF83D889809B97923aF76f5065b29
 * 单份价格：0.01
 * 单份数量：1
-* 收款地址：0x79ed12F5BCb78d05d38E4765C10CF87e2a673D42
+* 收款地址：0x85165281fF434E7971fA6e41d3EE03353AD2Cf0F
+* 总铸造份数：100
+* 单地址限铸：1
 
-输入完成后，点击 “创建” 按钮。
+输入完成后，点击 “确认创建” 按钮。
 
-<figure><img src="../.gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-10-24_10-34-19.png" alt=""><figcaption></figcaption></figure>
 
 ### (3) 完成
 

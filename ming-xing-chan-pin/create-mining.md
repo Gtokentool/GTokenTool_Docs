@@ -20,27 +20,27 @@ description: G TOKEN官网：https://www.gtokentool.com
 
 进入创建页面：[https://www.gtokentool.com/mining](https://www.gtokentool.com/mining)，点击右上角，连接小狐狸钱包，并切换到主网（这里以BSC测试网为例)。
 
-<figure><img src="../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
-
 完成后，会看到您的 “链名称” 和 “钱包地址” ，如下图：
 
-<figure><img src="../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-10-24_10-53-41.png" alt=""><figcaption></figcaption></figure>
 
 ### (2) 输入信息
 
 假设我们创建一个15天的质押挖矿，填写如下：
 
-* 开始时间：2024-05-15 09:30
-* 结束时间：2024-05-30 09:30
-* 质押代币或LP代币地址：0x947ab97A4059C79793E49232A69777D65288e217
-* 奖励代币：0x947ab97A4059C79793E49232A69777D65288e217
+* 开始：2024-10-24 11:00:00
+* 时长：15
+* 质押代币(LP代币)：0x5B81C9bfFa3BF83D889809B97923aF76f5065b29
+* 奖励代币：0x54E2294950B350e59Fa8fee5056811960623224d
+* 所有权地址：默认为钱包地址
 * 每日奖励数量：0.05
 * 最大质押数量：1000
+* 最小质押数量：100
 * 邀请奖励(%)：1
 
-输入完成后，点击 “创建” 按钮。
+输入完成后，点击 “确认创建” 按钮。
 
-<figure><img src="../.gitbook/assets/000 (4).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-10-24_11-02-29.png" alt=""><figcaption></figcaption></figure>
 
 ### (3) 完成
 

@@ -50,6 +50,16 @@ description: 在OKLink浏览器为X Layer代币开源
 
 ### 7. 选择对应参数
 
+是否优化：是
+
+优化：200
+
+是否基于IR：否
+
+开源许可类型：MIT License (MIT)
+
+虚拟机版本：default
+
 <figure><img src="../.gitbook/assets/Snipaste_2025-09-09_19-40-59.png" alt=""><figcaption></figcaption></figure>
 
 ### 8. 复制源码

@@ -16,25 +16,23 @@
 
 进入创建页面：[https://www.gtokentool.com/pledgeNFT](https://www.gtokentool.com/pledgeNFT)，点击右上角，连接小狐狸钱包，并切换到主网（这里以BSC测试网为例)。
 
-<figure><img src="../.gitbook/assets/image (359).png" alt=""><figcaption></figcaption></figure>
-
 完成后，会看到您的 “链名称” 和 “钱包地址” ，如下图：
 
-<figure><img src="../.gitbook/assets/image (358).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-10-24_13-15-34.png" alt=""><figcaption></figcaption></figure>
 
 ### (2) 输入信息
 
 假设我们创建一个15天的质押挖矿，填写如下：
 
-* 开始时间：2024-11-19 20:00
+* 开始时间：2025-10-24 14:00:00
 * 时长：15
-* 质押NFT：0x1d67be46d1334c670e7e4f62eb14a050bd29f7d8
-* 奖励代币：0x89614e3d77C00710C8D87aD5cdace32fEd6177Bd
+* 质押NFT：0x68689Ffeec81748b977aA9c62B5B7b3c60e853c1
+* 奖励代币：0x5B81C9bfFa3BF83D889809B97923aF76f5065b29
 * 每日奖励数量：10
 
-<figure><img src="../.gitbook/assets/image (360).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-10-24_13-18-37.png" alt=""><figcaption></figcaption></figure>
 
-输入完成后，点击 “创建” 按钮。
+输入完成后，点击 “确认创建” 按钮。
 
 ### (3) 完成
 

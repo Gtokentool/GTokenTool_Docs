@@ -16,30 +16,28 @@ IDO指的是代币的首次发行。运用所有用户的资源和注意力来�
 
 进入创建页面：[https://www.gtokentool.com/idov2](https://www.gtokentool.com/idov2)，点击右上角，连接小狐狸钱包，并切换到主网（这里以BSC测试网为例)。
 
-<figure><img src="../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
-
 完成后，会看到您的 “链名称” 和 “钱包地址” ，如下图：
 
-<figure><img src="../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-10-24_10-43-52.png" alt=""><figcaption></figcaption></figure>
 
 ### (2) 输入信息
 
 假设我们创建一个为期30天的IDO， 填写如下：
 
-* 启动时间：2024-05-09 09:30
-* 结束时间：2024-05-09 09:30
-* 使用什么参与IDO：TBNB
-* 最低购买TBNB 数量：0.01
-* 最高购买TBNB 数量：0.2
-* 1TBNB = 10000  代币
+* 开始时间：2025-10-24 11:00:00
+* 结束时间：2025-11-23 11:00:00
+* 参与IDO代币：BNB
+* 最低购买BNB 数量：0.01
+* 最高购买BNB 数量：0.2
+* 1 BNB = 10000  代币
 * 推荐奖励类型：奖励BNB
 * 推广奖励\
   1 级奖励 %：2
-* 收款地址：0x46ed16F6BCb78d05d38E4765C10CF89e2a542D43
+* 收款地址：0x85165281fF434E7971fA6e41d3EE03353AD2Cf0F
 
 输入完成后，点击“确定”。
 
-<figure><img src="../.gitbook/assets/000 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-10-24_10-48-44.png" alt=""><figcaption></figcaption></figure>
 
 ### (3) 完成
 

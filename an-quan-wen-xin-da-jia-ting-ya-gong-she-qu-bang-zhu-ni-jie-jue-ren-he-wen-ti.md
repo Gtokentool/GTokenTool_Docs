@@ -87,6 +87,6 @@ description: 在我们的社区咨询和学习任何有关区块链问题
 
 ## 渠道
 
-<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Snipaste_2025-10-24_13-58-46.png" alt="" width="438"><figcaption></figcaption></figure>
 
-社区连接 ： [https://t.me/+P3Z7P\_xQxbNlZWZl](https://t.me/+P3Z7P_xQxbNlZWZl)
+社区链接 ： [https://t.me/gtokentool](https://t.me/gtokentool)
