@@ -1,0 +1,60 @@
+---
+description: 根据自定义参数配置，禁止某些帐户执行如发送交易等特定操作，有助于防止恶意机器人行为对资产造成损害。
+icon: user-lock
+---
+
+# 便捷冻结教程
+
+## 准备事项 <a href="#zhun-bei-shi-xiang" id="zhun-bei-shi-xiang"></a>
+
+1. 一台电脑或者一部手机
+2. Solana 钱包（[幻影钱包Phantom安装教程](https://docs.gtokentool.com/solana/auxiliary-tutorial/phantom-wallet-installation)）
+3. 代币地址以及要拉黑的钱包地址
+4. 请确保连接钱包有足够的 SOL&#x20;
+
+## Solana便捷冻结具体操作流程
+
+### 1. 连接钱包
+
+进入Solana便捷冻结页面：[https://sol.gtokentool.com/zh-CN/airdropSection/ConvenientFreeze](https://sol.gtokentool.com/zh-CN/airdropSection/ConvenientFreeze)，右上角点击连接钱包并选择 Main 网络，这里用测试网演示。
+
+<figure><img src="../../.gitbook/assets/Snipaste_2025-10-27_14-28-41.png" alt=""><figcaption></figcaption></figure>
+
+### 2. 输入代币地址
+
+输入代币地址后，会显示代币简称以及权限地址是否与连接钱包相符。
+
+<figure><img src="../../.gitbook/assets/Snipaste_2025-10-27_14-30-42.png" alt=""><figcaption></figcaption></figure>
+
+### 3. 输入要拉黑的地址
+
+输入要拉黑的地址后，会显示拉黑地址的持币量。
+
+<figure><img src="../../.gitbook/assets/Snipaste_2025-10-27_14-43-55.png" alt=""><figcaption></figcaption></figure>
+
+### 4. 点击“冻结”
+
+弹出钱包后点击"确认“，冻结成功后会弹出成功提示。
+
+<figure><img src="../../.gitbook/assets/Snipaste_2025-10-27_14-44-11.png" alt=""><figcaption></figcaption></figure>
+
+[_**GTokenTool | 创建代币、批量空投和做市机器人等Solana工具集**_](https://sol.gtokentool.com)
+
+**安全、开源，给Solana用户带来最便利的一站式体验。**
+
+
+
+GTokenTool社群:
+
+Telegram：[**https://t.me/gtokentool**](https://t.me/gtokentool)
+
+Twitter:  [**https://x.com/gtokentool**](https://x.com/gtokentool)
+
+Gitbook：[**https://docs.gtokentool.com/**](https://docs.gtokentool.com/)
+
+Github：[**https://github.com/Gtokentool/docs/blob/master/SUMMARY.md**](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
+
+YouTube：[**https://www.youtube.com/@GTokenTool**](https://www.youtube.com/@GTokenTool)\
+\
+\
+<mark style="color:purple;background-color:orange;">**GTokenTool**</mark>_<mark style="color:purple;background-color:orange;">保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。以上信息内容仅供参考，GTokenTool对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。请谨慎投资。</mark>_

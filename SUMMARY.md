@@ -39,6 +39,7 @@
   * [Solana跟卖机器人教程](solana/airdrop-section/solana-follow-up-robot-tutorial.md)
   * [设置自动冻结播报教程](solana/airdrop-section/set-up-auto-freeze-broadcasts-tutorial.md)
   * [Solana自动冻结教程](solana/airdrop-section/solana-auto-freeze-tutorial.md)
+  * [便捷冻结教程](solana/airdrop-section/convenient-freeze.md)
 * [符文](solana/rune/README.md)
   * [⏰ Solana预售创建](solana/rune/pre-sale-creation.md)
 * [创建代币](solana/token-creation/README.md)
