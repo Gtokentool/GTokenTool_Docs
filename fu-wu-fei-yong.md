@@ -9,16 +9,16 @@ icon: comment-dollar
 
 ### 币安链BSC
 
-* [标准代币](https://www.gtokentool.com/tokenfactory)：0.06 BNB
-* [营销回流](https://www.gtokentool.com/tokenfactory)：0.06 BNB
-* [持币分红](https://www.gtokentool.com/tokenfactory)：0.06 BNB
-* [LP分红](https://www.gtokentool.com/tokenfactory)：0.06 BNB
-* [持币生息](https://www.gtokentool.com/tokenfactory)：0.06 BNB
-* [NFT分红](https://www.gtokentool.com/tokenfactory)：0.06 BNB
+* [标准代币](https://www.gtokentool.com/tokenfactory)：0.05 BNB
+* [营销回流](https://www.gtokentool.com/tokenfactory)：0.05 BNB
+* [持币分红](https://www.gtokentool.com/tokenfactory)：0.05 BNB
+* [LP分红](https://www.gtokentool.com/tokenfactory)：0.05 BNB
+* [持币生息](https://www.gtokentool.com/tokenfactory)：0.05 BNB
+* [NFT分红](https://www.gtokentool.com/tokenfactory)：0.05 BNB
 * [黑洞分红](https://www.gtokentool.com/tokenfactory)：0.25%交易手续费
-* [ERC404](https://www.gtokentool.com/tokenfactory)：0.06 BNB
-* [ERC314](https://www.gtokentool.com/tokenfactory)：0.06 BNB
-* [创建NFT](https://www.gtokentool.com/createnft?chainId=97)：0.06 BNB
+* [ERC404](https://www.gtokentool.com/tokenfactory)：0.05 BNB
+* [ERC314](https://www.gtokentool.com/tokenfactory)：0.05 BNB
+* [创建NFT](https://www.gtokentool.com/createnft?chainId=97)：0.05 BNB
 * [创建挖矿](https://www.gtokentool.com/mining?chainId=97)：0.3 BNB
 * [创建质押NFT](https://www.gtokentool.com/pledgeNFT?chainId=97)：0.3 BNB
 * [NFT铸造](https://www.gtokentool.com/tokencreatenft)：2%手续费
