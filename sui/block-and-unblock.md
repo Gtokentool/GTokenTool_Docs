@@ -19,7 +19,7 @@ icon: lock-hashtag
 
 进入拉黑页面，右上角选择 Main 网络并连接钱包，建议使用 Suiet 钱包。
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-04_10-24-13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-04_11-26-14.png" alt=""><figcaption></figcaption></figure>
 
 ### 2. 选择代币
 
@@ -35,25 +35,43 @@ icon: lock-hashtag
 
 弹出钱包后，点击确认。
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-04_10-32-29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-04_11-28-20.png" alt=""><figcaption></figcaption></figure>
 
 操作成功会显示交易哈希，点击哈希可以跳转浏览器查看交易情况。
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-04_10-33-04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-04_11-29-01.png" alt=""><figcaption></figcaption></figure>
 
 ### 5. 解除拉黑
 
 打开“`解除拉黑`”的开关，下面的“`拉黑`”按钮会变成“`解除拉黑`”。
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-04_10-36-50.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-04_11-32-41.png" alt=""><figcaption></figcaption></figure>
 
 点击“`解除拉黑`”，弹出钱包后，点击确认。
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-04_10-38-22.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-04_11-33-28.png" alt=""><figcaption></figcaption></figure>
 
 操作成功会显示交易哈希，点击哈希可以跳转浏览器查看交易情况。
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-04_10-38-48.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-04_11-33-54.png" alt=""><figcaption></figcaption></figure>
+
+### 6. 全局拉黑与解除
+
+选择代币后，点击“`全局拉黑`”。弹出钱包后，点击确认。
+
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-04_11-37-17.png" alt=""><figcaption></figcaption></figure>
+
+操作成功会显示交易哈希，点击哈希可以跳转浏览器查看交易情况。
+
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-04_11-37-40.png" alt=""><figcaption></figcaption></figure>
+
+想要解除全局拉黑，点击“`解除全局拉黑`”。
+
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-04_11-40-03.png" alt=""><figcaption></figcaption></figure>
+
+操作成功会显示交易哈希，点击哈希可以跳转浏览器查看交易情况。
+
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-04_11-41-35.png" alt=""><figcaption></figcaption></figure>
 
 GTokenTool社群:
 
