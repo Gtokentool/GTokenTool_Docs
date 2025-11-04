@@ -8,8 +8,10 @@ icon: lock-keyhole
 
 1. 安装好Suiet钱包或者SuiWallet插件：[Suiet钱包安装](suiet-qian-bao-an-zhuang-jiao-cheng.md)、[Suiwallet钱包安装](sui-wallet-qian-bao-an-zhuang-shi-yong-jiao-cheng.md)
 2. 如果没有安装这两个钱包，欧易Web3钱包也是支持的
-3. 钱包内最少准备3个SUI，如果数量不够，会导致发币失败
+3. 钱包内最少准备3个SUI，如果数量不够，会导致交易失败
 4. 手机发币建议使用欧易Web3钱包，不要用TP钱包，TP不能传logo
+
+## 放弃权限具体流程
 
 ### 1. 连接钱包
 
@@ -34,8 +36,6 @@ icon: lock-keyhole
 弹出钱包后，点击“Approve”。交易成功会弹出提示。
 
 <figure><img src="../.gitbook/assets/Snipaste_2025-09-08_13-52-21 (1).png" alt=""><figcaption></figcaption></figure>
-
-
 
 GTokenTool社群:
 

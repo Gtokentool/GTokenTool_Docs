@@ -131,6 +131,7 @@
 * [Sui链铸造代币教程](sui/mint-token.md)
 * [Sui链更新代币信息教程](sui/update-token.md)
 * [Sui链放弃权限教程](sui/revoke-authority.md)
+* [Sui链拉黑&解除拉黑教程](sui/block-and-unblock.md)
 * [Sui链批量转账教程](sui/batch-transfer.md)
 * [Sui链批量创建钱包教程](sui/batch-generates-wallet-addresses.md)
 * [🟠 Sui链 cetus 创建流动池并添加流动性教程](sui/sui-lian-cetus-chuang-jian-liu-dong-chi-bing-tian-jia-liu-dong-xing-jiao-cheng.md)

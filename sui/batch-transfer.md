@@ -9,7 +9,7 @@ icon: list-tree
 
 1. 安装好Suiet钱包或者SuiWallet插件：[Suiet钱包安装](suiet-qian-bao-an-zhuang-jiao-cheng.md)、[Suiwallet钱包安装](sui-wallet-qian-bao-an-zhuang-shi-yong-jiao-cheng.md)
 2. 如果没有安装这两个钱包，欧易Web3钱包也是支持的
-3. 钱包内准备充足的SUI，如果数量不够，会导致发币失败
+3. 钱包内准备充足的SUI，如果数量不够，会导致交易失败
 4. 手机发币建议使用欧易Web3钱包，不要用TP钱包，TP不能传logo
 
 ## 批量转账流程
@@ -41,8 +41,6 @@ icon: list-tree
 弹出钱包后，点击“Approve”。交易成功后会弹出提示。
 
 <figure><img src="../.gitbook/assets/Snipaste_2025-09-08_14-18-47.png" alt=""><figcaption></figcaption></figure>
-
-
 
 GTokenTool社群:
 
