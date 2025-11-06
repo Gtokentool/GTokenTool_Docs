@@ -104,6 +104,7 @@
   * [solana获取链上地址工具映射使用教程](solana/auxiliary-tutorial/solana-huo-qu-lian-shang-di-zhi-gong-ju-ying-she-shi-yong-jiao-cheng.md)
   * [谷歌浏览器清除缓存教程](solana/auxiliary-tutorial/gu-ge-liu-lan-qi-qing-chu-huan-cun-jiao-cheng.md)
 * [SOLANA基础知识](solana/solana-basic-knowledge/README.md)
+  * [📑 Solana小白必备常识](solana/solana-basic-knowledge/solona-essential-common-sense.md)
   * [⚠️ Solana链上常见报错信息整理](solana/solana-basic-knowledge/common-error-message.md)
   * [🔐 什么是 Web3 钱包？](solana/solana-basic-knowledge/web3.md)
   * [⚪ V2和V3的池子差异？](solana/solana-basic-knowledge/v2-v3.md)
