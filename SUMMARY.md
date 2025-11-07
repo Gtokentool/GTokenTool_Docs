@@ -132,6 +132,7 @@
 * [Sui链铸造代币教程](sui/mint-token.md)
 * [Sui链更新代币信息教程](sui/update-token.md)
 * [Sui链放弃权限教程](sui/revoke-authority.md)
+* [Sui燃烧代币教程](sui/burn-token.md)
 * [Sui链拉黑&解除拉黑教程](sui/block-and-unblock.md)
 * [Sui链批量转账教程](sui/batch-transfer.md)
 * [Sui链批量创建钱包教程](sui/batch-generates-wallet-addresses.md)
