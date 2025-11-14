@@ -26,7 +26,7 @@ icon: scale-balanced
 
 ## Solana 添加稳定币（CLMM）流动性教程
 
-### 1.连接钱包
+### 1. 连接钱包
 
 进入 GTokenTool 创建流动性池页面，右上角选择 Main 网络并连接钱包。
 
@@ -34,7 +34,7 @@ icon: scale-balanced
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-08-19_18-06-24.png" alt=""><figcaption></figcaption></figure>
 
-### 2.选择池子 <a href="#id-2-xuan-ze-clmm-chi-zi" id="id-2-xuan-ze-clmm-chi-zi"></a>
+### 2. 选择池子 <a href="#id-2-xuan-ze-clmm-chi-zi" id="id-2-xuan-ze-clmm-chi-zi"></a>
 
 GTokenTool 支持用户创建AMM池、 AMM V4 池、CPMM 池和 CLMM 稳定池四种，我们在这里选择 CLMM 稳定池。
 
@@ -51,7 +51,7 @@ GTokenTool 支持用户创建AMM池、 AMM V4 池、CPMM 池和 CLMM 稳定池�
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-08-19_18-10-35 (1).png" alt=""><figcaption></figcaption></figure>
 
-### 4.选择加池模式 <a href="#id-2.-xuan-ze-yao-chuang-jian-liu-dong-xing-chi-de-jiao-yi-dui" id="id-2.-xuan-ze-yao-chuang-jian-liu-dong-xing-chi-de-jiao-yi-dui"></a>
+### 4. 选择加池模式 <a href="#id-2.-xuan-ze-yao-chuang-jian-liu-dong-xing-chi-de-jiao-yi-dui" id="id-2.-xuan-ze-yao-chuang-jian-liu-dong-xing-chi-de-jiao-yi-dui"></a>
 
 GTokenTool 为您提供了两种加池模式（默认为单币加池）：
 
@@ -60,7 +60,7 @@ GTokenTool 为您提供了两种加池模式（默认为单币加池）：
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-08-19_18-12-40.png" alt=""><figcaption></figcaption></figure>
 
-### 5.双币加池参数填写
+### 5. 双币加池参数填写
 
 * **初始价格：**&#x8BBE;置池子的初始价格。
 * **存入数量：**&#x8BBE;置存入价值币（比如USDT）的数量，<mark style="color:purple;">系统会自动为你计算出需要存入的基础代币数量</mark>。如果弹出钱包爆红，可能是你的代币数量太少，可以减少存入数量再次尝试。
@@ -68,7 +68,7 @@ GTokenTool 为您提供了两种加池模式（默认为单币加池）：
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-08-19_18-15-10.png" alt=""><figcaption></figcaption></figure>
 
-### 6.双币加池效果展示
+### 6. 双币加池效果展示
 
 参数填写好后，点击“`创建流动性`”。钱包弹出后，点击“`确认`”。
 
@@ -76,7 +76,7 @@ GTokenTool 为您提供了两种加池模式（默认为单币加池）：
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-08-19_18-25-47.png" alt=""><figcaption></figcaption></figure>
 
-### 7.单币加池参数填写
+### 7. 单币加池参数填写
 
 * **单币加池：**&#x6253;开单币加池开关。
 * **初始价格：**&#x8BBE;置池子的初始价格。
@@ -87,7 +87,7 @@ GTokenTool 为您提供了两种加池模式（默认为单币加池）：
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-08-19_18-21-07.png" alt=""><figcaption></figcaption></figure>
 
-### 8.单币加池效果展示
+### 8. 单币加池效果展示
 
 参数填写好后，点击“`创建流动性`”。钱包弹出后，点击“`确认`”。
 
