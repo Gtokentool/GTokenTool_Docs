@@ -95,6 +95,7 @@
   * [Raydium AMM 创建流动性（加池子）教程](solana/liquidity-management/raydium-amm-create-liquidity.md)
   * [Raydium CPMM 创建流动性（加池子）教程](solana/liquidity-management/raydium-cpmm-create-liquidity.md)
   * [Solana 添加稳定币（CLMM）流动性教程(2025年8月最新教程)](solana/liquidity-management/raydium-clmm-create-liquidity.md)
+  * [PumpSwap 创建流动性并买入教程](solana/liquidity-management/pumpswap-create-liquidity-and-buy.md)
   * [Meteora DLMM 创建流动性教程](solana/liquidity-management/meteora-dlmm-create-liquidity.md)
 * [辅助教程](solana/auxiliary-tutorial/README.md)
   * [幻影钱包Phantom安装教程](solana/auxiliary-tutorial/phantom-wallet-installation.md)

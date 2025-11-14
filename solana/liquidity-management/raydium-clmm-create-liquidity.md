@@ -36,7 +36,7 @@ icon: scale-balanced
 
 ### 2.选择池子 <a href="#id-2-xuan-ze-clmm-chi-zi" id="id-2-xuan-ze-clmm-chi-zi"></a>
 
-GTokenTool 支持用户创建AMM池、 AMM V4 池、CPMM 稳定池和 CLMM 池四种，我们在这里选择 CLMM 稳定池。
+GTokenTool 支持用户创建AMM池、 AMM V4 池、CPMM 池和 CLMM 稳定池四种，我们在这里选择 CLMM 稳定池。
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-08-19_18-07-15.png" alt=""><figcaption></figcaption></figure>
 
