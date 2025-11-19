@@ -213,6 +213,22 @@ description: 全网最好的市值机器人，支持V2类型的swap
 
 为了确保操作的稳定性和流畅性，一次性导入的钱包数量最好低于100个。
 
+### 4. 不同链转账费用?
+
+* BSC 0.02 BNB
+* Arbitrum 0 ETH
+* Ethereum 0 ETH
+* Base 0.005 BSAE
+* Polygon 0 POL
+
+### 5. 不同链非会员费用？
+
+* BSC 0.0001 BNB
+* Arbitrum 0.00003 ETH
+* Ethereum 0.00003 ETH
+* Base 0.00003 BSAE
+* Polygon 0.01 POL
+
 
 
 如有不明白或者不清楚的地方，请加入官方电报群：[https://t.me/gtokentool](https://t.me/gtokentool)
