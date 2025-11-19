@@ -6,117 +6,198 @@ description: 全网最好的市值机器人，支持V2类型的swap
 
 ## 市值机器人视频教程
 
-{% embed url="https://youtu.be/G3C55Bg6iTA" %}
+{% embed url="https://www.youtube.com/watch?v=vPbpNPzt8qs" %}
 
-市值机器人支持以下链及Swap
+## 市值机器人支持以下链及Swap
 
-* ETH、Arb、Base：Uniswap V2
-* BSC：PancakeSwap V2
-* Core：IceCreamswap、LFGswap、Archerswap
+* ETH：Uniswap V2、Uniswap V3
+* BSC：PancakeSwap V2、PancakeSwap V3、FOUR
+* ARB：Uniswap V2、Uniswap V3
+* BASE：Uniswap V2、Uniswap V3
+* Polygon：QuikSwap V2、QuikSwap V3、Uniswap V2、Uniswap V3
 
-根据以下步骤，您可以在可支持的任意一条链上，进行代币市值管理。下面，以BSC测试链为例：
-
-## 1、市值机器人介绍 <a href="#id-1-jie-shao" id="id-1-jie-shao"></a>
+## 市值机器人介绍 <a href="#id-1-jie-shao" id="id-1-jie-shao"></a>
 
 市值机器人（Market Cap Bot） 是一种基于人工智能（AI）和金融数据分析的工具，主要用于实时监控、分析和预测股票、加密货币或其他金融资产的市值变化。它通过自动化数据处理和算法模型，帮助投资者、交易员和机构用户快速获取市场动态，辅助投资决策。
 
-## 2、选择公链 <a href="#id-1-xuan-ze-gong-lian" id="id-1-xuan-ze-gong-lian"></a>
+## 市值机器人具体操作流程
 
-目前GTokenTool市值管理机器人支持的公链有：
+### 1. 连接钱包
 
-* BSC链（BNB Chain）
-* BSC测试链（BNB Chain Test）
-* Core链
+市值机器人：[https://rt.gtokentool.com/#/marketbot](https://rt.gtokentool.com/#/marketbot)
 
-## 3、选择交易所 <a href="#id-2-xuan-ze-jiao-yi-suo" id="id-2-xuan-ze-jiao-yi-suo"></a>
+进入市值机器人页面，点击右上角连接钱包（选择小狐狸钱包），然后选择公链，我用 BSC 测试网演示。注意连接钱包内的网络要与选择的公链一致，以免出现不必要的损失。
 
-支持不同的去中心化交易所。BSC链和BSC测试链均支持PancakeSwap V2，Core链支持ShadowSwap。
+<mark style="color:purple;">非会员费用：0.0001 BNB，不同链收费不同，以实际标注为准。</mark>点击”`解锁会员权益`“可跳转至会员开通页面。
 
-## 4、网络节点 <a href="#id-3-wang-luo-jie-dian" id="id-3-wang-luo-jie-dian"></a>
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_15-55-01.png" alt=""><figcaption></figcaption></figure>
 
-GTokenTool会默认给出一个优质节点，用户也可以自行选择其他节点。
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_15-56-14.png" alt=""><figcaption></figcaption></figure>
 
-## 5、市值机器人操作步骤
+### 2. 基础配置
 
-提示：
+选择交易所，输入代币地址，并选择或输入对应的池子类型。选择 PancakeSwap V3 还需要选择对应的池子费用级别。
 
-* 请先安装小狐狸钱包插件，教程：[https://docs.gtokentool.com/fu-zhu-xin-xi/metamask-installation](https://docs.gtokentool.com/fu-zhu-xin-xi/metamask-installation)
-* 请确保已经充值了市值机器人会员，充值教程：[https://docs.gtokentool.com/shi-zhi-ji-qi-ren](https://docs.gtokentool.com/shi-zhi-ji-qi-ren)
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_16-01-29.png" alt=""><figcaption></figcaption></figure>
 
-### **(1)** 市值机器人-**连接钱包**
+配置好后，点击“`查池子`”，确认池子信息是否正确。若查池子失败，请检查池子信息是否有误。
 
-进入创建页面：[https://robot-nuu.vercel.app/#/marketbot](https://robot-nuu.vercel.app/#/marketbot)，点击右上角，连接钱包。
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_16-04-32.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
+### 3. 选择交易模式并配置参数
 
-### (2) 市值机器人-输入信息
+这里有四种模式可以选择：拉盘、砸盘、刷交易量、高抛低吸。
 
-* **选择公链：**&#x42;SC Test&#x20;
-* **选择交易所：**&#x70;ancakeSwapTest
-* **网络节点：**&#x68;ttps://bsc-testnet.publicnode.com
+#### 拉盘模式：
 
-<figure><img src="../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
+* **买入计算方式：**&#x91D1;额、数量（两边输入一样数值就是固定值）
+* **时间间隔：**&#x9ED8;认 8\~15 秒，可自行修改
+* **滑点：**&#x5FC5;填，根据自己的需求设置
+* **高级设置：**&#x975E;必填
+  * **钱包使用方式：**&#x987A;序、随机
+  * **目标价格：**&#x8FBE;到目标价格时停止程序（<mark style="color:purple;">拉盘模式目标价格必须大于当前价格</mark>）
+  * **gasLimit**
+  * **gasPrice**
+  * **钱包同时交易：**&#x591A;钱包同时买入卖出（<mark style="color:purple;">拉盘模式只支持一键买入，买入计算方式必须选择金额</mark>），可设置执行次数（默认一次）
 
-* **钱包使用方式：**&#x987A;序
-* **模式：**&#x62C9;盘（拉升代币的价格）
-* **合约地址：**&#x30;xB15815359E690fe0170435217927521209A02648
-* **池子类型：**&#x54;BNB
-* **花费代币：**&#x54;BNB（如果选择BNB，就表示买入或卖出代币，都是使用BNB来交易）
-* **目标价格：**&#x30;.00004（因为我们选择的是拉盘，所以目标价格必须高于当前价格）
+若使用钱包同时交易，需先点击”`授权`“，再点击“`一键买入`”。
 
-<figure><img src="../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_16-28-52.png" alt=""><figcaption></figcaption></figure>
 
-* **买入计算方式：**&#x91D1;额
-* **买入金额（取两个数之间的随机数）：**&#x30;.0001 TBNB\~0.0002TBNB （如果填写100\~100，则表示每次使用100TBNB去购买代币；如果填写100\~200，则是取100\~200之间的随机数量的TBNB去购买代币）
-* **时间间隔（取两个数之间的随机数）：**&#x31;00秒 \~ 200秒 （同理）
+#### 砸盘模式 ：
 
-<figure><img src="../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
+* **卖出计算方式：**&#x767E;分比、金额、数量（两边输入一样数值就是固定值）
+* **时间间隔：**&#x9ED8;认 8\~15 秒，可自行修改
+* **滑点：**&#x5FC5;填，根据自己的需求设置
+* **高级设置：**&#x975E;必填
+  * **钱包使用方式：**&#x987A;序、随机
+  * **目标价格：**&#x8FBE;到目标价格时停止程序（<mark style="color:purple;">砸盘模式目标价格必须小于当前价格</mark>）
+  * **gasLimit**
+  * **gasPrice**
+  * **钱包同时交易：**&#x591A;钱包同时买入卖出（<mark style="color:purple;">砸盘模式只支持一键卖出，卖出计算方式必须选择数量或百分比</mark>），可设置执行次数（默认一次）
 
-交易滑点(如果有夹子机器人，请设置滑点)
+若使用钱包同时交易，需先点击”`授权`“，再点击“`一键卖出`”。
 
-* 滑点%：1
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_16-36-20.png" alt=""><figcaption></figcaption></figure>
 
-Gas设置(如果有Gas设置需求，请开启该功能)
+#### 刷交易量模式：
 
-* gas(单位gwei)：0.2
+* **买入概率：**&#x8F93;入后卖出概率自动算出（买入概率为40%，卖出概率就是60%）
+* **买入计算方式：**&#x91D1;额、数量（两边输入一样数值就是固定值）
+* **卖出计算方式：**&#x767E;分比、金额、数量（两边输入一样数值就是固定值）
+* **时间间隔：**&#x9ED8;认 8\~15 秒，可自行修改
+* **最低价格：**&#x5728;执行过程中，当前价格比最低价格低，停止执行，默认是0（非必填）
+* **最高价格：**&#x5728;执行过程中，当前价格比最高价格高，停止执行，默认无穷大（非必填）
+* **滑点：**&#x5FC5;填，根据自己的需求设置
+* **高级设置：**&#x975E;必填
+  * **钱包使用方式：**&#x987A;序、随机
+  * **gasLimit**
+  * **gasPrice**
+  * **钱包同时交易：**&#x591A;钱包同时买入卖出（<mark style="color:purple;">刷交易量模式不支持</mark>），可设置执行次数（默认一次）
 
-钱包批量交易(如果有需要多个钱包同时买入卖出，请开启该功能)
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_16-45-58.png" alt=""><figcaption></figcaption></figure>
 
-* 执行次数(默认一次，如果需要多次请输入)：2
+#### 高抛低吸模式：
 
-开始时间(如果有定时执行的需求，请开启该功能)：2024-07-20 20:00:00
+* **买入计算方式：**&#x91D1;额、数量（两边输入一样数值就是固定值）
+* **卖出计算方式：**&#x767E;分比、金额、数量（两边输入一样数值就是固定值）
+* **时间间隔：**&#x9ED8;认 8\~15 秒，可自行修改
+* **最低价格：**&#x4F4E;于某个价格开始吸货买入，用于市值管理价格托底
+* **最高价格：**&#x9AD8;于某个价格开始抛售，用于市值管理最高价格限制
+* **滑点：**&#x5FC5;填，根据自己的需求设置
+* **高级设置：**&#x975E;必填
+  * **钱包使用方式：**&#x987A;序、随机
+  * **gasLimit**
+  * **gasPrice**
+  * **钱包同时交易：**&#x591A;钱包同时买入卖出（<mark style="color:purple;">高抛低吸模式不支持</mark>），可设置执行次数（默认一次）
 
-<figure><img src="../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_18-07-57.png" alt=""><figcaption></figcaption></figure>
 
-### (3) 市值机器人-导入刷单钱包
+### 4. 导入钱包
 
-在右上角，点击“导入刷单钱包”。
+点击“`导入钱包`”，输入钱包私钥，点击“`导入`”。
 
-<figure><img src="../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_18-12-47.png" alt=""><figcaption></figcaption></figure>
 
-输入私钥，一行一个，然后点击“导入”。
+导入成功后，下方会显示钱包余额、底池代币余额以及代币余额。若没有显示，点击“刷新”获取最近钱包余额。<mark style="color:purple;">建议每次交易之前刷新一次，以免因余额不足导致交易失败。</mark>
 
-注：请放心，平台不会获取您的私钥。
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_18-16-03.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
+### 5. 开始交易
 
-在页面左下角可以查看钱包的具体详情。
+点击“`开始`”，开始执行交易。没有设置目标价格或者打开钱包同时交易，需要自己手动点击“`停止`”去停止交易。交易成功后，会显示交易哈希。点击哈希可以跳转到对应的区块链浏览器，查看具体的交易情况。
 
-<figure><img src="../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
+#### 拉盘模式：
 
-### (4) 市值机器人-开始执行
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_18-23-16.png" alt=""><figcaption></figcaption></figure>
 
-买入授权：因为我们选择的是BNB买入，所以不用授权，如果是USDT批量买入就必须先授权。
+点击“`刷新`”，可以查看是否买入成功。
 
-点击“开始执行批量交易”。
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_18-29-57.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
+#### 砸盘模式：
 
-### (5)市值机器人- 删除私钥
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_18-31-34.png" alt=""><figcaption></figcaption></figure>
 
-每次操作完成之后，点击导入刷“单钱包按钮”，先删除私钥，再点击“导入”。记住这里一定要点击“导入”，私钥就删除了。
+点击“`刷新`”，可以查看是否卖出成功。
 
-<figure><img src="../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_18-32-22.png" alt=""><figcaption></figcaption></figure>
+
+#### 刷交易量模式：
+
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_18-52-06.png" alt=""><figcaption></figcaption></figure>
+
+点击“`刷新`”，可以查看是否交易成功。
+
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_18-41-33.png" alt=""><figcaption></figcaption></figure>
+
+#### 高抛低吸模式：
+
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_18-56-42.png" alt=""><figcaption></figcaption></figure>
+
+点击“`刷新`”，可以查看是否交易成功。
+
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_18-56-57.png" alt=""><figcaption></figcaption></figure>
+
+### 6. 其他功能
+
+#### 生成钱包：
+
+点击“`生成钱包`”，输入生成钱包数量，点击“`确定`”。<mark style="color:purple;">注意：生成钱包会覆盖已存在的钱包，并无法找回。请务必保存好已存在的钱包私钥。免费使用。</mark>
+
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_19-00-32.png" alt=""><figcaption></figcaption></figure>
+
+生成成功后，点击“`导出私钥`"。<mark style="color:purple;">请务必确认钱包信息是否下载完整，以免造成不必要的损失。</mark>
+
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_19-08-04.png" alt=""><figcaption></figcaption></figure>
+
+#### 转账：
+
+点击对应代币边上的`转账`按钮，可以连接钱包内的代币转给每个钱包。<mark style="color:purple;">每次转账费用0.02 BNB，由连接钱包支付，会员也需收费。</mark>
+
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_19-10-37.png" alt=""><figcaption></figcaption></figure>
+
+转账成功后会弹出成功提示，也可以点击”`刷新`“查看转账情况。
+
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_19-15-05.png" alt=""><figcaption></figcaption></figure>
+
+#### 单钱包卖出：
+
+点击对应钱包后的`卖出`按钮，可以单独卖出钱包内的所有代币。<mark style="color:purple;">费用与砸盘模式一致，会员免费。</mark>
+
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_19-17-41.png" alt=""><figcaption></figcaption></figure>
+
+#### 一键清仓：
+
+点击”`一键清仓`“，可以卖出所有钱包内的代币。<mark style="color:purple;">费用与砸盘模式一致，会员免费。</mark>
+
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_19-20-45.png" alt=""><figcaption></figcaption></figure>
+
+#### 归集：
+
+点击对应代币边上的归集按钮，可以将所有钱包内的代币归集到指定钱包。<mark style="color:purple;">免费使用。</mark>
+
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_19-23-01.png" alt=""><figcaption></figcaption></figure>
 
 ## 市值机器人-常见问题
 
@@ -124,7 +205,7 @@ Gas设置(如果有Gas设置需求，请开启该功能)
 
 不会，夹子以及机器人利用的是抢跑区块的原理，很容易判断。而市值管理系统的所有买卖都是正常的交易，不会被识别为机器人。
 
-### 2.  平台会拿到你的私钥吗？
+### 2. 平台会拿到你的私钥吗？
 
 绝对不可能，你的私钥不会存储在平台上，所有操作都是基于前端执行的，请放心使用。
 
