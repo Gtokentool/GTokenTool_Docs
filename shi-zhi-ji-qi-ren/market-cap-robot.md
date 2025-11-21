@@ -14,7 +14,7 @@ description: 全网最好的市值机器人，支持V2类型的swap
 * BSC：PancakeSwap V2、PancakeSwap V3、FOUR
 * ARB：Uniswap V2、Uniswap V3
 * BASE：Uniswap V2、Uniswap V3
-* Polygon：QuikSwap V2、QuikSwap V3、Uniswap V2、Uniswap V3
+* Polygon：QuikSwap V2、Uniswap V2、Uniswap V3
 
 ## 市值机器人介绍 <a href="#id-1-jie-shao" id="id-1-jie-shao"></a>
 
