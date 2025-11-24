@@ -52,4 +52,4 @@ BenDAO 以提供高达 40% 抵押品的贷款而闻名，在 2024 年第一季�
 
 为了确保准确性，CoinGecko 的研究团队依据 Dune Analytics、NFTfi Foundation、Beetle 和 Arcade XYZ 等信誉良好的来源，仔细分析了 2023 年 1 月至 2024 年 3 月期间顶级 NFT 借贷平台的月借贷量。
 
-\
+<br>

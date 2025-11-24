@@ -229,6 +229,20 @@ description: 全网最好的市值机器人，支持V2类型的swap
 * Base 0.00003 BSAE
 * Polygon 0.01 POL
 
+### 6. 有哪些常见报错？
+
+* 有Gas但底池代币不足
+
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-24_10-08-38.png" alt=""><figcaption></figcaption></figure>
+
+* 底池代币充足但Gas不足
+
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-24_10-13-20.png" alt=""><figcaption></figcaption></figure>
+
+* Gas 和底池代币均不足
+
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-24_10-10-19.png" alt=""><figcaption></figcaption></figure>
+
 
 
 如有不明白或者不清楚的地方，请加入官方电报群：[https://t.me/gtokentool](https://t.me/gtokentool)

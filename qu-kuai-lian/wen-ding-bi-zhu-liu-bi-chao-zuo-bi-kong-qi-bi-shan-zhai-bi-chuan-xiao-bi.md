@@ -14,8 +14,7 @@
 
 这里为什么要提到法币呢？因为在加密货币中有这样一类币，它们的价值是对标法币或者其他资产，来维持自身价值的稳定，这种就是稳定币。
 
-\
-
+<br>
 
 <figure><img src="../.gitbook/assets/photo_2024-06-07_09-50-40.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -27,8 +26,7 @@
 
 它是目前市值最高的稳定币之一，与美元1:1恒定，而且在所有的链上都是通用的，所以是被广泛使用的一种币。然后是USDC（美元硬币）、BUSD（币安美元），它们也都是与美元1:1挂钩。
 
-\
-
+<br>
 
 <figure><img src="../.gitbook/assets/photo_2024-06-07_09-50-43.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -38,8 +36,7 @@
 
 比特币主要的作用是价值储存和支付，它也被称为“数字黄金”，一些人会选择买来屯着，做长期投资。也可以用来做跨境转账，在区块链跨境转账，既快速成本又低。以太币作为以太坊平台的原生货币，主要是用来交易和支付。
 
-\
-
+<br>
 
 <figure><img src="../.gitbook/assets/photo_2024-06-07_09-50-47.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -47,8 +44,7 @@
 
 那炒作币主要有哪些呢？DOGE（狗狗币），它是炒作币种最被大家熟知的一种。最开始是作为玩笑创建，为了讽刺比特币圈的投机氛围，但是因为马斯克等名人的支持，让它受到了非常大的关注和炒作，如今已成为市值排行前十的主流币。然后是SHIB（柴犬币）、SafeMoon等等。
 
-\
-
+<br>
 
 <figure><img src="../.gitbook/assets/photo_2024-06-07_09-50-50.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -56,8 +52,7 @@
 
 山寨币主要有，以太币（ ETH）、莱特币（LTC）、波卡（DOT）、艾达币（ ADA）。
 
-\
-
+<br>
 
 <figure><img src="../.gitbook/assets/photo_2024-06-07_09-50-53.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -77,8 +72,7 @@
 
 举个例子，BitConnect，是比较著名的庞氏骗局之一，用高收益的贷款计划吸引投资者，从发行以来，它的多层次传销结构就让人怀疑是庞氏骗局。市值还一度挤进过加密货币前20，但最终在2018年崩盘，投资者的损失也是非常惨重。
 
-\
-
+<br>
 
 最后讲一讲加密货币和虚拟货币的区别
 
@@ -89,11 +83,10 @@
 但我们在区块链中用到的基本上就只是加密货币
 
 \
-\
-
+<br>
 
 <figure><img src="../.gitbook/assets/photo_2024-06-07_09-50-57.jpg" alt=""><figcaption></figcaption></figure>
 
 以上就是今天想分享给大家的内容，欢迎大家关注订阅，我们下期再见!
 
-\
+<br>

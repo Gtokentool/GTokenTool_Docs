@@ -8,8 +8,7 @@
 
 今天来给大家讲一下区块链专业名词，因为很多新人小白进入到这个圈子之后，就会发现很多专业术语会不太明白或者了解，所以我们做了这个视频，来帮助大家，更快速的去了解区块链的基础名词。
 
-\
-
+<br>
 
 <figure><img src="../.gitbook/assets/photo_2024-06-07_09-46-03.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -28,8 +27,7 @@
 
 第五个是U，平时我们会说到的转U，U就是USDT，它是与美元价格1:1挂钩的，所以它价格是非常稳定的。而且还有个特点，就是所有的交易所都通用。
 
-\
-
+<br>
 
 <figure><img src="../.gitbook/assets/photo_2024-06-07_09-47-25.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -41,8 +39,7 @@
 
 第九gas费，就是手续费，付给这些矿工的。我们去做交易的时候，需要付一个gas费，这个gas费，其实是去付给矿工。他帮我们去验证和计算这个交易，然后收获我们这个手续费。
 
-\
-
+<br>
 
 <figure><img src="../.gitbook/assets/photo_2024-06-07_09-48-18.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -56,8 +53,7 @@
 
 第十四空投，空投是一个非常流行的营销方式，就是免费给你发代币，给那些潜在的用户，或者对这些代币感兴趣的，最终的目的是，让更多的人去使用这个代币，去投入更多的资金。
 
-\
-
+<br>
 
 <figure><img src="../.gitbook/assets/photo_2024-06-07_09-48-51.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -72,4 +68,4 @@
 
 以上就是这期内容，谢谢观看，下期再见。
 
-\
+<br>

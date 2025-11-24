@@ -51,4 +51,4 @@ description: 全网最全的锁定流动性教程
 
 现在您可以在 “流动性锁-->我的锁”中 查看和管理了。
 
-如有不明白或者不清楚的地方，请加入官方电报群：[https://t.me/gtokentool](https://t.me/gtokentool)\
+如有不明白或者不清楚的地方，请加入官方电报群：[https://t.me/gtokentool](https://t.me/gtokentool)<br>

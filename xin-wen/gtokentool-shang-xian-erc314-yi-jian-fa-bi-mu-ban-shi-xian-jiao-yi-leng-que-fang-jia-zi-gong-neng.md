@@ -35,4 +35,4 @@ X314项目的大火，让 ERC314协议成为开发者和投资者们关注的焦
 
 发币流程非常简单，2分钟搞定！想了解更多可以加入平台社区：[https://t.me/gtokentool](https://t.me/gtokentool)
 
-\
+<br>
