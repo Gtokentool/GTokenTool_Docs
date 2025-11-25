@@ -24,7 +24,7 @@ description: 全网最好的市值机器人，支持V2类型的swap
 
 ### 1. 连接钱包
 
-市值机器人：[https://rt.gtokentool.com/#/marketbot](https://rt.gtokentool.com/#/marketbot)
+市值机器人：[https://robotv2.gtokentool.com/#/marketbot](https://robotv2.gtokentool.com/#/marketbot)
 
 进入市值机器人页面，点击右上角连接钱包（选择小狐狸钱包），然后选择公链，我用 BSC 测试网演示。注意连接钱包内的网络要与选择的公链一致，以免出现不必要的损失。
 
