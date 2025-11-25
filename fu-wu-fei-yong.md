@@ -25,7 +25,7 @@ icon: comment-dollar
 * [创建符文](https://www.gtokentool.com/createInscription)：2%手续费
 * [创建IDO](https://www.gtokentool.com/idov2)：0.01 BNB + 2%手续费
 * [市值会员开通](https://www.gtokentool.com/bot?chainId=97)：日卡（0.2 BNB); 周卡（0.3 BNB); 月卡（0.6 BNB）；年卡（3 BNB); 永久卡（私聊管理员）
-* [市值机器人](https://robotv2.gtokentool.com/#/marketbot)：0.0001 BNB，会员免费
+* [市值机器人](https://robotv2.gtokentool.com/#/marketbot)：0.0001 BNB（会员免费）
 * [FOUR创建并捆绑买入](https://www.gtokentool.com/bundle?chainId=97)：阶梯收费低至0.005 BNB/地址（10个（包含10个）及以下地址0.03 BNB/每地址，10个以上仅需0.005 BNB/地址）
 * [创建流动性并买入](https://www.gtokentool.com/createLiquidityAndBuy?chainId=97)：0.005 BNB/Address
 * [FOUR一键卖出](https://www.gtokentool.com/FourSell?chainId=97)：阶梯收费低至0.015 BNB/地址（10个以下地址0.02 BNB/地址，10个钱包以上0.015 BNB/地址）
