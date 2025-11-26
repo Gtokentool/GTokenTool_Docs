@@ -138,6 +138,7 @@
 * [Sui链拉黑&解除拉黑教程](sui/block-and-unblock.md)
 * [Sui链批量转账教程](sui/batch-transfer.md)
 * [Sui链批量创建钱包教程](sui/batch-generates-wallet-addresses.md)
+* [Sui链创建 Cetus 稳定池教程](sui/create-cetus-stable-pool.md)
 * [🟠 Sui链 cetus 创建流动池并添加流动性教程](sui/sui-lian-cetus-chuang-jian-liu-dong-chi-bing-tian-jia-liu-dong-xing-jiao-cheng.md)
 * [🟡 Sui链 cetus 添加和移除流动性教程](sui/sui-lian-cetus-tian-jia-he-yi-chu-liu-dong-xing-jiao-cheng.md)
 * [🟣 Sui链锁定流动性教程](sui/sui-lian-suo-ding-liu-dong-xing-jiao-cheng.md)
