@@ -24,7 +24,7 @@ icon: comment-dollar
 * [NFT铸造](https://www.gtokentool.com/tokencreatenft)：2%手续费
 * [创建符文](https://www.gtokentool.com/createInscription)：2%手续费
 * [创建IDO](https://www.gtokentool.com/idov2)：0.01 BNB + 2%手续费
-* [市值会员开通](https://www.gtokentool.com/bot?chainId=97)：日卡（0.2 BNB); 周卡（0.3 BNB); 月卡（0.6 BNB）；年卡（3 BNB); 永久卡（私聊管理员）
+* [市值会员开通](https://www.gtokentool.com/bot?chainId=97)：月卡（0.6 BNB）
 * [市值机器人](https://robotv2.gtokentool.com/#/marketbot)：0.0001 BNB（会员免费）
 * [FOUR创建并捆绑买入](https://www.gtokentool.com/bundle?chainId=97)：阶梯收费低至0.005 BNB/地址（10个（包含10个）及以下地址0.03 BNB/每地址，10个以上仅需0.005 BNB/地址）
 * [创建流动性并买入](https://www.gtokentool.com/createLiquidityAndBuy?chainId=97)：0.005 BNB/Address
@@ -167,10 +167,7 @@ icon: comment-dollar
 
 ### 市值管理机器人（支持所有EVM链，如有不支持的，开通会员之后可联系管理教学）
 
-* 天卡：0.2 BNB
-* 周卡：0.3 BNB
 * 月卡：0.6 BNB
-* 年卡：3 BNB
 * 永久卡：私聊
 
 如有不明白或者不清楚的地方，请加入官方电报群：[https://t.me/gtokentool](https://t.me/gtokentool)
