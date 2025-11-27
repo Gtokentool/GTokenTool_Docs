@@ -115,6 +115,9 @@ icon: comment-dollar
 * [更新代币](https://sui.gtokentool.com/zh-CN/Token/management)：5 SUI
 * [放弃权限](https://sui.gtokentool.com/zh-CN/Token/management)：2 SUI
 * [铸造代币](https://sui.gtokentool.com/zh-CN/Token/mint)：1 SUI
+* [燃烧代币](https://sui.gtokentool.com/zh-CN/Token/burn)：1 SUI
+* [拉黑](https://sui.gtokentool.com/zh-CN/Token/block)：1 SUI
+* [创建流动性](https://sui.gtokentool.com/zh-CN/LiquidityManagement/createPool)：1 SUI
 * [批量转账](https://sui.gtokentool.com/zh-CN/batchTool/batchTransfer/Token)：2 SUI
 * [批量创建钱包](https://sui.gtokentool.com/zh-CN/walletManagement/batchCreateWallet)：免费
 
