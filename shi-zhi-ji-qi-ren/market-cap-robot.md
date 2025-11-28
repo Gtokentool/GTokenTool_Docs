@@ -215,19 +215,19 @@ description: 全网最好的市值机器人，支持V2类型的swap
 
 ### 4. 不同链转账费用?
 
-* BSC 0.02 BNB
-* Arbitrum 0 ETH
-* Ethereum 0 ETH
-* Base 0.005 BSAE
-* Polygon 0 POL
+* BSC: 0.02 BNB
+* Arbitrum: 0 ETH
+* Ethereum: 0 ETH
+* Base: 0.005 BSAE
+* Polygon: 0 POL
 
 ### 5. 不同链非会员费用？
 
-* BSC 0.0001 BNB
-* Arbitrum 0.00003 ETH
-* Ethereum 0.00003 ETH
-* Base 0.00003 BSAE
-* Polygon 0.01 POL
+* BSC: 0.0001 BNB
+* Arbitrum: 0.00003 ETH
+* Ethereum: 0.00003 ETH
+* Base: 0.00003 BSAE
+* Polygon: 0.01 POL
 
 ### 6. 有哪些常见报错？
 
