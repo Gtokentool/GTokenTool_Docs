@@ -173,7 +173,7 @@ description: 全网最好的市值机器人，支持V2类型的swap
 
 #### 转账：
 
-点击对应代币边上的`转账`按钮，可以连接钱包内的代币转给每个钱包。<mark style="color:purple;">每次转账费用0.02 BNB，由连接钱包支付，会员也需收费。</mark>
+点击对应代币边上的`转账`按钮，可以连接钱包内的代币转给每个钱包。<mark style="color:purple;">每次转账费用0.02 BNB，由连接钱包支付，会员减半。</mark>
 
 <figure><img src="../.gitbook/assets/Snipaste_2025-11-19_19-10-37.png" alt=""><figcaption></figcaption></figure>
 
@@ -213,7 +213,7 @@ description: 全网最好的市值机器人，支持V2类型的swap
 
 为了确保操作的稳定性和流畅性，一次性导入的钱包数量最好低于100个。
 
-### 4. 不同链转账费用?
+### 4. 不同链转账费用（会员减半）?
 
 * BSC: 0.02 BNB
 * Arbitrum: 0 ETH
