@@ -4,7 +4,7 @@ icon: gauge-simple-min
 
 # Sui链创建 Cetus 稳定池教程
 
-### 准备事项 <a href="#zhun-bei-shi-xiang" id="zhun-bei-shi-xiang"></a>
+## 准备事项 <a href="#zhun-bei-shi-xiang" id="zhun-bei-shi-xiang"></a>
 
 1. 安装好Suiet钱包或者SuiWallet插件：[Suiet钱包安装](https://docs.gtokentool.com/sui/suiet-qian-bao-an-zhuang-jiao-cheng)、[Suiwallet钱包安装](https://docs.gtokentool.com/sui/sui-wallet-qian-bao-an-zhuang-shi-yong-jiao-cheng)
 2. 如果没有安装这两个钱包，欧易Web3钱包也是支持的
@@ -13,7 +13,7 @@ icon: gauge-simple-min
 
 ### 创建 Cetus 稳定池具体流程 <a href="#ran-shao-dai-bi-ju-ti-liu-cheng" id="ran-shao-dai-bi-ju-ti-liu-cheng"></a>
 
-#### 1. 连接钱包 <a href="#id-1.-lian-jie-qian-bao" id="id-1.-lian-jie-qian-bao"></a>
+### 1. 连接钱包 <a href="#id-1.-lian-jie-qian-bao" id="id-1.-lian-jie-qian-bao"></a>
 
 创建流动性：[https://sui.gtokentool.com/zh-CN/LiquidityManagement/createPool](https://sui.gtokentool.com/zh-CN/LiquidityManagement/createPool)
 
