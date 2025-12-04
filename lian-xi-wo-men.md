@@ -14,7 +14,7 @@ icon: phone-arrow-up-right
 {% hint style="success" %}
 **重要提醒：仅认准官方 Telegram**
 
-* 加群前请确认官方唯一社群：[https://t.me/gtokentool](https://t.me/gtokentool) （避免侮辱其他仿冒群）
+* 加群前请确认官方唯一社群：[https://t.me/gtokentool](https://t.me/gtokentool) （避免误入其他仿冒群）
 * 仅认准群内带有 **“管理员/Admin”** 标识的官方成员
 * **管理员不会主动私聊** 索取资产或助记词；如有主动私聊，一律视为骗子
 * 近期出现仿冒平台/低价引流诱骗，谨防钓鱼链接，切勿轻信陌生私信或网站
