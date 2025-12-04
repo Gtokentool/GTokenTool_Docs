@@ -1,6 +1,6 @@
 ---
 description: 无托管本地安全运行，实时监控指定项目的买入交易，根据预设的卖出逻辑完成自动卖出，极高成功率，确保您的收益最大化。
-icon: camera-cctv
+icon: bullseye-arrow
 ---
 
 # Solana跟卖机器人教程
