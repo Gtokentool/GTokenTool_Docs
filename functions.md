@@ -76,3 +76,18 @@ icon: eyes
 ### 🔒锁
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>创建锁</strong></td><td>创建代币锁 | 创建流动性锁</td><td>👉🏻<a href="https://www.gtokentool.com/createlock?chainId=97">立即体验</a></td></tr><tr><td><strong>代币锁</strong></td><td>管理代币锁 | 延长代币锁</td><td>👉🏻<a href="https://www.gtokentool.com/tokenlock?chainId=97">立即体验</a></td></tr><tr><td><strong>流动性锁</strong></td><td>管理流动性锁 | 延长流动性锁</td><td>👉🏻<a href="https://www.gtokentool.com/lplock?chainId=97">立即体验</a></td></tr></tbody></table>
+
+GTokenTool社群:
+
+Telegram：[**https://t.me/gtokentool**](https://t.me/gtokentool)
+
+Twitter:  [**https://x.com/gtokentool**](https://x.com/gtokentool)
+
+Gitbook：[**https://docs.gtokentool.com/**](https://docs.gtokentool.com/)
+
+Github：[**https://github.com/Gtokentool/docs/blob/master/SUMMARY.md**](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
+
+YouTube：[**https://www.youtube.com/@GTokenTool**](https://www.youtube.com/@GTokenTool)\
+\
+\
+<mark style="color:purple;background-color:orange;">**GTokenTool**</mark>_<mark style="color:purple;background-color:orange;">保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。以上信息内容仅供参考，GTokenTool对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。请谨慎投资。</mark>_
