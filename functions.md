@@ -47,27 +47,27 @@ icon: eyes
 
 ### &#x20;🪙创建代币
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>创建代币</strong></td><td>创建代币 | 一键发币</td><td>👉🏻<a href="https://www.gtokentool.com/tokenfactory">立即体验</a></td></tr><tr><td><strong>创建 NFT</strong></td><td>创建 NFT | 一键发币</td><td>👉🏻<a href="https://www.gtokentool.com/createnft">立即体验</a></td></tr><tr><td><strong>管理代币</strong></td><td>流动性管理 | 权限控制 | 交易控制 | 税率控制</td><td>👉🏻<a href="https://www.gtokentool.com/managetokens?chainId=97">立即体验</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>创建代币</strong></td><td>创建代币 | 一键发币</td><td>👉🏻<a href="https://www.gtokentool.com/tokenfactory">立即体验</a></td></tr><tr><td><strong>创建 NFT</strong></td><td>创建 NFT | 一键发币</td><td>👉🏻<a href="https://www.gtokentool.com/createnft">立即体验</a></td></tr><tr><td><strong>管理代币</strong></td><td>流动性管理 | 权限控制 | 交易控制 | 税率控制</td><td>👉🏻<a href="https://www.gtokentool.com/managetokens">立即体验</a></td></tr></tbody></table>
 
 ### ⚡批量工具
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>批量发送代币</strong></td><td>批量发送代币 | 高效安全</td><td>👉🏻<a href="https://www.gtokentool.com/sendertoken?chainId=97">立即体验</a></td></tr><tr><td><strong>批量发送 NFT</strong></td><td>批量发送 NFT | 快速分发</td><td>👉🏻<a href="https://www.gtokentool.com/sendernft?chainId=97">立即体验</a></td></tr><tr><td><strong>批量检查钱包余额</strong></td><td>批量检查钱包余额 | 高效方便</td><td>👉🏻<a href="https://www.gtokentool.com/batchCheckBalance?chainId=97">立即体验</a></td></tr><tr><td><strong>批量归集</strong></td><td>批量归集 | 高效资金管理</td><td>👉🏻<a href="https://robotv2.gtokentool.com/#/collect">立即体验</a></td></tr><tr><td><strong>增加持币地址</strong></td><td>增加持币地址 | 提升持币地址数</td><td>👉🏻<a href="https://www.gtokentool.com/increaseAddr?chainId=97">立即体验</a></td></tr><tr><td><strong>批量上传图片</strong></td><td>批量上传图片 | 快速生成图片URL</td><td>👉🏻<a href="https://www.gtokentool.com/uploadImage?chainId=97">立即体验</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>批量发送代币</strong></td><td>批量发送代币 | 高效安全</td><td>👉🏻<a href="https://www.gtokentool.com/sendertoken">立即体验</a></td></tr><tr><td><strong>批量发送 NFT</strong></td><td>批量发送 NFT | 快速分发</td><td>👉🏻<a href="https://www.gtokentool.com/sendernft">立即体验</a></td></tr><tr><td><strong>批量检查钱包余额</strong></td><td>批量检查钱包余额 | 高效方便</td><td>👉🏻<a href="https://www.gtokentool.com/batchCheckBalance">立即体验</a></td></tr><tr><td><strong>批量归集</strong></td><td>批量归集 | 高效资金管理</td><td>👉🏻<a href="https://robotv2.gtokentool.com/#/collect">立即体验</a></td></tr><tr><td><strong>增加持币地址</strong></td><td>增加持币地址 | 提升持币地址数</td><td>👉🏻<a href="https://www.gtokentool.com/increaseAddr">立即体验</a></td></tr><tr><td><strong>批量上传图片</strong></td><td>批量上传图片 | 快速生成图片URL</td><td>👉🏻<a href="https://www.gtokentool.com/uploadImage">立即体验</a></td></tr></tbody></table>
 
 ### ⏰符文
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>符文列表</strong></td><td>符文列表 | 参与符文预售</td><td>👉🏻<a href="https://www.gtokentool.com/fwlist?chainId=97">立即体验</a></td></tr><tr><td><strong>创建符文</strong></td><td>创建符文 | 安全便捷</td><td>👉🏻<a href="https://www.gtokentool.com/createInscription?chainId=97">立即体验</a></td></tr><tr><td><strong>管理符文</strong></td><td>管理符文 | 高效管理</td><td>👉🏻<a href="https://www.gtokentool.com/createInscription/list?chainId=97">立即体验</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>符文列表</strong></td><td>符文列表 | 参与符文预售</td><td>👉🏻<a href="https://www.gtokentool.com/fwlist">立即体验</a></td></tr><tr><td><strong>创建符文</strong></td><td>创建符文 | 安全便捷</td><td>👉🏻<a href="https://www.gtokentool.com/createInscription">立即体验</a></td></tr><tr><td><strong>管理符文</strong></td><td>管理符文 | 高效管理</td><td>👉🏻<a href="https://www.gtokentool.com/createInscription/list">立即体验</a></td></tr></tbody></table>
 
 ### 💱交易
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>兑换</strong></td><td>兑换 | 快速交易</td><td>👉🏻<a href="https://www.gtokentool.com/swap?chainId=97">立即体验</a></td></tr><tr><td><strong>流动性</strong></td><td>创建流动性 | 快速便捷</td><td>👉🏻<a href="https://www.gtokentool.com/liquidity?chainId=97">立即体验</a></td></tr><tr><td><strong>创建流动性并买入</strong></td><td>创建流动性并买入 | 抢占底部筹码</td><td>👉🏻<a href="https://www.gtokentool.com/createLiquidityAndBuy?chainId=97">立即体验</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>兑换</strong></td><td>兑换 | 快速交易</td><td>👉🏻<a href="https://www.gtokentool.com/swap">立即体验</a></td></tr><tr><td><strong>流动性</strong></td><td>创建流动性 | 快速便捷</td><td>👉🏻<a href="https://www.gtokentool.com/liquidity">立即体验</a></td></tr><tr><td><strong>创建流动性并买入</strong></td><td>创建流动性并买入 | 抢占底部筹码</td><td>👉🏻<a href="https://www.gtokentool.com/createLiquidityAndBuy">立即体验</a></td></tr></tbody></table>
 
 ### 💲创建 IDO
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>创建 IDO</strong></td><td>创建 IDO | 私募预售</td><td>👉🏻<a href="https://www.gtokentool.com/idov2?chainId=97">立即体验</a></td></tr><tr><td><strong>管理 IDO</strong></td><td>管理 IDO | 高效管理</td><td>👉🏻<a href="https://www.gtokentool.com/idov2/list?chainId=97">立即体验</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>创建 IDO</strong></td><td>创建 IDO | 私募预售</td><td>👉🏻<a href="https://www.gtokentool.com/idov2">立即体验</a></td></tr><tr><td><strong>管理 IDO</strong></td><td>管理 IDO | 高效管理</td><td>👉🏻<a href="https://www.gtokentool.com/idov2/list">立即体验</a></td></tr></tbody></table>
 
 ### 💸创建挖矿
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>创建挖矿</strong></td><td>创建挖矿 | 高效便捷</td><td>👉🏻<a href="https://www.gtokentool.com/mining?chainId=97">立即体验</a></td></tr><tr><td><strong>创建质押 NFT</strong></td><td>创建质押 NFT | 快速安全</td><td>👉🏻<a href="https://www.gtokentool.com/pledgeNFT?chainId=97">立即体验</a></td></tr><tr><td><strong>NFT 铸造</strong></td><td>NFT 铸造 | 一键发币</td><td>👉🏻<a href="https://www.gtokentool.com/tokencreatenft?chainId=97">立即体验</a></td></tr><tr><td><strong>管理挖矿</strong></td><td>管理挖矿 | 高效管理</td><td>👉🏻<a href="https://www.gtokentool.com/tokencreatenft/list?chainId=97">立即体验</a></td></tr><tr><td><strong>挖矿列表</strong></td><td>挖矿列表 | 参与挖矿</td><td>👉🏻<a href="https://www.gtokentool.com/miningList?chainId=97">立即体验</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>创建挖矿</strong></td><td>创建挖矿 | 高效便捷</td><td>👉🏻<a href="https://www.gtokentool.com/mining">立即体验</a></td></tr><tr><td><strong>创建质押 NFT</strong></td><td>创建质押 NFT | 快速安全</td><td>👉🏻<a href="https://www.gtokentool.com/pledgeNFT">立即体验</a></td></tr><tr><td><strong>NFT 铸造</strong></td><td>NFT 铸造 | 一键发币</td><td>👉🏻<a href="https://www.gtokentool.com/tokencreatenft">立即体验</a></td></tr><tr><td><strong>管理挖矿</strong></td><td>管理挖矿 | 高效管理</td><td>👉🏻<a href="https://www.gtokentool.com/tokencreatenft/list">立即体验</a></td></tr><tr><td><strong>挖矿列表</strong></td><td>挖矿列表 | 参与挖矿</td><td>👉🏻<a href="https://www.gtokentool.com/miningList">立即体验</a></td></tr></tbody></table>
 
 ### 🤖市值管理
 
@@ -75,7 +75,7 @@ icon: eyes
 
 ### 🔒锁
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>创建锁</strong></td><td>创建代币锁 | 创建流动性锁</td><td>👉🏻<a href="https://www.gtokentool.com/createlock?chainId=97">立即体验</a></td></tr><tr><td><strong>代币锁</strong></td><td>管理代币锁 | 延长代币锁</td><td>👉🏻<a href="https://www.gtokentool.com/tokenlock?chainId=97">立即体验</a></td></tr><tr><td><strong>流动性锁</strong></td><td>管理流动性锁 | 延长流动性锁</td><td>👉🏻<a href="https://www.gtokentool.com/lplock?chainId=97">立即体验</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>创建锁</strong></td><td>创建代币锁 | 创建流动性锁</td><td>👉🏻<a href="https://www.gtokentool.com/createlock">立即体验</a></td></tr><tr><td><strong>代币锁</strong></td><td>管理代币锁 | 延长代币锁</td><td>👉🏻<a href="https://www.gtokentool.com/tokenlock">立即体验</a></td></tr><tr><td><strong>流动性锁</strong></td><td>管理流动性锁 | 延长流动性锁</td><td>👉🏻<a href="https://www.gtokentool.com/lplock">立即体验</a></td></tr></tbody></table>
 
 GTokenTool社群:
 
