@@ -2,6 +2,7 @@
 
 * [GTokenTool一键发币](README.md)
 * [功能总览](functions.md)
+* [新人发币100问：打破壁垒，避开坑](questions.md)
 * [TP手机发币教程](tp-shou-ji-fa-bi-jiao-cheng.md)
 * [联系我们](lian-xi-wo-men.md)
 * [代币怎么上头像logo？](dai-bi-zen-me-shang-tou-xiang-logo.md)
