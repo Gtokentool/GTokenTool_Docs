@@ -18,25 +18,35 @@ icon: user-lock
 
 进入Solana便捷冻结页面：[https://sol.gtokentool.com/zh-CN/airdropSection/ConvenientFreeze](https://sol.gtokentool.com/zh-CN/airdropSection/ConvenientFreeze)，右上角点击连接钱包并选择 Main 网络，这里用测试网演示。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-10-27_14-28-41.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-12-10_13-27-45.png" alt=""><figcaption></figcaption></figure>
 
 ### 2. 输入代币地址
 
 输入代币地址后，会显示代币简称以及权限地址是否与连接钱包相符。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-10-27_14-30-42.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-12-10_13-30-42.png" alt=""><figcaption></figcaption></figure>
 
 ### 3. 输入要拉黑的地址
 
-输入要拉黑的地址后，会显示拉黑地址的持币量。
+输入要拉黑的地址后，会显示拉黑地址的持币量以及冻结状态。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-10-27_14-43-55.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-12-10_13-33-08.png" alt=""><figcaption></figcaption></figure>
 
 ### 4. 点击“冻结”
 
-弹出钱包后点击"确认“，冻结成功后会弹出成功提示。
+弹出钱包后点击"确认“，冻结成功后会弹出成功提示，冻结状态也会变成`已冻结`。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-10-27_14-44-11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-12-10_13-39-18.png" alt=""><figcaption></figcaption></figure>
+
+### 5. 解除冻结
+
+若需要解除冻结，打开“`解除冻结`”开关，点击下方“`解除冻结`”按钮。
+
+<figure><img src="../../.gitbook/assets/Snipaste_2025-12-10_13-37-18.png" alt=""><figcaption></figcaption></figure>
+
+弹出钱包后点击"确认“，解除成功后会弹出成功提示，冻结状态也会变回`未冻结`。
+
+<figure><img src="../../.gitbook/assets/Snipaste_2025-12-10_13-41-41.png" alt=""><figcaption></figcaption></figure>
 
 [_**GTokenTool | 创建代币、批量空投和做市机器人等Solana工具集**_](https://sol.gtokentool.com)
 
