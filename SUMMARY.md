@@ -2,13 +2,13 @@
 
 * [GTokenTool一键发币](README.md)
 * [功能总览](functions.md)
-* [新人发币100问：打破壁垒，避开坑](questions.md)
-* [TP手机发币教程](tp-shou-ji-fa-bi-jiao-cheng.md)
+* [服务费用](fu-wu-fei-yong.md)
 * [联系我们](lian-xi-wo-men.md)
+* [新人发币100问：打破壁垒，避开坑](questions.md)
 * [代币怎么上头像logo？](dai-bi-zen-me-shang-tou-xiang-logo.md)
+* [TP手机发币教程](tp-shou-ji-fa-bi-jiao-cheng.md)
 * [域名解析教程](yu-ming-jie-xi-jiao-cheng.md)
 * [Uniswap添加流动性教程](uniswap-tian-jia-liu-dong-xing-jiao-cheng.md)
-* [服务费用](fu-wu-fei-yong.md)
 
 ## 第三方支付
 
