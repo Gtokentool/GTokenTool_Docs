@@ -15,6 +15,10 @@ icon: coins
 
 4.准备好翻墙软件（VPN/加速器），保证网络通畅
 
+## 视频教程
+
+{% embed url="https://youtu.be/VOwUVTgkgu8?si=HKuPSJwaLkg08YdT" %}
+
 ## 操作步骤
 
 ### 1.连接幻影钱包Phantom

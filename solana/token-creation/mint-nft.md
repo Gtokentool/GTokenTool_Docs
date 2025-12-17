@@ -4,9 +4,9 @@ icon: hexagon-vertical-nft
 
 # Solana NFT创建教程
 
-## 视频教程：
+## 视频教程
 
-{% embed url="https://youtu.be/3OfJzuG7sDc" %}
+{% embed url="https://youtu.be/6ZC8B5t1Qb8?si=qwP-sdUb3izH-Psy" %}
 
 ## Solana创建NFT准备事项
 

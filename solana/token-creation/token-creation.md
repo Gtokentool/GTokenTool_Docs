@@ -10,7 +10,7 @@ Solana 链上近期热度持续高升，很多用户都想尝试在 Solana 链�
 
 ## Solana发币视频演示
 
-{% embed url="https://youtu.be/10d8ZWXfUro" %}
+{% embed url="https://youtu.be/mn9crkzC3vs?si=t8B6hd5b8YZ32Qix" %}
 
 ## 如何使用 Solana 代币创建工具 <a href="#id-2cf5" id="id-2cf5"></a>
 

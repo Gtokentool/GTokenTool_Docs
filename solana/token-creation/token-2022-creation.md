@@ -9,7 +9,7 @@ Token2022代币说明文档：[https://spl.solana.com/token-2022](https://spl.so
 
 ## 视频演示
 
-{% embed url="https://youtu.be/j3MDQr8SXn4" %}
+{% embed url="https://youtu.be/_uG2YfnkbbM?si=LS8sMWPd410f9K1-" %}
 
 ## 准备事项
 
