@@ -2,7 +2,7 @@
 description: 无需代码，Solana代币一键克隆工具
 ---
 
-# 👣 Solana代币一键克隆教程
+# 👣 Solana代币克隆教程
 
 {% hint style="success" %}
 <mark style="color:blue;">**不用编程，轻松克隆现有的Solana代币，只需输入已有代币的合约地址，即可快速部署一个新的独立代币到Solana区块链上，简单、方便。**</mark>
@@ -12,7 +12,7 @@ description: 无需代码，Solana代币一键克隆工具
 
 ## 视频演示
 
-{% embed url="https://youtu.be/l-bd_u3wMwk" %}
+{% embed url="https://youtu.be/MtE9KJR7yBw" %}
 
 ## 准备事项
 

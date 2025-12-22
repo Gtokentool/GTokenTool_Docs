@@ -10,9 +10,7 @@
 
 ## 视频演示
 
-{% embed url="https://youtu.be/rRwUT9jSPCY" %}
-
-
+{% embed url="https://youtu.be/gRyFP1W362k" %}
 
 ## 准备事项
 
