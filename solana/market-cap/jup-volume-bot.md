@@ -6,7 +6,7 @@ icon: robot
 
 ## 视频演示
 
-{% embed url="https://youtu.be/yvLvmZFRODM" %}
+{% embed url="https://youtu.be/uO_NzeIGos8" %}
 
 ## 准备事项：
 
