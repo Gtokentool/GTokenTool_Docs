@@ -17,25 +17,27 @@ icon: lock-keyhole
 
 管理代币：[https://sui.gtokentool.com/zh-CN/Token/management](https://sui.gtokentool.com/zh-CN/Token/management)
 
-进入管理代币信息页面，右上角选择 Main 网络并连接钱包，建议使用 Suiet 钱包。这里使用测试网演示。
+进入管理代币信息页面，右上角选择 Main 网络并连接钱包，建议使用 Suiet 钱包。
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-09-08_13-24-53 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-12-22_10-48-22.png" alt=""><figcaption></figcaption></figure>
 
 ### 2. 选择代币并点击“权限控制”
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-09-08_13-50-42 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-12-22_10-49-30.png" alt=""><figcaption></figcaption></figure>
 
-点击“权限控制”后，进入放弃权限页面。
+点击“`权限控制`”后，进入放弃权限页面。
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-09-08_13-51-12 (1).png" alt=""><figcaption></figcaption></figure>
+### 3. 放弃权限
 
-### 3. 点击“放弃权限”
+进入页面后，选择对应的权限，点击“`确定`”。
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-09-08_13-52-08 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-12-22_10-44-47.png" alt=""><figcaption></figcaption></figure>
 
-弹出钱包后，点击“Approve”。交易成功会弹出提示。
+<figure><img src="../.gitbook/assets/Snipaste_2025-12-22_10-44-22.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-09-08_13-52-21 (1).png" alt=""><figcaption></figcaption></figure>
+弹出钱包后，点击“`Approve`”。交易成功会弹出提示。
+
+
 
 GTokenTool社群:
 
