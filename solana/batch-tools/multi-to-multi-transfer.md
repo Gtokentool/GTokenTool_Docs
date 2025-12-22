@@ -15,7 +15,7 @@ icon: list-timeline
 
 ## 视频演示
 
-{% embed url="https://youtu.be/6BvgrB9FSvE" %}
+{% embed url="https://youtu.be/vBxTNOHb1wE" %}
 
 ## 如何使用 Solana 多对多转账工具
 

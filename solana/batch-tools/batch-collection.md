@@ -9,7 +9,7 @@ icon: rectangle-history
 
 ## 视频演示
 
-{% embed url="https://youtu.be/bvdwrKYiASE" %}
+{% embed url="https://youtu.be/i-dLoyQJiQg" %}
 
 ## Solana批量归集教程
 

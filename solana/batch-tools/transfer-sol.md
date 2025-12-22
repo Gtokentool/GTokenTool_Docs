@@ -5,9 +5,9 @@ icon: list-tree
 
 # Solana批量转SOL教程
 
-## 批量转账视频操作教程
+## 批量转SOL视频操作教程
 
-{% embed url="https://www.youtube.com/watch?v=7WbdDzfv_20" %}
+{% embed url="https://youtu.be/PVf5q-ibwr8" %}
 
 ## 工具介绍
 
