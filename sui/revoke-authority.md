@@ -25,7 +25,7 @@ icon: lock-keyhole
 
 <figure><img src="../.gitbook/assets/Snipaste_2025-12-22_10-49-30.png" alt=""><figcaption></figcaption></figure>
 
-点击“`权限控制`”后，进入放弃权限页面。
+点击“`权限控制`”后，进入代币权限页面。
 
 ### 3. 放弃权限
 
