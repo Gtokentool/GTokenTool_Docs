@@ -6,9 +6,11 @@
 
 ## 2、填写开源参数
 
-<figure><img src="../.gitbook/assets/image (372).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-## 3、复制代币源代码
+
+
+## 3、下载代币源代码
 
 <figure><img src="../.gitbook/assets/image (373).png" alt=""><figcaption></figcaption></figure>
 

@@ -73,9 +73,9 @@ icon: face-monocle
 * 有些代币有权限，有些没有（例如标准代币）。假设你创建的代币拥有权限，那么这个权限默认就是支付发币费用的钱包地址。通过我们的控制台或者权限管理工具，就可以使用这些权限，或者放弃权限。
 * [Solana 管理代币](https://sol.gtokentool.com/zh-CN/Token/management)、[BSC 多链代币控制台](https://www.gtokentool.com/managetokens)。
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 14. 发币要配备什么钱包？
 
@@ -156,7 +156,7 @@ icon: face-monocle
 
 * 有些钱包不会直接显示代币，需要通过自定义添加代币的方式手动添加一下。
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 3. 发币后如何才能开源？验证合约代码？
 

@@ -10,7 +10,7 @@
 
 2\. 转到合约->编写合约->连接到 Web3 来连接您的钱包，您需要使用所有者地址。
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3\. Ctrl + F，搜索“exclude”，输入你的预售地址，点击“Write”，为预售地址排除费用、奖励、最大交易。
 
@@ -20,7 +20,7 @@
 
 如果看到排除（bool），请输入“True”。
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 _注意：有时合约中没有“排除”而是“豁免”，搜索“豁免”，然后输入您的预售地址，然后点击“写入”以排除预售地址的费用、奖励、最大交易。_
 
