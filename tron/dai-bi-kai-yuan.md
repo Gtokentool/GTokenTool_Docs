@@ -12,9 +12,9 @@
 
 ## 3、下载代币源代码
 
-<figure><img src="../.gitbook/assets/image (373).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (494).png" alt=""><figcaption></figcaption></figure>
 
-复制源代码，并创建文件保存，在upload Contract File(s)上传该文件。
+在upload Contract File(s)上传该文件。
 
 <figure><img src="../.gitbook/assets/image (374).png" alt=""><figcaption></figcaption></figure>
 
