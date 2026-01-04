@@ -24,7 +24,7 @@ icon: list-tree
 
 ### 2. 选择代币
 
-选择代币后，下方可以看到代币余额。
+选择代币后，下方可以看到代币余额（<mark style="color:purple;">不填默认转账SUI）</mark>。
 
 <figure><img src="../.gitbook/assets/Snipaste_2025-09-08_16-39-07.png" alt=""><figcaption></figcaption></figure>
 
@@ -36,9 +36,11 @@ icon: list-tree
 
 ### 4. 点击“发送交易”
 
+确认无误后，点击“`发送交易`”。
+
 <figure><img src="../.gitbook/assets/Snipaste_2025-09-08_14-18-36.png" alt=""><figcaption></figcaption></figure>
 
-弹出钱包后，点击“Approve”。交易成功后会弹出提示。
+弹出钱包后，点击“`Approve`”。交易成功后会弹出提示。
 
 <figure><img src="../.gitbook/assets/Snipaste_2025-09-08_14-18-47.png" alt=""><figcaption></figcaption></figure>
 
