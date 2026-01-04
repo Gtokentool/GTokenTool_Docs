@@ -14,32 +14,30 @@ description: https://gtokentool.com
 
 ### (1) 连接钱包
 
-进入创建页面：[https://www.gtokentool.com/bot](https://www.gtokentool.com/bot)，点击右上角，切换到主网（这里以BSC测试网为例)，并连接小狐狸钱包。
-
-<figure><img src="../.gitbook/assets/image (230).png" alt=""><figcaption></figcaption></figure>
+进入创建页面：[https://www.gtokentool.com/bot](https://www.gtokentool.com/bot)，点击右上角，切换到主网，并连接小狐狸钱包。
 
 完成后，会看到 “链名称” 和 您的“钱包地址” ，如下图：
 
-<figure><img src="../.gitbook/assets/image (231).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2026-01-04_15-38-33.png" alt=""><figcaption></figcaption></figure>
 
 ### (2) 输入信息
 
-假设开通一个周卡，输入如下：
+假设开通一个月卡，输入如下：
 
-开通类型：周卡会员
+* 钱包地址：默认为连接钱包地址
+* 开通类型：月卡会员
+* 推荐人地址：输入推荐人地址
 
-推荐人地址：0x46ed16F6BCb78d05d38E4765C10CF89e2a542D43
+点击“`开通会员`”按钮。
 
-点击“开通会员”按钮。
-
-<figure><img src="../.gitbook/assets/image (232).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2026-01-04_15-42-27.png" alt=""><figcaption></figcaption></figure>
 
 ### (3) 完成
 
 在小狐狸钱包上，支付gas费，就完成了。
 
-在箭头所指的位置，会显示会员剩余时间。
+点击“`查询会员到期时间`”，会显示会员剩余时间。
 
-<figure><img src="../.gitbook/assets/image (233).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2026-01-04_15-44-23.png" alt=""><figcaption></figcaption></figure>
 
 如有不明白或者不清楚的地方，请加入官方电报群：[https://t.me/gtokentool](https://t.me/gtokentool)
