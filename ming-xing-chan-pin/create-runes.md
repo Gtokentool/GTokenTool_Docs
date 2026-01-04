@@ -35,13 +35,13 @@ description: G TOKEN官网：https://www.gtokentool.com
 * 总铸造份数：100
 * 单地址限铸：1
 
-输入完成后，点击 “确认创建” 按钮。
+输入完成后，点击 “`确认创建`” 按钮。
 
 <figure><img src="../.gitbook/assets/Snipaste_2025-10-24_10-34-19.png" alt=""><figcaption></figcaption></figure>
 
 ### (3) 完成
 
-点击 “确认创建” ，在小狐狸钱包上支付gas费，就完成了。
+点击 “`确认创建`” ，在小狐狸钱包上支付gas费，就完成了。
 
 （注：因为每个用户网络速度不同，支付gas费用时可能会延迟1、2秒，属正常现象。）
 

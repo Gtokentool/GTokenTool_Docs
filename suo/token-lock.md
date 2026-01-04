@@ -18,9 +18,7 @@ description: https://www.gtokentool.com
 
 ### (1) 连接钱包
 
-进入页面：[https://www.gtokentool.com/createlock](https://www.gtokentool.com/createlock)，点击右上角，连接小狐狸钱包，并切换到主网（这里以BSC测试网为例)。
-
-<figure><img src="https://lh7-us.googleusercontent.com/y55Yo51W6alGW5plbnFNFnZwGfH_VEdpg5c6lE9GWnr-yj82l5jo81Ca23mHlznROmBMZ0nzzHXO_ddd-YX9dl-67xK58lBLg2BA_MYPDtoTeYsDHNHtqg6mBWOKETjK46Ckm81elvU-Z7U_KIu_RoA" alt=""><figcaption></figcaption></figure>
+进入页面：[https://www.gtokentool.com/createlock](https://www.gtokentool.com/createlock)，点击右上角，连接小狐狸钱包，并切换到主网。
 
 完成后，会看到 “链名称” 和 您的“钱包地址” ，如下图：
 
@@ -39,7 +37,7 @@ description: https://www.gtokentool.com
 
 ### (3)完成
 
-输入完成后，点击 “审批” 按钮，并在小狐狸上支付gas费用（下一步>批准>确认），就完成了。
+输入完成后，点击 “`审批`” 按钮，并在小狐狸上支付gas费用，就完成了。
 
 （注意：因为每个用户网络速度不同，支付gas费用时可能会延迟1、2秒，属正常现象。）
 

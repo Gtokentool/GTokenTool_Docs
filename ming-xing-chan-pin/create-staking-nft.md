@@ -32,11 +32,11 @@
 
 <figure><img src="../.gitbook/assets/Snipaste_2025-10-24_13-18-37.png" alt=""><figcaption></figcaption></figure>
 
-输入完成后，点击 “确认创建” 按钮。
+输入完成后，点击 “`确认创建`” 按钮。
 
 ### (3) 完成
 
-点击 “确认创建” ，在小狐狸钱包上支付gas费，就完成了。
+点击 “`确认创建`” ，在小狐狸钱包上支付gas费，就完成了。
 
 <figure><img src="../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
 

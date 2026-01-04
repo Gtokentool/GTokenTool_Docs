@@ -14,9 +14,7 @@ description: 全网最全的锁定流动性教程
 
 ### 第1步，连接钱包
 
-进入页面：[https://www.gtokentool.com/createlock](https://www.gtokentool.com/createlock)，点击右上角，连接小狐狸钱包，并切换到主网（这里以BSC测试网为例)。
-
-<figure><img src="https://lh7-us.googleusercontent.com/y55Yo51W6alGW5plbnFNFnZwGfH_VEdpg5c6lE9GWnr-yj82l5jo81Ca23mHlznROmBMZ0nzzHXO_ddd-YX9dl-67xK58lBLg2BA_MYPDtoTeYsDHNHtqg6mBWOKETjK46Ckm81elvU-Z7U_KIu_RoA" alt=""><figcaption></figcaption></figure>
+进入页面：[https://www.gtokentool.com/createlock](https://www.gtokentool.com/createlock)，点击右上角，连接小狐狸钱包，并切换到主网。
 
 完成后，会看到 “链名称” 和 您的“钱包地址” ，如下图：
 
@@ -34,7 +32,7 @@ description: 全网最全的锁定流动性教程
 
 * 代币地址：0x9cB153F97fBC6f9B34D6727E9a3F7efc7dF4120B
 * 交易对：BNB
-* 选择交易所：pancakeSwapTest  V2
+* 选择交易所：pancakeSwap  V2
 * 锁的名称：G TOKEN
 * 数量：100000
 * 解锁日期：2024-06-08 08:30
