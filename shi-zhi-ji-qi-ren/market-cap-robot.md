@@ -229,7 +229,7 @@ description: 全网最好的市值机器人，支持V2类型的swap
 * BSC: 0.0001 BNB
 * Arbitrum: 0.00003 ETH
 * Base: 0.00003 BSAE
-* Polygon: 0.01 POL
+* Polygon: 0.2 POL
 * X Layer: 0.001 OKB
 
 ### 6. 有哪些常见报错？
