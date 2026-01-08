@@ -10,11 +10,12 @@ description: 全网最好的市值机器人，支持V2类型的swap
 
 ## 市值机器人支持以下链及Swap
 
-* ETH：Uniswap V2、Uniswap V3
-* BSC：PancakeSwap V2、PancakeSwap V3、FOUR
-* ARB：Uniswap V2、Uniswap V3
-* BASE：Uniswap V2、Uniswap V3
-* Polygon：QuikSwap V2、Uniswap V2、Uniswap V3
+* ETH: Uniswap V2、Uniswap V3
+* BSC: PancakeSwap V2、PancakeSwap V3、FOUR
+* ARB: Uniswap V2、Uniswap V3
+* BASE: Uniswap V2、Uniswap V3
+* Polygon: QuikSwap V2、Uniswap V2、Uniswap V3
+* X Layer: PotatoSwap V2
 
 ## 市值机器人介绍 <a href="#id-1-jie-shao" id="id-1-jie-shao"></a>
 
@@ -163,7 +164,7 @@ description: 全网最好的市值机器人，支持V2类型的swap
 
 #### 生成钱包：
 
-点击“`生成钱包`”，输入生成钱包数量，点击“`确定`”。<mark style="color:purple;">注意：生成钱包会覆盖已存在的钱包，并无法找回。请务必保存好已存在的钱包私钥。免费使用。</mark>
+点击“`生成钱包`”，输入生成钱包数量，点击“`确定`”。<mark style="color:purple;">注意：生成钱包会覆盖已存在的钱包，并无法找回。请务必保存好已存在的钱包私钥。</mark><mark style="color:purple;background-color:purple;">免费使用。</mark>
 
 <figure><img src="../.gitbook/assets/Snipaste_2025-11-19_19-00-32.png" alt=""><figcaption></figcaption></figure>
 
@@ -183,19 +184,19 @@ description: 全网最好的市值机器人，支持V2类型的swap
 
 #### 单钱包卖出：
 
-点击对应钱包后的`卖出`按钮，可以单独卖出钱包内的所有代币。<mark style="color:purple;">费用与砸盘模式一致，会员免费。</mark>
+点击对应钱包后的`卖出`按钮，可以单独卖出钱包内的所有代币。<mark style="color:purple;">费用与砸盘模式一致，</mark><mark style="color:purple;background-color:purple;">会员免费。</mark>
 
 <figure><img src="../.gitbook/assets/Snipaste_2025-11-19_19-17-41.png" alt=""><figcaption></figcaption></figure>
 
 #### 一键清仓：
 
-点击”`一键清仓`“，可以卖出所有钱包内的代币。<mark style="color:purple;">费用与砸盘模式一致，会员免费。</mark>
+点击”`一键清仓`“，可以卖出所有钱包内的代币。<mark style="color:purple;">费用与砸盘模式一致，</mark><mark style="color:purple;background-color:purple;">会员免费。</mark>
 
 <figure><img src="../.gitbook/assets/Snipaste_2025-11-19_19-20-45.png" alt=""><figcaption></figcaption></figure>
 
 #### 归集：
 
-点击对应代币边上的归集按钮，可以将所有钱包内的代币归集到指定钱包。<mark style="color:purple;">免费使用。</mark>
+点击对应代币边上的归集按钮，可以将所有钱包内的代币归集到指定钱包。<mark style="color:purple;background-color:purple;">免费使用。</mark>
 
 <figure><img src="../.gitbook/assets/Snipaste_2025-11-19_19-23-01.png" alt=""><figcaption></figcaption></figure>
 
@@ -215,19 +216,21 @@ description: 全网最好的市值机器人，支持V2类型的swap
 
 ### 4. 不同链转账费用（会员减半）?
 
+* Ethereum: 0.002 ETH
 * BSC: 0.02 BNB
-* Arbitrum: 0 ETH
-* Ethereum: 0 ETH
-* Base: 0.005 BSAE
+* Arbitrum: 0.002 ETH
+* Base: 0.002 BSAE
 * Polygon: 0 POL
+* X Layer: 0.05 OKB
 
 ### 5. 不同链非会员费用？
 
+* Ethereum: 0.00003 ETH
 * BSC: 0.0001 BNB
 * Arbitrum: 0.00003 ETH
-* Ethereum: 0.00003 ETH
 * Base: 0.00003 BSAE
 * Polygon: 0.01 POL
+* X Layer: 0.001 OKB
 
 ### 6. 有哪些常见报错？
 
