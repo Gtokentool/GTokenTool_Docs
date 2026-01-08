@@ -6,7 +6,7 @@ description: 最详细的波宝钱包安装教程
 
 TronLink钱包的中文名称是波宝钱包，它是一款基于波场TRON的数字货币钱包，旨在为用户提供安全存储资产的作用，TronLink表示采用先进的安全措施来保护用户的数字资产免受未经授权的访问，交易处理快速可靠，该钱包可以进行多资产支持，例如TronLink支持广泛的基于TRON的数字资产，包括TRX、TRC10和TRC20代币。
 
-TronLink钱包
+TronLink钱包:
 
 * 去中心化自托管钱包，安全、透明、稳定
 * 全面支持 TRON 网络，深度支持质押机制
@@ -23,7 +23,7 @@ TronLink钱包
 
 或者通过链接，进入钱包插件安装界面，地址：
 
-[https://chromewebstore.google.com/detail/tronlink/ibnejdfjmmkpcnlpebklmnkoeoihofec?utm\_source=ext\_app\_menu](https://chromewebstore.google.com/detail/tronlink/ibnejdfjmmkpcnlpebklmnkoeoihofec?utm_source=ext_app_menu)进入插件安装页面，点击Add To Chrome（添加至Chrome）
+[https://chromewebstore.google.com/detail/tronlink/ibnejdfjmmkpcnlpebklmnkoeoihofec?utm\_source=ext\_app\_menu](https://chromewebstore.google.com/detail/tronlink/ibnejdfjmmkpcnlpebklmnkoeoihofec?utm_source=ext_app_menu) 进入插件安装页面，点击Add To Chrome（添加至Chrome）。
 
 <figure><img src="../.gitbook/assets/2 (10).png" alt=""><figcaption><p>添加至Chrome</p></figcaption></figure>
 

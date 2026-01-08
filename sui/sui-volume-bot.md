@@ -10,7 +10,7 @@ icon: robot
 2. 安装好Suiet钱包或者SuiWallet插件：[Suiet钱包安装](https://docs.gtokentool.com/sui/suiet-qian-bao-an-zhuang-jiao-cheng)、[Suiwallet钱包安装](https://docs.gtokentool.com/sui/sui-wallet-qian-bao-an-zhuang-shi-yong-jiao-cheng)
 3. 要进行批量交易的钱包私钥
 4. 批量交易所需代币
-5. 钱包内准备充足SUI，如果数量不够，会导致交易失败
+5. 钱包内准备充足SUI和底池代币，如果数量不够，会导致交易失败
 
 ## Sui链市值管理机器人操作流程
 

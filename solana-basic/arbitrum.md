@@ -20,7 +20,7 @@ Arbitrum 的实际应用在Sushiswap和Aave等 DeFi 平台中很明显，这些�
 
 进入 [https://app.uniswap.org/#/swap?chain=arbitrum](https://app.uniswap.org/#/swap?chain=arbitrum)
 
-切换钱包网路到arbitrum 连接钱包，打开v3流动池页面
+切换钱包网路到arbitrum 连接钱包，打开v3流动池页面。
 
 <figure><img src="../.gitbook/assets/1 (6).png" alt=""><figcaption></figcaption></figure>
 
@@ -47,5 +47,7 @@ Arbitrum 的实际应用在Sushiswap和Aave等 DeFi 平台中很明显，这些�
 <figure><img src="../.gitbook/assets/6 (2).png" alt=""><figcaption></figcaption></figure>
 
 以上就是关于Arbitrum添加流动性教程的全部内容，移除流动性也是非常简单的，在管理流动性的页面进行操作即可。
+
+
 
 如有不明白或者不清楚的地方，请加入官方电报群：[**https://t.me/gtokentool**](https://t.me/gtokentool)

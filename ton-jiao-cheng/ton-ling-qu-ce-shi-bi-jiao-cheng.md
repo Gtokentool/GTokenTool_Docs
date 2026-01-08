@@ -12,11 +12,11 @@ description: 全网最全的TON领取测试币教程
 
 <figure><img src="../.gitbook/assets/image (325).png" alt="" width="563"><figcaption></figcaption></figure>
 
-进入到电报（telegram）对话框，在底部点击“开始”。
+进入到电报（Telegram）对话框，在底部点击“开始”。
 
 <figure><img src="../.gitbook/assets/image (326).png" alt="" width="563"><figcaption></figcaption></figure>
 
-就会收到一条消息，然后选择“Get 5 TON intestnet”。
+就会收到一条消息，然后选择“Get 5 TON in testnet”。
 
 <figure><img src="../.gitbook/assets/image (327).png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -28,7 +28,7 @@ description: 全网最全的TON领取测试币教程
 
 <figure><img src="../.gitbook/assets/image (331).png" alt="" width="563"><figcaption></figcaption></figure>
 
-常见问题：
+**常见问题：**
 
 * 如果钱包里没收到测试币，请查看下有没有切换到测试网，在测试网才能看到。
 * 如果不会切换测试网，可以查看这个教程：[https://www.gtokentool.com/ton/tonkeeper-qian-bao-an-zhuang-jiao-cheng](https://www.gtokentool.com/ton/tonkeeper-qian-bao-an-zhuang-jiao-cheng)

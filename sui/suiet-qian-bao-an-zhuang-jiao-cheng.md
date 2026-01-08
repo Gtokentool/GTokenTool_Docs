@@ -5,9 +5,9 @@ icon: circle-down
 
 # Suiet钱包安装教程
 
-Suiet钱包是Sui生态最大的去中心化开源钱包，由第三方开发。和官方钱包相比，这个钱包的使用体验更好、100%开源、默认具备加密隐私服务等优势，但是目前该钱包只要浏览器插件版本的，没有应用程序App。
+Suiet 钱包是Sui生态最大的去中心化开源钱包，由第三方开发。和官方钱包相比，这个钱包的使用体验更好、100%开源、默认具备加密隐私服务等优势，但是目前该钱包只要浏览器插件版本的，没有应用程序App。
 
-如果大家觉得Sui Wallet钱包不好用，GtokenTool也推荐各位使用Suiet钱包。
+如果大家觉得Sui Wallet钱包不好用，GTokenTool也推荐各位使用Suiet钱包。
 
 ## 一、安装Suiet钱包插件 <a href="#yi-an-zhuang-suiet-qian-bao-cha-jian" id="yi-an-zhuang-suiet-qian-bao-cha-jian"></a>
 
