@@ -32,16 +32,18 @@ CFX 链通常指的是 Conflux Network 的主网，其原生代币称为 CFX。�
 
 依次填写代币信息，假设我们创建一个代币叫——“GTokenTool”，填写如下：
 
-<figure><img src="../.gitbook/assets/Screenshot (5).png" alt="填写CFX代币信息"><figcaption></figcaption></figure>
-
 * 代币全称：GTokenTool
-* 代币简称：G T
+* 代币简称：GT
 * 代币精度：18（小数点后的位数）
 * 总供应量：1000000（代币数量）
 
+<figure><img src="../.gitbook/assets/Screenshot (5).png" alt="填写CFX代币信息"><figcaption></figcaption></figure>
+
+填写完成后，点击“`创建`”。
+
 #### **(3) 完成CFX发币流程** <a href="#id-3-wan-cheng-bep20-fa-bi-liu-cheng" id="id-3-wan-cheng-bep20-fa-bi-liu-cheng"></a>
 
-点击 “确认创建” ，在小狐狸钱包支付gas费，就完成了。
+点击 “`确认创建`” ，在小狐狸钱包支付gas费，就完成了。
 
 （注：因为每个用户网络速度不同，支付gas费用时可能会延迟1、2秒，属正常现象。）
 

@@ -42,13 +42,13 @@ description: G TOKEN官网：https://www.gtokentool.com
 * 最小持币分红数量：10000
 * 分红的代币：TBNB
 
-输入完成后，点击 “创建”。
-
 <figure><img src="../.gitbook/assets/000 (13).jpg" alt=""><figcaption></figcaption></figure>
+
+输入完成后，点击 “`创建`”。
 
 ### (4) 完成
 
-点击 “确认创建” ，在小狐狸钱包支付gas费，就完成了。
+点击 “`确认创建`” ，在小狐狸钱包支付gas费，就完成了。
 
 <figure><img src="https://lh7-us.googleusercontent.com/2gPB4235RA3JrxC7b2iAyy4Catfo71ipNYMGr_eKbHXgo6DmWEGozyuW-e7MgEyjbwFY2GmzgERXwGC-bwJkpapgVVb6pHep93nyDNYoxHq9q46sBgH-DDu1diIIRMlI3dN2yuJZxHe2x36mItxy6H8" alt=""><figcaption></figcaption></figure>
 

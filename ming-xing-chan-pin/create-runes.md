@@ -35,9 +35,9 @@ description: G TOKEN官网：https://www.gtokentool.com
 * 总铸造份数：100
 * 单地址限铸：1
 
-输入完成后，点击 “`确认创建`” 按钮。
-
 <figure><img src="../.gitbook/assets/Snipaste_2025-10-24_10-34-19.png" alt=""><figcaption></figcaption></figure>
+
+输入完成后，点击 “`确认创建`” 按钮。
 
 ### (3) 完成
 

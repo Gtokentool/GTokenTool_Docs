@@ -4,11 +4,7 @@ description: https://gtokentool.com
 
 # 1️⃣ 市值会员
 
-## 1、介绍
-
-分别有日卡、周卡、月卡、10月卡等4种类型，满足不同用户的需求。
-
-## 2、操作步骤
+## 操作步骤
 
 提示：请先安装小狐狸钱包插件，教程：[https://docs.gtokentool.com/fu-zhu-xin-xi/metamask-installation](https://docs.gtokentool.com/fu-zhu-xin-xi/metamask-installation)
 

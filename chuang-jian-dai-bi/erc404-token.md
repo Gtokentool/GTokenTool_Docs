@@ -38,13 +38,13 @@ description: G TOKEN官网：https://www.gtokentool.com
 * 总供应量：1000000（代币数量）
 * 选择交易所：pancakeSwapTest V2
 
-输入完成后，点击 “创建”。
-
 <figure><img src="../.gitbook/assets/000 (18).jpg" alt=""><figcaption></figcaption></figure>
+
+输入完成后，点击 “`创建`”。
 
 ### (4) 完成
 
-点击 “确认创建” ，在小狐狸钱包支付gas费，就完成了。
+点击 “`确认创建`” ，在小狐狸钱包支付gas费，就完成了。
 
 （注：因为每个用户网络速度不同，支付gas费用时可能会延迟1、2秒，属正常现象。）
 

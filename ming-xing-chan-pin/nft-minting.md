@@ -31,9 +31,9 @@ NFT铸造指的是在区块链网络上初始创建一个非同质化代币的�
 * 参与铸造NFT代币：TBNB
 * 铸造NFT需 BNB：0.5
 
-输入完成后，点击 “`提交`” 按钮。
-
 <figure><img src="../.gitbook/assets/Snipaste_2025-10-24_11-17-20.png" alt=""><figcaption></figcaption></figure>
+
+输入完成后，点击 “`提交`” 按钮。
 
 ### (3) 完成
 

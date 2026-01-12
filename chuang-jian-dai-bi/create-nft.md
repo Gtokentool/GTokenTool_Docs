@@ -16,7 +16,7 @@
 
 ### 3. 点击创建NFT
 
-弹出弹窗，点击确认创建，弹出钱包确定。
+弹出弹窗，点击"`确认创建`"，弹出钱包确定。
 
 <figure><img src="../.gitbook/assets/image (431).png" alt=""><figcaption></figcaption></figure>
 

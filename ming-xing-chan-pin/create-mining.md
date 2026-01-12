@@ -38,9 +38,9 @@ description: G TOKEN官网：https://www.gtokentool.com
 * 最小质押数量：100
 * 邀请奖励(%)：1
 
-输入完成后，点击 “`确认创建`” 按钮。
-
 <figure><img src="../.gitbook/assets/Snipaste_2025-10-24_11-02-29.png" alt=""><figcaption></figcaption></figure>
+
+输入完成后，点击 “`确认创建`” 按钮。
 
 ### (3) 完成
 

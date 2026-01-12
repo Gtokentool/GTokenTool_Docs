@@ -53,7 +53,7 @@ BEP20被认为是Binance智能链的技术规范，其目标是为开发人员�
 <figure><img src="https://docs.gtokentool.com/~gitbook/image?url=https%3A%2F%2F1523574308-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaUD1j15UCzdjC6ftyzSr%252Fuploads%252FHa1M2SWWK9cpaCUl8o3C%252F6.png%3Falt%3Dmedia%26token%3D34c16d5a-786d-4bfb-93cc-48208847c7b2&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=d53ce64b&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
 * 代币全称：GTokenTool
-* 代币简称：G T
+* 代币简称：GT
 * 代币精度：18（小数点后的位数）
 * 总供应量：1000000（代币数量）
 
@@ -65,9 +65,11 @@ BEP20被认为是Binance智能链的技术规范，其目标是为开发人员�
 
 <figure><img src="https://docs.gtokentool.com/~gitbook/image?url=https%3A%2F%2F1523574308-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaUD1j15UCzdjC6ftyzSr%252Fuploads%252FghsWNPVMtRGt2iHaMddB%252F7.png%3Falt%3Dmedia%26token%3D699cc6dc-457a-4cfe-b172-320532b928ac&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=c45f7e6c&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
+填写完成后，点击“`创建`”。
+
 ### **(3) 完成**BEP20**发币流程**
 
-点击 “确认创建” ，在小狐狸钱包支付gas费，就完成了。
+点击 “`确认创建`” ，在小狐狸钱包支付gas费，就完成了。
 
 （注：因为每个用户网络速度不同，支付gas费用时可能会延迟1、2秒，属正常现象。）
 

@@ -35,7 +35,7 @@ ETH发币工具：[https://www.gtokentool.com/tokenfactory](https://www.gtokento
 <figure><img src="../.gitbook/assets/4 (22).png" alt=""><figcaption></figcaption></figure>
 
 * 代币全称：GTokenTool
-* 代币简称：G T
+* 代币简称：GT
 * 代币精度：18（小数点后的位数）
 * 总供应量：1000000（代币数量）
 
@@ -47,9 +47,11 @@ ETH发币工具：[https://www.gtokentool.com/tokenfactory](https://www.gtokento
 
 <figure><img src="../.gitbook/assets/5 (20).png" alt=""><figcaption></figcaption></figure>
 
+填写完成后，点击“`创建`”。
+
 ### **(3) 完成**
 
-点击 “确认创建” ，在小狐狸钱包支付gas费，就完成了。
+点击 “`确认创建`” ，在小狐狸钱包支付gas费，就完成了。
 
 （注：因为每个用户网络速度不同，支付gas费用时可能会延迟1、2秒，属正常现象。）
 

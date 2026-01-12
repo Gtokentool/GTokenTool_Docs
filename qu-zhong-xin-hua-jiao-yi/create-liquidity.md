@@ -24,7 +24,7 @@ description: 创建流动性教程
 
 ### 第2步，选择有效对
 
-点击 “创建流动性” 按钮。
+点击 “`创建流动性`” 按钮。
 
 <figure><img src="../.gitbook/assets/image (223).png" alt=""><figcaption></figcaption></figure>
 
@@ -32,7 +32,7 @@ description: 创建流动性教程
 
 <figure><img src="../.gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure>
 
-输入代币地址，点 “导入” 按钮。
+输入代币地址，点 “`导入`” 按钮。
 
 <figure><img src="../.gitbook/assets/image (219).png" alt=""><figcaption></figcaption></figure>
 
@@ -40,11 +40,11 @@ description: 创建流动性教程
 
 ### 第3步，输入信息
 
-输入代币数量，点击 “批准” 按钮。
+输入代币数量，点击 “`批准`” 按钮。
 
-TBNB：0.01&#x20;
+TBNB: 0.01&#x20;
 
-G T：100000
+G T: 100000
 
 （意思是0.01 TBNB = 100000 G T）
 

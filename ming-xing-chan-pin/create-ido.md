@@ -35,9 +35,9 @@ IDO指的是代币的首次发行。运用所有用户的资源和注意力来�
   1 级奖励 %：2
 * 收款地址：0x85165281fF434E7971fA6e41d3EE03353AD2Cf0F
 
-输入完成后，点击“`确定`”。
-
 <figure><img src="../.gitbook/assets/Snipaste_2025-10-24_10-48-44.png" alt=""><figcaption></figcaption></figure>
+
+输入完成后，点击“`确定`”。
 
 ### (3) 完成
 

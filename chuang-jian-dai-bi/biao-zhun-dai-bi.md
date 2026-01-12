@@ -18,7 +18,7 @@ description: 干净合约、方便上手、无税无功能、Ave检测全绿（G
 
 ### (1) 连接钱包
 
-进入创建页面：[https://www.gtokentool.com/tokenfactory](https://www.gtokentool.com/tokenfactory)，点击右上角，连接小狐狸钱包，并切换到主网（这里以BSC测试网为例)。
+进入创建页面：[https://www.gtokentool.com/tokenfactory](https://www.gtokentool.com/tokenfactory)，点击右上角，连接小狐狸钱包，并切换到主网。
 
 <figure><img src="../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
 
@@ -28,20 +28,20 @@ description: 干净合约、方便上手、无税无功能、Ave检测全绿（G
 
 ### (2) 填写您的代币信息
 
-依次填写代币信息，假设我们创建一个代币叫——“GTokenTool”，填写如下：
+依次填写代币信息，假设我们创建一个代币叫——“G TOKEN”，填写如下：
 
-* 代币全称：GTokenTool
+* 代币全称：G TOKEN
 * 代币简称：G T
 * 代币精度：18（小数点后的位数）
 * 总供应量：1000000（代币数量）
 
-输入完成后，点击“创建”。
-
 <figure><img src="../.gitbook/assets/image (215).png" alt=""><figcaption></figcaption></figure>
+
+输入完成后，点击“`创建`”。
 
 ### (3) 完成
 
-点击 “确认创建” ，在小狐狸钱包支付gas费，就完成了。
+点击 “`确认创建`” ，在小狐狸钱包支付gas费，就完成了。
 
 （注：因为每个用户网络速度不同，支付gas费用时可能会延迟1、2秒，属正常现象。）
 

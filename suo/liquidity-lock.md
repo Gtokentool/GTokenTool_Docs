@@ -22,7 +22,7 @@ description: 全网最全的锁定流动性教程
 
 ### 第 2 步，切换到创建流动性锁
 
-点击 “流动性”，进入 创建流动性锁 页面。
+点击 “`流动性`”，进入 创建流动性锁 页面。
 
 <figure><img src="https://lh7-us.googleusercontent.com/PGR8ZGq-0qZxiN96Vw7Z0EazMJhw9dJEptQNIbOCy_RpSfMJVs0bViE9eD814nJx0KhBP-IIFmlD3S_bHbP21in1s5_0sYGW4F6OugP-123TonDdefQqMnOXwcOXpycsPPOO2n7kbfN_LPHNKwC3VE4" alt=""><figcaption></figcaption></figure>
 
@@ -41,7 +41,7 @@ description: 全网最全的锁定流动性教程
 
 ### 第 4 步，完成
 
-输入完成后，点击 “审批” 按钮，并在小狐狸上支付gas费用（下一步-->批准-->确认），就完成了。
+输入完成后，点击 “`审批`” 按钮，并在小狐狸上支付gas费用（下一步-->批准-->确认），就完成了。
 
 （注：因为每个用户网络速度不同，支付gas费用时可能会延迟1、2秒，属正常现象。）
 

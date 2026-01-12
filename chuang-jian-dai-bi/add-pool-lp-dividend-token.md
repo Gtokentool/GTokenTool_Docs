@@ -41,27 +41,23 @@ description: 加池参与分红、池子越来越厚，币价螺旋上涨（G TO
 * 选择交易所：pancakeSwapTest V2
 * 分红的代币：TBNB
 
-输入完成后，点击 “创建”。
-
 <figure><img src="../.gitbook/assets/000 (14).jpg" alt=""><figcaption></figcaption></figure>
+
+输入完成后，点击 “`创建`”。
 
 ### (4) 完成
 
-点击 “确认创建” ，在小狐狸钱包支付gas费，就完成了。
+点击 “`确认创建`” ，在小狐狸钱包支付gas费，就完成了。
 
 <figure><img src="https://lh7-us.googleusercontent.com/yWjc92x3CtS5eHZwU90XKNwQjefbU53bAA_npiyP6AF1G5z1SlQv2Ke7QvwP0w809kWgfOhHlwRS0-GE--_Z8WlWuIw-DojrAFMsecuSiaz0zdrhjGUG7vwCFkexWrebB7LLZYulqwLp7dyjeb6sTo4" alt=""><figcaption></figcaption></figure>
 
 <mark style="background-color:red;">注意：</mark>
 
-1.LP分红代币发成功之后可以在控制台设置加，撤池子手续费（注意：加池子手续费最好跟卖税一样，不然用户可以通过机器人将卖税设置成与加池子手续费一样，比如卖税100，加池子手续费0，用户可以通过机器人将卖税变成0卖出代币）。
-
-2.<mark style="color:purple;">尾号前缀需要设置成e(小写，不要填0X,就写e)。</mark>
-
-3.撤池子手续费默认进合约地址后按设置的买卖手续费进行分红，有需要设置指定地址的可在控制台中-》移除LP接收地址处，输入你想接收的地址，比如填黑洞，那么移除LP的税就会进黑洞地址。
-
-4.如果需要设置不能设置撤池子，那移除LP的税就需要调整到100以上。
-
-5.对主币池子无效（比如BNB）。
+1. LP分红代币发成功之后可以在控制台设置加，撤池子手续费（注意：加池子手续费最好跟卖税一样，不然用户可以通过机器人将卖税设置成与加池子手续费一样，比如卖税100，加池子手续费0，用户可以通过机器人将卖税变成0卖出代币）。
+2. <mark style="color:purple;">尾号前缀需要设置成e(小写，不要填0X,就写e)。</mark>
+3. 撤池子手续费默认进合约地址后按设置的买卖手续费进行分红，有需要设置指定地址的可在控制台中->移除LP接收地址处，输入你想接收的地址，比如填黑洞，那么移除LP的税就会进黑洞地址。
+4. 如果需要设置不能设置撤池子，那移除LP的税就需要调整到100以上。
+5. 对主币池子无效（比如BNB）。
 
 代币创建完成之后，只能转账，还不能交易。要想使代币可以交易，需要前往PancakeSwap创建一个流动性资金池才可以。教程：[https://docs.gtokentool.com/qu-zhong-xin-hua-jiao-yi/create-liquidity](https://docs.gtokentool.com/qu-zhong-xin-hua-jiao-yi/create-liquidity)
 

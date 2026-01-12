@@ -56,9 +56,9 @@ description: 席卷全球创新玩法、无需swap即可兑换、交易冷却防
 * 最小持币分红数量：1000
 * 每小时燃烧底池（‰）：5
 
-输入完成后，点击“创建代币”并支付gas费，就完成了。
-
 <figure><img src="https://lh7-us.googleusercontent.com/8b8YwuccKdRGR7aP1j0k-ae-xjdyBDw7Ylspd1UZQxkG86WRUVu49i5MNrK_ELZVMN3nT9rgsuXcSGAar794UxHt2rLLULRwZ9ovb1BLUmQFREvBTo2qtaAOWrej4rQOCxFalzf9LgOJfAACh_KEaHk" alt="" width="563"><figcaption></figcaption></figure>
+
+输入完成后，点击“`创建代币`”并支付gas费，就完成了。
 
 ## 3、注意事项
 

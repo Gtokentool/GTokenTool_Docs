@@ -20,13 +20,13 @@ description: https://www.gtokentool.com/
 
 ### 第2步，兑换代币
 
-假设我们要将 0.01BNB 兑换成 CAKE，先选择交易对，再输入BNB数量，最后点击 “兑换” 按钮。
+假设我们要将 0.01BNB 兑换成 CAKE，先选择交易对，再输入BNB数量，最后点击 “`兑换`” 按钮。
 
 <figure><img src="https://lh7-us.googleusercontent.com/G2tIAysMe4NbtwjKa9Tbeskn2qpsaStIM2HqQH59T_obBrTDYltdpOl44nB5QuHbiKmwp1ZX-Ar_kOtl0GHUaGQAwJVi9I5ecHhyd-xcTdizPQ9citn5YzlaPmFcK2QoTXXnLXT9_-zC8E7F8To_goc" alt="" width="563"><figcaption></figcaption></figure>
 
 ### 第3步，完成
 
-确认信息无误，点击 “确认兑换” 按钮，在小狐狸上点击 “确认” 支付gas费，就完成了。
+确认信息无误，点击 “`确认兑换`” 按钮，在小狐狸上点击 “`确认`” 支付gas费，就完成了。
 
 （注：因为每个用户网络速度不同，支付gas费用时可能会延迟1、2秒，属正常现象。）
 

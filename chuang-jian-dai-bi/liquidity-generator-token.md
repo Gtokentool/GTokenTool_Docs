@@ -44,13 +44,13 @@ description: G TOKEN官网：https://www.gtokentool.com
 * 选择池底：TBNB
 * 选择交易所：pancakeSwapTest V2
 
-输入完成后，点击 “创建”。
-
 <figure><img src="../.gitbook/assets/000 (10).jpg" alt=""><figcaption></figcaption></figure>
+
+输入完成后，点击 “`创建`”。
 
 ### (4) 完成
 
-点击 “确认创建” ，在小狐狸钱包支付gas费，就完成了。
+点击 “`确认创建`” ，在小狐狸钱包支付gas费，就完成了。
 
 <figure><img src="https://lh7-us.googleusercontent.com/1kWxTs_DyVLEQZtRwEj8F2xnlf9wHXEuGPGBFqkDz0PSB6BVNcriMtfRX1Xtm8EbnmzgDi0i3wxWr8a5OxuR-SgmdZzEPNmKUJh7vL8voes-3V4j1yrJrpRJj-fz27t2whdoiXO_5q9KvHHuHqmPy-o" alt=""><figcaption></figcaption></figure>
 
