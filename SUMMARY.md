@@ -100,7 +100,7 @@
   * [PumpSwap 创建流动性并买入教程](solana/liquidity-management/pumpswap-create-liquidity-and-buy.md)
   * [Meteora DLMM 创建流动性教程](solana/liquidity-management/meteora-dlmm-create-liquidity.md)
 * [锁](solana/lock/README.md)
-  * [创建锁](solana/lock/create-lock.md)
+  * [创建锁教程](solana/lock/create-lock.md)
 * [辅助教程](solana/auxiliary-tutorial/README.md)
   * [幻影钱包Phantom安装教程](solana/auxiliary-tutorial/phantom-wallet-installation.md)
   * [Raydium V2创建流动性 移除流动性教程](solana/auxiliary-tutorial/raydium-v2-add-liquidity-remove-liquidity.md)
