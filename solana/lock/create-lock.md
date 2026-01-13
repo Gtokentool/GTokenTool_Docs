@@ -40,7 +40,7 @@
 
 弹出钱包后，点击确认。
 
-创建成功后可在管理锁页面查看。
+创建成功后可在[管理锁](https://sol.gtokentool.com/zh-CN/locks/managementLock)页面查看。
 
 <figure><img src="../../.gitbook/assets/Snipaste_2026-01-13_15-41-11.png" alt=""><figcaption></figcaption></figure>
 
