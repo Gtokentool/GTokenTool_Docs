@@ -9,7 +9,7 @@ icon: store
 
 {% embed url="https://youtu.be/9tVY3SnZRTo" %}
 
-Raydium上线代币市场之前，需要创建OpenBook Market ID，但是Raydium官方提供的链接创建需要花费 3-4 SOL。这成本使得我们对Solana发行代币望而却步。
+Raydium上线代币市场之前，需要创建OpenBook Market ID，但是Raydium官方提供的链接创建需要花费 3\~4 SOL。这成本使得我们对Solana发行代币望而却步。
 
 基于这个需求，GTokenTool开发出了低成本创建市场ID的工具，成本全网最低。
 
@@ -141,9 +141,9 @@ OpenBook 市场ID的价格，取决于多种参数，包括事件队列长度、
 
 如果没有保存ID, 可以在[Solscan浏览器](https://solscan.io/)的交易记录里查到，在哈希详情里就能看到自己的ID。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-26_11-11-14.png" alt=""><figcaption></figcaption></figure>
-
 也可以通过我们的[查询市场ID](https://sol.gtokentool.com/zh-CN/liquidityManagement/searchId)功能查询。
+
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-26_11-11-14.png" alt=""><figcaption></figcaption></figure>
 
 ## 常见问题 <a href="#chang-jian-wen-ti" id="chang-jian-wen-ti"></a>
 
@@ -159,7 +159,7 @@ GTokenTool每月有数千名活跃用户。此外，虽然该工具创建了您�
 
 为了提高流动性的利用率，Raydium的AMM与OpenBook市场整合，OpenBook订单簿可以共享AMM的资金池和做市商的流动性。任何OpenBook GUI上的用户都可以根据Raydium AMM的流动性进行交易。因此，当在Raydium上创建一个新的流动性池时，用户或项目将首先需要创建并提供一个OpenBook市场ID。
 
-### 4. 创建OpenBook ID 的 3-4 SOL的花费在哪些地方？
+### 4. 创建OpenBook ID 的 3\~4 SOL的花费在哪些地方？
 
 当创建一个新的OpenBook时，需要在Solana链上创建事件队列、请求队列、买卖订单队列，这些队列都是一个单独的Solana PDA账户，由于Solana的经济模型规定，创建账户空间需要支付一定的SOL代币作为租金使用，所以需要为这些队列支付昂贵的租金。
 

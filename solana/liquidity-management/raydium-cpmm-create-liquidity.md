@@ -23,7 +23,7 @@ icon: landmark-flag
 
 ### 1. 连接钱包
 
-进入 GTokenTool 创建流动性页面，右上角选择 Main 网络并连接钱包，这里用测试网演示。
+进入 GTokenTool 创建流动性页面，右上角选择 Main 网络并连接钱包。
 
 创建流动性： [https://sol.gtokentool.com/zh-CN/liquidityManagement/CreatePool](https://sol.gtokentool.com/zh-CN/liquidityManagement/CreatePool)
 

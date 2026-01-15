@@ -64,7 +64,7 @@ GTokenTool 支持用户创建AMM池、 AMM V4 池、CPMM 池、 CLMM 稳定池�
 
 ### 7. 点击“创建流动性”
 
-弹出钱包后，点击“确认”。
+弹出钱包后，点击“`确认`”。
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-11-14_16-02-38.png" alt=""><figcaption></figcaption></figure>
 

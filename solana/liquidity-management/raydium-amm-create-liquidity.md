@@ -27,7 +27,7 @@ Raydium AMM 流动性池，也叫 AMM V4，或者AMM V2，或者简称 V2 的池
 
 ### 1.连接钱包
 
-进入 GTokenTool 创建流动性页面，右上角选择 Main 网络并连接钱包，这里用测试网演示。
+进入 GTokenTool 创建流动性页面，右上角选择 Main 网络并连接钱包。
 
 创建流动性： [https://sol.gtokentool.com/zh-CN/liquidityManagement/CreatePool](https://sol.gtokentool.com/zh-CN/liquidityManagement/CreatePool)
 

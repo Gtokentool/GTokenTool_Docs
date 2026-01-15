@@ -29,7 +29,7 @@ WSOL兑换：[https://sol.gtokentool.com/zh-CN/walletManagement/WSOL](https://so
 
 ### 3. 点击“确定”
 
-点击“确定”，等待一会会弹出钱包。弹出钱包后，点击“Confirm”。
+点击“`确定`”，等待一会会弹出钱包。弹出钱包后，点击“`Confirm`”。
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-09-23_15-29-58.png" alt=""><figcaption></figcaption></figure>
 
@@ -47,7 +47,7 @@ WSOL兑换：[https://sol.gtokentool.com/zh-CN/walletManagement/WSOL](https://so
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-09-23_15-35-56.png" alt=""><figcaption></figcaption></figure>
 
-点击“确定”，弹出钱包后点击“Confirm”。
+点击“`确定`”，弹出钱包后点击“`Confirm`”。
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-09-23_15-37-38.png" alt=""><figcaption></figcaption></figure>
 

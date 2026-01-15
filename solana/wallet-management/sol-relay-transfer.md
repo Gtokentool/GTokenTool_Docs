@@ -43,7 +43,7 @@ SOL中转转账：[https://sol.gtokentool.com/zh-CN/walletManagement/relayTransf
 
 转出的 SOL 数量，最终到账的金额需要扣除转账 GAS 和服务费。
 
-每中转 100 个地址服务费仅需 0.01 SOL。
+<mark style="background-color:$warning;">每中转 100 个地址服务费仅需 0.01 SOL。</mark>
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-09-06_10-20-22.png" alt=""><figcaption></figcaption></figure>
 
