@@ -24,11 +24,11 @@ description: 全网最全的TON批量转账教程
 
 例如 0QCLBoC--JdBVhFdhhH9\_gjnlEi3xzmCAXKyLl1iOvZ5IeIG,10
 
-<figure><img src="../.gitbook/assets/ton4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2026-01-21_14-47-24.png" alt=""><figcaption></figcaption></figure>
 
 ### 3.点击发送
 
-弹出钱包确认框，点击确认，完成批量发送。
+弹出钱包确认框，点击`确认`，完成批量发送。
 
 
 

@@ -59,7 +59,7 @@ STON.fi 成立于 2022 年。它的目标是建立一个用户友好的加密货
 
 ### 1、连接钱包
 
-打开STON.fi的官网：[https://app.ston.fi/pools](https://app.ston.fi/pools) ，点击右上角Connect Wallet，连接钱包。
+打开STON.fi的官网：[https://app.ston.fi/pools](https://app.ston.fi/pools) ，点击右上角`Connect Wallet`，连接钱包。
 
 <figure><img src="../.gitbook/assets/1 (37).png" alt=""><figcaption></figcaption></figure>
 
@@ -73,7 +73,7 @@ STON.fi 成立于 2022 年。它的目标是建立一个用户友好的加密货
 
 ### 2、生成流动性
 
-点击页面的Add liquidity，并选择你要加池的代币。
+点击页面的`Add liquidity`，并选择你要加池的代币。
 
 <figure><img src="../.gitbook/assets/5 (22).png" alt=""><figcaption></figcaption></figure>
 
@@ -81,7 +81,7 @@ STON.fi 成立于 2022 年。它的目标是建立一个用户友好的加密货
 
 <figure><img src="../.gitbook/assets/6 (21).png" alt=""><figcaption></figcaption></figure>
 
-确认无误后，点击Confirm，会弹出钱包，钱包确认就可以了。
+确认无误后，点击`Confirm`，会弹出钱包，钱包确认就可以了。
 
 ## STON.fi生成流动性代币注意事项
 
