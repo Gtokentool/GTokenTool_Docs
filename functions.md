@@ -41,7 +41,7 @@ icon: eyes
 
 ### 🔒锁
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>创建锁</strong></td><td>创建锁 | 锁定代币 &#x26; LP</td><td>👉🏻<a href="https://sol.gtokentool.com/zh-CN/locks/createLock">立即体验</a></td></tr><tr><td><strong>管理锁</strong></td><td>管理锁 | 解锁代币</td><td>👉🏻<a href="https://sol.gtokentool.com/zh-CN/locks/managementLock">立即体验</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>创建锁</strong></td><td>创建锁 | 锁定代币 &#x26; LP</td><td>👉🏻<a href="https://sol.gtokentool.com/zh-CN/locks/createLock">立即体验</a></td></tr><tr><td><strong>管理锁</strong></td><td>管理锁 | 解锁代币 &#x26; LP</td><td>👉🏻<a href="https://sol.gtokentool.com/zh-CN/locks/managementLock">立即体验</a></td></tr></tbody></table>
 
 ## 🤑BSC 已上线功能
 
