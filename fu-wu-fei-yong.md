@@ -159,7 +159,7 @@ icon: comment-dollar
 * [租金回收](https://sol.gtokentool.com/zh-CN/walletManagement/rentRecovery)：5%手续费
 * [批量租金回收](https://sol.gtokentool.com/zh-CN/walletManagement/batchRentRecovery)：5%手续费
 * [一键清仓](https://sol.gtokentool.com/zh-CN/walletManagement/swapWalletAllToken)：1%手续费
-* [SOL中转转账](https://sol.gtokentool.com/zh-CN/batchTool/relayTransfer)：每中转100个地址仅需 0.01 SOL
+* [SOL中转转账](https://sol.gtokentool.com/zh-CN/batchTool/relayTransfer)：0.01 SOL/ 100个地址
 * [WSOL兑换](https://sol.gtokentool.com/zh-CN/walletManagement/WSOL)：限时免费
 * [创建市场ID](https://sol.gtokentool.com/zh-CN/liquidityManagement/createMarket)：0.06 SOL
 * [查询市场ID](https://sol.gtokentool.com/zh-CN/liquidityManagement/searchId)：免费
