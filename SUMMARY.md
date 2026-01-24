@@ -236,8 +236,8 @@
 
 ## 辅助信息
 
-* [1️⃣ 小狐狸MetaMask钱包安装教程](fu-zhu-xin-xi/metamask-installation.md)
-* [2️⃣ 测试币水龙头](fu-zhu-xin-xi/ce-shi-bi-shui-long-tou.md)
+* [小狐狸MetaMask钱包安装教程](fu-zhu-xin-xi/metamask-installation.md)
+* [测试币水龙头](fu-zhu-xin-xi/ce-shi-bi-shui-long-tou.md)
 * [X Layer代币开源验证教程](fu-zhu-xin-xi/x-layer-dai-bi-kai-yuan-yan-zheng-jiao-cheng.md)
 * [Ave检测怎么才能全绿?](fu-zhu-xin-xi/ave-check.md)
 

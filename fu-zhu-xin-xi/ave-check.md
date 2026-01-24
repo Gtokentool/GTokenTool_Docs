@@ -12,7 +12,7 @@ Ave检测全绿，指的是在Ave安全检测页面，没有任何风险，所�
 
 ### 1、标准合约自动全绿 <a href="#id-1-biao-zhun-he-yue-zi-dong-quan-l" id="id-1-biao-zhun-he-yue-zi-dong-quan-l"></a>
 
-通过GTokenTool创建标准合约，可以实现Ave检测自动全绿，创建地址：[https://www.gtokentool.com/tokenfactory?chainId=97](https://www.gtokentool.com/tokenfactory?chainId=97)
+通过GTokenTool创建标准合约，可以实现Ave检测自动全绿，创建地址：[https://www.gtokentool.com/tokenfactory?chainId=56](https://www.gtokentool.com/tokenfactory?chainId=56)
 
 ### 2、分红合约如何全绿？ <a href="#id-2-fen-hong-he-yue-ru-he-quanl" id="id-2-fen-hong-he-yue-ru-he-quanl"></a>
 

@@ -1,8 +1,9 @@
 ---
 description: 全网最详细的小狐狸MetaMask钱包教学
+icon: firefox
 ---
 
-# 1️⃣ 小狐狸MetaMask钱包安装教程
+# 小狐狸MetaMask钱包安装教程
 
 MetaMask是一款插件型（无需下载客户端）轻量级数字货币钱包，当然现在也有了app，需要google应用商店下载，主要用于Chrome谷歌浏览器和火狐浏览器Firefox，标志性logo为小狐狸头，辨识度非常高。MetaMask不存储用户的钱包数据，所有私钥由使用者自身持有和保管，非常安全，加上其对以太坊智能合约和Dapp的高度兼容，在开发者社区和资深用户中大受欢迎。
 
