@@ -1,5 +1,6 @@
 ---
 description: 在OKLink浏览器为X Layer代币开源
+icon: lock-open
 ---
 
 # X Layer代币开源验证教程
