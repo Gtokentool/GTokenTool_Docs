@@ -130,6 +130,7 @@ icon: comment-dollar
 * [跟卖机器人](https://sol.gtokentool.com/zh-CN/airdropSection/ReTran)：5%手续费
 * [自动冻结](https://sol.gtokentool.com/zh-CN/airdropSection/AutoFreeze)：5%手续费
 * [便捷冻结](https://sol.gtokentool.com/zh-CN/airdropSection/ConvenientFreeze)：0.05 SOL
+* [定向买入](https://sol.gtokentool.com/zh-CN/airdropSection/buyToDesignatedAddress)：0.0001 SOL
 * [创建预售](https://sol.gtokentool.com/zh-CN/presale/createPresale)：2%手续费
 * [创建代币](https://sol.gtokentool.com/zh-CN/Token/createToken)：0.08 SOL
 * [更新代币](https://sol.gtokentool.com/zh-CN/Token/management)：0.05 SOL
