@@ -23,7 +23,7 @@ Ave检测全绿，指的是在Ave安全检测页面，没有任何风险，所�
 
 如果管理员不搭理你，就意味着需要花钱上审计了。Ave在检测结果里，会给代币加一个“完成审计”的标志，默认加了审计的都会全绿。就是需要付费，价格100U左右。
 
-<figure><img src="../.gitbook/assets/image (495).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2026-01-26_16-32-26.png" alt=""><figcaption></figcaption></figure>
 
 ### 3、买入税率显示100%怎么解决？
 
