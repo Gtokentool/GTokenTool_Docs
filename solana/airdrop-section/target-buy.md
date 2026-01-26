@@ -34,7 +34,7 @@ icon: money-bill-trend-up
 
 ### 4. 导入付款钱包私钥
 
-钱包导入成功后，可以看到钱包地址、SOL余额以及要买入代币的余额。点击表格内刷新图标可以获取最新余额。<mark style="color:purple;background-color:purple;">全部费用由导入钱包支付。</mark>
+钱包导入成功后，可以看到钱包地址、SOL余额以及要买入代币的余额。点击表格内刷新图标可以获取最新余额。<mark style="color:purple;">全部费用由导入钱包支付。</mark>
 
 <figure><img src="../../.gitbook/assets/Snipaste_2026-01-26_11-55-10.png" alt=""><figcaption></figcaption></figure>
 
