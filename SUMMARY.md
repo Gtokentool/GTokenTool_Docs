@@ -241,6 +241,7 @@
 * [测试币水龙头](fu-zhu-xin-xi/ce-shi-bi-shui-long-tou.md)
 * [X Layer代币开源验证教程](fu-zhu-xin-xi/x-layer-dai-bi-kai-yuan-yan-zheng-jiao-cheng.md)
 * [Ave检测怎么才能全绿?](fu-zhu-xin-xi/ave-check.md)
+* [常见错误排查](fu-zhu-xin-xi/issues-and-fixes.md)
 
 ## SWAP添加流动性教程 <a href="#solana-basic" id="solana-basic"></a>
 
