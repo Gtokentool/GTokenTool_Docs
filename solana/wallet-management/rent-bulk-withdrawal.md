@@ -26,9 +26,9 @@
 
 Solana批量租金回收：[https://sol.gtokentool.com/zh-CN/walletManagement/batchRentRecovery](https://sol.gtokentool.com/zh-CN/walletManagement/batchRentRecovery)
 
-进入 GTokenTool 批量租金回收页面，在右上角选择 Main 网络并连接钱包，这里使用测试网演示。
+进入 GTokenTool 批量租金回收页面，在右上角选择 Main 网络并连接钱包。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-26_10-27-30.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2026-01-28_13-18-19.png" alt=""><figcaption></figcaption></figure>
 
 ### 2. 导入需要回收的钱包
 
@@ -42,21 +42,25 @@ Solana批量租金回收：[https://sol.gtokentool.com/zh-CN/walletManagement/ba
 
 <mark style="color:purple;">导入钱包后，可以查看钱包地址、所有账户数量、空账户数量、预估可回收领取的 SOL 数量以及领取状态。</mark>
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-26_10-31-09.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2026-01-28_14-06-43.png" alt=""><figcaption></figcaption></figure>
 
-### 3. 开启代付Gas（推荐）
+默认回收空账户，打开`关闭所有账户`后，可以回收所有账户。
 
-导入钱包私钥，可以看到钱包地址和余额。请确保钱包内余额充足。
+<figure><img src="../../.gitbook/assets/Snipaste_2026-01-28_13-20-52.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-26_10-36-14.png" alt=""><figcaption></figcaption></figure>
+### 3. 选择要回收的钱包
 
-### 4. 选择要回收的钱包
-
-空账户都是余额为0，没有任何用处的，请放心领取。关闭不会对钱包使用有任何的影响。
+空账户都是余额为0，没有任何用处的，请放心领取。关闭不会对钱包使用有任何的影响。<mark style="color:purple;">**非空账户回收会燃烧Token或NFT，请确保代币已无价值。**</mark>
 
 选中钱包后，可以看到选中账户可领取的SOL。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-26_10-37-56.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2026-01-28_13-21-17.png" alt=""><figcaption></figcaption></figure>
+
+### 4. 开启代付Gas（推荐）
+
+导入钱包私钥，可以看到钱包地址和余额。请确保钱包内余额充足。
+
+<figure><img src="../../.gitbook/assets/Snipaste_2026-01-28_13-22-36.png" alt=""><figcaption></figcaption></figure>
 
 ### 5. 回收SOL到指定钱包地址
 
@@ -64,13 +68,17 @@ Solana批量租金回收：[https://sol.gtokentool.com/zh-CN/walletManagement/ba
 
 如果不填写则默认回收租金 SOL 至对应钱包。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-26_10-41-23.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2026-01-28_13-23-09.png" alt=""><figcaption></figcaption></figure>
 
 ### 6. 确认回收等待批量回收租金完成
 
 <mark style="color:purple;">回收前需要确保待回收账户中有一些 SOL 用于支付链上 GAS，如无 GAS 将会回收失败。</mark>如果使用代付Gas，则无需考虑，只需确保代付钱包余额充足。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-26_10-42-27.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2026-01-28_13-23-32.png" alt=""><figcaption></figcaption></figure>
+
+执行完成后，可以点击`刷新钱包`查看是否回收成功。
+
+<figure><img src="../../.gitbook/assets/Snipaste_2026-01-28_13-24-00.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 **提醒：**
