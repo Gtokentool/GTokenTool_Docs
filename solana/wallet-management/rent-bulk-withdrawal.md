@@ -44,7 +44,7 @@ Solana批量租金回收：[https://sol.gtokentool.com/zh-CN/walletManagement/ba
 
 <figure><img src="../../.gitbook/assets/Snipaste_2026-01-28_14-06-43.png" alt=""><figcaption></figcaption></figure>
 
-默认回收空账户，打开`关闭所有账户`后，可以回收所有账户。
+默认回收空账户，打开`关闭所有账户`后，可以回收所有账户（<mark style="color:purple;">价值币不会被回收</mark>）。
 
 <figure><img src="../../.gitbook/assets/Snipaste_2026-01-28_13-20-52.png" alt=""><figcaption></figcaption></figure>
 
