@@ -53,9 +53,9 @@ Logo：图片最大不能超过1M
 
 ### 第5步，税收设置（选填）
 
-税收分配总计要为100%，可设置分红最低余额以及接收钱包。
+税收分配总计要为100%，可设置分红资格最低余额（最小：10000 代币）以及接收钱包。
 
-<figure><img src="../.gitbook/assets/Snipaste_2026-01-30_17-01-49.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2026-02-02_16-30-10.png" alt=""><figcaption></figcaption></figure>
 
 ### 第6步，导入钱包
 
