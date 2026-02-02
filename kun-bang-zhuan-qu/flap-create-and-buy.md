@@ -25,7 +25,7 @@ icon: butterfly
 
 进入页面：[https://www.gtokentool.com/flap](https://www.gtokentool.com/flap)，点击右上角，连接[小狐狸钱包](../fu-zhu-xin-xi/metamask-installation.md)，并切换到币安链主网。完成后，会看到 “链名称” 和 您的“钱包地址” ，如下图：
 
-<figure><img src="../.gitbook/assets/Snipaste_2026-01-30_16-52-14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2026-02-02_15-14-31.png" alt=""><figcaption></figcaption></figure>
 
 ### 第2步，填写信息并上传图片
 
