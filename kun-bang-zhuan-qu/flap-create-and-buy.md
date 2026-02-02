@@ -1,5 +1,5 @@
 ---
-icon: link
+icon: butterfly
 ---
 
 # Flap创建代币并捆绑买入教程
@@ -27,11 +27,9 @@ icon: link
 
 <figure><img src="../.gitbook/assets/Snipaste_2026-01-30_16-52-14.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-10-11_10-44-54.png" alt=""><figcaption></figcaption></figure>
-
 ### 第2步，填写信息并上传图片
 
-假设我们创建一个代币名称为蝴蝶内盘创建并买入的代币，填写信息如下：
+假设我们创建一个代币名称为"蝴蝶内盘创建并买入"的代币，填写信息如下：
 
 Logo：图片最大不能超过1M
 
