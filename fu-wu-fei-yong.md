@@ -137,7 +137,7 @@ icon: comment-dollar
 * [更新代币](https://sol.gtokentool.com/zh-CN/Token/management)：0.05 SOL
 * [移除权限](https://sol.gtokentool.com/zh-CN/Token/management)：0.05 SOL
 * [代币快照](https://sol.gtokentool.com/zh-CN/Token/Snapshot)：免费
-* [克隆代币](https://sol.gtokentool.com/zh-CN/Token/cloneToken)：0.08 SOL
+* [克隆代币](https://sol.gtokentool.com/zh-CN/Token/cloneToken)：0.05 SOL
 * [Jup市值](https://sol.gtokentool.com/zh-CN/market/jupMarket)：0.001 SOL
 * [Raydium市值](https://sol.gtokentool.com/zh-CN/market/marketManagement)：0.001 SOL
 * [Pump市值](https://sol.gtokentool.com/zh-CN/market/pumpMarket)：0.001 SOL
