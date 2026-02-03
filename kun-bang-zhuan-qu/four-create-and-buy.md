@@ -37,29 +37,35 @@ Four.Meme 是BSC 上首个Meme 代币公平发布平台，旨在为部署者和�
 
 ### 第2步，填写信息并上传图片
 
-假设我们创建一个代币名称为GTokenTool一键发币的代币，填写信息如下：
+假设我们创建一个代币名称为“FOUR有税代币”的代币，填写信息如下：
 
 Logo：图片最大不能超过1M
 
-代币名称：GTokenTool一键发币
+代币名称：FOUR有税代币
 
-代币简称：一键发币
+代币简称：FOUR有税
 
 描述：GTokenTool——全网最强发币平台
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-10-11_10-25-06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2026-02-03_16-37-45.png" alt=""><figcaption></figcaption></figure>
 
 ### 第3步，选择募捐币种
 
-这里我选择BNB，也可以选择其他的币种（USDT、USD1、BUSD、DOGE、FIST）。
+这里我选择BNB，也可以选择其他的币种（USDT、USD1、BUSD、U、DOGE、FIST）。
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-10-11_10-30-16.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2026-02-03_16-47-32.png" alt=""><figcaption></figcaption></figure>
 
 ### 第4步，添加联系方式（选填）
 
 <figure><img src="../.gitbook/assets/Snipaste_2025-10-11_10-33-08.png" alt=""><figcaption></figcaption></figure>
 
-### 第5步，导入钱包
+### 第5步，设置税率（选填）
+
+税收分配总计要为100%，可设置分红资格最低余额（最小：1000000 代币）以及接收钱包。
+
+<figure><img src="../.gitbook/assets/Snipaste_2026-02-03_16-37-03.png" alt=""><figcaption></figcaption></figure>
+
+### 第6步，导入钱包
 
 手动复制填写，一行一个。
 
@@ -72,21 +78,21 @@ Logo：图片最大不能超过1M
 * <mark style="color:red;">建议您在使用涉及私钥的功能后，及时更换钱包。</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-10-11_10-42-48.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2026-02-03_16-41-23.png" alt=""><figcaption></figcaption></figure>
 
-### 第6步，设置买入金额
+### 第7步，设置买入金额
 
 可单独设置，也可批量添加。
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-10-11_10-35-54.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2026-02-03_16-38-38.png" alt=""><figcaption></figcaption></figure>
 
-### 第7步，点击“创建”
+### 第8步，点击“创建”
 
 点击“`创建`”，等待一会。创建成功后，下方会显示代币地址，可点击代币地址查看代币信息。
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-10-11_10-37-29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2026-02-03_16-39-01.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-10-11_10-38-32.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2026-02-03_16-39-36.png" alt=""><figcaption></figcaption></figure>
 
 这样Four.meme整个流程就结束了，后面大家就可以自行操作啦！
 
