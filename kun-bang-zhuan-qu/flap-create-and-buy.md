@@ -12,6 +12,10 @@ icon: butterfly
 [立即体验>>>](https://www.gtokentool.com/flap)
 {% endhint %}
 
+## 视频教程
+
+{% embed url="https://youtu.be/_ojrVjQIZ9g" %}
+
 ## **准备事项**
 
 1. 一台电脑或者一部手机
