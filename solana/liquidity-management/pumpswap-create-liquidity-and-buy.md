@@ -29,7 +29,7 @@ PumpSwap 是 Solana 生态中的去中心化交易所（DEX），其流动性池
 
 GTokenTool 支持用户创建AMM池、 AMM V4 池、CPMM 池、 CLMM 稳定池、PumpSwap池和 DLMM 稳定池，我们在这里选择 PumpSwap 池。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-11-14_15-39-38.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2026-02-07_10-17-51.png" alt=""><figcaption></figcaption></figure>
 
 ### 3. 选择要创建流动性池的交易对 <a href="#id-2.-xuan-ze-yao-chuang-jian-liu-dong-xing-chi-de-jiao-yi-dui" id="id-2.-xuan-ze-yao-chuang-jian-liu-dong-xing-chi-de-jiao-yi-dui"></a>
 
@@ -48,6 +48,8 @@ GTokenTool 支持用户创建AMM池、 AMM V4 池、CPMM 池、 CLMM 稳定池�
 
 ### 5. 导入小号优先买入
 
+需要导入小号优先买入的话，必须关闭`将代币作为手续费`和`添加黑名单`。
+
 导入小号后，设置每个钱包买入的金额，可批量设置。
 
 {% hint style="warning" %}
@@ -56,21 +58,31 @@ GTokenTool 支持用户创建AMM池、 AMM V4 池、CPMM 池、 CLMM 稳定池�
 创建钱包需确保余额大于<mark style="color:purple;">入池金额 + （导入钱包个数 + 1）\* 0.08 SOL + 创建池子费用 0.01 SOL + Jito捆绑小费+ 预留 0.01 SOL</mark> 。
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-11-14_15-56-15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2026-02-07_10-27-53.png" alt=""><figcaption></figcaption></figure>
 
-### 6. Jito捆绑小费设置
+### 6. 添加黑名单
+
+<mark style="color:purple;">注意：开启添加黑名单后就不能导入小号买入。</mark>
+
+需要导入具有拉黑权限的私钥（不导入则默认为连接钱包）。
+
+最多支持拉黑 40 个地址，每个新地址需 0.002 SOL 开户费。已添加黑名单地址将不能购买。
+
+<figure><img src="../../.gitbook/assets/Snipaste_2026-02-07_10-20-34.png" alt=""><figcaption></figcaption></figure>
+
+### 7. Jito捆绑小费设置
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-11-14_15-59-42.png" alt=""><figcaption></figcaption></figure>
 
-### 7. 点击“创建流动性”
+### 8. 点击“创建流动性”
 
 弹出钱包后，点击“`确认`”。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-11-14_16-02-38.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2026-02-07_10-20-34 (1).png" alt=""><figcaption></figcaption></figure>
 
 创建成功后，会弹出池子地址，下面也会显示池子地址。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-11-14_16-04-30.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2026-02-07_10-20-08.png" alt=""><figcaption></figcaption></figure>
 
 [_**GTokenTool | 创建代币、批量空投和做市机器人等Solana工具集**_](https://sol.gtokentool.com/)
 
