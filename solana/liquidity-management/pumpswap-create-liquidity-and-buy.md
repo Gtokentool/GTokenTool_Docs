@@ -66,7 +66,9 @@ GTokenTool 支持用户创建AMM池、 AMM V4 池、CPMM 池、 CLMM 稳定池�
 
 需要导入具有拉黑权限的私钥（不导入则默认为连接钱包）。
 
+{% hint style="success" %}
 最多支持拉黑 40 个地址，每个新地址需 0.002 SOL 开户费。已添加黑名单地址将不能购买。
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/Snipaste_2026-02-07_10-20-34.png" alt=""><figcaption></figcaption></figure>
 
