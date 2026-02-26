@@ -30,7 +30,7 @@ icon: wave
 
 ### 4. 选择对应的DEX
 
-选择好后，下面会显示对应的池子信息以及我的持有量。
+选择好后，下面会显示对应的池子信息以及我的持有量。（支持 Raydium AMM、Raydium CPMM、Raydium CLMM、PumpFun Swap流动性池)
 
 <figure><img src="../../.gitbook/assets/Snipaste_2026-02-26_10-57-29.png" alt=""><figcaption></figcaption></figure>
 
