@@ -18,23 +18,31 @@ icon: wave
 
 移除流动性： [https://sol.gtokentool.com/zh-CN/liquidityManagement/remove](https://sol.gtokentool.com/zh-CN/liquidityManagement/remove)
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-26_13-07-43.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2026-02-26_10-36-30.png" alt=""><figcaption></figcaption></figure>
 
-### 2. 选择要移除的流动性池
+### 2. 输入基础代币地址
 
-选择流动性池后，出现显示池子地址、池子总量和我的数量。
+<figure><img src="../../.gitbook/assets/Snipaste_2026-02-26_10-51-13.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-26_13-09-37.png" alt=""><figcaption></figcaption></figure>
+### 3. 选择对应的报价代币
 
-### 3. 输入移除数量
+<figure><img src="../../.gitbook/assets/Snipaste_2026-02-26_10-51-00.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-26_13-10-21.png" alt=""><figcaption></figcaption></figure>
+### 4. 选择对应的DEX
+
+选择好后，下面会显示对应的池子信息以及我的持有量。
+
+<figure><img src="../../.gitbook/assets/Snipaste_2026-02-26_10-57-29.png" alt=""><figcaption></figcaption></figure>
+
+### 5. 输入移除数量
+
+<figure><img src="../../.gitbook/assets/Snipaste_2026-02-26_10-57-49.png" alt=""><figcaption></figcaption></figure>
 
 ### 4. 点击“移除流动性”
 
 弹出钱包后，点击“`Confirm`”，完成交易。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-26_13-11-24.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2026-02-26_10-57-59.png" alt=""><figcaption></figcaption></figure>
 
 ## 常见问题
 
