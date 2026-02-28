@@ -9,7 +9,7 @@ icon: eyes
 
 ### 🪂空投专区
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>跟卖机器人</strong></td><td>跟卖机器人 | 创建跟卖账户</td><td>👉🏻<a href="https://sol.gtokentool.com/zh-CN/airdropSection/ReTran">立即体验</a></td></tr><tr><td><strong>自动冻结</strong></td><td>自动冻结 | 系统自动拉黑账户</td><td>👉🏻<a href="https://sol.gtokentool.com/zh-CN/airdropSection/AutoFreeze">立即体验</a></td></tr><tr><td><strong>便捷冻结</strong></td><td>便捷冻结 | 预防恶意机器人</td><td>👉🏻<a href="https://sol.gtokentool.com/zh-CN/airdropSection/ConvenientFreeze">立即体验</a></td></tr><tr><td><strong>便捷冻结</strong></td><td>便捷冻结 | 预防恶意机器人</td><td>👉🏻<a href="https://sol.gtokentool.com/zh-CN/airdropSection/ConvenientFreeze">立即体验</a></td></tr><tr><td><strong>定向买入</strong></td><td>定向买入 | 提升策略隐蔽性</td><td>👉🏻<a href="https://sol.gtokentool.com/zh-CN/airdropSection/buyToDesignatedAddress">立即体验</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>跟卖机器人</strong></td><td>跟卖机器人 | 创建跟卖账户</td><td>👉🏻<a href="https://sol.gtokentool.com/zh-CN/airdropSection/ReTran">立即体验</a></td></tr><tr><td><strong>自动冻结</strong></td><td>自动冻结 | 系统自动拉黑账户</td><td>👉🏻<a href="https://sol.gtokentool.com/zh-CN/airdropSection/AutoFreeze">立即体验</a></td></tr><tr><td><strong>便捷冻结</strong></td><td>便捷冻结 | 预防恶意机器人</td><td>👉🏻<a href="https://sol.gtokentool.com/zh-CN/airdropSection/ConvenientFreeze">立即体验</a></td></tr><tr><td><strong>定向买入</strong></td><td>定向买入 | 提升策略隐蔽性</td><td>👉🏻<a href="https://sol.gtokentool.com/zh-CN/airdropSection/buyToDesignatedAddress">立即体验</a></td></tr></tbody></table>
 
 ### ⏰符文
 
