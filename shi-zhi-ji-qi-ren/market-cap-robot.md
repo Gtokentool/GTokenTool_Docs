@@ -11,7 +11,7 @@ description: 全网最好的市值机器人，支持V2类型的swap
 ## 市值机器人支持以下链及Swap
 
 * ETH: Uniswap V2、Uniswap V3
-* BSC: PancakeSwap V2、PancakeSwap V3、FOUR、Flap
+* BSC: PancakeSwap V2、PancakeSwap V3、PancakeSwap V4(CLAMM)、FOUR、Flap
 * ARB: Uniswap V2、Uniswap V3
 * BASE: Uniswap V2、Uniswap V3
 * Polygon: QuikSwap V2、Uniswap V2、Uniswap V3
