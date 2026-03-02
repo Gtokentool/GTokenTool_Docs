@@ -235,6 +235,7 @@
 * [6️⃣ 批量兑换(Swap)](kuai-jie-gong-ju/batch-swap.md)
 * [7️⃣ 批量检查钱包余额](kuai-jie-gong-ju/check-balance.md)
 * [8️⃣ 批量归集](kuai-jie-gong-ju/batch-collection.md)
+* [9️⃣ 代币快照](kuai-jie-gong-ju/token-snapshot.md)
 
 ## 辅助信息
 
