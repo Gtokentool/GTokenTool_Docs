@@ -18,7 +18,7 @@ description: 代币持有者快速筛选快照，数据参考，更好的进行�
 
 ### 3. 点击“查询”
 
-点击“查询”后，会显示代币的简称以及历史持币人数。
+点击“`查询`”后，会显示代币的简称以及历史持币人数。
 
 <figure><img src="../.gitbook/assets/Snipaste_2026-03-02_13-23-24.png" alt=""><figcaption></figcaption></figure>
 
