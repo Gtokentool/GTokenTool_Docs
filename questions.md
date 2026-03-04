@@ -193,7 +193,7 @@ icon: face-monocle
     * **自动显示：**&#x90E8;分平台（如 OKX 钱包）可能会默认显示 Solana 链头像；
     * **手动上传：**&#x90E8;分区块链（如 BSC、ETH）需手动上传头像，并提供官网、社交媒体等资料审核；
     * **数据接入：**&#x90E8;分平台（如 PancakeSwap、Trust 钱包）会接入 CMC、CG 数据。
-    * 上头像请找群管理员@xuxugege
+    * 上头像请找群管理员[@xuxugege](https://t.me/xuxugege)
 
     <figure><img src=".gitbook/assets/image (3).png" alt="" width="291"><figcaption></figcaption></figure>
 
