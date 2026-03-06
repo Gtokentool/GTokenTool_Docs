@@ -48,6 +48,34 @@ icon: user-lock
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-12-10_13-41-41.png" alt=""><figcaption></figcaption></figure>
 
+### 6. 批量冻结
+
+有批量冻结需求的话，可以打开`批量冻结`的开关。
+
+<figure><img src="../../.gitbook/assets/Snipaste_2026-03-06_10-37-43.png" alt=""><figcaption></figcaption></figure>
+
+可以设置冻结的条件，添加白名单。
+
+<figure><img src="../../.gitbook/assets/Snipaste_2026-03-06_10-49-59.png" alt=""><figcaption></figcaption></figure>
+
+点击“`查询代币`”，可以快速检测到代币的持有地址并填入下方。
+
+<figure><img src="../../.gitbook/assets/Snipaste_2026-03-06_10-51-13.png" alt=""><figcaption></figcaption></figure>
+
+若检测到异常地址也可以直接一键提取出来，。
+
+<figure><img src="../../.gitbook/assets/Snipaste_2026-03-06_10-44-55.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Snipaste_2026-03-06_10-45-24.png" alt=""><figcaption></figcaption></figure>
+
+检测到异常地址时开启`直接冻结代币账户`，其他时候不要开启。
+
+<figure><img src="../../.gitbook/assets/Snipaste_2026-03-06_10-47-46.png" alt=""><figcaption></figcaption></figure>
+
+然后就可以点击下方的`批量冻结`按钮了，钱包弹出后点击确认。
+
+
+
 [_**GTokenTool | 创建代币、批量空投和做市机器人等Solana工具集**_](https://sol.gtokentool.com)
 
 **安全、开源，给Solana用户带来最便利的一站式体验。**
