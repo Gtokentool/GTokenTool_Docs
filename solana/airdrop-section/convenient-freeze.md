@@ -62,7 +62,7 @@ icon: user-lock
 
 <figure><img src="../../.gitbook/assets/Snipaste_2026-03-06_10-51-13.png" alt=""><figcaption></figcaption></figure>
 
-若检测到异常地址也可以直接一键提取出来，。
+若检测到异常地址也可以直接一键提取出来。
 
 <figure><img src="../../.gitbook/assets/Snipaste_2026-03-06_10-44-55.png" alt=""><figcaption></figcaption></figure>
 
