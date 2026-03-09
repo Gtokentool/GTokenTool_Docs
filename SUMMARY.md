@@ -95,6 +95,7 @@
   * [🔍 OpenBook Market ID查询教程](solana/liquidity-management/openbook-market-id-query.md)
   * [Solana燃烧流动性池教程](solana/liquidity-management/burn-liquidity.md)
   * [Solana移除流动性教程](solana/liquidity-management/remove-liquidity.md)
+  * [Solana批量移除流动性教程](solana/liquidity-management/batch-remove-liquidity.md)
   * [Raydium AMM 创建流动性（加池子）教程](solana/liquidity-management/raydium-amm-create-liquidity.md)
   * [Raydium CPMM 创建流动性（加池子）教程](solana/liquidity-management/raydium-cpmm-create-liquidity.md)
   * [Solana 添加稳定币（CLMM）流动性教程](solana/liquidity-management/raydium-clmm-create-liquidity.md)
