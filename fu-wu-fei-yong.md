@@ -169,6 +169,7 @@ icon: comment-dollar
 * [燃烧代币](https://sol.gtokentool.com/zh-CN/liquidityManagement/burnToken)：0.01 SOL
 * [燃烧流动性](https://sol.gtokentool.com/zh-CN/liquidityManagement/burnToken)：0.01 SOL
 * [移除流动性](https://sol.gtokentool.com/zh-CN/liquidityManagement/remove)：0.005 SOL
+* [批量移除流动性](https://sol.gtokentool.com/zh-CN/liquidityManagement/batchRemove)：0.001 SOL
 * [创建锁](https://sol.gtokentool.com/zh-CN/locks/createLock)：0.02 SOL
 * [解锁代币](https://sol.gtokentool.com/zh-CN/locks/managementLock)：免费
 
