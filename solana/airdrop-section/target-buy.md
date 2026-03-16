@@ -10,7 +10,7 @@ icon: money-bill-trend-up
 1. 一台电脑或者一部手机
 2. Solana 钱包（[幻影钱包Phantom安装教程](https://docs.gtokentool.com/solana/auxiliary-tutorial/phantom-wallet-installation)）
 3. 买入代币地址以及指定钱包地址
-4. 请确保导入钱包有足够的基础代币
+4. 请确保导入钱包有足够的余额
 
 ## Solana定向买入具体操作流程
 
