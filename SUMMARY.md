@@ -101,6 +101,7 @@
   * [Solana 添加稳定币（CLMM）流动性教程](solana/liquidity-management/raydium-clmm-create-liquidity.md)
   * [PumpSwap 创建流动性并买入教程](solana/liquidity-management/pumpswap-create-liquidity-and-buy.md)
   * [Meteora DLMM 创建流动性教程](solana/liquidity-management/meteora-dlmm-create-liquidity.md)
+  * [Orca 创建稳定池教程](solana/liquidity-management/orca-create-stable-liquidity.md)
 * [锁](solana/lock/README.md)
   * [创建锁教程](solana/lock/create-lock.md)
 * [辅助教程](solana/auxiliary-tutorial/README.md)
