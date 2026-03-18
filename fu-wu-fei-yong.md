@@ -151,7 +151,7 @@ icon: comment-dollar
 * [Pump新地址买入(↑Holders)](https://sol.gtokentool.com/zh-CN/pump/pumpHolderMaker): 0.001 SOL
 * [Pump卖出并捆绑买入](https://sol.gtokentool.com/zh-CN/pump/pumpSellAndBuy)：0.005 SOL
 * [Pump迁移并买入](https://sol.gtokentool.com/zh-CN/pump/pumpMigrationAndBuy)：0.005 SOL
-* [Pump 创作者奖励](https://sol.gtokentool.com/zh-CN/pump/creatorFees)：5%
+* [Pump创作者奖励](https://sol.gtokentool.com/zh-CN/pump/creatorFees)：5%
 * [批量转SOL](https://sol.gtokentool.com/zh-CN/batchTool/batchTransfer/SOL)：0.004 SOL/每笔交易
 * [批量转代币](https://sol.gtokentool.com/zh-CN/batchTool/batchTransfer/Token)：0.004 SOL/每笔交易
 * [多对多转账](https://sol.gtokentool.com/zh-CN/batchTool/batchTransfer/ManyToManyTransfer)：0.001 SOL
