@@ -12,7 +12,7 @@ icon: comet
 
 1. 一台电脑或者一部手机
 2. Solana 钱包（[幻影钱包Phantom安装教程](https://docs.gtokentool.com/solana/auxiliary-tutorial/phantom-wallet-installation)）
-3. 钱包最少准备 **0.1 SOL**
+3. 钱包最少准备 **0.11 SOL**
 4. 要创建流动性池的代币
 
 ## Solana 创建 Meteora DAMM V2池子教程 <a href="#solana-chuang-jian-meteora-dlmm-chi-zi-jiao-cheng" id="solana-chuang-jian-meteora-dlmm-chi-zi-jiao-cheng"></a>
