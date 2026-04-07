@@ -33,7 +33,7 @@ description: >-
 
 ### 3、填写锁池/锁仓信息
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 **Token or LP Token Address：**&#x5C31;是你要锁仓/锁池的相关合约地址。
 
