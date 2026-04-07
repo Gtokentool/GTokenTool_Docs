@@ -28,7 +28,7 @@ icon: comment-dollar
 * [市值机器人](https://robotv2.gtokentool.com/#/marketbot)：0.0001 BNB（会员免费）
 * [FOUR创建并捆绑买入](https://www.gtokentool.com/bundle?chainId=97)：阶梯收费低至0.005 BNB/地址（10个（包含10个）及以下地址0.03 BNB/每地址，10个以上仅需0.005 BNB/地址）
 * [创建流动性并买入](https://www.gtokentool.com/createLiquidityAndBuy?chainId=97)：0.005 BNB/Address
-* [FOUR一键卖出](https://www.gtokentool.com/FourSell?chainId=97)：阶梯收费低至0.015 BNB/地址（10个以下地址0.02 BNB/地址，10个钱包以上0.015 BNB/地址）
+* [FOUR一键卖出](https://www.gtokentool.com/FourSell?chainId=97)：阶梯收费低至0.005 BNB/地址（10个以下地址0.008 BNB/地址，10个钱包以上0.005 BNB/地址）
 * [蝴蝶创建并捆绑买入](https://www.gtokentool.com/flap)：阶梯收费低至0.005 BNB/地址（10个（包含10个）及以下地址0.03 BNB/每地址，10个以上仅需0.005 BNB/地址）
 * [批量发送代币](https://www.gtokentool.com/sendertoken?chainId=97)：0.01 BNB / 200个地址
 * [增加持币地址](https://www.gtokentool.com/increaseAddr?chainId=97)：0.01 BNB
