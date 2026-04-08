@@ -1,5 +1,6 @@
 ---
 description: 全网最详细的Pump.fun市值管理机器人教程
+hidden: true
 icon: robot
 ---
 
