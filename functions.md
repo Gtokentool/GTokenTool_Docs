@@ -21,7 +21,7 @@ icon: eyes
 
 ### 🤖市值
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Jup 市值</strong></td><td>Jup 聚合交易 | 快速选择最佳路径</td><td>👉🏻<a href="https://sol.gtokentool.com/zh-CN/market/jupMarket">立即体验</a></td></tr><tr><td><strong>Raydium 市值</strong></td><td>Raydium 市值管理 | 多策略做市</td><td>👉🏻<a href="https://sol.gtokentool.com/zh-CN/market/marketManagement">立即体验</a></td></tr><tr><td><strong>Pump 市值</strong></td><td>Pump 市值管理 | 多策略做市</td><td>👉🏻<a href="https://sol.gtokentool.com/zh-CN/market/pumpMarket">立即体验</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Jup 市值</strong></td><td>Jup 聚合交易 | 快速选择最佳路径</td><td>👉🏻<a href="https://sol.gtokentool.com/zh-CN/market/jupMarket">立即体验</a></td></tr><tr><td><strong>Raydium 市值</strong></td><td>Raydium 市值管理 | 多策略做市</td><td>👉🏻<a href="https://sol.gtokentool.com/zh-CN/market/marketManagement">立即体验</a></td></tr><tr><td><strong>Pump 市值</strong></td><td>Pump 市值管理 | 多策略做市</td><td>👉🏻<a href="https://sol.gtokentool.com/zh-CN/market/jupMarket">立即体验</a></td></tr></tbody></table>
 
 ### 💊Pump
 

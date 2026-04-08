@@ -140,7 +140,7 @@ icon: comment-dollar
 * [克隆代币](https://sol.gtokentool.com/zh-CN/Token/cloneToken)：0.05 SOL
 * [Jup市值](https://sol.gtokentool.com/zh-CN/market/jupMarket)：0.001 SOL
 * [Raydium市值](https://sol.gtokentool.com/zh-CN/market/marketManagement)：0.001 SOL
-* [Pump市值](https://sol.gtokentool.com/zh-CN/market/pumpMarket)：0.001 SOL
+* [Pump市值](https://sol.gtokentool.com/zh-CN/market/jupMarket)：0.001 SOL
 * [市值月卡会员](https://sol.gtokentool.com/zh-CN/market/member)：3 SOL
 * [Pump开盘并买入](https://sol.gtokentool.com/zh-CN/pump/bundle)：0.02 SOL
 * [Bonk开盘并买入](https://sol.gtokentool.com/zh-CN/LetsBonk/createToken)：0.03 SOL
