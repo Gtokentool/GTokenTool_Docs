@@ -1,4 +1,5 @@
 ---
+description: 多地址捆绑批量交易，有效防止夹单卖出
 icon: up-from-bracket
 ---
 
