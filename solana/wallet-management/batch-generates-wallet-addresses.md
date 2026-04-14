@@ -42,6 +42,18 @@ Solana批量创建钱包地址：
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-08-25_16-48-02.png" alt=""><figcaption></figcaption></figure>
 
+## 常见问题 FAQ
+
+### Q: 创建的钱包是否带有私钥？如何导出？
+
+**A:** 是的。每个钱包都会自动生成对应私钥，可在操作完成后导出为 xlsx 文件，用于备份或后续操作。
+
+### Q: 这些钱包安全吗？是否会上传私钥？
+
+**A:** 安全。所有钱包生成与私钥处理均在本地浏览器执行，平台不会上传、保存或访问用户的任何私钥信息。
+
+
+
 [_**GTokenTool | 创建代币、批量空投和做市机器人等Solana工具集**_](https://sol.gtokentool.com)
 
 **安全、开源，给Solana用户带来最便利的一站式体验。**

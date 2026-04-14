@@ -75,6 +75,22 @@ PUMP（[https://pump.fun](https://pump.fun)）
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-08-25_15-01-45.png" alt=""><figcaption></figcaption></figure>
 
+## 常见问题 FAQ
+
+### Q: 克隆出来的代币合约地址 (CA) 会一样吗？
+
+**A:** 不一样。 在 Solana 区块链上，每个代币的合约地址（Mint Address）都是基于特定密钥对生成的，具有唯一性。即使元数据完全相同，克隆出的新代币也会拥有一个全新的、独一无二的合约地址。这意味着它是一个完全独立的项目，与原代币在链上没有任何资产关联。
+
+### Q: 克隆代币需要多少费用？
+
+**A:** 收费标准与普通代币创建一致。GTokenTool 收取 0.05 SOL 的平台服务费，用于维护工具的运行。此外，您还需要支付少量的 Solana 网络费和账户租金，这些是支付给 Solana 链上验证者的固定成本。
+
+### Q: 可以克隆 Token-2022的代币吗？
+
+**A:** 克隆工具主要针对SPL 代币的元数据复制，Token-2022 代币当然也可以。
+
+
+
 [_**GTokenTool | 创建代币、批量空投和做市机器人等Solana工具集**_](https://sol.gtokentool.com/)
 
 **安全、开源，给Solana用户带来最便利的一站式体验。**

@@ -69,6 +69,26 @@ Pump新地址买入：[https://sol.gtokentool.com/zh-CN/pump/pumpMakerBuyers](ht
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_13-52-53.png" alt=""><figcaption></figcaption></figure>
 
+## 常见问题 FAQ
+
+### Q: 新地址买入(↑Makers)是什么功能？
+
+**A:** 全自动创建新钱包地址，完成买入后自动转入主钱包并关闭账户。以极低成本提升指定币种的独立钱包购买数量，帮助您的项目数据在市场中脱颖而出。
+
+### Q: 为什么要用新地址而不是旧钱包？
+
+**A:** 避免将老地址的历史标签带入新图表，防止图表出现气泡、拉高警惕性。
+
+### Q: 可以设置多个新地址一起买入吗？
+
+**A:** 可以。支持批量生成并配置的多个地址一起进行分散买入操作。
+
+### Q: 我的私钥会被保存吗？
+
+**A:** 不会。GTokenTool 所有签名操作都在浏览器本地完成，不上传、不存储私钥，确保资金安全。
+
+
+
 [_**GTokenTool | 创建代币、批量空投和做市机器人等Solana工具集**_](https://sol.gtokentool.com)
 
 **安全、开源，给Solana用户带来最便利的一站式体验。**

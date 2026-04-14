@@ -55,7 +55,7 @@ icon: user-lock
 
 {% hint style="warning" %}
 若要补充代币，请先关闭跟踪。如果关闭失败，请刷新网页。\
-目前支持添加和跟踪 Raydium CLMM 的 USDC 池子，请确保跟踪钱包有足够的 SOL 和代币，少量的 USDC。
+目前支持添加和跟踪 Raydium CLMM 的 USDC 池子和 PumpFun Swap 的 SOL 池子，请确保跟踪钱包有足够的 SOL 和代币，少量的 USDC。
 {% endhint %}
 
 添加成功后，下面的表格里可以看到代币的信息。
@@ -101,6 +101,22 @@ icon: user-lock
 <figure><img src="../../.gitbook/assets/Snipaste_2025-09-05_14-18-50.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-09-05_14-18-59.png" alt=""><figcaption></figcaption></figure>
+
+## 常见问题 FAQ
+
+### Q: 自动冻结是怎么收费的？
+
+**A:** 每笔收取5%的手续费。
+
+### Q: 自动冻结支持那些DEX？
+
+**A:** 目前支持 Raydium CLMM 的 USDC 底池和 PumpFun Swap 的 SOL 底池。
+
+### Q: 自动冻结怎么设置 Telegram 播报？
+
+**A:** 根据[设置自动冻结播报教程](https://docs.gtokentool.com/solana/airdrop-section/solana-auto-freeze-tutorial)可以设置 Telegram 播报。
+
+
 
 [_**GTokenTool | 创建代币、批量空投和做市机器人等Solana工具集**_](https://sol.gtokentool.com)
 

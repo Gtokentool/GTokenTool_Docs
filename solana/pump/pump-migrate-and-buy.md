@@ -2,7 +2,7 @@
 icon: chart-mixed-up-circle-currency
 ---
 
-# Pump迁移并买入
+# Pump迁移并买入教程
 
 {% hint style="success" %}
 **Pump迁移并买入 | 抢占底部筹码 | 防狙击手套利**
@@ -73,6 +73,16 @@ Pump迁移并买入：[https://sol.gtokentool.com/zh-CN/pump/pumpMigrationAndBuy
 勾选钱包，点击“`Bundled Buy`”。交易成功会弹出提示“一键买入成功”。
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-09-01_14-01-36.png" alt=""><figcaption></figcaption></figure>
+
+## 常见问题 FAQ
+
+### Q: 迁移并买入是什么功能？
+
+**A:** Pump 代币内盘迁移到外盘并继续买入，帮助用户大量吸入底部筹码，防狙击手套利，助力收益最大化。
+
+### Q: 使用该功能能否百分之百防止科学家（Sniper）狙击？
+
+**A:** 该功能通过在同一个区块内完成"发射"和"买入"，理论上您是该代币在 Pump 外盘的第一个买家，没有给狙击机器人留出夹单的时间窗口。代币会直接以 Raydium 的初始价格面向公众，这极大地消除了内盘被低价抢筹的风险，是目前最有效的防狙击手段之一。
 
 
 

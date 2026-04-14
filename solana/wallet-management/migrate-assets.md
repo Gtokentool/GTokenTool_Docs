@@ -16,6 +16,16 @@ icon: hand-holding-circle-dollar
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-08-12_11-27-16.png" alt=""><figcaption></figcaption></figure>
 
+## 常见问题 FAQ
+
+### Q: Solana 资产迁移是什么？
+
+**A:** 将当前钱包内的 SOL、SPL 代币、NFT等资产，批量转移到新钱包 / 目标地址。
+
+### Q: 迁移会影响我代币本身吗？比如权限、持币权益？
+
+**A:** 不会。仅做资产地址划转，代币合约、持币分红、空投权益、LP 仓位、权限配置**完全不变**；只要不销毁 / 不卖币，持币权益正常保留。
+
 
 
 [_**GTokenTool | 创建代币、批量空投和做市机器人等Solana工具集**_](https://sol.gtokentool.com)

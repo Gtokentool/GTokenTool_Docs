@@ -171,6 +171,22 @@ icon: bullseye-arrow
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-08-23_14-43-00.png" alt=""><figcaption></figcaption></figure>
 
+## 常见问题 FAQ
+
+### Q: 跟卖机器人是怎么收费的？
+
+**A:** 每笔收取5%的手续费。
+
+### Q: 跟卖机器人支持那些DEX？
+
+**A:** 目前支持 Raydium CLMM 的 USDC 底池和 PumpFun Swap 的 SOL 底池。PumpFun Swap 池子目前只能播报，不能跟卖。
+
+### Q: 跟卖机器人怎么设置 Telegram 播报？
+
+**A:** 根据[设置跟卖播报教程](https://docs.gtokentool.com/solana/airdrop-section/set-up-follow-up-selling-broadcasts-tutorial)可以设置 Telegram 播报。
+
+
+
 [_**GTokenTool | 创建代币、批量空投和做市机器人等Solana工具集**_](https://sol.gtokentool.com)
 
 **安全、开源，给Solana用户带来最便利的一站式体验。**

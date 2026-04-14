@@ -87,6 +87,22 @@ SOL中转转账：[https://sol.gtokentool.com/zh-CN/walletManagement/relayTransf
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-09-24_13-38-25.png" alt=""><figcaption></figcaption></figure>
 
+## 常见问题 FAQ
+
+### Q: 中转转账和普通转账有何区别？
+
+**A:** 中转转账通过在发送者和接收者之间插入一组中间钱包，实现多条转账路径，从而提升隐私性，防止链上追踪。
+
+### Q: 我需要为每个中转钱包单独准备SOL吗？
+
+**A:** 不需要，系统自动生成中转钱包并执行转账，但你的手续费钱包需预留足够 SOL 用于支付每一笔转账的手续费。
+
+### Q: 中转过程安全吗？我能控制中转钱包吗？
+
+**A:** 所有中转钱包私钥将提供给用户保存，整个过程在本地或可信环境中执行，GTokenTool 不保留用户密钥，确保安全可控。
+
+
+
 [_**GTokenTool | 创建代币、批量空投和做市机器人等Solana工具集**_](https://sol.gtokentool.com)
 
 **安全、开源，给Solana用户带来最便利的一站式体验。**

@@ -56,6 +56,22 @@ icon: money-bill-trend-up
 
 <figure><img src="../../.gitbook/assets/Snipaste_2026-01-26_13-07-06.png" alt=""><figcaption></figcaption></figure>
 
+## 常见问题 FAQ
+
+### Q: 定向买入是什么功能？
+
+**A:** 定向买入代币到指定的地址，减小直接转账代币引发的风险。有效规避气泡图等不利标签检测，提升策略隐蔽性与优化空间。
+
+### Q: 定向买入支持那些 DEX？
+
+**A:** 目前Solana链绝大多数DEX均支持（Raydium AMM、Raydium CPMM、Raydium CLMM、Bonk、PumpFun、 PumpFun Swap、BoopFun、Moonit、Meteora(Believe)、Orca）。
+
+### Q: 定向买入费用是怎么收取的？
+
+**A:** 每笔收取0.0001 SOL，由导入的钱包支付。
+
+
+
 [_**GTokenTool | 创建代币、批量空投和做市机器人等Solana工具集**_](https://sol.gtokentool.com)
 
 **安全、开源，给Solana用户带来最便利的一站式体验。**

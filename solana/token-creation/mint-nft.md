@@ -94,6 +94,22 @@ icon: hexagon-vertical-nft
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-08-25_13-07-10.png" alt=""><figcaption></figcaption></figure>
 
+## 常见问题 FAQ
+
+### Q: Solana上发币需要合约开源吗？
+
+**A:** 不需要。Solana上的代币是通过官方发布好的合约创建出来的账户，所有的SPL代币用的都是一个合约。
+
+### Q: 为什么发币之后钱包显示未知代币/不显示logo?
+
+**A:** Phantom钱包有时候信息有延迟，需要一段时间才能显示logo和代币名称等信息。可以在Solana浏览器上搜索代币信息进行查看。
+
+### Q: 上传logo需要收费吗？
+
+**A:** 不需要，平台采用的是IPFS存储方案，免费上传。
+
+
+
 [_**GTokenTool | 创建代币、批量空投和做市机器人等Solana工具集**_](https://sol.gtokentool.com)
 
 **安全、开源，给Solana用户带来最便利的一站式体验。**

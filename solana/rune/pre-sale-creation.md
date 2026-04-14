@@ -46,6 +46,22 @@
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-08-23_15-17-20.png" alt=""><figcaption></figcaption></figure>
 
+## 常见问题 FAQ
+
+### Q: 在哪里查看已创建的符文？
+
+**A:** 在[管理符文](https://sol.gtokentool.com/zh-CN/presale/managementPresale)页面可以查看，注意连接对应的钱包。
+
+### Q: 符文创建后可以修改名称、供应量吗？
+
+**A:** 一旦上链不可修改。
+
+### Q: 创建符文是怎么收费的？
+
+**A:** 创建需要0.5 SOL左右 Solana 执行交易的费用，每卖出一份抽取收益的2%。
+
+
+
 [_**GTokenTool | 创建代币、批量空投和做市机器人等Solana工具集**_](https://sol.gtokentool.com)
 
 **安全、开源，给Solana用户带来最便利的一站式体验。**
