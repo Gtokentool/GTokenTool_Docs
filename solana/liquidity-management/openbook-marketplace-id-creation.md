@@ -145,7 +145,7 @@ OpenBook 市场ID的价格，取决于多种参数，包括事件队列长度、
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-08-26_11-11-14.png" alt=""><figcaption></figcaption></figure>
 
-## 常见问题FAQ <a href="#chang-jian-wen-ti" id="chang-jian-wen-ti"></a>
+## 常见问题 FAQ <a href="#chang-jian-wen-ti" id="chang-jian-wen-ti"></a>
 
 ### Q: 在GTokenTool上创建OpenBook ID安全吗？
 
