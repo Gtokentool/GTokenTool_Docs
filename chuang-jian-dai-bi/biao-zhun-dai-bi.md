@@ -51,6 +51,24 @@ description: 干净合约、方便上手、无税无功能、Ave检测全绿（G
 
 代币创建完成之后，只能转账，还不能交易。要想使代币可以交易，需要前往PancakeSwap创建一个流动性资金池才可以。教程：[https://docs.gtokentool.com/qu-zhong-xin-hua-jiao-yi/create-liquidity](https://docs.gtokentool.com/qu-zhong-xin-hua-jiao-yi/create-liquidity)
 
+## 常见问题 FAQ
+
+### Q: 代币小数位填多少合适？
+
+**A:** 通用默认 **18 位**，全网 DEX、钱包、交易所全部兼容；不建议修改为 6/9 位，容易导致交易、添加流动性出错。
+
+### Q: 代币总量怎么设置？
+
+**A:** 无固定限制，常用：1 万亿 / 100 万亿 / 10 亿；总量一旦部署**不可随意修改**，填写前确认好。
+
+### Q: 可以预留团队币、销毁部分初始代币吗？
+
+**A:** 可以。部署后可手动转账销毁、锁定团队份额；也可部署时直接写入销毁地址，减少流通量。
+
+### Q: 创建完代币怎么导入钱包？
+
+**A:** 复制代币合约地址，在 TP、小狐狸、Bitget 钱包内**自定义添加代币**，BSC 网络下粘贴地址即可自动识别余额。
+
 
 
 如有不明白或者不清楚的地方，请加入官方电报群：[https://t.me/gtokentool](https://t.me/gtokentool)

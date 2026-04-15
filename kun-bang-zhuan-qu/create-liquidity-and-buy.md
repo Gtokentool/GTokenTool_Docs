@@ -52,4 +52,16 @@ icon: water-arrow-down
 
 <figure><img src="../.gitbook/assets/Snipaste_2025-10-11_16-31-49.png" alt=""><figcaption></figcaption></figure>
 
+## 常见问题 FAQ
+
+### Q: 为什么创建流动性并捆绑买入会失败？
+
+**A:** 请确认钱包内底池代币余额是否充足，以覆盖加池，捆绑买入所需资金及 Gas 费用。
+
+### Q: 加池的代币数量和比例有要求吗？
+
+**A:** 没有强制限制。你可以根据代币经济模型、预期初始价格及市值目标灵活调整加池数量与比例。
+
+
+
 如有不明白或者不清楚的地方，请加入官方电报群：[**https://t.me/gtokentool**](https://t.me/gtokentool)

@@ -30,4 +30,20 @@
 
 <figure><img src="../.gitbook/assets/image (433).png" alt=""><figcaption></figcaption></figure>
 
+## 常见问题 FAQ
+
+### Q: BSC NFT 是什么？
+
+**A:** BSC NFT 是部署在币安智能链上的 **BEP721** 数字藏品，独一无二、链上永久存证，支持铸造、转账、挂售、质押，成本比以太坊更低。
+
+### Q: NFT 总发行量可以后期修改吗？
+
+**A:** 合约保留了管理员权限，可增发。
+
+### Q: NFT 可以自由转账给其他钱包吗？
+
+**A:** 完全可以，点对点转账仅消耗少量 BNB Gas，无额外手续费，流通自由。或者使用平台[批量发送 NFT](https://www.gtokentool.com/sendernft)功能，可批量发送 NFT 到多个地址。&#x20;
+
+
+
 如果还有不懂的，可以进入我们的官方群组，我们会耐心的为你解答：[https://t.me/gtokentool](https://t.me/gtokentool)

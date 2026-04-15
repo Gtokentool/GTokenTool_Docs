@@ -54,6 +54,24 @@ description: G TOKEN官网：https://www.gtokentool.com
 
 代币创建完成之后，只能转账，还不能交易。要想使代币可以交易，需要前往PancakeSwap创建一个流动性资金池才可以。教程：[https://docs.gtokentool.com/qu-zhong-xin-hua-jiao-yi/create-liquidity](https://docs.gtokentool.com/qu-zhong-xin-hua-jiao-yi/create-liquidity)
 
+## 常见问题 FAQ
+
+### Q: 什么是 ERC404 代币？
+
+**A:** ERC-404 是实验性混合代币标准，核心是ERC20 代币与 ERC721 NFT 自动双向绑定、互转，实现 “持币即持 NFT、碎片可交易、整币出 NFT”。<mark style="color:purple;">1 个完整 ERC404 代币 = 1 个对应 NFT；持有 ≥1 个代币自动得 NFT；卖出 / 拆分代币则 NFT 自动销毁。</mark>
+
+### Q: ERC404 和普通代币、NFT 有什么区别？
+
+**A: ERC20**：可拆分、无 NFT、流动性好、无收藏属性；**ERC721 NFT**：唯一、不可拆分、流动性差、有收藏 / 稀有度；**ERC404**：**同时具备两者**：可拆分交易（币）+ 满 1 枚自动出 NFT（藏品）。
+
+### Q: 我卖了一部分代币，NFT 怎么没了？
+
+**A:** 机制就是如此：余额从 1.0 → 0.9：**<1 → NFT 自动销毁，**&#x518D;买回到 ≥1：**自动重新 mint 新 NFT（属性 / 稀有度可能变）。**
+
+### **Q:** 可以只交易 NFT、不交易代币吗？
+
+**A:** 不行。**ERC404 是强绑定**：交易代币 → 自动影响 NFT；转移 NFT → 代币也会一起走；不能单独卖 NFT、单独留币。
+
 
 
 如有不明白或者不清楚的地方，请加入官方电报群：[https://t.me/gtokentool](https://t.me/gtokentool)
