@@ -6,7 +6,7 @@
 
 2.Solana 钱包（[幻影钱包Phantom安装教程](https://docs.gtokentool.com/solana/auxiliary-tutorial/phantom-wallet-installation)）
 
-3.钱包内最少准备0.03个SOL
+3.钱包内最少准备0.03 SOL
 
 4.要锁定的代币
 
@@ -43,6 +43,38 @@
 创建成功后可在[管理锁](https://sol.gtokentool.com/zh-CN/locks/managementLock)页面查看。
 
 <figure><img src="../../.gitbook/assets/Snipaste_2026-01-13_15-41-11.png" alt=""><figcaption></figcaption></figure>
+
+## 常见问题 FAQ
+
+### Q: 什么是锁流动性？
+
+**A:** 将 LP 代币托管锁定，无法随意转出、撤回资金，杜绝项目方撤池跑路。
+
+### Q: 锁定后还能交易吗？
+
+**A:** 可以，二级市场买卖正常，仅**不能移除流动性**。
+
+### Q: 锁仓可以提前解锁吗？
+
+**A:** 支持定时锁，到期可解锁，中途不可解。
+
+### Q: 为什么需要锁流动性？
+
+**A:** 增加项目信任度、减少砸盘风险、满足大盘收录基础条件。
+
+### Q: 锁错了可以撤回吗？
+
+**A:** 定时锁未到期**无法撤销**，操作前需核对。
+
+### Q: 不同 DEX 的 LP 都能锁吗？
+
+**A:** 主流全部支持：Raydium、CPMM、CLMM、Meteora、PumpSwap。
+
+### Q: 锁定会影响代币本身吗？
+
+**A:** 不会，只锁定 LP，代币转账、交易、持有完全不受限制。
+
+
 
 GTokenTool社群:
 

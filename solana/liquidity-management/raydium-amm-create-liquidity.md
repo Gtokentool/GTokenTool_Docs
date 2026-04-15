@@ -95,6 +95,26 @@ GTokenTool 提供了两种创建 Raydium AMM 流动性池的方式。
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-08-20_15-11-32.png" alt=""><figcaption></figcaption></figure>
 
+## 常见问题 FAQ
+
+### Q: 创建后能改 Market ID 吗？
+
+**A:** **不能**。链上绑定，错了只能**重建 ID + 重建池子**。
+
+### Q: Raydium AMM 支持 Token-2022 吗？
+
+**A:** **不支持**。仅支持传统 SPL；要用 Token-2022 选 **CPMM**。
+
+### Q: 一个 Market ID 对应几个池子？
+
+**A:** **一对一**。一个交易对（如 XXX/SOL）**一个 Market ID、一个 V4 池子**。
+
+### Q: V4 池子可以移除 / 燃烧流动性吗？
+
+**A:** 可以，和普通 AMM 一致：**移除退币、燃烧永久锁死**。
+
+
+
 [_**GTokenTool | 创建代币、批量空投和做市机器人等Solana工具集**_](https://sol.gtokentool.com/)
 
 **安全、开源，给Solana用户带来最便利的一站式体验。**

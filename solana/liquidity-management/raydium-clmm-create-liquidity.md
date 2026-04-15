@@ -3,7 +3,7 @@ description: 创建CLMM稳定池，让代币价格稳定
 icon: scale-balanced
 ---
 
-# Solana 添加稳定币（CLMM）流动性教程(2025年8月最新教程)
+# Solana 添加稳定币（CLMM）流动性教程
 
 ## Solana 稳定池介绍 <a href="#solana-jie-shao" id="solana-jie-shao"></a>
 
@@ -94,6 +94,30 @@ GTokenTool 为您提供了两种加池模式（默认为单币加池）：
 创建成功效果展示：
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-08-19_18-24-30.png" alt=""><figcaption></figcaption></figure>
+
+## 常见问题 FAQ
+
+### Q: Raydium CLMM 是什么？
+
+**A:** 需**手动选择价格区间**提供流动性，资金只在区间内活跃、**资金效率更高、手续费收益更高**；收到**LP-NFT（非同质化代币）** 代表仓位。<mark style="color:purple;">GTokenTool 对 Raydium CLMM 做了大幅简化：不用手动选价格区间、只填初始价 + 代币数量、支持单币加池。</mark>
+
+### Q: CLMM 支持 Token-2022 吗？
+
+**A:** **❌ 不支持**。仅兼容**传统 SPL 代币**；要用 Token-2022 必须选 **CPMM**。
+
+### Q: 创建 CLMM 池子需要 Market ID 吗？
+
+**A: ❌ 不需要**。无需 OpenBook/Serum 市场 ID，直接创建交易对池子。
+
+### Q: 初始价格设置后能改吗？
+
+**A:** **❌ 不能**。初始价格上链永久锁定，错了只能**重建池子**。
+
+### Q: 可以部分移除流动性吗？
+
+**A:** **✅ 可以**。支持按比例**部分赎回**，不用全退。
+
+
 
 [_**GTokenTool | 创建代币、批量空投和做市机器人等Solana工具集**_](https://sol.gtokentool.com/)
 

@@ -90,6 +90,30 @@ GTokenTool 为您提供了两种加池模式（默认为单币加池）：
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-11-14_14-35-01.png" alt=""><figcaption></figcaption></figure>
 
+## 常见问题 FAQ
+
+### Q: 什么是 DLMM？
+
+**A:** 动态流动性做市商（**Dynamic Liquidity Market Maker**），将流动性分散到**离散价格 Bin**，自动集中在活跃价格，**资本效率更高**。
+
+### Q: 支持 Token-2022 吗？
+
+**A:** ✅ 支持，但部分扩展（如转账钩子）需项目方申请 Badge。
+
+### Q: 加流动性要选区间吗？
+
+**A:** ❌ 不用手动设区间。**输入金额 + 价格范围**，自动分 Bin。
+
+### Q: 能部分撤池吗？
+
+**A:** ✅ 支持**部分赎回**，灵活管理仓位。
+
+### Q: 在 GTokenTool 用 DLMM 有什么不同？
+
+**A:** ✅ **无需手动选区间**✅ **仅填初始价格 + 存入数量**✅ **支持单币一键加池**✅ **自动分 Bin、自动再平衡**
+
+
+
 [_**GTokenTool | 创建代币、批量空投和做市机器人等Solana工具集**_](https://sol.gtokentool.com/)
 
 **安全、开源，给Solana用户带来最便利的一站式体验。**

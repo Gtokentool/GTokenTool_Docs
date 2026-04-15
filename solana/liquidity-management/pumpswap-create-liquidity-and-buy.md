@@ -86,6 +86,34 @@ GTokenTool 支持用户创建AMM池、 AMM V4 池、CPMM 池、 CLMM 稳定池�
 
 <figure><img src="../../.gitbook/assets/Snipaste_2026-02-07_10-20-08.png" alt=""><figcaption></figcaption></figure>
 
+## 常见问题 FAQ
+
+### Q: 什么是 PumpSwap？和 Pump.fun 什么关系？
+
+**A:** PumpSwap 是 Pump.fun 推出的原生 DEX，代币完成联合曲线（约 3–4 万美金市值）后**自动迁移**至此，无需手动迁移到 Raydium，**免 6 SOL 迁移费**。采用恒定乘积 AMM，交易对多为 **代币 / SOL**，也支持 USDT/USDC。
+
+### Q: 需要 Market ID 吗？
+
+**A:** 不需要，搭建流程比 Raydium 更简单。
+
+### Q: 支持 Token-2022 代币吗？
+
+**A:** 支持，兼容 Solana 主流两种代币标准。
+
+### Q: 可以单币加流动性吗？
+
+**A:** 不可以，必须按池子比例存入双币资产。
+
+### Q: 能否移除 / 燃烧流动性？
+
+**A:** 支持正常撤池拿回资产，也可燃烧 LP 永久锁池。
+
+### Q: 和 Raydium 有什么区别？
+
+**A:** 专为土狗 meme 币设计，自动迁移、操作简单、门槛更低。
+
+
+
 [_**GTokenTool | 创建代币、批量空投和做市机器人等Solana工具集**_](https://sol.gtokentool.com/)
 
 **安全、开源，给Solana用户带来最便利的一站式体验。**

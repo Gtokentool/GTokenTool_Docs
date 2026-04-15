@@ -58,6 +58,46 @@ GTokenTool 支持用户创建AMM池、 AMM V4 池、CPMM 池和 CLMM 稳定池�
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-08-20_15-21-53.png" alt=""><figcaption></figcaption></figure>
 
+## 常见问题 FAQ
+
+### Q: Raydium CPMM 是什么？
+
+**A:** Raydium 新一代恒定乘积池子，替代旧版 AMM V4，是目前主流新建池子模式。
+
+### Q: 创建 CPMM 需要 OpenBook Market ID 吗？
+
+**A:** 不需要，**完全无需 Market ID**，步骤更简单、成本更低。
+
+### Q: CPMM 支持 Token-2022 代币吗？
+
+**A:** 支持，同时兼容传统 SPL 代币；旧版 AMM V4 不支持 Token-2022。
+
+### Q: CPMM 可以设置初始价格吗？
+
+**A:** 可以，通过填入代币配比，自定义池子开盘价格。
+
+### Q: 为什么 CPMM 创建失败？
+
+**A:** 代币授权未开启、钱包 SOL 余额不足、Token2022 权限限制、RPC 节点卡顿。
+
+### Q: CPMM 流动性可以移除或燃烧吗？
+
+**A:** 支持正常移除流动性取回资产，也可一键燃烧 LP 永久锁池。
+
+### Q: 创建后可以修改池子参数吗？
+
+**A:** 价格、手续费等核心参数上链锁定，无法修改，错误需重建池子。
+
+### Q: CPMM 交易滑点、手续费高吗？
+
+**A:** 手续费规则公开透明，滑点表现稳定，适合 MEME、土狗常规流通使用。
+
+### Q: CPMM 会不会出现交易卡住、无法买卖？
+
+**A:** 只要创建交易上链成功、流动性充足，即可正常自由交易。
+
+
+
 [_**GTokenTool | 创建代币、批量空投和做市机器人等Solana工具集**_](https://sol.gtokentool.com/)
 
 **安全、开源，给Solana用户带来最便利的一站式体验。**
