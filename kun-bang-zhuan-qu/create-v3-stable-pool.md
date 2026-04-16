@@ -16,7 +16,7 @@ icon: water
 
 ### 1. 连接钱包
 
-进入[创建 V3 稳定池](https://www.gtokentool.com/stableSwap)页面，右上角点击`连接钱包`并选择币安主网。
+进入[创建 V3 稳定池](https://www.gtokentool.com/stableSwap)页面，右上角点击`连接钱包`并选择 BSC 主网。
 
 <figure><img src="../.gitbook/assets/Snipaste_2026-04-16_09-46-37.png" alt=""><figcaption></figcaption></figure>
 
