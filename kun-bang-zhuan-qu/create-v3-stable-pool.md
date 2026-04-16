@@ -61,3 +61,7 @@ icon: water
 ### Q: 池子安全吗？
 
 **A:** 合约安全；风险主要看项目方是否锁仓、放弃权限。
+
+
+
+如有不明白或者不清楚的地方，请加入官方电报群：[https://t.me/gtokentool](https://t.me/gtokentool)
