@@ -1,5 +1,5 @@
 ---
-description: 干净合约、方便上手、无税无功能、Ave检测全绿（G TOKEN官网：https://www.gtokentool.com）
+description: 一分钟快速创建代币，快速简单且便宜，无需任何编程，干净合约，无税无功能，一键发行你的专属代币！
 ---
 
 # 标准代币

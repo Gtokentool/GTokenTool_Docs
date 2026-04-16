@@ -1,5 +1,5 @@
 ---
-description: G TOKEN官网：https://www.gtokentool.com
+description: 交易手续费用于项目营销，实现资金回流反哺生态的代币
 ---
 
 # 营销回流代币

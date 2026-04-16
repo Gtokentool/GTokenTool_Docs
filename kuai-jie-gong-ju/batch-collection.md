@@ -1,3 +1,7 @@
+---
+description: 将多个钱包地址中的 BNB 或 BEP20 代币，一键批量汇总到指定主地址，高效统一管理资产。
+---
+
 # 8️⃣ 批量归集
 
 ## **准备事项**
@@ -50,7 +54,7 @@
 
 <figure><img src="../.gitbook/assets/Snipaste_2025-11-28_11-24-43.png" alt=""><figcaption></figcaption></figure>
 
-点击“导入钱包”，输入要归集的钱包私钥，一行一个。
+点击“`导入钱包`”，输入要归集的钱包私钥，一行一个。
 
 <figure><img src="../.gitbook/assets/Snipaste_2025-11-28_11-02-35.png" alt=""><figcaption></figcaption></figure>
 
@@ -67,6 +71,20 @@
 <figure><img src="../.gitbook/assets/Snipaste_2025-11-28_11-29-15.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Snipaste_2025-11-28_11-29-43.png" alt=""><figcaption></figcaption></figure>
+
+## 常见问题 FAQ
+
+### Q: 批量归集支持哪些资产？
+
+**A:** 支持归集 BSC 链上的 BNB，以及任意 BEP20 标准代币，单次只能选择一种资产进行归集。
+
+### Q: 地址填错了资产能找回吗？
+
+**A:** 链上交易不可逆，地址一旦提交上链无法撤回或篡改，使用前务必仔细核对接收地址。
+
+### Q: 手续费是多少？
+
+**A:** 批量归集是免费使用的，只需要支付Gas。因此，每个钱包需保留一些 BNB 用于支付 Gas，否则交易会失败。
 
 
 

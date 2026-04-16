@@ -218,7 +218,7 @@
 
 ## 锁
 
-* [1️⃣ 创建代币锁](suo/token-lock.md)
+* [1️⃣ 创建代币锁教程](suo/token-lock.md)
 * [2️⃣ 锁定流动性教程](suo/liquidity-lock.md)
 
 ## 去中心化交易

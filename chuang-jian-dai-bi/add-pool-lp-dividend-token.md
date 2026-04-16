@@ -1,5 +1,5 @@
 ---
-description: 加池参与分红、池子越来越厚，币价螺旋上涨（G TOKEN官网：https://www.gtokentool.com）
+description: 加池参与分红、池子越来越厚，币价螺旋上涨
 ---
 
 # 加池（LP分红代币）

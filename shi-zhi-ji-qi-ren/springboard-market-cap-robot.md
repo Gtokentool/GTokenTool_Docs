@@ -10,8 +10,6 @@
 
 ## 操作步骤
 
-提示：
-
 * 请先安装小狐狸钱包插件，教程：[https://docs.gtokentool.com/fu-zhu-xin-xi/metamask-installation](https://docs.gtokentool.com/fu-zhu-xin-xi/metamask-installation)
 * 请确保已经充值了市值机器人会员，充值教程：[https://docs.gtokentool.com/shi-zhi-ji-qi-ren](https://docs.gtokentool.com/shi-zhi-ji-qi-ren)
 

@@ -1,5 +1,5 @@
 ---
-description: https://gtokentool.com
+description: 开通市值会员体系，提升持有权益，强化长期价值赋能
 ---
 
 # 1️⃣ 市值会员
@@ -20,9 +20,9 @@ description: https://gtokentool.com
 
 假设开通一个月卡，输入如下：
 
-* 钱包地址：默认为连接钱包地址
-* 开通类型：月卡会员
-* 推荐人地址：输入推荐人地址
+* **钱包地址：**&#x9ED8;认为连接钱包地址
+* **开通类型：**&#x6708;卡会员
+* **推荐人地址：**&#x8F93;入推荐人地址
 
 点击“`开通会员`”按钮。
 
@@ -35,5 +35,25 @@ description: https://gtokentool.com
 点击“`查询会员到期时间`”，会显示会员剩余时间。
 
 <figure><img src="../.gitbook/assets/Snipaste_2026-01-04_15-44-23.png" alt=""><figcaption></figcaption></figure>
+
+## 常见问题 FAQ
+
+### Q: 开通市值会员有什么用？
+
+**A:** 可免费使用市值机器人，多链通用。
+
+### Q: 开通后立即生效吗？
+
+**A:** 支付上链确认后立即生效。
+
+### Q: 会员时长多久？
+
+**A:** 按月计算，到期自动失效。
+
+### Q: 会员功能有次数限制吗？
+
+**A:** 没有次数限制，开通即免费使用市值机器人。
+
+
 
 如有不明白或者不清楚的地方，请加入官方电报群：[https://t.me/gtokentool](https://t.me/gtokentool)

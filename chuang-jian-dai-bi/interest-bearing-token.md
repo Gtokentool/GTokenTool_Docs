@@ -1,5 +1,5 @@
 ---
-description: 持币自动生息、代币资产累积、打造去中心化银行（G TOKEN官网：https://www.gtokentool.com）
+description: 持币自动生息、代币资产累积、打造去中心化银行
 ---
 
 # 持币生息（复利）代币

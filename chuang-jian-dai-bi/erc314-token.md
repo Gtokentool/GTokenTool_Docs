@@ -1,5 +1,5 @@
 ---
-description: 席卷全球创新玩法、无需swap即可兑换、交易冷却防夹子（G TOKEN官网：https://www.gtokentool.com）
+description: 席卷全球创新玩法、无需swap即可兑换、交易冷却防夹子
 ---
 
 # ERC314代币

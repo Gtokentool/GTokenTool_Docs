@@ -1,5 +1,5 @@
 ---
-description: G TOKEN官网：https://www.gtokentool.com
+description: 实现 “持币即持 NFT、碎片可交易、整币出 NFT”
 ---
 
 # ERC404

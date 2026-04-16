@@ -1,8 +1,8 @@
 ---
-description: https://www.gtokentool.com
+description: 开启代币锁仓，夯实项目长期价值，稳定流通盘面
 ---
 
-# 1️⃣ 创建代币锁
+# 1️⃣ 创建代币锁教程
 
 ## 视频教程
 
@@ -28,10 +28,10 @@ description: https://www.gtokentool.com
 
 假设我们创建一个叫 “G TOKEN” 的代币锁，输入如下：
 
-* 代币地址：0x9cB153F97fBC6f9B34D6727E9a3F7efc7dF4120B
-* 锁的名称：G TOKEN
-* 数量：100000
-* 解锁日期：2024-06-08 08:30
+* **代币地址：**&#x30;x9cB153F97fBC6f9B34D6727E9a3F7efc7dF4120B
+* **锁的名称：**&#x47; TOKEN
+* **数量：**&#x31;00000
+* **解锁日期：**&#x32;024-06-08 08:30
 
 <figure><img src="https://lh7-us.googleusercontent.com/WdEOOeykQAjmcHjK5Xs7q7Se9aRwOEdkeYd_AThaYrfEFHhYXUIlSZpylvESgHpQy1XhmPab7kNJvdpgagOUivOD8FAYfPectwTTx8vtuArvZXOkf1yDUbFbmwMY6aNxonUiz3XCSMU14pvTirXjl5M" alt=""><figcaption></figcaption></figure>
 
@@ -43,7 +43,29 @@ description: https://www.gtokentool.com
 
 <figure><img src="https://lh7-us.googleusercontent.com/Wo4S4LNoMNr2T4CjDccplHFK8ExHRihXoIItSIx6wo-HEgLpJXp0i-fD3QRd-sYJ6W8zEHdg6E5D3TdbQcGo3WTS6O8sBebtsF_cBuFvR22GvH3GxcFwU-d_zNtr_TtJpFk9rw15eG2SDSnNIXis4ww" alt=""><figcaption></figcaption></figure>
 
-现在您可以在 “代币锁>我的锁”中 查看和管理了。
+现在您可以在 “代币锁>我的锁”中查看和管理了。
+
+## 常见问题 FAQ
+
+### Q: 代币锁仓是什么？
+
+**A:** 将代币锁定一段时间，到期才能提取。
+
+### Q: 锁仓后能提前解锁吗？
+
+**A:** 不能提前解锁。
+
+### Q: 锁仓时间能修改吗？
+
+**A:** 可以延长锁仓时间。
+
+### Q: 锁仓数据公开吗？
+
+**A:** 链上可查，支持浏览器核验。
+
+### Q: 忘记解锁时间怎么办？
+
+**A:** 连接对应钱包，在代币锁页面可以看到全部的代币锁以及解锁倒计时。
 
 \
 如有不明白或者不清楚的地方，请加入官方电报群：[https://t.me/gtokentool](https://t.me/gtokentool)

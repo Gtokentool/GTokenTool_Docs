@@ -26,4 +26,16 @@ description: https://www.gtokentool.com/
 
 <figure><img src="../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
 
+## 常见问题 FAQ
+
+### Q: 一次最多传多少？
+
+**A:** 平台有上限，最多4个。
+
+### Q: 上传收费吗？
+
+**A:** 免费使用。
+
+
+
 如有不明白或者不清楚的地方，请加入官方电报群：[https://t.me/gtokentool](https://t.me/gtokentool)

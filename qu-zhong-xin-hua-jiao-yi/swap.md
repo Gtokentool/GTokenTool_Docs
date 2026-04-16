@@ -32,4 +32,28 @@ description: https://www.gtokentool.com/
 
 <figure><img src="https://lh7-us.googleusercontent.com/wEy8d5XN1KJr8hlJjApte1SmFMN9h5y6ZeB8H6xQm1Vdp0ru_jI9NDgWAHUGLU0N0ot8if81E1i2cLO95n63xMl_yX_Rxof9-F35ePoTZS7fYWA_itGnQ6Xh3LNcLxFe5Oz9KY5GSgqojWZAHPsSayw" alt="" width="563"><figcaption></figcaption></figure>
 
+## 常见问题 FAQ
+
+### Q: 兑换支持那些币？
+
+**A:** 支持 BSC 链上主流币与代币互兑。
+
+### Q: 兑换需要授权吗？
+
+**A:** 首次兑换需授权，后续不用。
+
+### Q: 兑换有手续费吗？
+
+**A:** 仅收链上 Gas，部分合约含交易税。
+
+### Q: 为什么兑换数量变少？
+
+**A:** 受滑点、代币税率、池子深度影响。
+
+### Q: 兑换失败怎么办？
+
+**A:** 提高滑点、增加 Gas 或小额重试。
+
+
+
 如有不明白或者不清楚的地方，请加入官方电报群：[https://t.me/gtokentool](https://t.me/gtokentool)

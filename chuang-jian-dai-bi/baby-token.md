@@ -1,5 +1,5 @@
 ---
-description: G TOKEN官网：https://www.gtokentool.com
+description: 按持币份额分配交易手续费 / 项目收益的分红型代币
 ---
 
 # 持币分红代币

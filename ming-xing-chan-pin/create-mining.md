@@ -1,5 +1,5 @@
 ---
-description: G TOKEN官网：https://www.gtokentool.com
+description: 搭建质押挖矿系统，丰富通证应用场景，增强用户粘性。
 ---
 
 # 3️⃣ 创建质押挖矿
@@ -28,15 +28,15 @@ description: G TOKEN官网：https://www.gtokentool.com
 
 假设我们创建一个15天的质押挖矿，填写如下：
 
-* 开始：2024-10-24 11:00:00
-* 时长：15
-* 质押代币(LP代币)：0x5B81C9bfFa3BF83D889809B97923aF76f5065b29
-* 奖励代币：0x54E2294950B350e59Fa8fee5056811960623224d
-* 所有权地址：默认为钱包地址
-* 每日奖励数量：0.05
-* 最大质押数量：1000
-* 最小质押数量：100
-* 邀请奖励(%)：1
+* **开始：**&#x32;024-10-24 11:00:00
+* **时长：**&#x31;5（天）
+* **质押代币(LP代币)：**&#x30;x5B81C9bfFa3BF83D889809B97923aF76f5065b29
+* **奖励代币：**&#x30;x54E2294950B350e59Fa8fee5056811960623224d
+* **所有权地址：**&#x9ED8;认为钱包地址
+* **每日奖励数量：**&#x30;.05
+* **最大质押数量：**&#x31;000
+* **最小质押数量：**&#x31;00
+* **邀请奖励(%)：**&#x31;
 
 <figure><img src="../.gitbook/assets/Snipaste_2025-10-24_11-02-29.png" alt=""><figcaption></figcaption></figure>
 
@@ -51,5 +51,25 @@ description: G TOKEN官网：https://www.gtokentool.com
 （注意：因为每个用户网络速度不同，支付gas费用时可能会延迟1、2秒，属正常现象。）
 
 <figure><img src="../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
+
+## 常见问题 FAQ
+
+### Q: 质押后什么时候开始计息？
+
+**A:** 一般质押上链后立即或次日 0 点开始计息。
+
+### Q: 收益是什么代币？
+
+**A:** 可设置为项目币、BNB、USDT 等，创建时自定义。
+
+### Q: 收益多久发放一次？
+
+**A:** 按天自动发放，可以实时提取。
+
+### Q: 质押有锁仓吗？
+
+**A:** 可自定义锁仓时间。
+
+
 
 如有不明白或者不清楚的地方，请加入官方电报群：[https://t.me/gtokentool](https://t.me/gtokentool)

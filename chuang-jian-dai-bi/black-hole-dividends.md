@@ -1,5 +1,5 @@
 ---
-description: G TOKEN官网：https://www.gtokentool.com
+description: 交易手续费打入黑洞地址销毁，间接为持币者分红的通缩型代币
 ---
 
 # 黑洞分红代币发币教程

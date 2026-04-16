@@ -1,5 +1,5 @@
 ---
-description: 持有指定NFT可享受分红 （G TOKEN官网：https://www.gtokentool.com）
+description: 同时为 NFT 持有者和 LP 提供双重分红的复合型代币
 ---
 
 # NFT分红代币

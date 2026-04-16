@@ -1,5 +1,5 @@
 ---
-description: G TOKEN官网：https://www.gtokentool.com
+description: 启动 NFT 铸造，限量发行，提升项目生态价值与社区共识
 ---
 
 # 4️⃣ NFT铸造
@@ -24,12 +24,12 @@ NFT铸造指的是在区块链网络上初始创建一个非同质化代币的�
 
 假设我们创建一个叫“G TOKEN”的NFT铸造，填写如下：
 
-* NFT名称：G TOKEN
-* NFT简称：G T
-* NFT描述：这是一个很棒的项目
-* NFT最大铸造数量：1000
-* 参与铸造NFT代币：TBNB
-* 铸造NFT需 BNB：0.5
+* **NFT名称：**&#x47; TOKEN
+* **NFT简称：**&#x47; T
+* **NFT描述：**&#x8FD9;是一个很棒的项目
+* **NFT最大铸造数量：**&#x31;000
+* **参与铸造NFT代币：**&#x54;BNB
+* **铸造 NFT 需 BNB：**&#x30;.5
 
 <figure><img src="../.gitbook/assets/Snipaste_2025-10-24_11-17-20.png" alt=""><figcaption></figcaption></figure>
 
@@ -42,5 +42,25 @@ NFT铸造指的是在区块链网络上初始创建一个非同质化代币的�
 （注意：因为每个用户网络速度不同，支付gas费用时可能会延迟1、2秒，属正常现象。）
 
 <figure><img src="../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
+
+## 常见问题 FAQ
+
+### Q: 支持什么格式？
+
+**A:** 支持 JPG、PNG、GIF、SVG、WEBM、OGG、GLB、GLTF文件。
+
+### Q: NFT最大铸造数量是多少？
+
+**A:** 可以自定义最大铸造数量。
+
+### Q: 单地址限铸多少？
+
+**A:** 可以自定义设置单地址限铸数量。
+
+### Q: 参与铸造 NFT 的代币是什么代币？
+
+**A:** 可选 BNB、 USDT、BUSD、DOGE，也可自行输入代币地址。
+
+
 
 如有不明白或者不清楚的地方，请加入官方电报群：[https://t.me/gtokentool](https://t.me/gtokentool)
