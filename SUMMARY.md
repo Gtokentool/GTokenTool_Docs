@@ -204,8 +204,9 @@
 * [PancakeSwap V2一键卖出教程](kun-bang-zhuan-qu/pancakeswap-v2-sell.md)
 * [PancakeSwap V3一键卖出教程](kun-bang-zhuan-qu/pancakeswap-v3-sell.md)
 * [FOURMEME上传logo教程](kun-bang-zhuan-qu/fourmeme-upload-logo.md)
-* [币安链（BSC）创建流动性并100%提前买入](kun-bang-zhuan-qu/create-liquidity-and-buy.md)
 * [Flap创建代币并捆绑买入教程](kun-bang-zhuan-qu/flap-create-and-buy.md)
+* [创建 V3 稳定池教程](kun-bang-zhuan-qu/create-v3-stable-pool.md)
+* [币安链（BSC）创建流动性并100%提前买入](kun-bang-zhuan-qu/create-liquidity-and-buy.md)
 
 ## 明星产品
 
