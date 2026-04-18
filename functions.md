@@ -67,7 +67,7 @@ icon: eyes
 
 ### 💱交易
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>兑换</strong></td><td>兑换 | 快速交易</td><td>👉🏻<a href="https://www.gtokentool.com/swap">立即体验</a></td></tr><tr><td><strong>流动性</strong></td><td>创建流动性 | 快速便捷</td><td>👉🏻<a href="https://www.gtokentool.com/liquidity">立即体验</a></td></tr><tr><td><strong>创建流动性并买入</strong></td><td>创建流动性并买入 | 抢占底部筹码</td><td>👉🏻<a href="https://www.gtokentool.com/createLiquidityAndBuy">立即体验</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>兑换</strong></td><td>兑换 | 快速交易</td><td>👉🏻<a href="https://www.gtokentool.com/swap">立即体验</a></td></tr><tr><td><strong>流动性</strong></td><td>创建流动性 | 快速便捷</td><td>👉🏻<a href="https://www.gtokentool.com/liquidity">立即体验</a></td></tr><tr><td><strong>创建 V3 稳定池</strong></td><td>创建 V3 稳定池 | 低滑点兑换</td><td>👉🏻<a href="https://www.gtokentool.com/stableSwap">立即体验</a></td></tr><tr><td><strong>创建流动性并买入</strong></td><td>创建流动性并买入 | 抢占底部筹码</td><td>👉🏻<a href="https://www.gtokentool.com/createLiquidityAndBuy">立即体验</a></td></tr></tbody></table>
 
 ### 💲创建 IDO
 
@@ -85,17 +85,16 @@ icon: eyes
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>创建锁</strong></td><td>创建代币锁 | 创建流动性锁</td><td>👉🏻<a href="https://www.gtokentool.com/createlock">立即体验</a></td></tr><tr><td><strong>代币锁</strong></td><td>管理代币锁 | 延长代币锁</td><td>👉🏻<a href="https://www.gtokentool.com/tokenlock">立即体验</a></td></tr><tr><td><strong>流动性锁</strong></td><td>管理流动性锁 | 延长流动性锁</td><td>👉🏻<a href="https://www.gtokentool.com/lplock">立即体验</a></td></tr></tbody></table>
 
-GTokenTool社群:
+### 🤝 连接 GTokenTool
 
-Telegram：[**https://t.me/gtokentool**](https://t.me/gtokentool)
+* **💬 Telegram社群**：[点击加入官方群组](https://t.me/gtokentool)
+* **🐦 Twitter (X)**：[关注我们获取最新动态](https://x.com/gtokentool)
+* **📚 官方文档**：[查看 Gitbook 文档](https://docs.gtokentool.com/)
+* **💻 开源代码**：[访问 GitHub 仓库](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
+* **📺 视频教程**：[订阅 YouTube 频道](https://www.youtube.com/@GTokenTool)
 
-Twitter:  [**https://x.com/gtokentool**](https://x.com/gtokentool)
-
-Gitbook：[**https://docs.gtokentool.com/**](https://docs.gtokentool.com/)
-
-Github：[**https://github.com/Gtokentool/docs/blob/master/SUMMARY.md**](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
-
-YouTube：[**https://www.youtube.com/@GTokenTool**](https://www.youtube.com/@GTokenTool)\
-\
-\
-<mark style="color:purple;background-color:orange;">**GTokenTool**</mark>_<mark style="color:purple;background-color:orange;">保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。以上信息内容仅供参考，GTokenTool对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。请谨慎投资。</mark>_
+> ⚠️ 风险提示与免责声明
+>
+> GTokenTool 保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。
+>
+> 以上信息内容仅供参考，GTokenTool 对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。**请谨慎投资。**

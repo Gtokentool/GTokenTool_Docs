@@ -1,11 +1,15 @@
 ---
-description: 远低于市场平均价，还能享受高质量服务（GTokenTool官网：https://www.gtokentool.com/）
+description: 本平台提供远低于市场均价的高质量区块链工具服务。
 icon: comment-dollar
 ---
 
 # 服务费用
 
-注：价格会更新不及时，以平台实时收费为准。
+### **⚠️ 重要提示：**
+
+* **价格时效性**：由于区块链网络波动，本页价格可能更新不及时。
+* **最终标准**：所有费用的**最终解释权**和**准确数值**，请以**平台实时显示的收费为准**。
+* **官方来源**：GTokenTool 官网 ([https://www.gtokentool.com/](https://www.gtokentool.com/))
 
 ### 币安链BSC
 
@@ -27,9 +31,10 @@ icon: comment-dollar
 * [市值会员开通](https://www.gtokentool.com/bot?chainId=97)：0.6 BNB
 * [市值机器人](https://robotv2.gtokentool.com/#/marketbot)：0.0001 BNB（会员免费）
 * [FOUR创建并捆绑买入](https://www.gtokentool.com/bundle?chainId=97)：阶梯收费低至0.005 BNB/地址（10个（包含10个）及以下地址0.03 BNB/每地址，10个以上仅需0.005 BNB/地址）
-* [创建流动性并买入](https://www.gtokentool.com/createLiquidityAndBuy?chainId=97)：0.005 BNB/Address
 * [FOUR一键卖出](https://www.gtokentool.com/FourSell?chainId=97)：阶梯收费低至0.005 BNB/地址（10个以下地址0.008 BNB/地址，10个钱包以上0.005 BNB/地址）
 * [蝴蝶创建并捆绑买入](https://www.gtokentool.com/flap)：阶梯收费低至0.005 BNB/地址（10个（包含10个）及以下地址0.03 BNB/每地址，10个以上仅需0.005 BNB/地址）
+* [创建 V3 稳定池](https://www.gtokentool.com/stableSwap)：0.02 BNB
+* [创建流动性并买入](https://www.gtokentool.com/createLiquidityAndBuy?chainId=97)：0.005 BNB/Address
 * [批量发送代币](https://www.gtokentool.com/sendertoken?chainId=97)：0.01 BNB / 200个地址
 * [增加持币地址](https://www.gtokentool.com/increaseAddr?chainId=97)：0.01 BNB
 * [批量发送NFT](https://www.gtokentool.com/sendernft?chainId=97)：免费
@@ -178,4 +183,16 @@ icon: comment-dollar
 
 * 创建代币：1
 
-如有不明白或者不清楚的地方，请加入官方电报群：[https://t.me/gtokentool](https://t.me/gtokentool)
+### 🤝 连接 GTokenTool
+
+* **💬 Telegram社群**：[点击加入官方群组](https://t.me/gtokentool)
+* **🐦 Twitter (X)**：[关注我们获取最新动态](https://x.com/gtokentool)
+* **📚 官方文档**：[查看 Gitbook 文档](https://docs.gtokentool.com/)
+* **💻 开源代码**：[访问 GitHub 仓库](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
+* **📺 视频教程**：[订阅 YouTube 频道](https://www.youtube.com/@GTokenTool)
+
+> ⚠️ 风险提示与免责声明
+>
+> GTokenTool 保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。
+>
+> 以上信息内容仅供参考，GTokenTool 对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。**请谨慎投资。**
