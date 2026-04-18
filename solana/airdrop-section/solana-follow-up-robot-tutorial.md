@@ -5,13 +5,21 @@ icon: bullseye-arrow
 
 # Solana跟卖机器人教程
 
+## 📌 核心摘要
+
+* **功能定位**：Solana链上**自动化卖出工具**。核心逻辑是**监控指定合约的买入行为**，一旦检测到有人买入，立即触发**用户自己的钱包**进行自动卖出。
+* **执行机制**：**监控目标（合约）与执行钱包（用户）分离**。
+  * **监控对象**：目标代币的**合约地址**。
+  * **执行对象**：你**自己**的钱包（需导入私钥），机器人将操作此钱包进行卖出。
+* **关键前置条件**：必须准备**目标代币的合约地址**（用于监控）和**你自己的钱包私钥**（用于执行卖出），并确保钱包内有足够的 SOL 和代币，少量的 USDC（用于支付 Gas 和交易）。
+
 ## 准备事项 <a href="#zhun-bei-shi-xiang" id="zhun-bei-shi-xiang"></a>
 
 1. 一台电脑或者一部手机
 2. Solana 钱包（[幻影钱包Phantom安装教程](https://docs.gtokentool.com/solana/auxiliary-tutorial/phantom-wallet-installation)）
-3. 要进行监控的代币所属的钱包私钥
-4. 要监控的代币
-5. 请确保跟踪钱包有足够的 SOL 和代币，少量的 USDC
+3. 要监控的代币合约地址
+4. 执行卖出的钱包私钥
+5. 请确保执行卖出的钱包内有足够的 SOL 和代币，少量的 USDC（用于支付 Gas 和交易）
 
 ## Solana跟卖机器人具体操作流程
 
@@ -185,26 +193,16 @@ icon: bullseye-arrow
 
 **A:** 根据[设置跟卖播报教程](https://docs.gtokentool.com/solana/airdrop-section/set-up-follow-up-selling-broadcasts-tutorial)可以设置 Telegram 播报。
 
+### 🤝 连接 GTokenTool <a href="#lian-jie-gtokentool" id="lian-jie-gtokentool"></a>
 
+* **💬 Telegram社群**：[点击加入官方群组](https://t.me/gtokentool)
+* **🐦 Twitter (X)**：[关注我们获取最新动态](https://x.com/gtokentool)
+* **📚 官方文档**：[查看 Gitbook 文档](https://docs.gtokentool.com/)
+* **💻 开源代码**：[访问 GitHub 仓库](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
+* **📺 视频教程**：[订阅 YouTube 频道](https://www.youtube.com/@GTokenTool)
 
-[_**GTokenTool | 创建代币、批量空投和做市机器人等Solana工具集**_](https://sol.gtokentool.com)
-
-**安全、开源，给Solana用户带来最便利的一站式体验。**
-
-
-
-GTokenTool社群:
-
-Telegram：[**https://t.me/gtokentool**](https://t.me/gtokentool)
-
-Twitter:  [**https://x.com/gtokentool**](https://x.com/gtokentool)
-
-Gitbook：[**https://docs.gtokentool.com/**](https://docs.gtokentool.com/)
-
-Github：[**https://github.com/Gtokentool/docs/blob/master/SUMMARY.md**](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
-
-YouTube：[**https://www.youtube.com/@GTokenTool**](https://www.youtube.com/@GTokenTool)\
-\
-\
-\
-<mark style="color:purple;background-color:orange;">**GTokenTool**</mark>_<mark style="color:purple;background-color:orange;">保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。以上信息内容仅供参考，GTokenTool对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。请谨慎投资。</mark>_
+> ⚠️ 风险提示与免责声明
+>
+> GTokenTool 保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。
+>
+> 以上信息内容仅供参考，GTokenTool 对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。**请谨慎投资。**

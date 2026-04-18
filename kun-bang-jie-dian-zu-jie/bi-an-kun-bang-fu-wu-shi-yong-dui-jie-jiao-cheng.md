@@ -4,7 +4,7 @@ icon: '3'
 
 # 币安捆绑服务使用对接教程
 
-GTokenTool实现了与solana的jito类似的服务，只需要加入小费，就可以捆绑并防止夹子机器人，单笔哈希仅需0.001BNB，以下是具体使用教程。
+GTokenTool实现了与Solana的Jito类似的服务，只需要加入小费，就可以捆绑并防止夹子机器人，单笔哈希仅需0.001 BNB，以下是具体使用教程。
 
 ## 请求参数
 
@@ -50,6 +50,16 @@ curl -X POST -H "Content-Type: application/json" --data '{
 
 原因：单个地址使用多个绑定服务（如授权和买入一起），需要有不同的nonce。
 
+### 🤝 连接 GTokenTool <a href="#lian-jie-gtokentool" id="lian-jie-gtokentool"></a>
 
+* **💬 Telegram社群**：[点击加入官方群组](https://t.me/gtokentool)
+* **🐦 Twitter (X)**：[关注我们获取最新动态](https://x.com/gtokentool)
+* **📚 官方文档**：[查看 Gitbook 文档](https://docs.gtokentool.com/)
+* **💻 开源代码**：[访问 GitHub 仓库](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
+* **📺 视频教程**：[订阅 YouTube 频道](https://www.youtube.com/@GTokenTool)
 
-如有不明白或者不清楚的地方，请加入官方电报群：[**https://t.me/gtokentool**](https://t.me/gtokentool)
+> ⚠️ 风险提示与免责声明
+>
+> GTokenTool 保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。
+>
+> 以上信息内容仅供参考，GTokenTool 对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。**请谨慎投资。**

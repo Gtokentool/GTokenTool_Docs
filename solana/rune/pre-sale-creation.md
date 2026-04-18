@@ -1,5 +1,15 @@
 # ⏰ Solana预售创建
 
+## 📌 核心摘要
+
+* **功能定位**：Solana链上**代币公平发射/预售配置工具**。用于设定代币售卖规则，自动执行分发。
+* **关键参数逻辑**：
+  * **定价**：设定“单份价格(SOL)”和“单份数量(代币)”。
+  * **总量**：设定“总份数”，需确保钱包余额 ≥ 总份数 × 单份数量。
+  * **限购**：设定“单地址限购”份数，防止单一大户垄断。
+  * **模式**：开关控制。**开**=现货模式（付款即到账）；**关**=预售模式（需手动/后续发放）。
+* **前置条件**：需持有代币地址，且钱包内有足额代币用于分发，以及SOL支付Gas。
+
 ## 视频教程
 
 {% embed url="https://youtu.be/yozU3RQlW3I" %}
@@ -60,26 +70,16 @@
 
 **A:** 创建需要0.5 SOL左右 Solana 执行交易的费用，每卖出一份抽取收益的2%。
 
+### 🤝 连接 GTokenTool <a href="#lian-jie-gtokentool" id="lian-jie-gtokentool"></a>
 
+* **💬 Telegram社群**：[点击加入官方群组](https://t.me/gtokentool)
+* **🐦 Twitter (X)**：[关注我们获取最新动态](https://x.com/gtokentool)
+* **📚 官方文档**：[查看 Gitbook 文档](https://docs.gtokentool.com/)
+* **💻 开源代码**：[访问 GitHub 仓库](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
+* **📺 视频教程**：[订阅 YouTube 频道](https://www.youtube.com/@GTokenTool)
 
-[_**GTokenTool | 创建代币、批量空投和做市机器人等Solana工具集**_](https://sol.gtokentool.com)
-
-**安全、开源，给Solana用户带来最便利的一站式体验。**
-
-
-
-GTokenTool社群:
-
-Telegram：[**https://t.me/gtokentool**](https://t.me/gtokentool)
-
-Twitter:  [**https://x.com/gtokentool**](https://x.com/gtokentool)
-
-Gitbook：[**https://docs.gtokentool.com/**](https://docs.gtokentool.com/)
-
-Github：[**https://github.com/Gtokentool/docs/blob/master/SUMMARY.md**](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
-
-YouTube：[**https://www.youtube.com/@GTokenTool**](https://www.youtube.com/@GTokenTool)\
-\
-\
-\
-<mark style="color:purple;background-color:orange;">**GTokenTool**</mark>_<mark style="color:purple;background-color:orange;">保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。以上信息内容仅供参考，GTokenTool对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。请谨慎投资。</mark>_
+> ⚠️ 风险提示与免责声明
+>
+> GTokenTool 保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。
+>
+> 以上信息内容仅供参考，GTokenTool 对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。**请谨慎投资。**

@@ -5,6 +5,19 @@ icon: user-lock
 
 # 便捷冻结教程
 
+## 📌 核心摘要
+
+* **功能定位**：Solana链上**代币冻结权限执行工具**。这是一个去中心化的DApp工具，**不依赖任何中心化后台或特定身份**。只要钱包持有代币的**冻结权限**，即可通过连接钱包，直接对链上账户进行冻结或解冻操作。
+* **核心逻辑（认权不认人）**：
+  * **交互方式**：用户无需输入或导入私钥，只需通过浏览器插件（如Phantom）**连接**已持有冻结权限的钱包。
+  * **功能闭环**：
+    * **批量冻结**：支持一次性处理多个恶意地址。
+    * **智能筛选**：查询并筛选“未冻结”地址，一键加入待处理列表。
+    * **解除冻结**：支持将地址从黑名单移除，恢复交易权限。
+* **关键前置条件**：
+  * 必须拥有**具备冻结权限的钱包**。
+  * 确保该连接钱包内有足够的 **SOL** 支付Gas费。
+
 ## 准备事项 <a href="#zhun-bei-shi-xiang" id="zhun-bei-shi-xiang"></a>
 
 1. 一台电脑或者一部手机
@@ -96,25 +109,16 @@ icon: user-lock
 
 **A:** 只影响被冻结的账户，不会影响整体代币流通。
 
+### 🤝 连接 GTokenTool <a href="#lian-jie-gtokentool" id="lian-jie-gtokentool"></a>
 
+* **💬 Telegram社群**：[点击加入官方群组](https://t.me/gtokentool)
+* **🐦 Twitter (X)**：[关注我们获取最新动态](https://x.com/gtokentool)
+* **📚 官方文档**：[查看 Gitbook 文档](https://docs.gtokentool.com/)
+* **💻 开源代码**：[访问 GitHub 仓库](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
+* **📺 视频教程**：[订阅 YouTube 频道](https://www.youtube.com/@GTokenTool)
 
-[_**GTokenTool | 创建代币、批量空投和做市机器人等Solana工具集**_](https://sol.gtokentool.com)
-
-**安全、开源，给Solana用户带来最便利的一站式体验。**
-
-
-
-GTokenTool社群:
-
-Telegram：[**https://t.me/gtokentool**](https://t.me/gtokentool)
-
-Twitter:  [**https://x.com/gtokentool**](https://x.com/gtokentool)
-
-Gitbook：[**https://docs.gtokentool.com/**](https://docs.gtokentool.com/)
-
-Github：[**https://github.com/Gtokentool/docs/blob/master/SUMMARY.md**](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
-
-YouTube：[**https://www.youtube.com/@GTokenTool**](https://www.youtube.com/@GTokenTool)\
-\
-\
-<mark style="color:purple;background-color:orange;">**GTokenTool**</mark>_<mark style="color:purple;background-color:orange;">保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。以上信息内容仅供参考，GTokenTool对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。请谨慎投资。</mark>_
+> ⚠️ 风险提示与免责声明
+>
+> GTokenTool 保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。
+>
+> 以上信息内容仅供参考，GTokenTool 对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。**请谨慎投资。**

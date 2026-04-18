@@ -112,28 +112,38 @@ svmBNB Chain 将 SVM 作为其执行层，将 BNB Chain 作为其结算层。利
 
 <figure><img src="../.gitbook/assets/image (423).png" alt=""><figcaption></figcaption></figure>
 
-## 常见问题解答
+## 常见问题 FAQ
 
 ### Q: SVMBNB 上创建代币与普通 BSC 代币有何不同？
 
-A: SVMBNB 使用 Solana 虚拟机技术，开发语言和合约结构可能与传统 BSC 代币不同，需要适应 SVM 环境。
+**A:** SVMBNB 使用 Solana 虚拟机技术，开发语言和合约结构可能与传统 BSC 代币不同，需要适应 SVM 环境。
 
 ### Q: 创建代币需要多少成本？
 
-A: 成本主要包括 gas 费和可能的审计费用，具体取决于网络拥堵程度和合约复杂度。
+**A:** 成本主要包括 gas 费和可能的审计费用，具体取决于网络拥堵程度和合约复杂度。
 
 ### Q: 如何确保代币安全？
 
-A: 建议进行专业审计、使用已验证的代码库、实现权限控制和紧急停止功能。
+**A:** 建议进行专业审计、使用已验证的代码库、实现权限控制和紧急停止功能。
 
 ### Q: 代币创建后如何添加流动性？
 
-A: 需要在支持的 DEX 上创建交易对并注入初始流动性，注意防范"rug pull"风险。
+**A:** 需要在支持的 DEX 上创建交易对并注入初始流动性，注意防范"rug pull"风险。
 
 ### Q: 为什么我的代币交易失败？
 
-A: 可能原因包括: 代币未添加流动性、交易滑点设置过低、代币功能限制或合约存在缺陷。
+**A:** 可能原因包括: 代币未添加流动性、交易滑点设置过低、代币功能限制或合约存在缺陷。
 
+### 🤝 连接 GTokenTool <a href="#lian-jie-gtokentool" id="lian-jie-gtokentool"></a>
 
+* **💬 Telegram社群**：[点击加入官方群组](https://t.me/gtokentool)
+* **🐦 Twitter (X)**：[关注我们获取最新动态](https://x.com/gtokentool)
+* **📚 官方文档**：[查看 Gitbook 文档](https://docs.gtokentool.com/)
+* **💻 开源代码**：[访问 GitHub 仓库](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
+* **📺 视频教程**：[订阅 YouTube 频道](https://www.youtube.com/@GTokenTool)
 
-如有不明白或者不清楚的地方，请加入官方电报群：[**https://t.me/gtokentool**](https://t.me/gtokentool)
+> ⚠️ 风险提示与免责声明
+>
+> GTokenTool 保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。
+>
+> 以上信息内容仅供参考，GTokenTool 对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。**请谨慎投资。**

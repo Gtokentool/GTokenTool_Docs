@@ -5,6 +5,17 @@ icon: money-bill-trend-up
 
 # 定向买入教程
 
+## 📌 核心摘要
+
+* **功能定位**：Solana链上**隐蔽式定向建仓工具**。它通过模拟正常的市场买入行为，将代币精准分发到指定地址，从而替代高风险的“直接转账”模式。
+* **核心价值（规避检测）**：
+  * **去关联化**：解决了项目方或早期参与者直接转账导致&#x7684;**“气泡图关联”**&#x95EE;题，避免链上分析工具将其标记为“内部人员”或“老鼠仓”。
+  * **伪装交易**：使目标地址的持币来源看起来像是在公开市场正常买入的，极大提升了持币策略的**隐蔽性**与安全性。
+* **操作前置条件**：
+  * **硬件与软件**：电脑或手机，且已安装 **Phantom** 等Solana钱包插件。
+  * **关键数据**：准备好**代币地址**（买什么）和**接收地址**（发给谁）。
+  * **资金准备**：确保**操作钱包**（执行买入的钱包）和**接收钱包**（接收代币的钱包）内均有足够的 **SOL** 用于支付Gas费和滑点。
+
 ## 准备事项 <a href="#zhun-bei-shi-xiang" id="zhun-bei-shi-xiang"></a>
 
 1. 一台电脑或者一部手机
@@ -70,25 +81,16 @@ icon: money-bill-trend-up
 
 **A:** 每笔收取0.0001 SOL，由导入的钱包支付。
 
+### 🤝 连接 GTokenTool <a href="#lian-jie-gtokentool" id="lian-jie-gtokentool"></a>
 
+* **💬 Telegram社群**：[点击加入官方群组](https://t.me/gtokentool)
+* **🐦 Twitter (X)**：[关注我们获取最新动态](https://x.com/gtokentool)
+* **📚 官方文档**：[查看 Gitbook 文档](https://docs.gtokentool.com/)
+* **💻 开源代码**：[访问 GitHub 仓库](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
+* **📺 视频教程**：[订阅 YouTube 频道](https://www.youtube.com/@GTokenTool)
 
-[_**GTokenTool | 创建代币、批量空投和做市机器人等Solana工具集**_](https://sol.gtokentool.com)
-
-**安全、开源，给Solana用户带来最便利的一站式体验。**
-
-
-
-GTokenTool社群:
-
-Telegram：[**https://t.me/gtokentool**](https://t.me/gtokentool)
-
-Twitter:  [**https://x.com/gtokentool**](https://x.com/gtokentool)
-
-Gitbook：[**https://docs.gtokentool.com/**](https://docs.gtokentool.com/)
-
-Github：[**https://github.com/Gtokentool/docs/blob/master/SUMMARY.md**](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
-
-YouTube：[**https://www.youtube.com/@GTokenTool**](https://www.youtube.com/@GTokenTool)\
-\
-\
-<mark style="color:purple;background-color:orange;">**GTokenTool**</mark>_<mark style="color:purple;background-color:orange;">保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。以上信息内容仅供参考，GTokenTool对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。请谨慎投资。</mark>_
+> ⚠️ 风险提示与免责声明
+>
+> GTokenTool 保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。
+>
+> 以上信息内容仅供参考，GTokenTool 对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。**请谨慎投资。**

@@ -5,6 +5,16 @@ icon: user-lock
 
 # Solana自动冻结教程
 
+## 📌 核心摘要
+
+* **功能定位**：Solana链上**资产安全防护工具**。它是黑名单功能的升级版，通过自定义参数配置，自动拦截或禁止特定账户执行交易，旨在防止恶意机器人攻击或异常行为导致的资产损失。
+* **核心逻辑（权限控制）**：**监控与执行分离**。
+  * **监控对象**：指定的代币合约或其所属钱包（需配置私钥）。
+  * **防御机制**：一旦检测到符合“黑名单”特征的操作，立即触发**冻结/禁止交易**指令。
+* **关键前置条件**：
+  * 必须拥有**被监控代币的钱包私钥**（用于授权冻结操作）。
+  * 确保**跟踪钱包**内有足够的 **SOL** 和代币，以及少量 **USDC**（用于支付Gas及应对潜在滑点）。
+
 ## 准备事项 <a href="#zhun-bei-shi-xiang" id="zhun-bei-shi-xiang"></a>
 
 1. 一台电脑或者一部手机
@@ -116,25 +126,16 @@ icon: user-lock
 
 **A:** 根据[设置自动冻结播报教程](https://docs.gtokentool.com/solana/airdrop-section/solana-auto-freeze-tutorial)可以设置 Telegram 播报。
 
+### 🤝 连接 GTokenTool <a href="#lian-jie-gtokentool" id="lian-jie-gtokentool"></a>
 
+* **💬 Telegram社群**：[点击加入官方群组](https://t.me/gtokentool)
+* **🐦 Twitter (X)**：[关注我们获取最新动态](https://x.com/gtokentool)
+* **📚 官方文档**：[查看 Gitbook 文档](https://docs.gtokentool.com/)
+* **💻 开源代码**：[访问 GitHub 仓库](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
+* **📺 视频教程**：[订阅 YouTube 频道](https://www.youtube.com/@GTokenTool)
 
-[_**GTokenTool | 创建代币、批量空投和做市机器人等Solana工具集**_](https://sol.gtokentool.com)
-
-**安全、开源，给Solana用户带来最便利的一站式体验。**
-
-
-
-GTokenTool社群:
-
-Telegram：[**https://t.me/gtokentool**](https://t.me/gtokentool)
-
-Twitter:  [**https://x.com/gtokentool**](https://x.com/gtokentool)
-
-Gitbook：[**https://docs.gtokentool.com/**](https://docs.gtokentool.com/)
-
-Github：[**https://github.com/Gtokentool/docs/blob/master/SUMMARY.md**](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
-
-YouTube：[**https://www.youtube.com/@GTokenTool**](https://www.youtube.com/@GTokenTool)\
-\
-\
-<mark style="color:purple;background-color:orange;">**GTokenTool**</mark>_<mark style="color:purple;background-color:orange;">保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。以上信息内容仅供参考，GTokenTool对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。请谨慎投资。</mark>_
+> ⚠️ 风险提示与免责声明
+>
+> GTokenTool 保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。
+>
+> 以上信息内容仅供参考，GTokenTool 对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。**请谨慎投资。**

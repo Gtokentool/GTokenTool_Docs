@@ -126,82 +126,70 @@ S链上近期热度持续高升，很多用户都想尝试在 Solana 链上发�
 
 [<mark style="color:orange;">**创建 OpenBook 市场 ID**</mark>](https://sol.gtokentool.com/#/liquidityManagement)　　[<mark style="color:orange;">**创建流动性池**</mark>](https://sol.gtokentool.com/#/liquidityManagement/CreatePool)　　[<mark style="color:orange;">**批量转账**</mark>](https://sol.gtokentool.com/#/batchTool/batchTransfer/SOL)
 
-## Solana发币常见问题
+## Solana发币常见问题 FAQ
 
-### 1.Solana发币需要合约开源吗？
+### Q: Solana发币需要合约开源吗？
 
-答：不需要。Solana上的代币是通过官方发布好的合约创建出来的账户，所有的SPL代币用的都是一个合约。
+**A:** 不需要。Solana上的代币是通过官方发布好的合约创建出来的账户，所有的SPL代币用的都是一个合约。
 
-### 2.为什么发币之后钱包显示未知代币/不显示logo?
+### Q: 为什么发币之后钱包显示未知代币/不显示logo?
 
-答：Phantom钱包有时候信息有延迟，需要一段时间才能显示logo和代币名称等信息。可以在Solana浏览器上搜索代币信息进行查看。
+**A:** Phantom钱包有时候信息有延迟，需要一段时间才能显示logo和代币名称等信息。可以在Solana浏览器上搜索代币信息进行查看。
 
-### 3.什么情况下丢弃权限？
+### Q: 什么情况下丢弃权限？
 
-答：如果需要在 Raydium 添加的代币需要放弃冻结和铸币权限，元数据修改权限可以自行选择丢弃，丢弃之后将不能修改元数据信息。
+**A:** 如果需要在 Raydium 添加的代币需要放弃冻结和铸币权限，元数据修改权限可以自行选择丢弃，丢弃之后将不能修改元数据信息。
 
-### 4.上传logo需要收费吗？
+### Q: 上传logo需要收费吗？
 
-答：不需要，平台采用的是IPFS存储方案，免费上传。
+**A:** 不需要，平台采用的是IPFS存储方案，免费上传。
 
-### 5.如果你发现代币Logo不见了,可能是由于代币不符合要求
+### Q: 如果你发现代币Logo不见了,可能是由于代币不符合要求
 
-要让用户看到Logo必须在coingecko或Birdeye.so上列出令牌。
+**A:** 要让用户看到Logo必须在coingecko或Birdeye.so上列出令牌。Phantom钱包会优先考虑效率和资源管理,因此并非所有代币都会显示其logo,尤其是如果代币是新代币，或TVL较低或资本化较低的话。
 
-Phantom钱包会优先考虑效率和资源管理,因此并非所有代币都会显示其logo,尤其是如果代币是新代币，或TVL较低或资本化较低的话。
+### Q: 代币符号是什么？
 
-### 6.代币符号是什么？
+**A:** 代币符号是代币的简短标识，通常由几个大写字母组成，例如 SOL 或 USDC。
 
-代币符号是代币的简短标识，通常由几个大写字母组成，例如 SOL 或 USDC。
+### Q: 代币精度是什么，怎么填写？
 
-### 7.代币精度是什么，怎么填写？
+**A:** 代币精度定义了代币可以分割到多小的单位。SPL代币的最大精度是9，常见的精度设置是6（实用代币）和9（高精度应用），0精度通常用于NFT。
 
-代币精度定义了代币可以分割到多小的单位。SPL代币的最大精度是9，常见的精度设置是6（实用代币）和9（高精度应用），0精度通常用于NFT。
+### Q: 为什么要放弃元数据修改权？
 
-### 8.为什么要放弃元数据修改权？
+**A:** 放弃元数据修改权意味着一旦设置，代币的基本属性（如名称、符号、图像等）将无法更改。这通常用于增强项目的透明度和信任，显示项目方对代币和其未来计划的承诺。
 
-放弃元数据修改权意味着一旦设置，代币的基本属性（如名称、符号、图像等）将无法更改。这通常用于增强项目的透明度和信任，显示项目方对代币和其未来计划的承诺。
+### Q: 什么是放弃冻结权？
 
-### 9.什么是放弃冻结权？
+**A:** 放弃冻结权表明创建者无法随意冻结或解冻代币，增强了代币网络的去中心化特性和用户对代币的信任。
 
-放弃冻结权表明创建者无法随意冻结或解冻代币，增强了代币网络的去中心化特性和用户对代币的信任。
+### Q: 什么是放弃铸币权？
 
-### 10.什么是放弃铸币权？
+**A:** 放弃铸币权意味着一旦代币发行完成，将无法增发新的代币。这通常用于限制供应量，防止通货膨胀，确保代币的稀缺性和价值。
 
-放弃铸币权意味着一旦代币发行完成，将无法增发新的代币。这通常用于限制供应量，防止通货膨胀，确保代币的稀缺性和价值。
+### Q: 如何保证我创建的代币的安全？
 
-### 11.如何保证我创建的代币的安全？
+**A:** GTokenTool 提供的代币创建工具遵循 Solana 网络的标准安全实践。确保您的私钥安全，避免共享给不可信的第三方，是保护您代币安全的关键。
 
-GTokenTool 提供的代币创建工具遵循 Solana 网络的标准安全实践。确保您的私钥安全，避免共享给不可信的第三方，是保护您代币安全的关键。
+### Q: 在 GTokenTool 上创建代币需要多长时间？
 
-### 12.在 GTokenTool 上创建代币需要多长时间？
+**A:** 创建过程本身通常很快，只需要几分钟。一旦您提交了所有必需的信息并支付了相关费用，代币几乎可以立即在 Solana 网络上生效。
 
-创建过程本身通常很快，只需要几分钟。一旦您提交了所有必需的信息并支付了相关费用，代币几乎可以立即在 Solana 网络上生效。
+### Q: 可以增发 Solana SPL 代币吗？
 
-### 13.可以增发 Solana SPL 代币吗？
+**A:** 可以，但需要您在创建代币时保留增发权限。如果您选择放弃这一权限，那么将无法对该代币进行后续增发。
 
-可以，但需要您在创建代币时保留增发权限。如果您选择放弃这一权限，那么将无法对该代币进行后续增发。
+### 🤝 连接 GTokenTool <a href="#lian-jie-gtokentool" id="lian-jie-gtokentool"></a>
 
+* **💬 Telegram社群**：[点击加入官方群组](https://t.me/gtokentool)
+* **🐦 Twitter (X)**：[关注我们获取最新动态](https://x.com/gtokentool)
+* **📚 官方文档**：[查看 Gitbook 文档](https://docs.gtokentool.com/)
+* **💻 开源代码**：[访问 GitHub 仓库](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
+* **📺 视频教程**：[订阅 YouTube 频道](https://www.youtube.com/@GTokenTool)
 
-
-[_**GTokenTool | 创建代币、批量空投和做市机器人等Solana工具集**_](https://sol.gtokentool.com)
-
-**安全、开源，给Solana用户带来最便利的一站式体验。**
-
-
-
-GTokenTool社群:
-
-Telegram：[**https://t.me/gtokentool**](https://t.me/gtokentool)
-
-Twitter:  [**https://x.com/gtokentool**](https://x.com/gtokentool)
-
-Gitbook：[**https://docs.gtokentool.com/**](https://docs.gtokentool.com/)
-
-Github：[**https://github.com/Gtokentool/docs/blob/master/SUMMARY.md**](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
-
-YouTube：[**https://www.youtube.com/@GTokenTool**](https://www.youtube.com/@GTokenTool)\
-\
-\
-\
-&#xNAN;_<mark style="color:purple;">GTokenTool</mark><mark style="color:purple;background-color:yellow;">保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。以上信息内容仅供参考，GTokenTool对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。请谨慎投资。</mark>_
+> ⚠️ 风险提示与免责声明
+>
+> GTokenTool 保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。
+>
+> 以上信息内容仅供参考，GTokenTool 对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。**请谨慎投资。**

@@ -7,11 +7,12 @@ icon: face-hand-yawn
 
 ## 解决代币没有logo的问题
 
-代币的本质是一个合约，不存在logo。目前我们看到的所有的代币logo，都是由各个平台自己加上去的，其目的是为了方便展示、提高代币的可信度等等。
+Solana 链上的代币合约（Mint Address）本身**只存储代码逻辑**，并不直接存储图片文件。\
+我们所看到的 Logo，实际上是各大交易平台（如 Phantom、Solscan、Jupiter）通过**代币注册表**或**自有数据库**映射上去的。
 
-因此，要想使你的代币有logo头像显示，必须去各个平台申请才行。以下是一些申请渠道和方法：
+因此，要让您的代币显示 Logo，必须向这些平台**单独提交申请**或通过**通用注册表**进行更新。以下是一些申请渠道和方法：
 
-## 1、Ave.ai的代币头像申请方法 <a href="#id-1ave.ai-de-dai-bi-tou-xiang-shen-qing-fang-fa" id="id-1ave.ai-de-dai-bi-tou-xiang-shen-qing-fang-fa"></a>
+## 1、Ave.ai 的代币头像申请方法 <a href="#id-1ave.ai-de-dai-bi-tou-xiang-shen-qing-fang-fa" id="id-1ave.ai-de-dai-bi-tou-xiang-shen-qing-fang-fa"></a>
 
 Ave的代币logo和币种信息、社交媒体链接是一起申请的，目前来说花钱就能搞。
 
@@ -27,7 +28,7 @@ Ave的代币logo和币种信息、社交媒体链接是一起申请的，目前�
 * **联系：**&#x53EF;以自己联系Ave客服，或者找[https://t.me/xuxugege](https://t.me/xuxugege)
 * **成功率：**&#x31;00%
 
-## 2、TP钱包的代币头像申请方法 <a href="#id-2tp-qian-bao-de-dai-bi-tou-xiang-shen-qing-fang-fa" id="id-2tp-qian-bao-de-dai-bi-tou-xiang-shen-qing-fang-fa"></a>
+## 2、TP 钱包的代币头像申请方法 <a href="#id-2tp-qian-bao-de-dai-bi-tou-xiang-shen-qing-fang-fa" id="id-2tp-qian-bao-de-dai-bi-tou-xiang-shen-qing-fang-fa"></a>
 
 TP钱包的代币logo，需要通过他们官方的Github页面，按照他们的操作流程申请，并不是花钱就能搞定的。具体申请方法，可参照这篇文档：[https://help.tokenpocket.pro/cn/developer/submit-logo](https://help.tokenpocket.pro/cn/developer/submit-logo)
 
@@ -47,7 +48,7 @@ TP钱包的代币logo，需要通过他们官方的Github页面，按照他们�
 * **成功率：**&#x39;9%
 * **GitHub提交：**[https://github.com/TP-Lab/tokens](https://github.com/TP-Lab/tokens)
 
-## 3、Bitget钱包的代币头像申请方法 <a href="#id-3bitget-qian-bao-de-dai-bi-tou-xiang-shen-qing-fang-fa" id="id-3bitget-qian-bao-de-dai-bi-tou-xiang-shen-qing-fang-fa"></a>
+## 3、Bitget 钱包的代币头像申请方法 <a href="#id-3bitget-qian-bao-de-dai-bi-tou-xiang-shen-qing-fang-fa" id="id-3bitget-qian-bao-de-dai-bi-tou-xiang-shen-qing-fang-fa"></a>
 
 Bitget钱包（原名：BK钱包）的代币头像，一般来说是通过他们的电脑端官网进行申请的，填写号相关信息，等着审核就行了。有时候会审核不通过，但一般来说都能成功。申请链接：[https://business.bitkeep.com/](https://business.bitkeep.com/)
 
@@ -64,7 +65,7 @@ Bitget钱包（原名：BK钱包）的代币头像，一般来说是通过他们
 * **联系：**&#x53EF;以自己去Bitget提交，或者联系[https://t.me/xuxugege](https://t.me/xuxugege)
 * **成功率：**&#x39;9%
 
-## 4、欧易Web3钱包代币头像申请方法 <a href="#id-4-ou-yi-web3-qian-bao-dai-bi-tou-xiang-shen-qing-fang-fa" id="id-4-ou-yi-web3-qian-bao-dai-bi-tou-xiang-shen-qing-fang-fa"></a>
+## 4、欧易 Web3 钱包代币头像申请方法 <a href="#id-4-ou-yi-web3-qian-bao-dai-bi-tou-xiang-shen-qing-fang-fa" id="id-4-ou-yi-web3-qian-bao-dai-bi-tou-xiang-shen-qing-fang-fa"></a>
 
 欧易Web3钱包的代币头像，主要是通过他们的OKLink浏览器申请的。在浏览器申请到头像之后，Web3钱包就会显示。
 
@@ -91,7 +92,7 @@ Bitget钱包（原名：BK钱包）的代币头像，一般来说是通过他们
 * **联系：**&#x53EF;以自己去浏览器提交资料，或者联系[https://t.me/xuxugege](https://t.me/xuxugege)
 * **成功率：**&#x33;0%
 
-## 6、CoinMarketCap/CoinGecko申请收录 <a href="#id-6coinmarketcapcoingecko-shen-qing-shou-lu" id="id-6coinmarketcapcoingecko-shen-qing-shou-lu"></a>
+## 6、CoinMarketCap/CoinGecko 申请收录 <a href="#id-6coinmarketcapcoingecko-shen-qing-shou-lu" id="id-6coinmarketcapcoingecko-shen-qing-shou-lu"></a>
 
 CoinMarketCap（简称：CMC）和CoinGecko（简称：CG）是全球加密圈最知名的数据聚合平台，一般来说，如果您的代币可以被这CMC和CG收录，则表明该项目具有巨大的认可度，相当于有背书、有国际机构认可，对于项目的营销宣传将起到巨大的作用。
 
@@ -106,10 +107,20 @@ CoinMarketCap（简称：CMC）和CoinGecko（简称：CG）是全球加密圈�
 * **联系：**&#x53EF;以自己去官网提交资料，或者联系[https://t.me/xuxugege](https://t.me/xuxugege)
 * **成功率：**&#x33;0%
 
-## 7、PancakeSwap/Uniswap代币图标申请 <a href="#id-7pancakeswapuniswap-dai-bi-tu-biao-shen-qing" id="id-7pancakeswapuniswap-dai-bi-tu-biao-shen-qing"></a>
+## 7、PancakeSwap/Uniswap 代币图标申请 <a href="#id-7pancakeswapuniswap-dai-bi-tu-biao-shen-qing" id="id-7pancakeswapuniswap-dai-bi-tu-biao-shen-qing"></a>
 
 当我们在PancakeSwap或者Unsiwap搜索代币合约进行交易时，有些知名代币会有logo，如USDT、USDC等，大部分则没有logo。这个图标，是没有官方申请渠道的。通常来说，如果您的代币logo在CMC/CG/浏览器已经被收录，那么PancakeSwap等去中心化交易所就有可能会抓取你的logo。
 
+### 🤝 连接 GTokenTool <a href="#lian-jie-gtokentool" id="lian-jie-gtokentool"></a>
 
+* **💬 Telegram社群**：[点击加入官方群组](https://t.me/gtokentool)
+* **🐦 Twitter (X)**：[关注我们获取最新动态](https://x.com/gtokentool)
+* **📚 官方文档**：[查看 Gitbook 文档](https://docs.gtokentool.com/)
+* **💻 开源代码**：[访问 GitHub 仓库](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
+* **📺 视频教程**：[订阅 YouTube 频道](https://www.youtube.com/@GTokenTool)
 
-如有不明白或者不清楚的地方，请加入官方电报群：[https://t.me/gtokentool](https://t.me/gtokentool)
+> ⚠️ 风险提示与免责声明
+>
+> GTokenTool 保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。
+>
+> 以上信息内容仅供参考，GTokenTool 对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。**请谨慎投资。**
