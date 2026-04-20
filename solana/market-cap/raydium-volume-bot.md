@@ -5,6 +5,18 @@ icon: robot
 
 # Raydium市值管理机器人教程
 
+## 📌核心摘要
+
+* **功能定位**：Solana 链上自动化市值管理与交易执行工具。专为 Raydium 平台设计，通过多账户协同与批量交易功能，实现对代币市值的精细化控制和高效运维。
+* **核心价值（效率与控制）**：
+  * **多账户协同**：支持同时管理多个钱包账户，分散交易行为，模拟真实市场深度，规避单一账户的大额交易风险。
+  * **批量交易执行**：可预设交易策略，实现自动化、高频次的批量买卖，大幅提升资金周转效率，降低人工操作的时间成本。
+  * **成本优化**：通过智能算法优化交易路径和 Gas 费支出，在保证交易速度的同时，最大限度地降低交易成本。
+* **操作前置条件**：
+  * **账户准备**：需准备多个 Solana 钱包账户，并确保每个账户内均有足够的 SOL 用于支付 Gas 费。
+  * **策略设定**：需提前规划好市值管理目标、交易频率、单笔交易金额等核心参数。
+  * **工具接入**：需将钱包账户安全地接入市值管理机器人，并授权其执行交易指令。
+
 ## 视频演示
 
 {% embed url="https://youtu.be/y7C-xqEpGKQ" %}
@@ -31,31 +43,31 @@ icon: robot
 
 进入Raydium市值管理页面：[https://sol.gtokentool.com/zh-CN/market/marketManagement](https://sol.gtokentool.com/zh-CN/market/marketManagement)，右上角点击连接钱包并选择 Main 网络。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-11_10-50-19 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-11_10-50-19 (1).png" alt=""><figcaption><p>连接钱包并选择Main网络</p></figcaption></figure>
 
 ### 2. 输入要进行批量交易的币种
 
 通过输入代币合约来对代币进行搜索,并选择目标代币。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-11_10-52-19 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-11_10-52-19 (1).png" alt=""><figcaption><p>输入目标代币地址</p></figcaption></figure>
 
 之后选择对应的基础代币。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-04-16_11-21-42.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-04-16_11-21-42.png" alt=""><figcaption><p>选择基础代币</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-11_10-53-03 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-11_10-53-03 (1).png" alt=""><figcaption><p>代币配置展示</p></figcaption></figure>
 
-### 3. 查看交易池id
+### 3. 查看交易池ID
 
-选择完代币之后滑动到屏幕最下方的日志，查看当前的交易池id，以及当前价格。点击`清空日志`则可以将日志信息清除，清除日志后若想再次确认交易池id，可点击`查池子`按钮。
+选择完代币之后滑动到屏幕最下方的日志，查看当前的交易池 ID，以及当前价格。点击`清空日志`则可以将日志信息清除，清除日志后若想再次确认交易池 ID，可点击`查池子`按钮。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-11_10-53-55 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-11_10-53-55 (1).png" alt=""><figcaption><p>查看交易池ID</p></figcaption></figure>
 
 ### 4. 导入批量钱包
 
 导入批量钱包，查询钱包余额，点击`刷新钱包`可刷新钱包的余额。点击`全部删除`可删除全部钱包。勾选钱包后，点击`全部卖出`可直接卖出所选钱包内的全部目标代币。点击`删除`操作按钮可单独删除钱包。点击`卖出`即可卖出对应钱包内的全部目标代币。点击目标代币旁边的刷新图标可刷新钱包内目标代币余额。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-11_11-09-52.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-11_11-09-52.png" alt=""><figcaption><p>导入批量钱包</p></figcaption></figure>
 
 ### 5. 设置相关配置参数
 
@@ -103,15 +115,15 @@ icon: robot
 
 **拉盘模式参数展示：**
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-11_11-06-17.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-11_11-06-17.png" alt=""><figcaption><p>拉盘模式参数展示</p></figcaption></figure>
 
 **砸盘模式参数展示：**
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-11_11-23-40.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-11_11-23-40.png" alt=""><figcaption><p>砸盘模式参数展示</p></figcaption></figure>
 
 **刷交易量模式参数展示：**
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-11_11-25-28.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-11_11-25-28.png" alt=""><figcaption><p>刷交易量模式参数展示</p></figcaption></figure>
 
 ### 6. 开始批量交易
 
@@ -119,9 +131,9 @@ icon: robot
 
 **以拉盘模式为例：**
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-11_11-15-35.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-11_11-15-35.png" alt=""><figcaption><p>交易日志</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-11_11-17-53.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-11_11-17-53.png" alt=""><figcaption><p>刷新钱包余额</p></figcaption></figure>
 
 {% hint style="success" %}
 <mark style="color:blue;">**Solana市值机器人增加jup市值管理功能，jup是聚合交易所，支持所有swap的市值管理，包括最新的pump amm swap。**</mark>
@@ -129,7 +141,7 @@ icon: robot
 <mark style="color:red;">**jup市值机器人：**</mark>[<mark style="color:red;">**https://sol.gtokentool.com/zh-CN/market/jupMarket**</mark>](https://sol.gtokentool.com/zh-CN/market/jupMarket)
 {% endhint %}
 
-## 常见问题 FAQ
+## ❓常见问题 FAQ
 
 ### Q: 为什么查不到我的池子？
 
@@ -151,25 +163,16 @@ icon: robot
 
 **A:** 绝对不可能，你的私钥不会存储在平台上，所有操作都是基于前端执行的，请放心使用。如果你比较担心，可以使用新的钱包操作。
 
+### 🤝 连接 GTokenTool <a href="#lian-jie-gtokentool" id="lian-jie-gtokentool"></a>
 
+* **💬 Telegram社群**：[点击加入官方群组](https://t.me/gtokentool)
+* **🐦 Twitter (X)**：[关注我们获取最新动态](https://x.com/gtokentool)
+* **📚 官方文档**：[查看 Gitbook 文档](https://docs.gtokentool.com/)
+* **💻 开源代码**：[访问 GitHub 仓库](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
+* **📺 视频教程**：[订阅 YouTube 频道](https://www.youtube.com/@GTokenTool)
 
-[_**GTokenTool | 创建代币、批量空投和做市机器人等Solana工具集**_](https://sol.gtokentool.com)
-
-**安全、开源，给Solana用户带来最便利的一站式体验。**
-
-
-
-GTokenTool社群:
-
-Telegram：[**https://t.me/gtokentool**](https://t.me/gtokentool)
-
-Twitter:  [**https://x.com/gtokentool**](https://x.com/gtokentool)
-
-Gitbook：[**https://docs.gtokentool.com/**](https://docs.gtokentool.com/)
-
-Github：[**https://github.com/Gtokentool/docs/blob/master/SUMMARY.md**](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
-
-YouTube：[**https://www.youtube.com/@GTokenTool**](https://www.youtube.com/@GTokenTool)\
-\
-\
-<mark style="color:purple;background-color:orange;">**GTokenTool**</mark>_<mark style="color:purple;background-color:orange;">保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。以上信息内容仅供参考，GTokenTool对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。请谨慎投资。</mark>_
+> ⚠️ 风险提示与免责声明
+>
+> GTokenTool 保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。
+>
+> 以上信息内容仅供参考，GTokenTool 对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。**请谨慎投资。**

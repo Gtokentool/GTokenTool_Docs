@@ -7,6 +7,12 @@ icon: sack-dollar
 
 # Pump新地址买入(↑Holders)教程
 
+## 📌核心摘要
+
+* **平台背景（Pump.fun生态）**：专为 **Pump.fun** 平台设计的持币地址数（Holders）增长工具，针对该平台的代币发行机制，提供全自动化的链上数据优化方案。
+* **核心功能（全自动刷量）**：支持**自动创建新钱包、分配资金并完成指定 Token 的买入交易**。通过批量生成真实交易，快速提升项目的**持币地址数**与**交易活跃度**，优化项目在市场榜单中的数据表现。
+* **技术优势（真实交易模拟）**：利用自动化脚本模拟真实用户交易行为，确保链上数据的真实性与可靠性，有效增强项目在市场中的竞争力与可信度。
+
 ## 准备事项
 
 1. 一台电脑或者一部手机
@@ -23,7 +29,7 @@ Pump新地址买入：[https://sol.gtokentool.com/zh-CN/pump/pumpHolderMaker](ht
 
 进入Pump新地址买入页面，右上角支持切换成中文。选择 Main 网络并连接钱包。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_14-14-16 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_14-14-16 (1).png" alt=""><figcaption><p>连接钱包并选择Main网络</p></figcaption></figure>
 
 ### 2. 输入买入代币地址
 
@@ -31,7 +37,7 @@ Pump新地址买入：[https://sol.gtokentool.com/zh-CN/pump/pumpHolderMaker](ht
 **注意**：输入代币地址后，请选择正确的DEX。<mark style="color:red;">若不清楚的话，直接选择Jup。</mark>
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_14-23-43.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_14-23-43.png" alt=""><figcaption><p>输入代币地址并选择DEX</p></figcaption></figure>
 
 ### 3. 输入钱包私钥
 
@@ -43,9 +49,9 @@ Pump新地址买入：[https://sol.gtokentool.com/zh-CN/pump/pumpHolderMaker](ht
 导入的私钥用于支付新地址买入费用、GAS 费用 和 服务费
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_14-24-54.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_14-24-54.png" alt=""><figcaption><p>导入付款钱包私钥</p></figcaption></figure>
 
-### 4. 设置其他参数
+### 4. 设置买入参数
 
 **买入地址数：**&#x53EF;以选择买入代币的地址数量，也可手动输入地址数。
 
@@ -63,7 +69,7 @@ Pump新地址买入：[https://sol.gtokentool.com/zh-CN/pump/pumpHolderMaker](ht
 [https://t.me/gtokentool](https://t.me/gtokentool)
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_14-25-49.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_14-25-49.png" alt=""><figcaption><p>设置买入参数</p></figcaption></figure>
 
 ### 5. 点击“生成钱包”
 
@@ -71,15 +77,15 @@ Pump新地址买入：[https://sol.gtokentool.com/zh-CN/pump/pumpHolderMaker](ht
 
 <mark style="color:purple;">**新生成地址下载完成后，请务必打开已下载的Excel表格，核对地址信息是否完整保存！！！**</mark>
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_14-31-15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_14-31-15.png" alt=""><figcaption><p>生成钱包</p></figcaption></figure>
 
 ### 6. 点击“开始”
 
 开始后，下面可以看到交易信息。成功后，会显示哈希。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_13-52-53.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_13-52-53.png" alt=""><figcaption><p>交易日志</p></figcaption></figure>
 
-## 常见问题 FAQ
+## ❓常见问题 FAQ
 
 ### Q: 新地址买入(↑Holders)是什么功能？
 
@@ -97,25 +103,16 @@ Pump新地址买入：[https://sol.gtokentool.com/zh-CN/pump/pumpHolderMaker](ht
 
 **A:** 可以。你可以设定每个地址的买入金额（例如 0.0001–0.001 SOL）和地址生成数量，系统将根据设定自动执行。
 
+### 🤝 连接 GTokenTool <a href="#lian-jie-gtokentool" id="lian-jie-gtokentool"></a>
 
+* **💬 Telegram社群**：[点击加入官方群组](https://t.me/gtokentool)
+* **🐦 Twitter (X)**：[关注我们获取最新动态](https://x.com/gtokentool)
+* **📚 官方文档**：[查看 Gitbook 文档](https://docs.gtokentool.com/)
+* **💻 开源代码**：[访问 GitHub 仓库](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
+* **📺 视频教程**：[订阅 YouTube 频道](https://www.youtube.com/@GTokenTool)
 
-[_**GTokenTool | 创建代币、批量空投和做市机器人等Solana工具集**_](https://sol.gtokentool.com)
-
-**安全、开源，给Solana用户带来最便利的一站式体验。**
-
-
-
-GTokenTool社群:
-
-Telegram：[**https://t.me/gtokentool**](https://t.me/gtokentool)
-
-Twitter:  [**https://x.com/gtokentool**](https://x.com/gtokentool)
-
-Gitbook：[**https://docs.gtokentool.com/**](https://docs.gtokentool.com/)
-
-Github：[**https://github.com/Gtokentool/docs/blob/master/SUMMARY.md**](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
-
-YouTube：[**https://www.youtube.com/@GTokenTool**](https://www.youtube.com/@GTokenTool)\
-\
-\
-<mark style="color:purple;background-color:orange;">**GTokenTool**</mark>_<mark style="color:purple;background-color:orange;">保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。以上信息内容仅供参考，GTokenTool对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。请谨慎投资。</mark>_
+> ⚠️ 风险提示与免责声明
+>
+> GTokenTool 保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。
+>
+> 以上信息内容仅供参考，GTokenTool 对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。**请谨慎投资。**

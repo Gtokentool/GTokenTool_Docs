@@ -1,10 +1,14 @@
 ---
-description: 全网最详细的Pump.fun市值管理机器人教程
+description: 基于Jupiter聚合器的Solana市值管理工具，实现智能拆单、低滑点交易及自动化策略运维。
 ---
 
 # 🖇️ Jup市值防夹刷量教程
 
-Jup市值机器人，是一个支持Jup自动交易、批量交易的机器人系统，可以按照设定好的目标价格进行买卖。松管理多个账户，高效执行批量交易，降低交易成本和时间，优化资金使用效率。
+## 📌核心摘要
+
+* **技术原理（防夹机制）**：基于 **Jupiter 聚合器** 的路由优势，通过私有交易通道或智能路由算法，有效规避 Solana 链上常见的 **MEV 机器人（夹子攻击）**，保障交易价格不被恶意狙击。
+* **核心功能（刷量与多账户）**：支持 **多账户批量管理** 与自动化分发，能够模拟真实用户行为进行高频刷量，提升代币的市场活跃度与交易量数据，同时优化资金使用效率。
+* **执行优势（智能与低成本）**：具备 **智能拆单** 能力，将大额交易拆分执行以降低滑点；支持设定目标价格自动买卖，实现 **7x24 小时无人值守** 的高效运维，大幅降低人工成本与时间成本。
 
 ## 视频演示
 
@@ -36,29 +40,29 @@ Jup市值机器人，是一个支持Jup自动交易、批量交易的机器人�
 
 进入Jup市值管理机器人页面：[https://sol.gtokentool.com/zh-CN/market/jupMarket](https://sol.gtokentool.com/zh-CN/market/jupMarket)，右上角点击连接钱包并选择 Main 网络。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-11_13-37-31 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-11_13-37-31 (1).png" alt=""><figcaption><p>连接钱包并选择Main网络</p></figcaption></figure>
 
 ### 2. 输入要进行批量交易的币种
 
 通过输入代币合约来对代币进行搜索,并选择目标代币。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-11_13-37-56 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-11_13-37-56 (1).png" alt=""><figcaption><p>输入目标代币地址</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-05-15_16-35-03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-05-15_16-35-03.png" alt=""><figcaption><p>选择基础代币</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-11_13-38-14 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-11_13-38-14 (1).png" alt=""><figcaption><p>代币配置展示</p></figcaption></figure>
 
 ### 3. 查看交易池代币的当前价格
 
 选择完代币之后滑动到屏幕最下方的日志，查看当前的交易池代币的当前价格。点击`清空日志`则可以将日志信息清除，清除日志后若想再次确认交易池代币的当前价格，可点击`查池子`按钮。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-11_13-39-41 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-11_13-39-41 (1).png" alt=""><figcaption><p>查看当前价格</p></figcaption></figure>
 
 ### 4. 导入批量钱包
 
 导入批量钱包，查询钱包余额，点击`刷新钱包`可刷新钱包的余额。点击`全部删除`可删除全部钱包。勾选钱包后，点击`全部卖出`可直接卖出所选钱包内的全部目标代币。点击`删除`操作按钮可单独删除钱包。点击`卖出`即可卖出对应钱包内的全部目标代币。点击目标代币旁边的刷新图标可刷新钱包内目标代币余额。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-11_13-41-33 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-11_13-41-33 (1).png" alt=""><figcaption><p>导入批量钱包</p></figcaption></figure>
 
 ### 5. 设置相关配置参数
 
@@ -114,19 +118,19 @@ Jup市值机器人，是一个支持Jup自动交易、批量交易的机器人�
 
 **防夹刷量模式参数展示：**
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-11_13-48-23 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-11_13-48-23 (1).png" alt=""><figcaption><p>防夹刷量模式参数展示</p></figcaption></figure>
 
 ### 6. 开始批量交易
 
 勾选钱包后，点击`开始`，即可开始交易。可实时查看交易日志。交易结束后，可以点击日志里的`查看哈希`，复制哈希前往[区块链浏览器](https://solscan.io/)查看交易记录。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-11_13-49-46 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-11_13-49-46 (1).png" alt=""><figcaption><p>交易日志</p></figcaption></figure>
 
 {% hint style="warning" %}
 **注意**：该机器人主要是交易PUMP内盘币，如果已经发射上了Raydium，请使用另一款机器人，并选择Raydium AMM。
 {% endhint %}
 
-## 常见问题 FAQ
+## ❓常见问题 FAQ
 
 ### Q: 为什么查不到我的池子？
 
@@ -148,25 +152,16 @@ Jup市值机器人，是一个支持Jup自动交易、批量交易的机器人�
 
 **A:** 绝对不可能，你的私钥不会存储在平台上，所有操作都是基于前端执行的，请放心使用。如果你比较担心，可以使用新的钱包操作。
 
+### 🤝 连接 GTokenTool <a href="#lian-jie-gtokentool" id="lian-jie-gtokentool"></a>
 
+* **💬 Telegram社群**：[点击加入官方群组](https://t.me/gtokentool)
+* **🐦 Twitter (X)**：[关注我们获取最新动态](https://x.com/gtokentool)
+* **📚 官方文档**：[查看 Gitbook 文档](https://docs.gtokentool.com/)
+* **💻 开源代码**：[访问 GitHub 仓库](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
+* **📺 视频教程**：[订阅 YouTube 频道](https://www.youtube.com/@GTokenTool)
 
-[_**GTokenTool | 创建代币、批量空投和做市机器人等Solana工具集**_](https://sol.gtokentool.com)
-
-**安全、开源，给Solana用户带来最便利的一站式体验。**
-
-
-
-GTokenTool社群:
-
-Telegram：[**https://t.me/gtokentool**](https://t.me/gtokentool)
-
-Twitter:  [**https://x.com/gtokentool**](https://x.com/gtokentool)
-
-Gitbook：[**https://docs.gtokentool.com/**](https://docs.gtokentool.com/)
-
-Github：[**https://github.com/Gtokentool/docs/blob/master/SUMMARY.md**](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
-
-YouTube：[**https://www.youtube.com/@GTokenTool**](https://www.youtube.com/@GTokenTool)\
-\
-\
-<mark style="color:purple;background-color:orange;">**GTokenTool**</mark>_<mark style="color:purple;background-color:orange;">保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。以上信息内容仅供参考，GTokenTool对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。请谨慎投资。</mark>_
+> ⚠️ 风险提示与免责声明
+>
+> GTokenTool 保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。
+>
+> 以上信息内容仅供参考，GTokenTool 对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。**请谨慎投资。**

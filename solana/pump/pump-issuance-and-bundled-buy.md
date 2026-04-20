@@ -1,34 +1,23 @@
 ---
-description: 全网最好的PUMP发币与开盘捆绑买入工具
+description: GTokenTool出品的Pump.fun实战指南，详解Solana链上发币流程与开盘捆绑买入策略，实现毫秒级抢先建仓。
 ---
 
 # 💊 PUMP发币和捆绑买入教程
 
-‌Pump.fun是Solana链上的一个MEME币发行平台，是近半年来Solana链最成功、最流行、最热门的应用。GTokenTool考虑到大家在PUMP发币与开盘提前买入，上线了PUMP发币和捆绑买入工具，方便大家在PUMP发币后第一时间买入。
+## 📌核心摘要
+
+* **平台背景（Pump.fun 生态）**：基于 Solana 链上最热门的 Meme 币发射平台 **Pump.fun**，针对其独特的 bonding curve（联合曲线）机制，提供专门的代币发行与交易策略支持。
+* **核心功能（捆绑买入）**：利用 **GTokenTool** 工具实现**发币与买入的原子化操作**，支持在代币生成的同一区块或极短时间内完成批量建仓（捆绑），确保在开盘第一时间锁定筹码。
+* **技术优势（速度与效率）**：解决手动操作延迟高的问题，通过自动化脚本实现**毫秒级响应**，大幅提升在 PUMP 平台发射新币后的抢筹成功率与资金利用率。
 
 ## 视频演示
 
 {% embed url="https://youtu.be/RXyiSEgt90o" %}
 
-## 如何使用Pump发币与捆绑买入工具
-
-1. 连接钱包（幻影钱包）
-2. 输入代币全称，最多32个字符
-3. 填写代币简称，最多10个字符
-4. 填写购买数量
-5. 填写简介
-6. 上传代币的Logo图片
-7. 官网（选填）
-8. 电报（选填）
-9. 推特（选填）
-10. Jito 小费设置
-11. 捆绑买入钱包设置，最大支持16个钱包
-12. 提交完成Pump发币与同时买入
-
 ## PUMP发币准备事项
 
 1. Solana 钱包（[幻影钱包Phantom安装教程](https://docs.gtokentool.com/solana/auxiliary-tutorial/phantom-wallet-installation)）
-2. 钱包最少准备 0.1 SOL
+2. 钱包准备充足的SOL
 3. 代币的相关信息和 Logo
 
 ## PUMP发币步骤
@@ -39,17 +28,17 @@ PUMP发币和开盘捆绑买入工具：[https://sol.gtokentool.com/zh-CN/pump/b
 
 进入GTokenTool平台Pump发币入页面，选择 Main 网络，连接钱包，选择幻影钱包Phantom，连接后就可以看到钱包地址。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_11-22-06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_11-22-06.png" alt=""><figcaption><p>连接钱包并选择Main网络</p></figcaption></figure>
 
 ### 二、必填代币相关参数
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_11-24-13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_11-24-13.png" alt=""><figcaption><p>填写代币参数</p></figcaption></figure>
 
 ### 三、选填代币相关参数
 
 根据自己的需求进行填写或者不填。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_11-24-57.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_11-24-57.png" alt=""><figcaption><p>添加联系方式</p></figcaption></figure>
 
 ### 四、导入小号优先买入代币
 
@@ -67,19 +56,19 @@ Pump（每个 0.03 SOL）最多导入 16 个钱包，发币前请确保每个钱
 
 导入成功后，可以看到钱包内的余额。填写买入金额，<mark style="color:purple;">注意购买数量最好不要超过当前钱包的90%，最少预留0.007 SOL。</mark>
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_11-29-29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_11-29-29.png" alt=""><figcaption><p>导入钱包设置买入金额</p></figcaption></figure>
 
 ### 五、完成创建
 
 所有信息填写完成后，点击`立即创建`，完成Pump发币与开盘买入。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-04-16_13-27-05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-04-16_13-27-05.png" alt=""><figcaption><p>创建代币成功提示</p></figcaption></figure>
 
 {% hint style="success" %}
 此功能实现依赖于 Jito 的捆绑功能。由于网络环境、Jito节点、RPC节点和区块处理引擎的复杂影响，该功能可能面临较高的失败率。 若操作失败，不会开盘成功也不会产生任何费用，请尝试更换RPC节点，区块处理引擎，增加Jito的小费(建议0.01SOL)，并考虑在链上活跃度较低的时段再次尝试。
 {% endhint %}
 
-## **常见问题 FAQ**
+## **❓常见问题 FAQ**
 
 ### **Q: 代币创建后如何推广？**
 
@@ -97,25 +86,16 @@ Pump（每个 0.03 SOL）最多导入 16 个钱包，发币前请确保每个钱
 
 **A:** 需满足交易所要求（如流动性、持币人数等）。小型代币通常先上架去中心化交易所（如 Uniswap、Raydium）。
 
+### 🤝 连接 GTokenTool <a href="#lian-jie-gtokentool" id="lian-jie-gtokentool"></a>
 
+* **💬 Telegram社群**：[点击加入官方群组](https://t.me/gtokentool)
+* **🐦 Twitter (X)**：[关注我们获取最新动态](https://x.com/gtokentool)
+* **📚 官方文档**：[查看 Gitbook 文档](https://docs.gtokentool.com/)
+* **💻 开源代码**：[访问 GitHub 仓库](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
+* **📺 视频教程**：[订阅 YouTube 频道](https://www.youtube.com/@GTokenTool)
 
-[_**GTokenTool | 创建代币、批量空投和做市机器人等Solana工具集**_](https://sol.gtokentool.com)
-
-**安全、开源，给Solana用户带来最便利的一站式体验。**
-
-
-
-GTokenTool社群:
-
-Telegram：[**https://t.me/gtokentool**](https://t.me/gtokentool)
-
-Twitter:  [**https://x.com/gtokentool**](https://x.com/gtokentool)
-
-Gitbook：[**https://docs.gtokentool.com/**](https://docs.gtokentool.com/)
-
-Github：[**https://github.com/Gtokentool/docs/blob/master/SUMMARY.md**](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
-
-YouTube：[**https://www.youtube.com/@GTokenTool**](https://www.youtube.com/@GTokenTool)\
-\
-\
-<mark style="color:purple;background-color:orange;">**GTokenTool**</mark>_<mark style="color:purple;background-color:orange;">保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。以上信息内容仅供参考，GTokenTool对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。请谨慎投资。</mark>_
+> ⚠️ 风险提示与免责声明
+>
+> GTokenTool 保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。
+>
+> 以上信息内容仅供参考，GTokenTool 对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。**请谨慎投资。**

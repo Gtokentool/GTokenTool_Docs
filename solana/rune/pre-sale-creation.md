@@ -22,11 +22,11 @@
 
 进入创建符文页面，点击右上角“`Connect`”连接钱包，并选择 Main 网络节点。这里使用测试网来演示。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-23_15-04-35.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-23_15-04-35.png" alt=""><figcaption><p>连接钱包并选择网络</p></figcaption></figure>
 
 ### 2. 填写具体参数
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-23_15-10-27.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-23_15-10-27.png" alt=""><figcaption><p>填写具体参数</p></figcaption></figure>
 
 **名称：**&#x8BBE;置您要创建的主题名称。
 
@@ -44,19 +44,19 @@
 
 ### 3. 点击“确定”，创建预售
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-23_15-13-17.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-23_15-13-17.png" alt=""><figcaption><p>第一次钱包确认</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-23_15-14-53.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-23_15-14-53.png" alt=""><figcaption><p>第二次钱包确认</p></figcaption></figure>
 
 创建成功后，将弹出提示“创建成功”。之后，您可以在“`管理符文`”中查看预售情况。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-23_15-15-08.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-23_15-15-08.png" alt=""><figcaption><p>创建成功提示</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-23_15-16-41.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-23_15-16-41.png" alt=""><figcaption><p>符文列表</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-23_15-17-20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-23_15-17-20.png" alt=""><figcaption><p>查看符文</p></figcaption></figure>
 
-## 常见问题 FAQ
+## ❓常见问题 FAQ
 
 ### Q: 在哪里查看已创建的符文？
 

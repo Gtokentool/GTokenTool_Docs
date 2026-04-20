@@ -5,6 +5,12 @@ icon: arrow-up-arrow-down
 
 # Pump卖出并捆绑买入教程
 
+## 📌核心摘要
+
+* **平台背景（Pump.fun生态）**：专为 **Pump.fun** 平台设计的高级交易策略工具，针对项目方或早期持有者的持仓管理需求，提供在同一区块内完成“卖出并新地址买入”的复杂操作。
+* **核心功能（交易换仓）**：支持在同一区块内同步执行**卖出旧仓位**与**新地址买入**操作。通过这种“交易换仓”机制，实现筹码的转移与分散，有效打破原有的持仓关联。
+* **技术优势（规避风控标签）**：旨在**规避“气泡图”等链上分析工具的不利标签检测**。通过制造复杂的交易链路，提升策略的隐蔽性，为项目方或大户提供更大的数据优化空间，降低被追踪的风险。
+
 ## 准备事项
 
 1. 一台电脑或者一部手机
@@ -21,7 +27,7 @@ Pump卖出并捆绑买入：[https://sol.gtokentool.com/zh-CN/pump/pumpSellAndBu
 
 进入Pump卖出并捆绑买入页面，右上角支持切换成中文。选择 Main 网络并连接钱包。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_13-55-49.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_13-55-49.png" alt=""><figcaption><p>连接钱包并选择Main网络</p></figcaption></figure>
 
 ### 2. 输入代币地址
 
@@ -29,19 +35,19 @@ Pump卖出并捆绑买入：[https://sol.gtokentool.com/zh-CN/pump/pumpSellAndBu
 **注意**：输入代币地址后，请选择正确的DEX。<mark style="color:red;">若不清楚的话，直接选择Jup。</mark>
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_13-57-07.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_13-57-07.png" alt=""><figcaption><p>输入代币地址并选择对应DEX</p></figcaption></figure>
 
 ### 3. 买入代币到指定地址（选填）
 
 买入代币到指定地址，如不填则买入至对应账户。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_13-57-48.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_13-57-48.png" alt=""><figcaption><p>买入代币到指定地址</p></figcaption></figure>
 
 ### 4. 卖出钱包设置
 
 输入钱包私钥后，会显示钱包内SOL余额和代币余额。之后设置卖出数量，填好后下方可看到要卖出的数量。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_14-03-43.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_14-03-43.png" alt=""><figcaption><p>卖出数量设置</p></figcaption></figure>
 
 ### 5. 导入需买入代币的钱包
 
@@ -51,13 +57,13 @@ Pump卖出并捆绑买入：[https://sol.gtokentool.com/zh-CN/pump/pumpSellAndBu
 所有费用将由卖出钱包统一支付。
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_14-06-18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_14-06-18.png" alt=""><figcaption><p>导入钱包</p></figcaption></figure>
 
 ### 6. 设置购买数量
 
 可对每个钱包进行单独设置。全部填写好后，勾选钱包，下方可看到买入的总数量。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_14-07-33.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_14-07-33.png" alt=""><figcaption><p>设置买入金额</p></figcaption></figure>
 
 ### 7. Jito捆绑小费设置
 
@@ -68,15 +74,15 @@ Pump卖出并捆绑买入：[https://sol.gtokentool.com/zh-CN/pump/pumpSellAndBu
 * **极速：**&#x30;.01 SOL
 * **其他：**&#x81EA;行输入金额
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_14-08-34 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_14-08-34 (1).png" alt=""><figcaption><p>设置Jito小费</p></figcaption></figure>
 
 ### 8. 点击“Bundled Buy”，开始交易
 
 交易成功后，会弹出提示交易成功。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_14-10-31.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_14-10-31.png" alt=""><figcaption><p>一键买入成功提示</p></figcaption></figure>
 
-## 常见问题 FAQ
+## ❓常见问题 FAQ
 
 ### Q: 卖出并捆绑买入是什么功能？
 
@@ -98,25 +104,16 @@ Pump卖出并捆绑买入：[https://sol.gtokentool.com/zh-CN/pump/pumpSellAndBu
 
 **A:** 可能会，尤其在流动性较低时需注意滑点。
 
+### 🤝 连接 GTokenTool <a href="#lian-jie-gtokentool" id="lian-jie-gtokentool"></a>
 
+* **💬 Telegram社群**：[点击加入官方群组](https://t.me/gtokentool)
+* **🐦 Twitter (X)**：[关注我们获取最新动态](https://x.com/gtokentool)
+* **📚 官方文档**：[查看 Gitbook 文档](https://docs.gtokentool.com/)
+* **💻 开源代码**：[访问 GitHub 仓库](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
+* **📺 视频教程**：[订阅 YouTube 频道](https://www.youtube.com/@GTokenTool)
 
-[_**GTokenTool | 创建代币、批量空投和做市机器人等Solana工具集**_](https://sol.gtokentool.com)
-
-**安全、开源，给Solana用户带来最便利的一站式体验。**
-
-
-
-GTokenTool社群:
-
-Telegram：[**https://t.me/gtokentool**](https://t.me/gtokentool)
-
-Twitter:  [**https://x.com/gtokentool**](https://x.com/gtokentool)
-
-Gitbook：[**https://docs.gtokentool.com/**](https://docs.gtokentool.com/)
-
-Github：[**https://github.com/Gtokentool/docs/blob/master/SUMMARY.md**](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
-
-YouTube：[**https://www.youtube.com/@GTokenTool**](https://www.youtube.com/@GTokenTool)\
-\
-\
-<mark style="color:purple;background-color:orange;">**GTokenTool**</mark>_<mark style="color:purple;background-color:orange;">保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。以上信息内容仅供参考，GTokenTool对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。请谨慎投资。</mark>_
+> ⚠️ 风险提示与免责声明
+>
+> GTokenTool 保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。
+>
+> 以上信息内容仅供参考，GTokenTool 对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。**请谨慎投资。**

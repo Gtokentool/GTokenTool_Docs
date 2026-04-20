@@ -13,19 +13,15 @@ icon: list-timeline
 [批量转账-->>](https://sol.gtokentool.com/zh-CN/batchTool/batchTransfer/SOL)   [租金回收-免费领取Solana教程-->>](https://sol.gtokentool.com/zh-CN/walletManagement/rentRecovery)
 {% endhint %}
 
+## 📌核心摘要
+
+* **平台背景（Solana生态）**：专为 **Solana** 区块链设计的高级资金管理工具，针对需要复杂资金流转路径的用户（如做市商、大户）提供多对多转账解决方案。
+* **核心功能（多对多定向转移）**：支持**批量处理多个钱包的定向资金转移**，并可与“一传多”批量转账配合使用。通过构建复杂的交易网络，打破单一的资金流向，有效提升资金管理的灵活性与效率。
+* **战略价值（规避追踪与租金回收）**：旨在**规避“气泡图”等链上分析工具的关联追踪**，增强资金流转的隐私性与安全性。同时，支持在转账后自动**回收空地址的账户租金（Rent）**，实现资金利用最大化。
+
 ## 视频演示
 
 {% embed url="https://youtu.be/vBxTNOHb1wE" %}
-
-## 如何使用 Solana 多对多转账工具
-
-1. 选择要进行多对多转账的代币
-2. 导入需要转出地址的私钥
-3. 导入接收地址的钱包地址
-4. 批量设置转账数量
-5. 设置多对多每次转账的发起间隔时间
-6. 复核每笔转账相关数据
-7. 确认发送转账开始执行
 
 ## 准备事项
 
@@ -43,11 +39,11 @@ icon: list-timeline
 
 进入 GTokenTool对多对转账页面，右上角支持切换语言，选择 Main 网络并连接钱包，这里使用测试网演示。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-25_16-00-25.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-25_16-00-25.png" alt=""><figcaption><p>连接钱包并选择网络</p></figcaption></figure>
 
 #### 1、填入代币地址，不填默认为转账SOL。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-25_16-02-50.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-25_16-02-50.png" alt=""><figcaption><p>输入代币地址</p></figcaption></figure>
 
 #### 2、填发送地址（私钥）和接收地址（公钥）
 
@@ -56,7 +52,7 @@ icon: list-timeline
 * 手动输入：在表格或其他地方复制私钥后粘贴即可，每行一个。
 * 上传文件：支持 Excel 类型，每行一个地址。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-25_16-04-23.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-25_16-04-23.png" alt=""><figcaption><p>填写发送地址和接收地址</p></figcaption></figure>
 
 #### 3、确认所填信息无误，点击“`下一步`”。
 
@@ -64,7 +60,7 @@ icon: list-timeline
 
 #### 1、显示代币信息，转账地址数量，转账数量，预估GAS。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-25_16-05-14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-25_16-05-14.png" alt=""><figcaption><p>代币信息显示</p></figcaption></figure>
 
 #### 2、转账数量和时间间隔
 
@@ -72,7 +68,7 @@ icon: list-timeline
 
 时间间隔（三种选择：无间隔、固定间隔、随机间隔）（选填）
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-25_16-07-46.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-25_16-07-46.png" alt=""><figcaption><p>设置转账数量和时间间隔</p></figcaption></figure>
 
 #### 3、复核每笔转账相关数据，然后点击“`发送交易`”。
 
@@ -80,7 +76,7 @@ icon: list-timeline
 
 _<mark style="color:purple;">**链上数据不可逆。错误的接收地址将导致资金无法找回，请务必核实无误。**</mark>_
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-25_16-08-37.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-25_16-08-37.png" alt=""><figcaption><p>复核发送信息</p></figcaption></figure>
 
 ### 三、发送交易
 
@@ -88,7 +84,7 @@ _<mark style="color:purple;">**链上数据不可逆。错误的接收地址将�
 
 执行完成后，状态栏会显示执行结果和转账 HASH，复制可去链上搜索查看具体信息。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-25_16-09-24.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-25_16-09-24.png" alt=""><figcaption><p>交易哈希显示</p></figcaption></figure>
 
 _<mark style="color:green;">使用便捷工具提升批量交易速度</mark>_
 
@@ -103,7 +99,7 @@ _<mark style="color:green;">使用便捷工具提升批量交易速度</mark>_
 4. 官方不索要私钥：GTokenTool绝不会要求您提供私钥信息，请保持警惕。
 {% endhint %}
 
-## 常见问题 FAQ
+## ❓常见问题 FAQ
 
 ### Q: 什么是多对多批量转账？
 
@@ -125,25 +121,16 @@ _<mark style="color:green;">使用便捷工具提升批量交易速度</mark>_
 
 **A:** 适用于项目方或机构在多个地址中发放薪资、空投、分红、批量返还等复杂资产分发场景。
 
+### 🤝 连接 GTokenTool <a href="#lian-jie-gtokentool" id="lian-jie-gtokentool"></a>
 
+* **💬 Telegram社群**：[点击加入官方群组](https://t.me/gtokentool)
+* **🐦 Twitter (X)**：[关注我们获取最新动态](https://x.com/gtokentool)
+* **📚 官方文档**：[查看 Gitbook 文档](https://docs.gtokentool.com/)
+* **💻 开源代码**：[访问 GitHub 仓库](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
+* **📺 视频教程**：[订阅 YouTube 频道](https://www.youtube.com/@GTokenTool)
 
-[_**GTokenTool | 创建代币、批量空投和做市机器人等Solana工具集**_](https://sol.gtokentool.com)
-
-**安全、开源，给Solana用户带来最便利的一站式体验。**
-
-
-
-GTokenTool社群:
-
-Telegram：[**https://t.me/gtokentool**](https://t.me/gtokentool)
-
-Twitter:  [**https://x.com/gtokentool**](https://x.com/gtokentool)
-
-Gitbook：[**https://docs.gtokentool.com/**](https://docs.gtokentool.com/)
-
-Github：[**https://github.com/Gtokentool/docs/blob/master/SUMMARY.md**](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
-
-YouTube：[**https://www.youtube.com/@GTokenTool**](https://www.youtube.com/@GTokenTool)\
-\
-\
-<mark style="color:purple;background-color:orange;">**GTokenTool**</mark>_<mark style="color:purple;background-color:orange;">保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。以上信息内容仅供参考，GTokenTool对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。请谨慎投资。</mark>_
+> ⚠️ 风险提示与免责声明
+>
+> GTokenTool 保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。
+>
+> 以上信息内容仅供参考，GTokenTool 对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。**请谨慎投资。**

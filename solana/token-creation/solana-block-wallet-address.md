@@ -4,6 +4,18 @@ icon: lock-hashtag
 
 # Solana拉黑（冻结）钱包地址教程
 
+## 📌核心摘要
+
+* **功能定位**：Solana 代币**定向风控与合规工具**。它允许项目方利用“冻结权限”，强制锁定特定用户的代币账户，使其无法进行转账或交易，从而实现链上“拉黑”效果。
+* **核心价值（精准打击）**：
+  * **资产保全**：当发生黑客攻击或盗币事件时，可迅速冻结被盗资产，阻断黑客的洗钱路径，防止资产被转移。
+  * **合规制裁**：用于制裁恶意用户、机器人或受制裁实体，阻止其继续持有或交易项目代币，维护社区生态健康。
+  * **市场维护**：防止特定大户（巨鲸）砸盘或进行恶意操纵，保护代币价格稳定。
+* **操作前置条件**：
+  * **关键权限**：创建代币时必须**保留“冻结权限”**。若权限已放弃，则无法执行此操作。
+  * **目标锁定**：需获取目标用户的**代币账户地址**（而非钱包主地址），这是执行冻结的直接对象。
+  * **资金准备**：操作钱包内需有足够的 SOL 用于支付链上交易 Gas 费。
+
 ## 权限管理操作步骤
 
 ### 1. 进入“权限控制”
@@ -12,11 +24,11 @@ icon: lock-hashtag
 
 连接好钱包，选择 Main 网络节点，这里使用测试网演示。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-25_11-53-57 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-25_11-53-57 (2).png" alt=""><figcaption><p>连接钱包并选择网络</p></figcaption></figure>
 
 选择你要操作的代币，点击“`权限控制`”进入权限控制页面。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-25_14-01-59.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-25_14-01-59.png" alt=""><figcaption><p>选择代币进行权限控制</p></figcaption></figure>
 
 ### 2. 查看页面信息
 
@@ -28,37 +40,37 @@ icon: lock-hashtag
 
 确认是否有拉黑的权限。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-25_14-02-51.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-25_14-02-51.png" alt=""><figcaption><p>代币信息</p></figcaption></figure>
 
 ### 3. 进行拉黑操作
 
 **拉黑**：可以冻结任何一个地址，使其不能转账及卖出，输入钱包地址且一次只能输入一个地址，点击右侧“`添加`”就会把该钱包地址拉入黑名单。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-25_14-03-53.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-25_14-03-53.png" alt=""><figcaption><p>拉黑地址</p></figcaption></figure>
 
 点击“`添加`”后，会弹出钱包交易。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-25_14-04-42.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-25_14-04-42.png" alt=""><figcaption><p>钱包确认</p></figcaption></figure>
 
 交易成功会弹出提示“拉黑操作成功！”。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-25_14-05-13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-25_14-05-13.png" alt=""><figcaption><p>拉黑成功提示</p></figcaption></figure>
 
 ### 4. 解除拉黑操作
 
 **解除拉黑**：输入之前拉黑的钱包地址且一次只能输入一个地址，点击右侧“`解除`”之前拉黑的钱包解除黑名单。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-25_14-06-15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-25_14-06-15.png" alt=""><figcaption><p>解除拉黑</p></figcaption></figure>
 
 点击“`解除`”后，会弹出钱包交易。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-25_14-06-42.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-25_14-06-42.png" alt=""><figcaption><p>钱包确认</p></figcaption></figure>
 
 交易成功会弹出提示“解除拉黑操作成功！”。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-25_14-06-50.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-25_14-06-50.png" alt=""><figcaption><p>解除拉黑成功提示</p></figcaption></figure>
 
-## 常见问题 FAQ
+## ❓常见问题 FAQ
 
 ### Q: 什么是拉黑（冻结）功能？
 
@@ -80,25 +92,16 @@ icon: lock-hashtag
 
 **A:** 只影响被冻结的账户，不会影响整体代币流通。
 
+### 🤝 连接 GTokenTool <a href="#lian-jie-gtokentool" id="lian-jie-gtokentool"></a>
 
+* **💬 Telegram社群**：[点击加入官方群组](https://t.me/gtokentool)
+* **🐦 Twitter (X)**：[关注我们获取最新动态](https://x.com/gtokentool)
+* **📚 官方文档**：[查看 Gitbook 文档](https://docs.gtokentool.com/)
+* **💻 开源代码**：[访问 GitHub 仓库](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
+* **📺 视频教程**：[订阅 YouTube 频道](https://www.youtube.com/@GTokenTool)
 
-[_**GTokenTool | 创建代币、批量空投和做市机器人等Solana工具集**_](https://sol.gtokentool.com)
-
-**安全、开源，给Solana用户带来最便利的一站式体验。**
-
-
-
-GTokenTool社群:
-
-Telegram：[**https://t.me/gtokentool**](https://t.me/gtokentool)
-
-Twitter:  [**https://x.com/gtokentool**](https://x.com/gtokentool)
-
-Gitbook：[**https://docs.gtokentool.com/**](https://docs.gtokentool.com/)
-
-Github：[**https://github.com/Gtokentool/docs/blob/master/SUMMARY.md**](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
-
-YouTube：[**https://www.youtube.com/@GTokenTool**](https://www.youtube.com/@GTokenTool)\
-\
-\
-<mark style="color:purple;background-color:orange;">**GTokenTool**</mark>_<mark style="color:purple;background-color:orange;">保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。以上信息内容仅供参考，GTokenTool对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。请谨慎投资。</mark>_
+> ⚠️ 风险提示与免责声明
+>
+> GTokenTool 保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。
+>
+> 以上信息内容仅供参考，GTokenTool 对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。**请谨慎投资。**

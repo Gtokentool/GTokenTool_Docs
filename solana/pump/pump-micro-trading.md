@@ -1,4 +1,14 @@
+---
+description: Pump.fun 微量刷单教程，详解多地址微量交易策略，利用 Jito 技术实现批量订单捆绑提交，有效提升代币交易活跃度与市场热度。
+---
+
 # 💰 Pump微量刷单教程
+
+## 📌核心摘要
+
+* **核心功能（微量刷单）**：专为 Pump.fun 平台设计的精细化交易策略，通过多地址微量买入操作，模拟真实用户交易行为，有效提升代币交易活跃度与市场热度。
+* **技术架构（Jito 赋能）**：底层集成 Jito 技术，支持批量微量订单的捆绑提交，确保交易在区块内高效确认，规避网络拥堵与交易失败风险。
+* **执行优势（隐蔽性与效率）**：通过分散地址与微量交易，降低被平台识别为异常交易的风险，同时实现交易量的快速累积，为代币提供持续的市场曝光与流动性支持。
 
 ## 视频演示
 
@@ -21,7 +31,7 @@ Pump微量刷单：[https://sol.gtokentool.com/zh-CN/pump/pumpMicroTrade](https:
 
 连接好钱包，就可以在右上角看到钱包地址。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_13-24-20 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_13-24-20 (1).png" alt=""><figcaption><p>连接钱包并选择Main网络</p></figcaption></figure>
 
 ### 2. 输入刷单代币的地址
 
@@ -29,21 +39,21 @@ Pump微量刷单：[https://sol.gtokentool.com/zh-CN/pump/pumpMicroTrade](https:
 **注意**：输入的代币必须是在Pump下创建的代币。
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_13-29-18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_13-29-18.png" alt=""><figcaption><p>输入刷单代币地址</p></figcaption></figure>
 
 ### 3. 导入钱包
 
 导入钱包后，可以看到钱包里的SOL余额以及目标代币的余额。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_13-31-37.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_13-31-37.png" alt=""><figcaption><p>导入钱包</p></figcaption></figure>
 
 ### 4. 刷单设置
-
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_13-35-29.png" alt=""><figcaption></figcaption></figure>
 
 **单笔买卖金额（SOL**）：Pump 主页上显示的订单最小交易金额为 0.01 SOL。交易金额越大，显示的概率越高。
 
 **刷单轮数**：当开关关闭时，钱包将持续不间断地进行交易，只有当您手动指示它停止时才会停止。<mark style="color:purple;">当开关打开时，您可以设置特定的交易轮数，钱包一旦完成这些轮数将自动停止。</mark>
+
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_13-35-29.png" alt=""><figcaption><p>刷单设置</p></figcaption></figure>
 
 ### 5. 点击“开始刷单”
 
@@ -51,13 +61,13 @@ Pump微量刷单：[https://sol.gtokentool.com/zh-CN/pump/pumpMicroTrade](https:
 
 在指定的轮数执行完毕后，会有提示信息。我们还可以实时看到已经执行的轮数。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_13-39-05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_13-39-05.png" alt=""><figcaption><p>刷单结束提醒</p></figcaption></figure>
 
 执行完后，可以点击刷新目标代币，查看是否买入成功。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_13-39-47.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_13-39-47.png" alt=""><figcaption><p>刷新代币余额</p></figcaption></figure>
 
-## 常见问题 FAQ
+## ❓常见问题 FAQ
 
 ### Q: 什么是 Pump 微量刷单？
 
@@ -75,25 +85,16 @@ Pump微量刷单：[https://sol.gtokentool.com/zh-CN/pump/pumpMicroTrade](https:
 
 **A:** 可以。支持批量导入多个钱包地址，系统将自动轮询执行小额买卖，提升自然度与抗检测能力。
 
+### 🤝 连接 GTokenTool <a href="#lian-jie-gtokentool" id="lian-jie-gtokentool"></a>
 
+* **💬 Telegram社群**：[点击加入官方群组](https://t.me/gtokentool)
+* **🐦 Twitter (X)**：[关注我们获取最新动态](https://x.com/gtokentool)
+* **📚 官方文档**：[查看 Gitbook 文档](https://docs.gtokentool.com/)
+* **💻 开源代码**：[访问 GitHub 仓库](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
+* **📺 视频教程**：[订阅 YouTube 频道](https://www.youtube.com/@GTokenTool)
 
-[_**GTokenTool | 创建代币、批量空投和做市机器人等Solana工具集**_](https://sol.gtokentool.com)
-
-**安全、开源，给Solana用户带来最便利的一站式体验。**
-
-
-
-GTokenTool社群:
-
-Telegram：[**https://t.me/gtokentool**](https://t.me/gtokentool)
-
-Twitter:  [**https://x.com/gtokentool**](https://x.com/gtokentool)
-
-Gitbook：[**https://docs.gtokentool.com/**](https://docs.gtokentool.com/)
-
-Github：[**https://github.com/Gtokentool/docs/blob/master/SUMMARY.md**](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
-
-YouTube：[**https://www.youtube.com/@GTokenTool**](https://www.youtube.com/@GTokenTool)\
-\
-\
-<mark style="color:purple;background-color:orange;">**GTokenTool**</mark>_<mark style="color:purple;background-color:orange;">保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。以上信息内容仅供参考，GTokenTool对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。请谨慎投资。</mark>_
+> ⚠️ 风险提示与免责声明
+>
+> GTokenTool 保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。
+>
+> 以上信息内容仅供参考，GTokenTool 对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。**请谨慎投资。**

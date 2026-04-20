@@ -29,7 +29,7 @@ icon: user-lock
 
 进入Solana自动冻结页面：[https://sol.gtokentool.com/zh-CN/airdropSection/AutoFreeze](https://sol.gtokentool.com/zh-CN/airdropSection/AutoFreeze)，右上角点击连接钱包并选择 Main 网络。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-09-05_13-41-35.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-09-05_13-41-35.png" alt=""><figcaption><p>连接钱包并选择Main网络</p></figcaption></figure>
 
 ### 2. 单钱包监控单代币（可选）
 
@@ -47,13 +47,13 @@ icon: user-lock
 
 根据[设置自动冻结播报教程](https://docs.gtokentool.com/solana/airdrop-section/set-up-auto-freeze-broadcasts-tutorial)设置跟卖播报，填写群ID。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-09-05_13-55-37.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-09-05_13-55-37.png" alt=""><figcaption><p>开启自动冻结并设置自动冻结播报</p></figcaption></figure>
 
 ### 6. 触发条件设置（可选）
 
 默认全部触发，可对USDC买入数量和代币买入数量进行条件设置。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-10-10_10-34-05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-10-10_10-34-05.png" alt=""><figcaption><p>设置触发条件</p></figcaption></figure>
 
 ### 7. 冻结白名单（可选）
 
@@ -70,7 +70,7 @@ icon: user-lock
 
 添加成功后，下面的表格里可以看到代币的信息。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-09-05_14-11-30.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-09-05_14-11-30.png" alt=""><figcaption><p>添加代币效果</p></figcaption></figure>
 
 ### 9. 导入钱包
 
@@ -78,41 +78,41 @@ icon: user-lock
 
 导入成功后，可以看到钱包内SOL余额以及基础代币余额。可以点击“`刷新钱包`”获取当前钱包余额，<mark style="color:purple;">建议每次使用前刷新一次</mark>。也可点击`删除`按钮删除对应的钱包，或者点击“`全部删除`”按钮删除全部钱包。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-09-05_14-12-24.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-09-05_14-12-24.png" alt=""><figcaption><p>导入钱包效果</p></figcaption></figure>
 
 ### 10. 选择要监控的代币并点击“运行选中”
 
 先勾选钱包，再选择要监控的代币，最后点击“`运行选中`”。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-09-05_14-13-40.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-09-05_14-13-40.png" alt=""><figcaption><p>勾选代币和钱包，点击“运行选中”</p></figcaption></figure>
 
 点击“`运行选中`”后，下面的日志会显示代币已监控。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-09-05_14-14-17.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-09-05_14-14-17.png" alt=""><figcaption><p>日志提示代币已监控</p></figcaption></figure>
 
 代币的状态也会变成“激活”状态。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-09-05_14-14-44.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-09-05_14-14-44.png" alt=""><figcaption><p>代币状态激活</p></figcaption></figure>
 
 ### 11. 等待其他人的买入操作，机器人会发送信息提醒
 
 可以在日志中查看到监控情况。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-09-05_14-16-12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-09-05_14-16-12.png" alt=""><figcaption><p>交易日志</p></figcaption></figure>
 
 同时，Telegram 中的机器人也会发送信息。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-09-05_14-16-45.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-09-05_14-16-45.png" alt=""><figcaption><p>电报播报</p></figcaption></figure>
 
 ### 12. 取消监控
 
 若要补充代币或者修改触发条件，请先关闭跟踪。点击“`停止选中`”可以关闭监控。日志中会显示代币已取消监控。代币状态会变回未激活。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-09-05_14-18-50.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-09-05_14-18-50.png" alt=""><figcaption><p>日志提示取消监控</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-09-05_14-18-59.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-09-05_14-18-59.png" alt=""><figcaption><p>代币状态未激活</p></figcaption></figure>
 
-## 常见问题 FAQ
+## ❓常见问题 FAQ
 
 ### Q: 自动冻结是怎么收费的？
 

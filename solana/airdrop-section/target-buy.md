@@ -29,45 +29,45 @@ icon: money-bill-trend-up
 
 进入Solana定向买入页面：[https://sol.gtokentool.com/zh-CN/airdropSection/buyToDesignatedAddress](https://sol.gtokentool.com/zh-CN/airdropSection/buyToDesignatedAddress) ,右上角点击连接钱包并选择 Main 网络。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2026-01-26_11-42-39.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2026-01-26_11-42-39.png" alt=""><figcaption><p>连接钱包并选择Main网络</p></figcaption></figure>
 
 ### 2. 输入买入代币地址
 
-输入买入地址后，下面的表格里会显示代币简称。
+输入买入代币地址后，下面的表格里会显示代币简称。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2026-01-26_11-46-28.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2026-01-26_11-46-28.png" alt=""><figcaption><p>输入买入代币地址</p></figcaption></figure>
 
 ### 3. 选择对应的DEX以及基础代币
 
 确保DEX和基础代币选择正确，否则可能导致交易失败。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2026-01-26_11-49-03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2026-01-26_11-49-03.png" alt=""><figcaption><p>选择对应DEX以及基础代币</p></figcaption></figure>
 
 ### 4. 导入付款钱包私钥
 
 钱包导入成功后，可以看到钱包地址、SOL余额以及要买入代币的余额。点击表格内刷新图标可以获取最新余额。<mark style="color:purple;">全部费用由导入钱包支付。</mark>
 
-<figure><img src="../../.gitbook/assets/Snipaste_2026-01-26_11-55-10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2026-01-26_11-55-10.png" alt=""><figcaption><p>导入付款钱包私钥</p></figcaption></figure>
 
 ### 5. 导入指定地址
 
 导入指定地址，一行一个。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2026-01-26_13-03-14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2026-01-26_13-03-14.png" alt=""><figcaption><p>导入指定地址</p></figcaption></figure>
 
 ### 6. 设置买入金额
 
 可设置随机金额或者固定金额。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2026-01-26_13-05-44.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2026-01-26_13-05-44.png" alt=""><figcaption><p>设置买入金额</p></figcaption></figure>
 
 ### 7. 点击”开始“
 
 开始后，下方可查看交易日志。成功后可复制哈希去查看交易详情。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2026-01-26_13-07-06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2026-01-26_13-07-06.png" alt=""><figcaption><p>日志显示哈希</p></figcaption></figure>
 
-## 常见问题 FAQ
+## ❓常见问题 FAQ
 
 ### Q: 定向买入是什么功能？
 

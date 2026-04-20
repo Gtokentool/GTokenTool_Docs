@@ -5,7 +5,15 @@ icon: camera-viewfinder
 
 # Solana代币快照教程
 
-代币快照是区块链网络上所有账户在特定时间点的代币持有情况的快照。这个过程通常发生在区块链上的某个特定区块高度，记录了在那个时间点所有账户的代币持有情况。快照的主要目的是确保在特定时间点代币分配和空投的公平性和透明度。
+## 📌核心摘要
+
+* **功能定位**：Solana 链上数据提取与持有者分析工具。它通过记录特定区块高度下所有账户的代币持有情况，生成一份完整的“代币快照”，为项目方提供精准的数据支持。
+* **核心价值（数据驱动决策）**：
+  * **公平空投**：作为空投分发的唯一依据，确保代币能精准、公平地分配给符合条件的持有者，杜绝作弊和争议。
+  * **社区治理**：用于确定投票权、会员资格或奖励分配，是去中心化自治组织（DAO）治理的基础数据来源。
+  * **市场洞察**：帮助项目方分析持币集中度、识别大户（巨鲸）和活跃用户，为市场策略和社区运营提供数据支持。
+* **操作前置条件**：
+  * **代币信息**：需明确要快照的代币的合约地址（Mint Address）。
 
 ## 视频演示
 
@@ -17,15 +25,15 @@ icon: camera-viewfinder
 
 进入[代币快照](https://sol.gtokentool.com/zh-CN/Token/Snapshot)页面，并选择 Main 网络节点。此功能无需连接钱包。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-25_14-10-28.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-25_14-10-28.png" alt=""><figcaption><p>选择Main网络</p></figcaption></figure>
 
 ### 2. 输入代币地址
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-25_14-12-07.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-25_14-12-07.png" alt=""><figcaption><p>输入代币地址</p></figcaption></figure>
 
 ### 3. 点击“查询代币”
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-25_14-31-55.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-25_14-31-55.png" alt=""><figcaption><p>查询代币信息</p></figcaption></figure>
 
 ### 4. 进行数据筛选，点击“立即快照”
 
@@ -33,9 +41,9 @@ icon: camera-viewfinder
 
 快照完成后，用户可以在页面上查看快照结果，并下载快照数据（如 Excel 文件）以供后续使用。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-25_14-36-05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-25_14-36-05.png" alt=""><figcaption><p>下载快照信息</p></figcaption></figure>
 
-## 常见问题 FAQ
+## ❓常见问题 FAQ
 
 ### Q: 快照工具支持哪些类型的代币？
 
@@ -57,25 +65,16 @@ A: 可筛选 Top 100–10000 的持币地址，或设定最低持仓数量，自
 
 **A:** 不收费，该工具是免费使用的。
 
+### 🤝 连接 GTokenTool <a href="#lian-jie-gtokentool" id="lian-jie-gtokentool"></a>
 
+* **💬 Telegram社群**：[点击加入官方群组](https://t.me/gtokentool)
+* **🐦 Twitter (X)**：[关注我们获取最新动态](https://x.com/gtokentool)
+* **📚 官方文档**：[查看 Gitbook 文档](https://docs.gtokentool.com/)
+* **💻 开源代码**：[访问 GitHub 仓库](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
+* **📺 视频教程**：[订阅 YouTube 频道](https://www.youtube.com/@GTokenTool)
 
-[_**GTokenTool | 创建代币、批量空投和做市机器人等Solana工具集**_](https://sol.gtokentool.com)
-
-**安全、开源，给Solana用户带来最便利的一站式体验。**
-
-
-
-GTokenTool社群:
-
-Telegram：[**https://t.me/gtokentool**](https://t.me/gtokentool)
-
-Twitter:  [**https://x.com/gtokentool**](https://x.com/gtokentool)
-
-Gitbook：[**https://docs.gtokentool.com/**](https://docs.gtokentool.com/)
-
-Github：[**https://github.com/Gtokentool/docs/blob/master/SUMMARY.md**](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
-
-YouTube：[**https://www.youtube.com/@GTokenTool**](https://www.youtube.com/@GTokenTool)\
-\
-\
-&#xNAN;_<mark style="color:purple;background-color:orange;">GTokenTool保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。以上信息内容仅供参考，GTokenTool对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。请谨慎投资。</mark>_
+> ⚠️ 风险提示与免责声明
+>
+> GTokenTool 保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。
+>
+> 以上信息内容仅供参考，GTokenTool 对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。**请谨慎投资。**
