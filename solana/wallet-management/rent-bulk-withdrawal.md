@@ -8,6 +8,16 @@
 <mark style="color:green;">全网最低</mark> <mark style="color:green;"></mark><mark style="color:green;">**GAS费用**</mark><mark style="color:green;">，服务费仅</mark> <mark style="color:green;"></mark><mark style="color:green;">**5%**</mark><mark style="color:green;">， 分享赚钱还可获得</mark><mark style="color:green;">**30%**</mark><mark style="color:green;">服务费。</mark>
 {% endhint %}
 
+## 📌 核心摘要
+
+* **功能定位：**&#x53;olana 生态高效的**链上空间释放与资金回笼方案**。旨在通过批量关闭（Close Account）冗余的代币账户（ATA）或销毁无价值 NFT，强制赎回锁定的 SOL 租金。
+* **技术特性：**
+  * **多账户并行处理：**&#x652F;持全量扫描钱包内的“僵尸账户”，实现跨资产类别的批量化一键清算。
+  * **即时资产变现：**&#x901A;过原子交易指令，将散落在各合约账户中的微量租金聚合返还至主钱包。
+  * **经济成本优化：**&#x7EF4;持全网最低的 GAS 消耗，服务费仅 **5%**，并配合 **30% 的邀请返佣**机制。
+* **应用价值：**&#x5927;幅提升钱包的整洁度与资金周转率，将原本不可用的链上“存储押金”转化为可流动的资产，是**链上环境治理与成本回收的专业工具**。
+* **目标受众：**&#x9700;处理大量空投残留账户的项目方、拥有成百上千个小额账户的资深玩家及寻求资金利用率最大化的 Solana 用户。
+
 ## 视频演示
 
 {% embed url="https://youtu.be/gRyFP1W362k" %}
@@ -28,9 +38,9 @@ Solana批量租金回收：[https://sol.gtokentool.com/zh-CN/walletManagement/ba
 
 进入 GTokenTool 批量租金回收页面，在右上角选择 Main 网络并连接钱包。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2026-01-28_13-18-19.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2026-01-28_13-18-19.png" alt=""><figcaption><p>连接钱包并选择网络</p></figcaption></figure>
 
-### 2. 导入需要回收的钱包
+### 2. 导入需要执行回收的钱包
 
 {% hint style="warning" %}
 **特别说明：**
@@ -42,11 +52,11 @@ Solana批量租金回收：[https://sol.gtokentool.com/zh-CN/walletManagement/ba
 
 <mark style="color:purple;">导入钱包后，可以查看钱包地址、所有账户数量、空账户数量、预估可回收领取的 SOL 数量以及领取状态。</mark>
 
-<figure><img src="../../.gitbook/assets/Snipaste_2026-01-28_14-06-43.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2026-01-28_14-06-43.png" alt=""><figcaption><p>导入要执行回收的钱包</p></figcaption></figure>
 
 默认回收空账户，打开`关闭所有账户`后，可以回收所有账户（<mark style="color:purple;">价值币不会被回收</mark>）。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2026-01-28_13-20-52.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2026-01-28_13-20-52.png" alt=""><figcaption><p>关闭所有账户</p></figcaption></figure>
 
 ### 3. 选择要回收的钱包
 
@@ -54,13 +64,13 @@ Solana批量租金回收：[https://sol.gtokentool.com/zh-CN/walletManagement/ba
 
 选中钱包后，可以看到选中账户可领取的SOL。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2026-01-28_13-21-17.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2026-01-28_13-21-17.png" alt=""><figcaption><p>选择要回收的钱包</p></figcaption></figure>
 
 ### 4. 开启代付Gas（推荐）
 
 导入钱包私钥，可以看到钱包地址和余额。请确保钱包内余额充足。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2026-01-28_13-22-36.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2026-01-28_13-22-36.png" alt=""><figcaption><p>开启代付Gas</p></figcaption></figure>
 
 ### 5. 回收SOL到指定钱包地址
 
@@ -68,17 +78,17 @@ Solana批量租金回收：[https://sol.gtokentool.com/zh-CN/walletManagement/ba
 
 如果不填写则默认回收租金 SOL 至对应钱包。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2026-01-28_13-23-09.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2026-01-28_13-23-09.png" alt=""><figcaption><p>回收SOL到指定地址</p></figcaption></figure>
 
 ### 6. 确认回收等待批量回收租金完成
 
 <mark style="color:purple;">回收前需要确保待回收账户中有一些 SOL 用于支付链上 GAS，如无 GAS 将会回收失败。</mark>如果使用代付Gas，则无需考虑，只需确保代付钱包余额充足。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2026-01-28_13-23-32.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2026-01-28_13-23-32.png" alt=""><figcaption><p>回收完成提示</p></figcaption></figure>
 
 执行完成后，可以点击`刷新钱包`查看是否回收成功。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2026-01-28_13-24-00.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2026-01-28_13-24-00.png" alt=""><figcaption><p>刷新钱包</p></figcaption></figure>
 
 {% hint style="danger" %}
 **提醒：**
@@ -91,7 +101,7 @@ Solana批量租金回收：[https://sol.gtokentool.com/zh-CN/walletManagement/ba
 6. 接收地址，推荐地址余额必须大于0.001 SOL，否则会回收失败。
 {% endhint %}
 
-## 常见问题 FAQ
+## ❓常见问题 FAQ
 
 ### Q: 可以回收哪些账户类型？
 
@@ -109,26 +119,16 @@ Solana批量租金回收：[https://sol.gtokentool.com/zh-CN/walletManagement/ba
 
 **A:** 支持。你可以批量导入多个钱包，统一执行账户扫描和回收操作。
 
+### 🤝 连接 GTokenTool <a href="#lian-jie-gtokentool" id="lian-jie-gtokentool"></a>
 
+* **💬 Telegram社群**：[点击加入官方群组](https://t.me/gtokentool)
+* **🐦 Twitter (X)**：[关注我们获取最新动态](https://x.com/gtokentool)
+* **📚 官方文档**：[查看 Gitbook 文档](https://docs.gtokentool.com/)
+* **💻 开源代码**：[访问 GitHub 仓库](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
+* **📺 视频教程**：[订阅 YouTube 频道](https://www.youtube.com/@GTokenTool)
 
-[_**GTokenTool | 创建代币、批量空投和做市机器人等Solana工具集**_](https://sol.gtokentool.com)
-
-**安全、开源，给Solana用户带来最便利的一站式体验。**
-
-
-
-GTokenTool社群:
-
-Telegram：[**https://t.me/gtokentool**](https://t.me/gtokentool)
-
-Twitter:  [**https://x.com/gtokentool**](https://x.com/gtokentool)
-
-Gitbook：[**https://docs.gtokentool.com/**](https://docs.gtokentool.com/)
-
-Github：[**https://github.com/Gtokentool/docs/blob/master/SUMMARY.md**](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
-
-YouTube：[**https://www.youtube.com/@GTokenTool**](https://www.youtube.com/@GTokenTool)\
-\
-\
-\
-<mark style="color:purple;background-color:orange;">**GTokenTool**</mark>_<mark style="color:purple;background-color:orange;">保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。以上信息内容仅供参考，GTokenTool对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。请谨慎投资。</mark>_
+> ⚠️ 风险提示与免责声明
+>
+> GTokenTool 保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。
+>
+> 以上信息内容仅供参考，GTokenTool 对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。**请谨慎投资。**

@@ -36,9 +36,9 @@ Letsbonk.fun 是一个由 Solana 区块链上的迷因币项目 BONK 与去中�
 
 ### 一、连接钱包
 
-Letsbonk发币和开盘捆绑买入工具：[https://sol.gtokentool.com/zh-CN/LetsBonk/createToken](https://sol.gtokentool.com/zh-CN/LetsBonk/createToken)
+Letsbonk发币和捆绑买入工具：[https://sol.gtokentool.com/zh-CN/LetsBonk/createToken](https://sol.gtokentool.com/zh-CN/LetsBonk/createToken)
 
-进入GTokenTool一键平台Letsbonk发币页面，选择 Main 网络，连接钱包，选择幻影钱包Phantom，连接后就可以看到钱包地址。
+进入GTokenTool一键平台Letsbonk发币和捆绑买入页面，选择 Main 网络，连接钱包，选择幻影钱包Phantom，连接后就可以看到钱包地址。
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_11-34-55.png" alt=""><figcaption><p>连接钱包并选择Main网络</p></figcaption></figure>
 

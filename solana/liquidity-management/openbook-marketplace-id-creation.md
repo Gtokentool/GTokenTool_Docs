@@ -5,6 +5,16 @@ icon: store
 
 # OpenBook市场ID创建教程
 
+## 📌 核心摘要
+
+* **功能定位：**&#x53;olana 生态代币发行与流动性部署的**前置核心引擎**。旨在协助项目方快速生成 OpenBook Market ID，为后续在 Raydium 等 DEX 建立流动性池奠定基础。
+* **技术特性：**
+  * **零代码交互：**&#x901A;过可视化界面封装复杂的链上指令，无需编写代码即可完成底层市场合约的初始化。
+  * **参数自定义：**&#x652F;持针对代币精度、最小下单量等核心市场参数进行深度定制，满足差异化交易需求。
+  * **流程自动化：**&#x5C06;传统的市场创建步骤极简化，大幅缩短从代币发行到上线交易的时间周期。
+* **应用价值：**&#x4F5C;为流动性池搭建的“数字入场券”，该工具极大地降低了开发者与项目方的技术门槛，是**项目快速冷启动与资产上币**的关键链路。
+* **目标受众：**&#x53;olana 生态初创项目方、代币发行者以及寻求低门槛流动性部署方案的区块链开发者。
+
 ## OpenBook市场ID创建视频演示
 
 {% embed url="https://youtu.be/9tVY3SnZRTo" %}
@@ -59,25 +69,25 @@ OpenBook 市场ID的价格，取决于多种参数，包括事件队列长度、
 
 进入代币列表页面（[https://sol.gtokentool.com/zh-CN/Token/management](https://sol.gtokentool.com/zh-CN/Token/management)），并且连接好钱包，选择 Main 网络节点，这里使用测试网演示。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-26_10-49-05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-26_10-49-05.png" alt=""><figcaption><p>连接钱包并选择网络</p></figcaption></figure>
 
 ### 2. 选择要创建市场ID的代币
 
 选择你要创建市场ID的代币，点击“`创建市场`”进入创建市场ID页面。也可以从`流动性管理`进入创建市场ID页面。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-26_10-50-49.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-26_10-50-49.png" alt=""><figcaption><p>选择代币去创建市场</p></figcaption></figure>
 
 从`管理代币`页面进入`创建市场ID`页面会自动填写目标代币地址，若从`流动性管理`进入[创建市场ID](https://sol.gtokentool.com/zh-CN/liquidityManagement/createMarket)页面需要自行填写目标代币地址。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-26_10-56-21.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-26_10-56-21.png" alt=""><figcaption><p>填写目标代币地址</p></figcaption></figure>
 
 ### 3. 选择需要的基础代币
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-26_10-59-58.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-26_10-59-58.png" alt=""><figcaption><p>选择基础代币</p></figcaption></figure>
 
 ### 4. 设置最小订单数量和最小价格变动的精度
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-26_11-01-04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-26_11-01-04.png" alt=""><figcaption><p>设置最小订单数量和最小价格变动的精度</p></figcaption></figure>
 
 **最小订单数量的精度：**&#x8BA2;单簿中的`最小订单数量精度`。假如填2，那最小交易量就是0.01。假如填4，最小交易量就是0.0001。以此类推，这个事实上是精度小数位。
 
@@ -109,7 +119,7 @@ OpenBook 市场ID的价格，取决于多种参数，包括事件队列长度、
 
 有默认的费用的配置，也可以点击配置详情自己配置，但新手不建议进行此操作，以防出现不可预知的问题。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-26_11-02-19.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-26_11-02-19.png" alt=""><figcaption><p>设置配置参数</p></figcaption></figure>
 
 以下是针对您的市场ID的不同价格指定的输入：
 
@@ -125,17 +135,17 @@ OpenBook 市场ID的价格，取决于多种参数，包括事件队列长度、
 
 当我们点击“`创建`”时，钱包会第一次弹出。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-26_11-04-06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-26_11-04-06.png" alt=""><figcaption><p>创建账户钱包确认</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-26_11-04-30.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-26_11-04-30.png" alt=""><figcaption><p>创建账户成功提示</p></figcaption></figure>
 
 点击“`Confirm`"后，钱包会第二次弹出。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-26_11-04-58.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-26_11-04-58.png" alt=""><figcaption><p>创建市场ID钱包确认</p></figcaption></figure>
 
 之后等待几秒钟后ID就会创建成功。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-26_11-05-14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-26_11-05-14.png" alt=""><figcaption><p>创建市场成功提示</p></figcaption></figure>
 
 之后可以将ID复制下来，去Raydium加池子了。
 
@@ -143,9 +153,9 @@ OpenBook 市场ID的价格，取决于多种参数，包括事件队列长度、
 
 也可以通过我们的[查询市场ID](https://sol.gtokentool.com/zh-CN/liquidityManagement/searchId)功能查询。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-08-26_11-11-14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-08-26_11-11-14.png" alt=""><figcaption><p>区块链浏览器查询市场ID</p></figcaption></figure>
 
-## 常见问题 FAQ <a href="#chang-jian-wen-ti" id="chang-jian-wen-ti"></a>
+## ❓常见问题 FAQ <a href="#chang-jian-wen-ti" id="chang-jian-wen-ti"></a>
 
 ### Q: 在GTokenTool上创建OpenBook ID安全吗？
 
@@ -171,25 +181,16 @@ OpenBook 市场ID的价格，取决于多种参数，包括事件队列长度、
 
 **A:** 使用比平常低 5 倍价格创建 OpenBook Market 是很棒的事情。但是需要考虑风险问题，如果你的项目是一个长期并且交易量很大的项目，不建议节省 3 SOL 的开支，如果你打算创建一个短期的，市值不超过 100 万美元的meme项目，或者仅用来做一些测试，那么使用低成本方案完全没有问题 。
 
+### 🤝 连接 GTokenTool <a href="#lian-jie-gtokentool" id="lian-jie-gtokentool"></a>
 
+* **💬 Telegram社群**：[点击加入官方群组](https://t.me/gtokentool)
+* **🐦 Twitter (X)**：[关注我们获取最新动态](https://x.com/gtokentool)
+* **📚 官方文档**：[查看 Gitbook 文档](https://docs.gtokentool.com/)
+* **💻 开源代码**：[访问 GitHub 仓库](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
+* **📺 视频教程**：[订阅 YouTube 频道](https://www.youtube.com/@GTokenTool)
 
-[_**GTokenTool | 创建代币、批量空投和做市机器人等Solana工具集**_](https://sol.gtokentool.com)
-
-**安全、开源，给Solana用户带来最便利的一站式体验。**
-
-
-
-GTokenTool社群:
-
-Telegram：[**https://t.me/gtokentool**](https://t.me/gtokentool)
-
-Twitter:  [**https://x.com/gtokentool**](https://x.com/gtokentool)
-
-Gitbook：[**https://docs.gtokentool.com/**](https://docs.gtokentool.com/)
-
-Github：[**https://github.com/Gtokentool/docs/blob/master/SUMMARY.md**](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
-
-YouTube：[**https://www.youtube.com/@GTokenTool**](https://www.youtube.com/@GTokenTool)\
-\
-\
-<mark style="color:purple;background-color:orange;">**GTokenTool**</mark>_<mark style="color:purple;background-color:orange;">保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。以上信息内容仅供参考，GTokenTool对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。请谨慎投资。</mark>_
+> ⚠️ 风险提示与免责声明
+>
+> GTokenTool 保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。
+>
+> 以上信息内容仅供参考，GTokenTool 对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。**请谨慎投资。**

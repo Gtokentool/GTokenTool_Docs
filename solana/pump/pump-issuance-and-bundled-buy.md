@@ -26,7 +26,7 @@ description: GTokenTool出品的Pump.fun实战指南，详解Solana链上发币�
 
 PUMP发币和开盘捆绑买入工具：[https://sol.gtokentool.com/zh-CN/pump/bundle](https://sol.gtokentool.com/zh-CN/pump/bundle)
 
-进入GTokenTool平台Pump发币入页面，选择 Main 网络，连接钱包，选择幻影钱包Phantom，连接后就可以看到钱包地址。
+进入GTokenTool平台Pump发币和捆绑买入页面，选择 Main 网络，连接钱包，选择幻影钱包Phantom，连接后就可以看到钱包地址。
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_11-22-06.png" alt=""><figcaption><p>连接钱包并选择Main网络</p></figcaption></figure>
 

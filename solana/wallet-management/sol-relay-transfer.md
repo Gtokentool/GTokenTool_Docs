@@ -12,6 +12,16 @@ icon: shuffle
 [立即体验>>>](https://sol.gtokentool.com/zh-CN/batchTool/relayTransfer)
 {% endhint %}
 
+## 📌 核心摘要
+
+* **功能定位：**&#x53;olana 链上**隐私增强型转账协议**。通过引入中转机制，打破发送方与接收方之间的直接关联，实现资金流转的深度隐匿。
+* **技术特性：**
+  * **多级中转路由：**&#x91C7;用多次自动中转逻辑，有效阻断链上追踪工具对转账路径的直接溯源。
+  * **痕迹抹除技术：**&#x5728;交易执行过程中动态优化路径，最大程度降低关联账户的曝光风险。
+  * **高隐私交互：**&#x4E3A;用户提供一种更加隐蔽且非线性的资金转移方式，确保护航账户的绝对私密。
+* **应用价值：**&#x5927;幅提升个人或机构的资金隐私安全，有效防范针对特定账户的恶意监控，是执行**高安全性资产调度**的必备辅助工具。
+* **目标受众：**&#x5BF9;转账隐私有极高要求的专业交易者、需隐匿资金流向的机构用户，以及注重账户安全的 Solana 资深玩家。
+
 ## 准备事项 <a href="#zhun-bei-shi-xiang" id="zhun-bei-shi-xiang"></a>
 
 1. 一台电脑或者一部手机
@@ -27,7 +37,7 @@ SOL中转转账：[https://sol.gtokentool.com/zh-CN/walletManagement/relayTransf
 
 进入SOL中转转账页面，右上角支持切换成中文。选择 Main 网络并连接钱包。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-09-06_10-15-51.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-09-06_10-15-51.png" alt=""><figcaption><p>连接钱包并选择Main网络</p></figcaption></figure>
 
 ### 2. 选择钱包操作或者私钥操作
 
@@ -35,9 +45,9 @@ SOL中转转账：[https://sol.gtokentool.com/zh-CN/walletManagement/relayTransf
 
 **私钥操作：**&#x5BFC;入要转出的钱包地址私钥，使用导入的钱包进行转出操作。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-09-06_10-17-21.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-09-06_10-17-21.png" alt=""><figcaption><p>钱包操作</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-09-06_10-18-05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-09-06_10-18-05.png" alt=""><figcaption><p>私钥操作</p></figcaption></figure>
 
 ### 3. 设置转账数量
 
@@ -45,7 +55,7 @@ SOL中转转账：[https://sol.gtokentool.com/zh-CN/walletManagement/relayTransf
 
 <mark style="background-color:$warning;">每中转 100 个地址服务费仅需 0.01 SOL。</mark>
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-09-06_10-20-22.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-09-06_10-20-22.png" alt=""><figcaption><p>设置转账数量</p></figcaption></figure>
 
 ### 4. 设置转账次数
 
@@ -53,17 +63,17 @@ SOL中转转账：[https://sol.gtokentool.com/zh-CN/walletManagement/relayTransf
 
 设置好转账数量和转账次数后，可以看到下面的预估到账金额。若金额小于0.001，转账不会成功。<mark style="color:purple;">SOL 最小转账金额为 0.001 SOL，需要确保最终到账的金额大于 0.001 SOL才可成功。</mark>
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-09-06_10-20-57.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-09-06_10-20-57.png" alt=""><figcaption><p>设置转账次数</p></figcaption></figure>
 
 ### 5. 设置最终接收地址
 
 <mark style="color:purple;">避免钓鱼，不要从最近转账记录中复制钱包地址。</mark>
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-09-06_10-22-57.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-09-06_10-22-57.png" alt=""><figcaption><p>设置最终接收地址</p></figcaption></figure>
 
 ### 6. Jito小费设置
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-09-06_10-24-14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-09-06_10-24-14.png" alt=""><figcaption><p>Jitto小费设置</p></figcaption></figure>
 
 ### 7. 生成中转地址并下载保存
 
@@ -71,23 +81,23 @@ SOL中转转账：[https://sol.gtokentool.com/zh-CN/walletManagement/relayTransf
 
 然后点击第二步“`下载地址`”，<mark style="color:purple;">为避免中转转账造成资产损失，务必检查中转转账所需地址文件已经保存。最好打开文件检查数据是否保存完整！！！</mark>
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-09-06_10-40-57.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-09-06_10-40-57.png" alt=""><figcaption><p>下载中转地址</p></figcaption></figure>
 
 ### 8. 点击“立即转账”
 
 点击“`立即转账`”后，会弹出提示：<mark style="color:purple;">即将开始中转转账，请再次检查中转所需地址已下载，请务必打开已下载的Excel表格，核对地址信息是否完整保存！！！</mark>请确认好后再点击“`继续转账`”。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-09-06_10-45-09.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-09-06_10-45-09.png" alt=""><figcaption><p>确认中转地址下载完整</p></figcaption></figure>
 
 开始交易后，可以实时看到转账的进度。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-09-06_10-49-18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-09-06_10-49-18.png" alt=""><figcaption><p>转账进度</p></figcaption></figure>
 
 转账完成会显示最后一次转账的哈希，可以点击哈希值去查看交易。
 
-<figure><img src="../../.gitbook/assets/Snipaste_2025-09-24_13-38-25.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snipaste_2025-09-24_13-38-25.png" alt=""><figcaption><p>中转转账成功哈希</p></figcaption></figure>
 
-## 常见问题 FAQ
+## ❓常见问题 FAQ
 
 ### Q: 中转转账和普通转账有何区别？
 
@@ -101,25 +111,16 @@ SOL中转转账：[https://sol.gtokentool.com/zh-CN/walletManagement/relayTransf
 
 **A:** 所有中转钱包私钥将提供给用户保存，整个过程在本地或可信环境中执行，GTokenTool 不保留用户密钥，确保安全可控。
 
+### 🤝 连接 GTokenTool <a href="#lian-jie-gtokentool" id="lian-jie-gtokentool"></a>
 
+* **💬 Telegram社群**：[点击加入官方群组](https://t.me/gtokentool)
+* **🐦 Twitter (X)**：[关注我们获取最新动态](https://x.com/gtokentool)
+* **📚 官方文档**：[查看 Gitbook 文档](https://docs.gtokentool.com/)
+* **💻 开源代码**：[访问 GitHub 仓库](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
+* **📺 视频教程**：[订阅 YouTube 频道](https://www.youtube.com/@GTokenTool)
 
-[_**GTokenTool | 创建代币、批量空投和做市机器人等Solana工具集**_](https://sol.gtokentool.com)
-
-**安全、开源，给Solana用户带来最便利的一站式体验。**
-
-
-
-GTokenTool社群:
-
-Telegram：[**https://t.me/gtokentool**](https://t.me/gtokentool)
-
-Twitter:  [**https://x.com/gtokentool**](https://x.com/gtokentool)
-
-Gitbook：[**https://docs.gtokentool.com/**](https://docs.gtokentool.com/)
-
-Github：[**https://github.com/Gtokentool/docs/blob/master/SUMMARY.md**](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
-
-YouTube：[**https://www.youtube.com/@GTokenTool**](https://www.youtube.com/@GTokenTool)\
-\
-\
-<mark style="color:purple;background-color:orange;">**GTokenTool**</mark>_<mark style="color:purple;background-color:orange;">保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。以上信息内容仅供参考，GTokenTool对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。请谨慎投资。</mark>_
+> ⚠️ 风险提示与免责声明
+>
+> GTokenTool 保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。
+>
+> 以上信息内容仅供参考，GTokenTool 对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。**请谨慎投资。**
