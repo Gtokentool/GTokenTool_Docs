@@ -4,7 +4,7 @@ description: 席卷全球创新玩法、无需swap即可兑换、交易冷却防
 
 # ERC314代币
 
-## 视频教程
+## 📺视频教程
 
 {% embed url="https://youtu.be/EJruZv9vP_w" %}
 
@@ -27,17 +27,15 @@ description: 席卷全球创新玩法、无需swap即可兑换、交易冷却防
 
 注：公链默认为钱包所在的公链。
 
-<figure><img src="https://lh7-us.googleusercontent.com/FDuKRIyAoUBC7fd20VlNJ09LBIRXyrEnlD8_DbxZ5Cc8mkJU_Qu-gZz9vxdtsKORj1-SaL74miqmeYPXwoj24p57nzc3rjRch24A_SYD9G9JucckSaKBK6jNJE-61EjJ-raFF-TLqiiu6vU3VsdMT8U" alt=""><figcaption></figcaption></figure>
-
 完成后，会看到您的  “钱包地址” ，如下图：
 
-<figure><img src="https://lh7-us.googleusercontent.com/2gNL5Tmk66SC-5n-yP0q19PqA9mMByVVBFVPL06RtlpuPGp4dEzc1c7pNFsAV9SFE-9jfi-XGST3CXL4XZ524Jd2rHHPLsjaObZ-2doNmmVO4DZvMmjZDrlrcwKdYdLDnH4a9hUHSpjFIUreeHG3dF4" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://lh7-us.googleusercontent.com/2gNL5Tmk66SC-5n-yP0q19PqA9mMByVVBFVPL06RtlpuPGp4dEzc1c7pNFsAV9SFE-9jfi-XGST3CXL4XZ524Jd2rHHPLsjaObZ-2doNmmVO4DZvMmjZDrlrcwKdYdLDnH4a9hUHSpjFIUreeHG3dF4" alt=""><figcaption><p>连接钱包</p></figcaption></figure>
 
 ### (2) 选择代币模式
 
 点击下拉框，选择“ERC314”。
 
-<figure><img src="https://lh7-us.googleusercontent.com/qvc8KnVqywG9WzZDdcABeWpjHI5qO6CEHBQbDGj4r3lxOMc7HRcIUpQeqBqp-OecfoB6W6m2fbnxEX1OuJfHmIPE1PKqx_9oI9DZGUrUTJfRWHC-2dmQi6oOytQRWcorwnctEYmX3mEAlXYV5Pd4PlI" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://lh7-us.googleusercontent.com/qvc8KnVqywG9WzZDdcABeWpjHI5qO6CEHBQbDGj4r3lxOMc7HRcIUpQeqBqp-OecfoB6W6m2fbnxEX1OuJfHmIPE1PKqx_9oI9DZGUrUTJfRWHC-2dmQi6oOytQRWcorwnctEYmX3mEAlXYV5Pd4PlI" alt=""><figcaption><p>选择ERC314</p></figcaption></figure>
 
 ### (3) 填写您的代币信息
 
@@ -56,11 +54,11 @@ description: 席卷全球创新玩法、无需swap即可兑换、交易冷却防
 * **最小持币分红数量：**&#x31;000
 * **每小时燃烧底池（‰）：**&#x35;
 
-<figure><img src="https://lh7-us.googleusercontent.com/8b8YwuccKdRGR7aP1j0k-ae-xjdyBDw7Ylspd1UZQxkG86WRUVu49i5MNrK_ELZVMN3nT9rgsuXcSGAar794UxHt2rLLULRwZ9ovb1BLUmQFREvBTo2qtaAOWrej4rQOCxFalzf9LgOJfAACh_KEaHk" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://lh7-us.googleusercontent.com/8b8YwuccKdRGR7aP1j0k-ae-xjdyBDw7Ylspd1UZQxkG86WRUVu49i5MNrK_ELZVMN3nT9rgsuXcSGAar794UxHt2rLLULRwZ9ovb1BLUmQFREvBTo2qtaAOWrej4rQOCxFalzf9LgOJfAACh_KEaHk" alt="" width="563"><figcaption><p>填写代币信息</p></figcaption></figure>
 
 输入完成后，点击“`创建代币`”并支付gas费，就完成了。
 
-## 常见问题 FAQ
+## ❓常见问题 FAQ
 
 ### Q: 为什么能转账不能交易？
 
@@ -86,6 +84,16 @@ description: 席卷全球创新玩法、无需swap即可兑换、交易冷却防
 
 **A:** 由于ave有延迟，加池子之后，需要交易数笔，才能显示K线。
 
+### 🤝 连接 GTokenTool <a href="#lian-jie-gtokentool" id="lian-jie-gtokentool"></a>
 
+* **💬 Telegram社群**：[点击加入官方群组](https://t.me/gtokentool)
+* **🐦 Twitter (X)**：[关注我们获取最新动态](https://x.com/gtokentool)
+* **📚 官方文档**：[查看 Gitbook 文档](https://docs.gtokentool.com/)
+* **💻 开源代码**：[访问 GitHub 仓库](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
+* **📺 视频教程**：[订阅 YouTube 频道](https://www.youtube.com/@GTokenTool)
 
-如有不明白的地方，请加入官方电报群：[@](https://t.me/maleduck666)[https://t.me/gtokentool](https://t.me/gtokentool)
+> ⚠️ 风险提示与免责声明
+>
+> GTokenTool 保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。
+>
+> 以上信息内容仅供参考，GTokenTool 对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。**请谨慎投资。**

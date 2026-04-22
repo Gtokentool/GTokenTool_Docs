@@ -16,15 +16,15 @@ Base链是由加密货币交易所Coinbase开发的以太坊二层（Layer 2）�
 
 进入GTokenTool，点击右上角选择，Base链。
 
-<figure><img src="../.gitbook/assets/1 (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (11).png" alt=""><figcaption><p>选择Base链</p></figcaption></figure>
 
 点击连接钱包，选择小狐狸钱包。
 
-<figure><img src="../.gitbook/assets/2 (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2 (7).png" alt=""><figcaption><p>点击“连接钱包”</p></figcaption></figure>
 
 连接成功后，就可以看到钱包地址。
 
-<figure><img src="../.gitbook/assets/3 (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3 (6).png" alt=""><figcaption><p>连接钱包成功</p></figcaption></figure>
 
 ### **(2) 填写您的代币信息**
 
@@ -34,12 +34,12 @@ Base发币工具：[https://www.gtokentool.com/tokenfactory](https://www.gtokent
 
 依次填写代币信息，假设我们创建一个代币叫——“GTokenTool”，填写如下：
 
-<figure><img src="../.gitbook/assets/5 (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/5 (5).png" alt=""><figcaption><p>填写代币信息</p></figcaption></figure>
 
-* 代币全称：GTokenTool
-* 代币简称：GT
-* 代币精度：18（小数点后的位数）
-* 总供应量：1000000（代币数量）
+* **代币全称：**&#x47;TokenTool
+* **代币简称：**&#x47;T
+* **代币精度：**&#x31;8（小数点后的位数）
+* **总供应量：**&#x31;000000（代币数量）
 
 填写选项内容
 
@@ -47,7 +47,7 @@ Base发币工具：[https://www.gtokentool.com/tokenfactory](https://www.gtokent
 * 电报
 * 推特
 
-<figure><img src="../.gitbook/assets/6 (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/6 (5).png" alt=""><figcaption><p>添加联系方式</p></figcaption></figure>
 
 填写完成后，点击“`创建`”。
 
@@ -57,9 +57,9 @@ Base发币工具：[https://www.gtokentool.com/tokenfactory](https://www.gtokent
 
 （注：因为每个用户网络速度不同，支付gas费用时可能会延迟1、2秒，属正常现象。）
 
-<figure><img src="../.gitbook/assets/7 (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/7 (14).png" alt=""><figcaption><p>确认创建</p></figcaption></figure>
 
-## 常见问题 FAQ
+## ❓常见问题 FAQ
 
 ### Q: 什么是 Coinbase Base Chain，什么是 ERC20 代币？
 
@@ -71,6 +71,16 @@ Base发币工具：[https://www.gtokentool.com/tokenfactory](https://www.gtokent
 
 GTokenTool 是一个代币生成器，只需连接到 Coinbase Base 链并定义各种参数（名称、符号、总供应量和其他可自定义功能）即可实现无缝代币创建。然后，代币生成器会为您生成智能合约代码。代币会自动部署到 Base 网络上，交易处理完成后，您的数字资产就会成功发行。
 
+### 🤝 连接 GTokenTool <a href="#lian-jie-gtokentool" id="lian-jie-gtokentool"></a>
 
+* **💬 Telegram社群**：[点击加入官方群组](https://t.me/gtokentool)
+* **🐦 Twitter (X)**：[关注我们获取最新动态](https://x.com/gtokentool)
+* **📚 官方文档**：[查看 Gitbook 文档](https://docs.gtokentool.com/)
+* **💻 开源代码**：[访问 GitHub 仓库](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
+* **📺 视频教程**：[订阅 YouTube 频道](https://www.youtube.com/@GTokenTool)
 
-如有不明白或者不清楚的地方，请加入官方电报群：[https://t.me/gtokentool](https://t.me/gtokentool)
+> ⚠️ 风险提示与免责声明
+>
+> GTokenTool 保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。
+>
+> 以上信息内容仅供参考，GTokenTool 对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。**请谨慎投资。**

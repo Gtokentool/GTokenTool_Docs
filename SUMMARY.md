@@ -190,7 +190,7 @@
 * [黑洞分红代币发币教程](chuang-jian-dai-bi/black-hole-dividends.md)
 * [加池（LP分红代币）](chuang-jian-dai-bi/add-pool-lp-dividend-token.md)
 * [持币生息（复利）代币](chuang-jian-dai-bi/interest-bearing-token.md)
-* [NFT分红代币](chuang-jian-dai-bi/nft-dividend-token.md)
+* [NFT分红+ LP分红代币](chuang-jian-dai-bi/nft-dividend-token.md)
 * [ERC404](chuang-jian-dai-bi/erc404-token.md)
 * [ERC314代币](chuang-jian-dai-bi/erc314-token.md)
 * [创建NFT教程](chuang-jian-dai-bi/create-nft.md)

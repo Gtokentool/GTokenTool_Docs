@@ -8,7 +8,7 @@ description: 全网最详细的BEP20一键发币教程
 
 BEP20 是 币安智能链（Binance Smart Chain，BSC） 上的一种代币标准，类似于以太坊的 [ERC20](erc20-yi-jian-fa-bi-jiao-cheng.md) 标准。它定义了一套规则，允许开发者在 BSC 上发行和管理代币，确保它们与链上的钱包、交易所和智能合约兼容。
 
-<figure><img src="../.gitbook/assets/20250120-82321.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/20250120-82321.png" alt=""><figcaption><p>BEP-20</p></figcaption></figure>
 
 ## BEP20是什么链？
 
@@ -26,19 +26,19 @@ BEP20被认为是Binance智能链的技术规范，其目标是为开发人员�
 
 ### **(1) 连接钱包**
 
-进入[GTokenTool](https://www.gtokentool.com/)，点击右上角选择，BNB链。
+进入[GTokenTool](https://www.gtokentool.com/)，点击右上角选择，BSC链。
 
-<figure><img src="https://docs.gtokentool.com/~gitbook/image?url=https%3A%2F%2F1523574308-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaUD1j15UCzdjC6ftyzSr%252Fuploads%252FWsnyOn8l1O3IRTxUCEZv%252F1.png%3Falt%3Dmedia%26token%3Db33b9735-ed6e-4f5b-8733-57611f2d66bb&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=8c7920e1&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://docs.gtokentool.com/~gitbook/image?url=https%3A%2F%2F1523574308-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaUD1j15UCzdjC6ftyzSr%252Fuploads%252FWsnyOn8l1O3IRTxUCEZv%252F1.png%3Falt%3Dmedia%26token%3Db33b9735-ed6e-4f5b-8733-57611f2d66bb&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=8c7920e1&#x26;sv=2" alt=""><figcaption><p>选择BSC链</p></figcaption></figure>
 
 点击连接钱包，选择小狐狸钱包。
 
-<figure><img src="https://docs.gtokentool.com/~gitbook/image?url=https%3A%2F%2F1523574308-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaUD1j15UCzdjC6ftyzSr%252Fuploads%252FFglmLseCrodRMDelUo6L%252F2.png%3Falt%3Dmedia%26token%3Daad3a39c-1a26-405c-bb0d-346dab2608cd&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=9f104a77&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://docs.gtokentool.com/~gitbook/image?url=https%3A%2F%2F1523574308-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaUD1j15UCzdjC6ftyzSr%252Fuploads%252FFglmLseCrodRMDelUo6L%252F2.png%3Falt%3Dmedia%26token%3Daad3a39c-1a26-405c-bb0d-346dab2608cd&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=9f104a77&#x26;sv=2" alt=""><figcaption><p>连接钱包</p></figcaption></figure>
 
-<figure><img src="https://docs.gtokentool.com/~gitbook/image?url=https%3A%2F%2F1523574308-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaUD1j15UCzdjC6ftyzSr%252Fuploads%252FfhzO1tcKrRih75K0pmJS%252F3.png%3Falt%3Dmedia%26token%3D3548f434-f15b-40fe-ba87-0512b848464a&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=ad91bc19&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://docs.gtokentool.com/~gitbook/image?url=https%3A%2F%2F1523574308-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaUD1j15UCzdjC6ftyzSr%252Fuploads%252FfhzO1tcKrRih75K0pmJS%252F3.png%3Falt%3Dmedia%26token%3D3548f434-f15b-40fe-ba87-0512b848464a&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=ad91bc19&#x26;sv=2" alt=""><figcaption><p>选择小狐狸钱包</p></figcaption></figure>
 
 连接成功后，就可以看到钱包地址。
 
-<figure><img src="https://docs.gtokentool.com/~gitbook/image?url=https%3A%2F%2F1523574308-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaUD1j15UCzdjC6ftyzSr%252Fuploads%252Fk2Zoqt8s94sMn27ZHeJq%252F4.png%3Falt%3Dmedia%26token%3Dee266bc3-b1a4-4f09-a86d-6a988ce01408&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=3149d9b0&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://docs.gtokentool.com/~gitbook/image?url=https%3A%2F%2F1523574308-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaUD1j15UCzdjC6ftyzSr%252Fuploads%252Fk2Zoqt8s94sMn27ZHeJq%252F4.png%3Falt%3Dmedia%26token%3Dee266bc3-b1a4-4f09-a86d-6a988ce01408&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=3149d9b0&#x26;sv=2" alt=""><figcaption><p>连接钱包成功</p></figcaption></figure>
 
 ### **(2) 填写您的**BEP20**代币信息**
 
@@ -46,16 +46,16 @@ BEP20被认为是Binance智能链的技术规范，其目标是为开发人员�
 
 发币工具：[https://www.gtokentool.com/tokenfactory](https://www.gtokentool.com/tokenfactory)
 
-<figure><img src="https://docs.gtokentool.com/~gitbook/image?url=https%3A%2F%2F1523574308-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaUD1j15UCzdjC6ftyzSr%252Fuploads%252FXgNeYHDr15H2bQt1nQBl%252F5.png%3Falt%3Dmedia%26token%3Da279016a-a36b-4169-955b-a6d8cbe815f1&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=b252e52&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://docs.gtokentool.com/~gitbook/image?url=https%3A%2F%2F1523574308-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaUD1j15UCzdjC6ftyzSr%252Fuploads%252FXgNeYHDr15H2bQt1nQBl%252F5.png%3Falt%3Dmedia%26token%3Da279016a-a36b-4169-955b-a6d8cbe815f1&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=b252e52&#x26;sv=2" alt=""><figcaption><p>进入创建代币</p></figcaption></figure>
 
 依次填写代币信息，假设我们创建一个代币叫——“GTokenTool”，填写如下：
 
-<figure><img src="https://docs.gtokentool.com/~gitbook/image?url=https%3A%2F%2F1523574308-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaUD1j15UCzdjC6ftyzSr%252Fuploads%252FHa1M2SWWK9cpaCUl8o3C%252F6.png%3Falt%3Dmedia%26token%3D34c16d5a-786d-4bfb-93cc-48208847c7b2&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=d53ce64b&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://docs.gtokentool.com/~gitbook/image?url=https%3A%2F%2F1523574308-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaUD1j15UCzdjC6ftyzSr%252Fuploads%252FHa1M2SWWK9cpaCUl8o3C%252F6.png%3Falt%3Dmedia%26token%3D34c16d5a-786d-4bfb-93cc-48208847c7b2&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=d53ce64b&#x26;sv=2" alt=""><figcaption><p>填写代币信息</p></figcaption></figure>
 
-* 代币全称：GTokenTool
-* 代币简称：GT
-* 代币精度：18（小数点后的位数）
-* 总供应量：1000000（代币数量）
+* **代币全称：**&#x47;TokenTool
+* **代币简称：**&#x47;T
+* **代币精度：**&#x31;8（小数点后的位数）
+* **总供应量：**&#x31;000000（代币数量）
 
 填写选项内容
 
@@ -63,7 +63,7 @@ BEP20被认为是Binance智能链的技术规范，其目标是为开发人员�
 * 电报
 * 推特
 
-<figure><img src="https://docs.gtokentool.com/~gitbook/image?url=https%3A%2F%2F1523574308-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaUD1j15UCzdjC6ftyzSr%252Fuploads%252FghsWNPVMtRGt2iHaMddB%252F7.png%3Falt%3Dmedia%26token%3D699cc6dc-457a-4cfe-b172-320532b928ac&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=c45f7e6c&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://docs.gtokentool.com/~gitbook/image?url=https%3A%2F%2F1523574308-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaUD1j15UCzdjC6ftyzSr%252Fuploads%252FghsWNPVMtRGt2iHaMddB%252F7.png%3Falt%3Dmedia%26token%3D699cc6dc-457a-4cfe-b172-320532b928ac&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=c45f7e6c&#x26;sv=2" alt=""><figcaption><p>添加联系方式</p></figcaption></figure>
 
 填写完成后，点击“`创建`”。
 
@@ -73,11 +73,11 @@ BEP20被认为是Binance智能链的技术规范，其目标是为开发人员�
 
 （注：因为每个用户网络速度不同，支付gas费用时可能会延迟1、2秒，属正常现象。）
 
-<figure><img src="https://docs.gtokentool.com/~gitbook/image?url=https%3A%2F%2F1523574308-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaUD1j15UCzdjC6ftyzSr%252Fuploads%252FVvYYMpDVcKaSCaWKU5xx%252F8.png%3Falt%3Dmedia%26token%3De3cd72a0-b016-45a1-a27c-2809955799f6&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=95e080e5&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://docs.gtokentool.com/~gitbook/image?url=https%3A%2F%2F1523574308-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FaUD1j15UCzdjC6ftyzSr%252Fuploads%252FVvYYMpDVcKaSCaWKU5xx%252F8.png%3Falt%3Dmedia%26token%3De3cd72a0-b016-45a1-a27c-2809955799f6&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=95e080e5&#x26;sv=2" alt=""><figcaption><p>确认创建</p></figcaption></figure>
 
 以上就是关于BEP20发币的整个流程。
 
-## 常见问题 FAQ
+## ❓常见问题 FAQ
 
 ### Q: 什么是币安智能链以及什么是 BEP20 代币？
 
@@ -107,6 +107,16 @@ GTokenTool 是一款代币生成器，只需定义各种参数即可轻松创建
 
 例如：如果您在创建代币时启用“可以铸造”，那么一旦您创建了 BEP20 代币并将其部署到网络，您就可以返回“管理代币”页面，并在初始创建后向总供应量添加更多代币。如果启用此功能，也可以在创建代币后更改资产文档条目。
 
+### 🤝 连接 GTokenTool <a href="#lian-jie-gtokentool" id="lian-jie-gtokentool"></a>
 
+* **💬 Telegram社群**：[点击加入官方群组](https://t.me/gtokentool)
+* **🐦 Twitter (X)**：[关注我们获取最新动态](https://x.com/gtokentool)
+* **📚 官方文档**：[查看 Gitbook 文档](https://docs.gtokentool.com/)
+* **💻 开源代码**：[访问 GitHub 仓库](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
+* **📺 视频教程**：[订阅 YouTube 频道](https://www.youtube.com/@GTokenTool)
 
-如有不明白或者不清楚的地方，请加入官方电报群：[**https://t.me/gtokentool**](https://t.me/gtokentool)
+> ⚠️ 风险提示与免责声明
+>
+> GTokenTool 保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。
+>
+> 以上信息内容仅供参考，GTokenTool 对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。**请谨慎投资。**

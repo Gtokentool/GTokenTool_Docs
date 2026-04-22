@@ -2,7 +2,19 @@
 description: 同时为 NFT 持有者和 LP 提供双重分红的复合型代币
 ---
 
-# NFT分红代币
+# NFT分红+ LP分红代币
+
+**GTokenTool** 的 **创建NFT分红+ LP分红代币** 工具主要用于发行具备双重激励机制的资产，通过交易税收同时奖励 NFT 持有者与流动性提供者。该工具具备**分红权重可调、自动化双重派发、多维激励配置**等特点。其优势在于能同时锁定流动性并提升 NFT 价值，通过复合收益模型构建极强的社区凝聚力。它特别适用于需深度绑定核心粉丝、追求生态长期稳健发展的 **Web3 初创项目、NFT 艺术团队及高阶模因币运营方**。
+
+## 📌 核心摘要
+
+* **功能定位：**&#x4E00;站式多维复合激励代币发行引擎。通过创新的智能合约逻辑，将交易税收转化为双重奖励流，同步回馈给 NFT 持有者与流动性提供者（LP）。
+* **技术特性：**
+  * **分红权重自定义：**&#x652F;持灵活调节 NFT 与 LP 之间的收益分配比例，满足项目不同阶段的激励侧重。
+  * **自动化双路派发：**&#x5185;置双重自动结算机制，奖励资产无需手动领取，由链上合约精准、高效地分发至合格地址。
+  * **多维激励配置：**&#x63D0;供丰富的参数化设置，涵盖分红币种选择、持仓阈值限定等，确保激励精准触达核心用户。
+* **应用价值：**&#x901A;过“资产+权益”的双重绑定，在锁定深厚流动性的同时，大幅提升项目关联 NFT 的实用价值与持有意愿。这种复合收益模型能构建极强的社区归属感，有效降低核心资产抛压。
+* **目标受众：**&#x9700;深度绑定核心粉丝群体的 Web3 初创项目、寻求资产价值最大化的 NFT 艺术团队，以及追求长效稳健生态布局的高阶模因币（Meme）运营方。
 
 提示：请先安装小狐狸钱包插件，教程：[https://docs.gtokentool.com/fu-zhu-xin-xi/metamask-installation](https://docs.gtokentool.com/fu-zhu-xin-xi/metamask-installation)
 
@@ -12,17 +24,15 @@ description: 同时为 NFT 持有者和 LP 提供双重分红的复合型代币
 
 进入创建页面：[https://www.gtokentool.com/tokenfactory](https://www.gtokentool.com/tokenfactory)，点击右上角，连接小狐狸钱包，并切换到主网（这里以BSC测试网为例)。
 
-<figure><img src="../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
-
 完成后，会看到 “链名称” 和 您的“钱包地址” ，如下图：
 
-<figure><img src="../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (123).png" alt=""><figcaption><p>连接钱包并选择网络</p></figcaption></figure>
 
 ### 第2步，选择代币模式
 
 点击下拉框，选择 “NFT分红代币”。
 
-<figure><img src="../.gitbook/assets/image (228).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2026-04-22_16-49-20.png" alt=""><figcaption><p>选择NFT分红+LP分红</p></figcaption></figure>
 
 ### 第3步， 填写您的代币信息
 
@@ -38,7 +48,7 @@ description: 同时为 NFT 持有者和 LP 提供双重分红的复合型代币
 * 选择交易所：pancakeSwapTest V2
 * 分红的代币：TBNB
 
-<figure><img src="../.gitbook/assets/000 (16).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2026-04-22_16-56-56.png" alt=""><figcaption><p>填写代币信息</p></figcaption></figure>
 
 输入完成后，点击 “`创建`”。
 
@@ -48,14 +58,14 @@ description: 同时为 NFT 持有者和 LP 提供双重分红的复合型代币
 
 （注：因为每个用户网络速度不同，支付gas费用时可能会延迟1、2秒，属正常现象。）
 
-<figure><img src="https://lh7-us.googleusercontent.com/VWQRjkhiVXn5n9Rlq1lwSb_dbpEBA8kipX_KdCqX29L4uusWW3wxcNGZL0g7co_QsNK0CsdSIOkk6dI8kUp3JwY4XahFEWFtho_dtvxyirmIEai6pJu773nAZ1ztsoHygYjjqXLzPki0dhaRmbarZG4" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://lh7-us.googleusercontent.com/VWQRjkhiVXn5n9Rlq1lwSb_dbpEBA8kipX_KdCqX29L4uusWW3wxcNGZL0g7co_QsNK0CsdSIOkk6dI8kUp3JwY4XahFEWFtho_dtvxyirmIEai6pJu773nAZ1ztsoHygYjjqXLzPki0dhaRmbarZG4" alt=""><figcaption><p>确认创建</p></figcaption></figure>
 
 <mark style="background-color:red;">注意：</mark>
 
 * 代币创建完成之后，只能转账，还不能交易。要想使代币可以交易，需要前往PancakeSwap创建一个流动性资金池才可以。教程：[https://docs.gtokentool.com/qu-zhong-xin-hua-jiao-yi/create-liquidity](https://docs.gtokentool.com/qu-zhong-xin-hua-jiao-yi/create-liquidity)
 * 暂不支持其他平台创建的NFT
 
-## 常见问题 FAQ
+## ❓常见问题 FAQ
 
 ### Q: 什么是 NFT 分红+ LP 分红？
 
@@ -73,6 +83,16 @@ description: 同时为 NFT 持有者和 LP 提供双重分红的复合型代币
 
 **A:** 核心权重以**NFT 为主**，代币仅作为生态通行证；不会因为代币持仓少，就限制 NFT 对应的基础分红权益。
 
+### 🤝 连接 GTokenTool <a href="#lian-jie-gtokentool" id="lian-jie-gtokentool"></a>
 
+* **💬 Telegram社群**：[点击加入官方群组](https://t.me/gtokentool)
+* **🐦 Twitter (X)**：[关注我们获取最新动态](https://x.com/gtokentool)
+* **📚 官方文档**：[查看 Gitbook 文档](https://docs.gtokentool.com/)
+* **💻 开源代码**：[访问 GitHub 仓库](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
+* **📺 视频教程**：[订阅 YouTube 频道](https://www.youtube.com/@GTokenTool)
 
-如有不明白或者不清楚的地方，请加入官方电报群：[https://t.me/gtokentool](https://t.me/gtokentool)
+> ⚠️ 风险提示与免责声明
+>
+> GTokenTool 保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。
+>
+> 以上信息内容仅供参考，GTokenTool 对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。**请谨慎投资。**
