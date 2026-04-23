@@ -5,6 +5,18 @@ icon: link
 
 # FOUR创建代币并捆绑买入教程
 
+**GTokenTool** 的 **FOUR创建代币并捆绑买入** 工具专为 FOUR/Pump 生态设计，实现发币与初始吸筹的同步执行。该工具具备**一键捆绑交易、多地址自动买入、防御机器人狙击**等特点。其优势在于能确保项目方在零区块获取底仓，优化持币分布并大幅降低运营成本。它特别适用于追求极致开盘掌控、需快速构建市场热度的 **Web3 初创团队及资深模因币运营者**，是安全、高效启动项目的进阶利器。
+
+## 📌 核心摘要
+
+* **功能定位：**&#x4E13;为 FourMeme生态打造的“**发币+吸筹**”一体化进阶工具。支持在创建代币的同一瞬间完成初始买入，实现真正意义上的“开盘即持仓”。
+* **技术特性：**
+  * **原子化捆绑交易：**&#x5C06;发币与买入指令打包在同一区块执行，确保项目方获得 100% 最早买入权，锁定极低初始成本。
+  * **多地址协同吸筹：**&#x652F;持自动化配置多个钱包地址同步买入，优化持币分布结构，模拟真实的社区热度。
+  * **智能防夹/防狙击：**&#x901A;过捆绑机制有效规避外部 MEV 机器人狙击，保障项目启动初期筹码的安全性。
+* **用户价值：**&#x901A;过极简的可视化操作代替复杂的脚本编写，助您在分秒必争的 Meme 市场中抢占先机，大幅提升持仓安全性并降低后期运营成本。
+* **适用群体：**&#x8FFD;求开盘极致掌控力的 **Web3 初创团队、资深模因币（Meme）运营者**，以及希望通过“快人一步”获得潜在收益的专业玩家。
+
 {% hint style="success" %}
 **Four.Meme创建代币并买入 | 简化交易流程 | 抢得交易先机｜全网最低费用**
 
@@ -17,7 +29,7 @@ icon: link
 
 Four.Meme 是BSC 上首个Meme 代币公平发布平台，旨在为部署者和投资者提供一种无缝且低成本的启动Meme 代币的方式。 其核心功能是帮助用户创建和发行Meme 代币。
 
-## 视频教程
+## 📺视频教程
 
 {% embed url="https://youtu.be/Z6dwlMSAwb0?si=6PkKVAq0GoyS4xI9" %}
 
@@ -34,37 +46,37 @@ Four.Meme 是BSC 上首个Meme 代币公平发布平台，旨在为部署者和�
 
 进入页面：[https://www.gtokentool.com/bundle](https://www.gtokentool.com/bundle)，点击右上角，连接[小狐狸钱包](../fu-zhu-xin-xi/metamask-installation.md)，并切换到币安链主网。完成后，会看到 “链名称” 和 您的“钱包地址” ，如下图：
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-10-11_10-44-54.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-10-11_10-44-54.png" alt=""><figcaption><p>连接钱包并选择BSC链</p></figcaption></figure>
 
 ### 第2步，填写信息并上传图片
 
 假设我们创建一个代币名称为“FOUR有税代币”的代币，填写信息如下：
 
-Logo：图片最大不能超过1M
+**Logo：**&#x56FE;片最大不能超过1M
 
-代币名称：FOUR有税代币
+**代币名称：**&#x46;OUR有税代币
 
-代币简称：FOUR有税
+**代币简称：**&#x46;OUR有税
 
-描述：GTokenTool——全网最强发币平台
+**描述：**&#x47;TokenTool——全网最强发币平台
 
-<figure><img src="../.gitbook/assets/Snipaste_2026-02-03_16-37-45.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2026-02-03_16-37-45.png" alt=""><figcaption><p>填写代币信息</p></figcaption></figure>
 
 ### 第3步，选择募捐币种
 
 这里我选择BNB，也可以选择其他的币种（USDT、USD1、BUSD、U、DOGE、FIST）。
 
-<figure><img src="../.gitbook/assets/Snipaste_2026-02-03_16-47-32.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2026-02-03_16-47-32.png" alt=""><figcaption><p>选择募捐币种</p></figcaption></figure>
 
 ### 第4步，添加联系方式（选填）
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-10-11_10-33-08.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-10-11_10-33-08.png" alt=""><figcaption><p>添加联系方式</p></figcaption></figure>
 
 ### 第5步，设置税率（选填）
 
 税收分配总计要为100%，可设置分红资格最低余额（最小：1000000 代币）以及接收钱包。
 
-<figure><img src="../.gitbook/assets/Snipaste_2026-02-03_16-37-03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2026-02-03_16-37-03.png" alt=""><figcaption><p>设置税率</p></figcaption></figure>
 
 ### 第6步，导入钱包
 
@@ -79,25 +91,25 @@ Logo：图片最大不能超过1M
 * <mark style="color:red;">建议您在使用涉及私钥的功能后，及时更换钱包。</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Snipaste_2026-02-03_16-41-23.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2026-02-03_16-41-23.png" alt=""><figcaption><p>导入钱包</p></figcaption></figure>
 
 ### 第7步，设置买入金额
 
 可单独设置，也可批量添加。
 
-<figure><img src="../.gitbook/assets/Snipaste_2026-02-03_16-38-38.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2026-02-03_16-38-38.png" alt=""><figcaption><p>设置买入金额</p></figcaption></figure>
 
 ### 第8步，点击“创建”
 
 点击“`创建`”，等待一会。创建成功后，下方会显示代币地址，可点击代币地址查看代币信息。
 
-<figure><img src="../.gitbook/assets/Snipaste_2026-02-03_16-39-01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2026-02-03_16-39-01.png" alt=""><figcaption><p>创建成功显示代币地址</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Snipaste_2026-02-03_16-39-36.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2026-02-03_16-39-36.png" alt=""><figcaption><p>FOUR官网代币页</p></figcaption></figure>
 
 这样Four.meme整个流程就结束了，后面大家就可以自行操作啦！
 
-## 常见问题 FAQ
+## ❓常见问题 FAQ
 
 ### Q: 这个功能是怎么收费的？
 
@@ -119,6 +131,16 @@ Logo：图片最大不能超过1M
 
 **A:** GTokenTool 在执行“创建并买入”时，将优先按顺序执行你的地址交易，保障你获得“图表前排”持仓。
 
+### 🤝 连接 GTokenTool <a href="#lian-jie-gtokentool" id="lian-jie-gtokentool"></a>
 
+* **💬 Telegram社群**：[点击加入官方群组](https://t.me/gtokentool)
+* **🐦 Twitter (X)**：[关注我们获取最新动态](https://x.com/gtokentool)
+* **📚 官方文档**：[查看 Gitbook 文档](https://docs.gtokentool.com/)
+* **💻 开源代码**：[访问 GitHub 仓库](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
+* **📺 视频教程**：[订阅 YouTube 频道](https://www.youtube.com/@GTokenTool)
 
-如有不明白或者不清楚的地方，请加入官方电报群：[https://t.me/gtokentool](https://t.me/gtokentool)
+> ⚠️ 风险提示与免责声明
+>
+> GTokenTool 保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。
+>
+> 以上信息内容仅供参考，GTokenTool 对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。**请谨慎投资。**

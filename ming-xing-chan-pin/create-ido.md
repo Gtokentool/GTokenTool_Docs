@@ -1,6 +1,21 @@
+---
+description: 正式启动 IDO，开启去中心化代币公募，同步注入流动性。
+---
+
 # 2️⃣ 创建IDO
 
-## 视频教程
+**GTokenTool** 的 **BSC创建IDO工具** 专为初创项目设计，提供去中心化预售一键部署方案。该工具支持**参数高度自定义、资金自动化结算、白名单限额控制**等功能。其优势在于零代码门槛、合约安全透明，能大幅降低融资成本并加速社区共识。它特别适用于寻求公开募资的 **Web3 初创团队、社区治理项目及模因币运营者**，是高效开启项目首发的理想选择。
+
+## 📌 核心摘要
+
+* **功能定位：**&#x8BE5;工具是专为 BSC 生态打造的去中心化募资部署引擎，通过将代币公募、白名单控制及流动性同步注入等复杂功能封装为一键式图形界面，实现了从代币发行到公开预售的无缝衔接。
+* **技术特性：**
+  * **高度自定义参数：**&#x652F;持自主设定募资限额、兑换比例及参与门槛，精准匹配项目方的资金筹集需求。
+  * **自动化安全结算：**&#x5185;置资金自动化结算逻辑，确保募资完成后资产分发与流动性管理的透明性与时效性。
+* **用户价值：**&#x5B83;消除了项目启动初期的技术开发瓶颈，让运营团队在零代码基础上即可完成合规、透明的链上融资，在极速构建社区共识的同时显著降低了项目首发的获客与时间成本。
+* **适用群体：**&#x5BFB;求高效公开募资的 **Web3 初创团队**、深耕资产创新的 **社区治理项目** 以及需快速启动首发的 **模因币（Meme）运营者**。
+
+## 📺视频教程
 
 {% embed url="https://youtu.be/p3F4Hf0aP2M" %}
 
@@ -18,9 +33,9 @@ IDO指的是代币的首次发行。运用所有用户的资源和注意力来�
 
 完成后，会看到您的 “链名称” 和 “钱包地址” ，如下图：
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-10-24_10-43-52.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-10-24_10-43-52.png" alt=""><figcaption><p>连接钱包并选择BSC链</p></figcaption></figure>
 
-### (2) 输入信息
+### (2) 输入IDO信息
 
 假设我们创建一个为期30天的IDO， 填写如下：
 
@@ -34,7 +49,7 @@ IDO指的是代币的首次发行。运用所有用户的资源和注意力来�
 * **推广奖励--->**&#x31; 级奖励 %：2
 * **收款地址：**&#x30;x85165281fF434E7971fA6e41d3EE03353AD2Cf0F
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-10-24_10-48-44.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-10-24_10-48-44.png" alt=""><figcaption><p>输入IDO信息</p></figcaption></figure>
 
 输入完成后，点击“`确定`”。
 
@@ -42,9 +57,9 @@ IDO指的是代币的首次发行。运用所有用户的资源和注意力来�
 
 点击 “`确认创建`” ，在小狐狸钱包上支付gas费，就完成了。
 
-<figure><img src="https://lh7-us.googleusercontent.com/POVUIiidovE1ZrUPpyv-zBplcKrts5ZNNS85Mh4w9Q8DZZU--WMt7OGaASOtQ4eVC2DxYV-1MsRD74pdhlfHUbx-NVc-6DcvXkEzIP1xVlEjHS2rYBYY8_BjdMa9VK81b0VN3ILfhP__NUDAI06K8y0" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://lh7-us.googleusercontent.com/POVUIiidovE1ZrUPpyv-zBplcKrts5ZNNS85Mh4w9Q8DZZU--WMt7OGaASOtQ4eVC2DxYV-1MsRD74pdhlfHUbx-NVc-6DcvXkEzIP1xVlEjHS2rYBYY8_BjdMa9VK81b0VN3ILfhP__NUDAI06K8y0" alt=""><figcaption><p>确认创建</p></figcaption></figure>
 
-## 常见问题 FAQ
+## ❓常见问题 FAQ
 
 ### Q: 用户参与 IDO 的金额是实时到账我的收款地址吗？
 
@@ -78,6 +93,16 @@ IDO指的是代币的首次发行。运用所有用户的资源和注意力来�
 
 **A:** 用户付款的时候实时收取。
 
+#### 🤝 连接 GTokenTool <a href="#lian-jie-gtokentool" id="lian-jie-gtokentool"></a>
 
+* **💬 Telegram社群**：[点击加入官方群组](https://t.me/gtokentool)
+* **🐦 Twitter (X)**：[关注我们获取最新动态](https://x.com/gtokentool)
+* **📚 官方文档**：[查看 Gitbook 文档](https://docs.gtokentool.com/)
+* **💻 开源代码**：[访问 GitHub 仓库](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
+* **📺 视频教程**：[订阅 YouTube 频道](https://www.youtube.com/@GTokenTool)
 
-如有不明白或者不清楚的地方，请加入官方电报群：[https://t.me/gtokentool](https://t.me/gtokentool)
+> ⚠️ 风险提示与免责声明
+>
+> GTokenTool 保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。
+>
+> 以上信息内容仅供参考，GTokenTool 对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。**请谨慎投资。**
