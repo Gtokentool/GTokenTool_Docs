@@ -234,7 +234,7 @@
 
 ## 快捷工具
 
-* [1️⃣ 批量转账-批量发送空投代币](kuai-jie-gong-ju/batch-transfer-token.md)
+* [1️⃣ 代币批量转账-批量发送空投代币](kuai-jie-gong-ju/batch-transfer-token.md)
 * [2️⃣ 批量发送NFT](kuai-jie-gong-ju/batch-transfer-nft.md)
 * [3️⃣ 批量增加持币地址](kuai-jie-gong-ju/increase-holding-address.md)
 * [4️⃣ 批量上传图片](kuai-jie-gong-ju/upload-images.md)
