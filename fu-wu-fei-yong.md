@@ -36,7 +36,7 @@ icon: comment-dollar
 * [创建 V3 稳定池](https://www.gtokentool.com/stableSwap)：0.02 BNB
 * [创建流动性并买入](https://www.gtokentool.com/createLiquidityAndBuy?chainId=97)：0.005 BNB/Address
 * [批量发送代币](https://www.gtokentool.com/sendertoken?chainId=97)：0.01 BNB / 200个地址
-* [增加持币地址](https://www.gtokentool.com/increaseAddr?chainId=97)：0.01 BNB
+* [增加持币地址](https://www.gtokentool.com/increaseAddr?chainId=97)：0.00005 BNB/ 每地址
 * [批量发送NFT](https://www.gtokentool.com/sendernft?chainId=97)：免费
 * [查询余额](https://www.gtokentool.com/batchCheckBalance?chainId=97)：免费
 * [批量归集](https://robotv2.gtokentool.com/#/collect)：免费

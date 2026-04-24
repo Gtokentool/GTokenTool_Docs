@@ -17,81 +17,76 @@ Sui代币作为Sui Network的原生加密货币，在网络生态系统中发挥
 
 进入创建代币页面，右上角选择 Main 网络并连接钱包，建议使用 Suiet 钱包。
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-08-20_13-07-49.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-08-20_13-07-49.png" alt=""><figcaption><p>连接钱包并选择Main网络</p></figcaption></figure>
 
 连接成功后，右上角会显示你的钱包地址，如下图所示：
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-09-08_11-27-23.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-09-08_11-27-23.png" alt=""><figcaption><p>钱包连接成功</p></figcaption></figure>
 
 ### 2、输入代币参数
 
 相比较 Solana 来说，Sui的代币参数比较简单，但是要求比较多，有以下几项：
 
-* 代币全称：不支持中文或符号，最多32个字符。
-* 代币简称：不支持中文或符号，需要2\~8个字符。
-* 代币精度：默认填9，精度与你能填写的最大供应量有关。
-* 总供应量：当精度为9时，供应量最大不能超过100亿。当精度为8时，不能超过1000亿，以此类推。
-* logo：图片小于100k，尺寸建议256x256像素（正方形）。
-* 简介：选填，且不支持中文。
+* **代币全称：**&#x4E0D;支持中文或符号，最多32个字符。
+* **代币简称：**&#x4E0D;支持中文或符号，需要2\~8个字符。
+* **代币精度：**&#x9ED8;认填9，精度与你能填写的最大供应量有关。
+* **总供应量：**&#x5F53;精度为9时，供应量最大不能超过100亿。当精度为8时，不能超过1000亿，以此类推。
+* **Logo：**&#x56FE;片小于100k，尺寸建议256x256像素（正方形）。
+* **简介：**&#x9009;填，且不支持中文。
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-09-08_11-30-51.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-09-08_11-30-51.png" alt=""><figcaption><p>输入代币参数</p></figcaption></figure>
 
 ### 3、点击“创建代币”
 
 确定好信息无误之后，点击“`创建代币`”按钮，这时候会跳出 Suiet 钱包，我们确认授权，并支付费用，如下图所示：
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-09-08_11-32-18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-09-08_11-32-18.png" alt=""><figcaption><p>钱包确认</p></figcaption></figure>
 
 当页面出现代币合约地址哈希值的时候，就是告诉你代币已经发布完成了。
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-09-08_11-32-47.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-09-08_11-32-47.png" alt=""><figcaption><p>创建成功</p></figcaption></figure>
 
 点击哈希值就可以在[Sui浏览器](https://suiscan.xyz/)查看到交易信息，也可以去查看代币信息。
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-09-08_11-44-43.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-09-08_11-44-43.png" alt=""><figcaption><p>代币信息</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-09-08_11-44-26 (1).png" alt="" width="497"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-09-08_11-44-26 (1).png" alt="" width="497"><figcaption><p>代币信息</p></figcaption></figure>
 
 此时我们打开自己的 Suiet 钱包或者 Suiwallet，应该也可以看到代币的 Logo。
 
 至此，整个 Sui 链发币工作就算是完成了。
 
-## **常见问题解答**
+## **❓常见问题 FAQ**
 
-### **1. 代币部署后如何验证？**
+### **Q: 代币部署后如何验证？**
 
-使用 Sui Explorer（如 [Suiscan](https://suiscan.xyz/)）查询交易哈希或模块地址。
+**A:** 使用 Sui Explorer（如 [Suiscan](https://suiscan.xyz/)）查询交易哈希或模块地址。通过命令行工具 `sui client object <ID>` 查看代币元数据。
 
-通过命令行工具 `sui client object <ID>` 查看代币元数据。
+### **Q: 为什么无法转账代币？**
 
-### **2. 为什么无法转账代币？**
-
-可能原因：
+**A:** 可能原因：
 
 * 未正确导入代币模块（需在接收方钱包注册代币类型）。
 * Gas 不足或权限错误（如未授权 `public_transfer`）。
 
-### **3. 如何限制代币增发？**
+### **Q: 如何限制代币增发？**
 
-将 `TreasuryCap` 存储在安全模块中，仅允许特定地址调用 `mint` 函数。
+**A:** 将 `TreasuryCap` 存储在安全模块中，仅允许特定地址调用 `mint` 函数。
 
-### **4. Sui 代币与 EVM 链（如以太坊）有何不同？**
+### **Q: Sui 代币与 EVM 链（如以太坊）有何不同？**
 
-Sui 代币是原生对象，无需预编译合约，但需遵循 Move 的安全模式（如显式权限控制）。
+**A:** Sui 代币是原生对象，无需预编译合约，但需遵循 Move 的安全模式（如显式权限控制）。
 
+### 🤝 连接 GTokenTool <a href="#lian-jie-gtokentool" id="lian-jie-gtokentool"></a>
 
+* **💬 Telegram社群**：[点击加入官方群组](https://t.me/gtokentool)
+* **🐦 Twitter (X)**：[关注我们获取最新动态](https://x.com/gtokentool)
+* **📚 官方文档**：[查看 Gitbook 文档](https://docs.gtokentool.com/)
+* **💻 开源代码**：[访问 GitHub 仓库](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
+* **📺 视频教程**：[订阅 YouTube 频道](https://www.youtube.com/@GTokenTool)
 
-GTokenTool社群:
-
-Telegram：[**https://t.me/gtokentool**](https://t.me/gtokentool)
-
-Twitter:  [**https://x.com/gtokentool**](https://x.com/gtokentool)
-
-Gitbook：[**https://docs.gtokentool.com/**](https://docs.gtokentool.com/)
-
-Github：[**https://github.com/Gtokentool/docs/blob/master/SUMMARY.md**](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
-
-YouTube：[**https://www.youtube.com/@GTokenTool**](https://www.youtube.com/@GTokenTool)\
-\
-\
-&#xNAN;_<mark style="color:purple;background-color:orange;">GTokenTool保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。以上信息内容仅供参考，GTokenTool对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。请谨慎投资。</mark>_
+> ⚠️ 风险提示与免责声明
+>
+> GTokenTool 保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。
+>
+> 以上信息内容仅供参考，GTokenTool 对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。**请谨慎投资。**

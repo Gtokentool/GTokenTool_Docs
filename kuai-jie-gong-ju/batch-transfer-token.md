@@ -28,9 +28,9 @@ GTokenTool多链批量转账工具，支持ETH、BSC、Base、Arbitrum等多条E
 
 完成后，会看到 “链名称” 和 您的“钱包地址” ，如下图：
 
-<figure><img src="../.gitbook/assets/Snipaste_2026-01-04_14-50-09.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2026-01-04_14-50-09.png" alt=""><figcaption><p>连接钱包并选择公链</p></figcaption></figure>
 
-### 第2步，输入信息
+### 第2步，输入转账信息
 
 假设我们给三个地址发送不同数量的代币，输入如下：
 
@@ -40,7 +40,7 @@ GTokenTool多链批量转账工具，支持ETH、BSC、Base、Arbitrum等多条E
 * 0x697FfC45A1bF65ca69601F06743219E86B94B0B1,0.02
 * 0xAb8dF92b986b91A4964339BD044849DFfEA71AA8,0.03
 
-<figure><img src="../.gitbook/assets/Snipaste_2026-01-04_14-55-29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2026-01-04_14-55-29.png" alt=""><figcaption><p>输入转账信息</p></figcaption></figure>
 
 （不明白可以点击右下角 “查看例子”）
 
@@ -48,7 +48,7 @@ GTokenTool多链批量转账工具，支持ETH、BSC、Base、Arbitrum等多条E
 
 输入完成后，点击 “`下一步`” 按钮。
 
-<figure><img src="../.gitbook/assets/Snipaste_2026-01-04_14-56-53.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2026-01-04_14-56-53.png" alt=""><figcaption><p>发送交易</p></figcaption></figure>
 
 确认无误后，点击 “`发送`” 按钮，在小狐狸上支付gas费，就完成了。
 
@@ -63,7 +63,7 @@ GTokenTool多链批量转账工具，支持ETH、BSC、Base、Arbitrum等多条E
 | 成本     | 费时费力       | 节省时间与人力成本           |
 | 门槛     | 需要耐心       | 零代码基础，小白即用          |
 
-## 常见问题 FAQ
+## ❓常见问题 FAQ
 
 ### Q: 批量转账是什么？
 
@@ -83,4 +83,16 @@ GTokenTool多链批量转账工具，支持ETH、BSC、Base、Arbitrum等多条E
 
 GTokenTool 是一款高效、安全的 Solana 链上自动化工具，旨在帮助用户无需代码即可快速实现 SOL 及 SPL 代币的大规模空投和多地址分发。
 
-如有不明白或者不清楚的地方，请加入官方电报群：[https://t.me/gtokentool](https://t.me/gtokentool)
+### 🤝 连接 GTokenTool <a href="#lian-jie-gtokentool" id="lian-jie-gtokentool"></a>
+
+* **💬 Telegram社群**：[点击加入官方群组](https://t.me/gtokentool)
+* **🐦 Twitter (X)**：[关注我们获取最新动态](https://x.com/gtokentool)
+* **📚 官方文档**：[查看 Gitbook 文档](https://docs.gtokentool.com/)
+* **💻 开源代码**：[访问 GitHub 仓库](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
+* **📺 视频教程**：[订阅 YouTube 频道](https://www.youtube.com/@GTokenTool)
+
+> ⚠️ 风险提示与免责声明
+>
+> GTokenTool 保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。
+>
+> 以上信息内容仅供参考，GTokenTool 对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。**请谨慎投资。**

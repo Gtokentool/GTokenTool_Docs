@@ -14,9 +14,9 @@ description: 开通市值会员体系，提升持有权益，强化长期价值�
 
 完成后，会看到 “链名称” 和 您的“钱包地址” ，如下图：
 
-<figure><img src="../.gitbook/assets/Snipaste_2026-01-04_15-38-33.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2026-01-04_15-38-33.png" alt=""><figcaption><p>连接钱包并选择BSC链</p></figcaption></figure>
 
-### (2) 输入信息
+### (2) 输入地址信息
 
 假设开通一个月卡，输入如下：
 
@@ -26,7 +26,7 @@ description: 开通市值会员体系，提升持有权益，强化长期价值�
 
 点击“`开通会员`”按钮。
 
-<figure><img src="../.gitbook/assets/Snipaste_2026-01-04_15-42-27.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2026-04-24_11-21-46.png" alt=""><figcaption><p>输入地址信息</p></figcaption></figure>
 
 ### (3) 完成
 
@@ -34,9 +34,9 @@ description: 开通市值会员体系，提升持有权益，强化长期价值�
 
 点击“`查询会员到期时间`”，会显示会员剩余时间。
 
-<figure><img src="../.gitbook/assets/Snipaste_2026-01-04_15-44-23.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2026-04-24_11-23-30.png" alt=""><figcaption><p>查询会员到期时间</p></figcaption></figure>
 
-## 常见问题 FAQ
+## ❓常见问题 FAQ
 
 ### Q: 开通市值会员有什么用？
 
@@ -54,6 +54,16 @@ description: 开通市值会员体系，提升持有权益，强化长期价值�
 
 **A:** 没有次数限制，开通即免费使用市值机器人。
 
+### 🤝 连接 GTokenTool <a href="#lian-jie-gtokentool" id="lian-jie-gtokentool"></a>
 
+* **💬 Telegram社群**：[点击加入官方群组](https://t.me/gtokentool)
+* **🐦 Twitter (X)**：[关注我们获取最新动态](https://x.com/gtokentool)
+* **📚 官方文档**：[查看 Gitbook 文档](https://docs.gtokentool.com/)
+* **💻 开源代码**：[访问 GitHub 仓库](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
+* **📺 视频教程**：[订阅 YouTube 频道](https://www.youtube.com/@GTokenTool)
 
-如有不明白或者不清楚的地方，请加入官方电报群：[https://t.me/gtokentool](https://t.me/gtokentool)
+> ⚠️ 风险提示与免责声明
+>
+> GTokenTool 保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。
+>
+> 以上信息内容仅供参考，GTokenTool 对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。**请谨慎投资。**

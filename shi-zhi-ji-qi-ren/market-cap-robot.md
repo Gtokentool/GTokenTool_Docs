@@ -4,11 +4,11 @@ description: 全网最好的市值机器人，支持多种类型的Swap
 
 # 2️⃣ 市值机器人
 
-## 市值机器人视频教程
+## 📺市值机器人视频教程
 
 {% embed url="https://www.youtube.com/watch?v=vPbpNPzt8qs" %}
 
-## 市值机器人支持以下链及Swap
+## 🔗市值机器人支持以下链及Swap
 
 * ETH: Uniswap V2、Uniswap V3
 * BSC: PancakeSwap V2、PancakeSwap V3、PancakeSwap V4(CLAMM)、FOUR、Flap
@@ -25,21 +25,21 @@ description: 全网最好的市值机器人，支持多种类型的Swap
 
 进入市值机器人页面，点击右上角连接钱包（选择小狐狸钱包），然后选择公链，我用 BSC 测试网演示。注意连接钱包内的网络要与选择的公链一致，以免出现不必要的损失。
 
-<mark style="color:purple;">非会员费用：0.0001 BNB，不同链收费不同，以实际标注为准。</mark>点击”`解锁会员权益`“可跳转至会员开通页面。
+<mark style="color:purple;">非会员费用：0.0001 BNB/ 笔交易，不同链收费不同，以实际标注为准。</mark>点击”`解锁会员权益`“可跳转至会员开通页面。
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_15-55-01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_15-55-01.png" alt=""><figcaption><p>连接钱包</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_15-56-14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_15-56-14.png" alt=""><figcaption><p>选择公链</p></figcaption></figure>
 
 ### 2. 基础配置
 
 选择交易所，输入代币地址，并选择或输入对应的池子类型。选择 PancakeSwap V3 还需要选择对应的池子费用级别。
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_16-01-29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_16-01-29.png" alt=""><figcaption><p>配置代币信息</p></figcaption></figure>
 
 配置好后，点击“`查池子`”，确认池子信息是否正确。若查池子失败，请检查池子信息是否有误。
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_16-04-32.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_16-04-32.png" alt=""><figcaption><p>查池子</p></figcaption></figure>
 
 ### 3. 选择交易模式并配置参数
 
@@ -59,7 +59,7 @@ description: 全网最好的市值机器人，支持多种类型的Swap
 
 若使用钱包同时交易，需先点击”`授权`“，再点击“`一键买入`”。
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_16-28-52.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_16-28-52.png" alt=""><figcaption><p>拉盘模式参数配置</p></figcaption></figure>
 
 #### 砸盘模式 ：
 
@@ -75,7 +75,7 @@ description: 全网最好的市值机器人，支持多种类型的Swap
 
 若使用钱包同时交易，需先点击”`授权`“，再点击“`一键卖出`”。
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_16-36-20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_16-36-20.png" alt=""><figcaption><p>砸盘模式参数配置</p></figcaption></figure>
 
 #### 刷交易量模式：
 
@@ -92,7 +92,7 @@ description: 全网最好的市值机器人，支持多种类型的Swap
   * **gasPrice**
   * **钱包同时交易：**&#x591A;钱包同时买入卖出（<mark style="color:purple;">刷交易量模式不支持</mark>），可设置执行次数（默认一次）
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_16-45-58.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_16-45-58.png" alt=""><figcaption><p>刷交易量模式参数配置</p></figcaption></figure>
 
 #### 高抛低吸模式：
 
@@ -108,17 +108,17 @@ description: 全网最好的市值机器人，支持多种类型的Swap
   * **gasPrice**
   * **钱包同时交易：**&#x591A;钱包同时买入卖出（<mark style="color:purple;">高抛低吸模式不支持</mark>），可设置执行次数（默认一次）
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_18-07-57.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_18-07-57.png" alt=""><figcaption><p>高抛低吸模式参数配置</p></figcaption></figure>
 
 ### 4. 导入钱包
 
 点击“`导入钱包`”，输入钱包私钥，点击“`导入`”。
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_18-12-47.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_18-12-47.png" alt=""><figcaption><p>导入钱包</p></figcaption></figure>
 
 导入成功后，下方会显示钱包余额、底池代币余额以及代币余额。若没有显示，点击“刷新”获取最近钱包余额。<mark style="color:purple;">建议每次交易之前刷新一次，以免因余额不足导致交易失败。</mark>
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_18-16-03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_18-16-03.png" alt=""><figcaption><p>导入钱包成功</p></figcaption></figure>
 
 ### 5. 开始交易
 
@@ -126,35 +126,35 @@ description: 全网最好的市值机器人，支持多种类型的Swap
 
 #### 拉盘模式：
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_18-23-16.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_18-23-16.png" alt=""><figcaption><p>拉盘模式交易日志</p></figcaption></figure>
 
 点击“`刷新`”，可以查看是否买入成功。
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_18-29-57.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_18-29-57.png" alt=""><figcaption><p>拉盘模式交易结果</p></figcaption></figure>
 
 #### 砸盘模式：
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_18-31-34.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_18-31-34.png" alt=""><figcaption><p>砸盘模式交易日志</p></figcaption></figure>
 
 点击“`刷新`”，可以查看是否卖出成功。
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_18-32-22.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_18-32-22.png" alt=""><figcaption><p>砸盘模式交易结果</p></figcaption></figure>
 
 #### 刷交易量模式：
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_18-52-06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_18-52-06.png" alt=""><figcaption><p>刷交易量模式交易日志</p></figcaption></figure>
 
 点击“`刷新`”，可以查看是否交易成功。
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_18-41-33.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_18-41-33.png" alt=""><figcaption><p>刷交易量模式交易结果</p></figcaption></figure>
 
 #### 高抛低吸模式：
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_18-56-42.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_18-56-42.png" alt=""><figcaption><p>高抛低吸模式交易日志</p></figcaption></figure>
 
 点击“`刷新`”，可以查看是否交易成功。
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_18-56-57.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_18-56-57.png" alt=""><figcaption><p>高抛低吸模式交易结果</p></figcaption></figure>
 
 ### 6. 其他功能
 
@@ -162,41 +162,41 @@ description: 全网最好的市值机器人，支持多种类型的Swap
 
 点击“`生成钱包`”，输入生成钱包数量，点击“`确定`”。<mark style="color:purple;">注意：生成钱包会覆盖已存在的钱包，并无法找回。请务必保存好已存在的钱包私钥。</mark><mark style="color:purple;background-color:purple;">免费使用。</mark>
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_19-00-32.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_19-00-32.png" alt=""><figcaption><p>生成钱包</p></figcaption></figure>
 
 生成成功后，点击“`导出私钥`"。<mark style="color:purple;">请务必确认钱包信息是否下载完整，以免造成不必要的损失。</mark>
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_19-08-04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_19-08-04.png" alt=""><figcaption><p>导出私钥</p></figcaption></figure>
 
 #### 转账：
 
 点击对应代币边上的`转账`按钮，可以连接钱包内的代币转给每个钱包。<mark style="color:purple;">每次转账费用0.02 BNB，由连接钱包支付，会员减半。</mark>
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_19-10-37.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_19-10-37.png" alt=""><figcaption><p>批量转账</p></figcaption></figure>
 
 转账成功后会弹出成功提示，也可以点击”`刷新`“查看转账情况。
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_19-15-05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_19-15-05.png" alt=""><figcaption><p>批量转账成功</p></figcaption></figure>
 
 #### 单钱包卖出：
 
 点击对应钱包后的`卖出`按钮，可以单独卖出钱包内的所有代币。<mark style="color:purple;">费用与砸盘模式一致，</mark><mark style="color:purple;background-color:purple;">会员免费。</mark>
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_19-17-41.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_19-17-41.png" alt=""><figcaption><p>单钱包卖出</p></figcaption></figure>
 
 #### 一键清仓：
 
 点击”`一键清仓`“，可以卖出所有钱包内的代币。<mark style="color:purple;">费用与砸盘模式一致，</mark><mark style="color:purple;background-color:purple;">会员免费。</mark>
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_19-20-45.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_19-20-45.png" alt=""><figcaption><p>一键清仓</p></figcaption></figure>
 
 #### 归集：
 
 点击对应代币边上的归集按钮，可以将所有钱包内的代币归集到指定钱包。<mark style="color:purple;background-color:purple;">免费使用。</mark>
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_19-23-01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2025-11-19_19-23-01.png" alt=""><figcaption><p>批量归集</p></figcaption></figure>
 
-## 常见问题 FAQ
+## ❓常见问题 FAQ
 
 ### Q: 批量买入/卖出的钱包，会被识别为夹子或者机器人吗？
 
@@ -246,6 +246,16 @@ description: 全网最好的市值机器人，支持多种类型的Swap
 
 <figure><img src="../.gitbook/assets/Snipaste_2025-11-24_10-10-19.png" alt=""><figcaption></figcaption></figure>
 
+### 🤝 连接 GTokenTool <a href="#lian-jie-gtokentool" id="lian-jie-gtokentool"></a>
 
+* **💬 Telegram社群**：[点击加入官方群组](https://t.me/gtokentool)
+* **🐦 Twitter (X)**：[关注我们获取最新动态](https://x.com/gtokentool)
+* **📚 官方文档**：[查看 Gitbook 文档](https://docs.gtokentool.com/)
+* **💻 开源代码**：[访问 GitHub 仓库](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
+* **📺 视频教程**：[订阅 YouTube 频道](https://www.youtube.com/@GTokenTool)
 
-如有不明白或者不清楚的地方，请加入官方电报群：[https://t.me/gtokentool](https://t.me/gtokentool)
+> ⚠️ 风险提示与免责声明
+>
+> GTokenTool 保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。
+>
+> 以上信息内容仅供参考，GTokenTool 对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。**请谨慎投资。**
