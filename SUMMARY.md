@@ -245,6 +245,7 @@
 * [9️⃣ 代币快照](kuai-jie-gong-ju/token-snapshot.md)
 * [⚡ 代币批量转账](kuai-jie-gong-ju/batch-transfer.md)
 * [🥨 ERC20批量转账](kuai-jie-gong-ju/erc-20-batch-transfer.md)
+* [💰 代币批量归集](kuai-jie-gong-ju/token-batch-collection.md)
 
 ## 辅助信息
 
