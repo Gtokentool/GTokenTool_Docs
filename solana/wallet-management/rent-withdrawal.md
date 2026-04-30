@@ -1,16 +1,16 @@
----
-description: >-
-  在 Solana 网络，每个代币和 NFT 都有独立的账户，这些账户需存入一定数量的 SOL 作为租金才能正常使用。通过简单步骤，销毁不需要的 NFT
-  或代币，快速回收账户租金。
----
-
 # ♻️ Solana租金回收教程
 
-<mark style="color:green;">全网最低</mark> <mark style="color:green;"></mark><mark style="color:green;">**GAS费用**</mark><mark style="color:green;">，服务费仅</mark> <mark style="color:green;"></mark><mark style="color:green;">**5%**</mark><mark style="color:green;">， 分享赚钱还可获得</mark><mark style="color:green;">**30%**</mark><mark style="color:green;">服务费。</mark>
+在 Solana 网络，每个代币和 NFT 都有独立的账户，这些账户需存入一定数量的 SOL 作为租金才能正常使用。通过简单步骤，销毁不需要的 NFT 或代币，快速回收账户租金。
 
-## 📌 核心摘要
+> <mark style="color:$success;">solana 租金回收</mark><mark style="color:$success;">全网最低</mark> <mark style="color:$success;"></mark><mark style="color:$success;">**GAS费用**</mark><mark style="color:$success;">，服务费仅</mark> <mark style="color:$success;"></mark><mark style="color:$success;">**5%**</mark><mark style="color:$success;">， 分享赚钱还可获得</mark><mark style="color:$success;">**30%**</mark><mark style="color:$success;">服务费。</mark>
 
-* **功能定位：**&#x53;olana 链上闲置资产清算与租金赎回引擎。通过销毁（Burn）或关闭（Close）无用的代币账户及 NFT，释放并回笼被锁定的 SOL 租金。
+### Solana租金回收视频教程
+
+{% embed url="https://www.youtube.com/watch?v=uTVSuehvnR8" %}
+
+### 📌 核心摘要
+
+* **功能定位：**&#x53;olana 链上闲置资产清算与租金回收引擎。通过销毁（Burn）或关闭（Close）无用的代币账户及 NFT，释放并回收被锁定的 SOL 租金。
 * **技术特性：**
   * **全量扫描识别：**&#x667A;能检索钱包内零余额账户及僵尸 NFT，精准计算可回收的 SOL 总额。
   * **极简交互流程：**&#x6253;破链上复杂指令壁垒，支持一键批量关闭账户，资金瞬时退回主钱包。
@@ -18,7 +18,7 @@ description: >-
 * **应用价值：**&#x5B9E;现链上资产的“断舍离”，将无价值的垃圾资产转化为流动性代币，是**提升钱包资金利用率**与清理冗余数据的核心工具。
 * **目标受众：**&#x62E5;有大量空置代币账户的项目方、资深 NFT 收藏家以及希望优化钱包资产结构的 Solana 活跃用户。
 
-## 如何使用 Solana 关闭账户，回收租金工具
+### 如何使用 Solana 关闭账户，回收租金工具
 
 1. 连接钱包
 2. 等待账户查询信息
@@ -26,28 +26,28 @@ description: >-
 4. 复核要燃烧并关闭的代币或 NFT 账户
 5. 确认关闭等待租金回收完成
 
-## 准备事项
+### 准备事项
 
 1. 一台电脑或者一部手机
 2. Solana 钱包（[幻影钱包Phantom安装教程](https://docs.gtokentool.com/solana/auxiliary-tutorial/phantom-wallet-installation)）
 3. 历史接收过代币的钱包
 4. 一些 SOL 用于支付链上 GAS
 
-## Solana租金回收流程
+### Solana租金回收流程
 
-### 1. 连接钱包
+#### 1. 连接钱包
 
-Solana租金回收：[https://sol.gtokentool.com/zh-CN/walletManagement/rentRecovery](https://sol.gtokentool.com/zh-CN/walletManagement/rentRecovery)
+Solana 租金回收：[https://sol.gtokentool.com/zh-CN/walletManagement/rentRecovery](https://sol.gtokentool.com/zh-CN/walletManagement/rentRecovery)
 
 进入 GTokenTool 租金回收页面，在右上角选择 Main 网络并连接钱包，这里使用测试网演示。
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-08-26_10-19-27.png" alt=""><figcaption><p>连接钱包并选择网络</p></figcaption></figure>
 
-### 2. 等待账户查询信息
+#### 2. 等待账户查询信息
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-08-26_10-21-11.png" alt=""><figcaption><p>查询账户信息</p></figcaption></figure>
 
-### 3. 选择要关闭并租金回收的账户
+#### 3. 选择要关闭并租金回收的账户
 
 **常见类型为空置账户和普通代币账户。**
 
@@ -57,17 +57,17 @@ Solana租金回收：[https://sol.gtokentool.com/zh-CN/walletManagement/rentReco
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-08-26_10-23-52.png" alt=""><figcaption><p>选择要关闭的账户</p></figcaption></figure>
 
-### 4. 复核要燃烧并关闭的代币或 NFT 账户
+#### 4. 复核要燃烧并关闭的代币或 NFT 账户
 
 燃烧过程不可逆，再次复核要燃烧并关闭的代币和 NFT 账户。
 
-### 5. 确认关闭等待租金回收完成
+#### 5. 确认关闭等待租金回收完成
 
 如果需要关闭的账户较多，需要统计账户相关信息，还请耐心等待。
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-08-26_10-24-43.png" alt=""><figcaption><p>钱包确认</p></figcaption></figure>
 
-回收成功后，会有提示显示“回收成功”。
+租金回收成功后，会有提示显示“回收成功”。
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-08-26_10-24-53.png" alt=""><figcaption><p>回收成功提示</p></figcaption></figure>
 
@@ -83,7 +83,7 @@ Solana租金回收：[https://sol.gtokentool.com/zh-CN/walletManagement/rentReco
 
 **A:** 在 Solana 网络，每个代币和 NFT 都有独立的账户，这些账户需存入一定数量的 SOL 作为租金才能正常使用。
 
-### Q; 如何回收账户租金？
+### Q; 如何回收租金？
 
 **A:** 如需关闭 Solana 账户，请先清空账户内所有剩余的代币或 NFT。关闭后，用作租金的 SOL 将退还给你。
 
