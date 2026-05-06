@@ -83,32 +83,42 @@ STON.fi 成立于 2022 年。它的目标是建立一个用户友好的加密货
 
 确认无误后，点击`Confirm`，会弹出钱包，钱包确认就可以了。
 
-## STON.fi生成流动性代币注意事项
+## ❓STON.fi生成流动性代币常见问题  FAQ
 
-### **1、STON上面没有代币头像怎么办？**
+### **Q: STON上面没有代币头像怎么办？**
 
-答：需要在STON完成申请，且池子内有超过1万U的流动性，才能进入到STON的默认列表里，从而获得头像。申请链接：[https://docs.google.com/forms/d/e/1FAIpQLScGTZjf5DVRutqykFKF477MHoFS9-qzPhkdbOKmo\_hZn66FVA/viewform](https://docs.google.com/forms/d/e/1FAIpQLScGTZjf5DVRutqykFKF477MHoFS9-qzPhkdbOKmo_hZn66FVA/viewform)
+**A:** 需要在STON完成申请，且池子内有超过1万U的流动性，才能进入到STON的默认列表里，从而获得头像。申请链接：[https://docs.google.com/forms/d/e/1FAIpQLScGTZjf5DVRutqykFKF477MHoFS9-qzPhkdbOKmo\_hZn66FVA/viewform](https://docs.google.com/forms/d/e/1FAIpQLScGTZjf5DVRutqykFKF477MHoFS9-qzPhkdbOKmo_hZn66FVA/viewform)
 
-### **2、创建流动性的时候提示余额不够？**
+### **Q: 创建流动性的时候提示余额不够？**
 
-答：在STON创建池子，连同gas，需要额外支出1.7个TON，他会要求钱包里至少2.7 TON才能发起交易。
+**A:** 在STON创建池子，连同gas，需要额外支出1.7个TON，他会要求钱包里至少2.7 TON才能发起交易。
 
-### **3、在STON上面交易需要支付费用吗？**
+### **Q: 在STON上面交易需要支付费用吗？**
 
-答：每笔交易需要支出0.3%的费用，其中0.2% 的费用将作为增加资金池规模而支付给流动性提供者的费用，0.1% 的费用支付给STON.fi协议。
+**A:** 每笔交易需要支出0.3%的费用，其中0.2% 的费用将作为增加资金池规模而支付给流动性提供者的费用，0.1% 的费用支付给STON.fi协议。
 
-### **4、为什么我的LP Token价值在变化？**
+### **Q: 为什么我的LP Token价值在变化？**
 
-答：这是AMM池的正常现象，价值随池中资产比例变化而变化，包含无常损失因素。
+**A:** 这是AMM池的正常现象，价值随池中资产比例变化而变化，包含无常损失因素。
 
-### **5、添加流动性后为什么看不到收益？**
+### **Q: 添加流动性后为什么看不到收益？**
 
-答：收益通过LP Token本身价值增长体现，STON.fi不单独显示手续费收益。
+**A:** 收益通过LP Token本身价值增长体现，STON.fi不单独显示手续费收益。
 
-### **6、最小流动性添加量是多少？**
+### **Q: 最小流动性添加量是多少？**
 
-答：理论上无最低限制，但Gas费占比过高时不经济，建议至少价值10 TON以上。
+**A:** 理论上无最低限制，但Gas费占比过高时不经济，建议至少价值10 TON以上。
 
+### 🤝 连接 GTokenTool <a href="#lian-jie-gtokentool" id="lian-jie-gtokentool"></a>
 
+* **💬 Telegram社群**：[点击加入官方群组](https://t.me/gtokentool)
+* **🐦 Twitter (X)**：[关注我们获取最新动态](https://x.com/gtokentool)
+* **📚 官方文档**：[查看 Gitbook 文档](https://docs.gtokentool.com/)
+* **💻 开源代码**：[访问 GitHub 仓库](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
+* **📺 视频教程**：[订阅 YouTube 频道](https://www.youtube.com/@GTokenTool)
 
-如有不明白或者不清楚的地方，请加入官方电报群：[https://t.me/gtokentool](https://t.me/gtokentool)
+> ⚠️ 风险提示与免责声明
+>
+> GTokenTool 保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。
+>
+> 以上信息内容仅供参考，GTokenTool 对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。**请谨慎投资。**

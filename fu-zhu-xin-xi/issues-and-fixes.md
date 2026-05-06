@@ -12,9 +12,9 @@ icon: gear-code
 
 ### 1. 钱包连接问题
 
-问题表现：DApp 无法连接钱包 / 收不到弹窗授权。
+**问题表现：**&#x44;App 无法连接钱包 / 收不到弹窗授权。
 
-排查步骤：
+**排查步骤：**
 
 1. 确认当前钱包已解锁并且在正确的浏览器（或移动 App）上运行。
 2. 检查是否处于正确网络（查看 MetaMask 顶部网络选择）。
@@ -24,9 +24,9 @@ icon: gear-code
 
 ### 2. 交易失败 / revert（合约回退）
 
-问题表现：交易被打包但状态为失败（reverted），提示 revert 或内含错误说明。
+**问题表现：**&#x4EA4;易被打包但状态为失败（reverted），提示 revert 或内含错误说明。
 
-排查步骤：
+**排查步骤：**
 
 1. 在区块浏览器查看该 tx 的详细失败原因（有时返回了 revert 的字符串消息）。
 2. 检查输入参数：目标地址、数量、合约方法名是否正确。
@@ -34,7 +34,7 @@ icon: gear-code
 4. 若是合约调用，确认合约逻辑（例如：合约有白名单、最小持仓、暂停开关等）。联系合约开发者或检查合约公开文档。
 5. 对代币创建/部署失败，注意合约部署的初始化参数与 constructor 是否正确。
 
-解决建议：
+**解决建议：**
 
 * 在测试网先复现（强烈推荐）。
 * 如果是 allowance 问题，先调用 approve，再执行转账/交换。
@@ -42,9 +42,9 @@ icon: gear-code
 
 ### 3. Gas 不足 / Gas 估算失败
 
-问题表现：发送交易被拒绝（insufficient funds）、估算 Gas 失败、或一直处于 pending。
+**问题表现：**&#x53D1;送交易被拒绝（insufficient funds）、估算 Gas 失败、或一直处于 pending。
 
-排查步骤：
+**排查步骤：**
 
 1. 确认账户中有足够的原生代币（链的 Gas 代币，例如 ETH/BNB/OKB/XPL），并非代币余额。
 2. 对于支持代付或稳定币支付的链，确认是否需要额外的原生代币作为最小手续费。
@@ -54,9 +54,9 @@ icon: gear-code
 
 ### 4. 交易卡在 pending（挂单）
 
-问题表现：交易一直 pending，既不失败也不确认。
+**问题表现：**&#x4EA4;易一直 pending，既不失败也不确认。
 
-排查步骤：
+**排查步骤：**
 
 1. 在区块浏览器查看交易的 Gas Price 与当前链的平均 Gas Price 是否偏低。
 2. 如果偏低，使用钱包的 Speed Up 功能以更高 Gas Price 替换；或在高级钱包中“替换交易”（same nonce, higher fee）。
@@ -65,25 +65,25 @@ icon: gear-code
 
 ### 5. 代币转账但余额未显示 / 合约未验证
 
-问题表现：tx 显示成功，但钱包页面没有显示代币余额，或合约在浏览器上未验证。
+**问题表现：**&#x74;x 显示成功，但钱包页面没有显示代币余额，或合约在浏览器上未验证。
 
-排查步骤：
+**排查步骤：**
 
 1. 确认在正确网络下查看余额（有时会把代币发到其他链）。
 2. 如果是新代币，手动在钱包中“添加代币”（使用合约地址与链的 token 标准）。
 3. 合约未验证：在浏览器（Etherscan / BaseScan / BscScan / PlasmaScan）搜索合约地址，若未验证，可联系发行方或按浏览器指引提交源码验证。
 4. 若合约地址是 0x...，但交易显示成功且日志有 Transfer，说明链上已经有转账，只是钱包未显示该 token 的元数据。
 
-解决建议：
+**解决建议：**
 
 * 手动添加 token 合约与小数位（decimals）信息。
 * 推荐项目方在链上发布并验证合约源码以提高用户信任度。
 
 ### 6. 授权（approve）与被盗风险
 
-问题表现：授权给合约后无法撤回或担心被盗。
+**问题表现：**&#x6388;权给合约后无法撤回或担心被盗。
 
-排查步骤与建议：
+**排查步骤与建议：**
 
 1. 使用 Revoke.cash / Etherscan Token Approvals 查看并撤销大额或不再使用的授权。
 2. 对不熟悉的合约不要授予 unlimited（无限）授权，优先设置最小额度或一次性授权。
@@ -91,9 +91,9 @@ icon: gear-code
 
 ### 7. 钱包显示“网络不匹配”或链参数错误
 
-问题表现：MetaMask 报错“已连接到错误的网络”或交易失败提示链 ID 不符。
+**问题表现：**&#x4D;etaMask 报错“已连接到错误的网络”或交易失败提示链 ID 不符。
 
-排查步骤：
+**排查步骤：**
 
 1. 检查钱包网络设置中的 RPC URL 与 Chain ID 是否与您要操作的链一致。
 2. 若使用自定义 RPC，确认填入的 RPC 与 Chain ID、Symbol 匹配。
@@ -101,9 +101,9 @@ icon: gear-code
 
 ### 8. 硬件钱包（Ledger/Trezor）常见问题
 
-问题表现：签名一直等待 / 设备未检测到签名请求。
+**问题表现：**&#x7B7E;名一直等待 / 设备未检测到签名请求。
 
-排查步骤：
+**排查步骤：**
 
 1. 确保硬件钱包的固件与管理应用（Ledger Live）已更新到最新版。
 2. 在连接硬件钱包时，使用官方提供的桥接软件（如 Ledger Live 或相应的浏览器插件）。
@@ -118,7 +118,7 @@ icon: gear-code
 
 ***
 
-⚠️注意：使用 GTokenTools 时，90% 问题来自 **钱包配置** 或 **网络问题**。
+⚠️注意：使用 GTokenTool 时，90% 问题来自 **钱包配置** 或 **网络问题**。
 
 {% hint style="success" %}
 1. 刷新页面 + 切换网络。
@@ -128,17 +128,31 @@ icon: gear-code
 
 ### 📌 错误列表与解决方案速览
 
-|                错误消息               |      原因      |                   解决方案                   |
-| :-------------------------------: | :----------: | :--------------------------------------: |
-|           **Out of Gas**          | Gas Limit 太低 | 手动加 Gas Limit 至 500k+。GTokenTools 默认安全值。 |
-|       **Nonce Too Low/High**      |   Nonce 冲突   |     钱包等待上一笔确认，或手动设置下一个 Nonce (浏览器查)。     |
-|       **Insufficient Funds**      |     余额不足     |    确认 Gas 代币 (BNB/ETH/OKB)，预留 0.1 单位。    |
-|    **Replacement Transaction**    |     重复签名     |        取消上一笔，或加速 (加 Priority Fee)。       |
-| **RPC Error / Network Not Found** |    RPC 失效    |              切换备用 RPC 资源列表。              |
-|         **User Rejected**         |     签名拒绝     |               确认弹窗无误，重连钱包。               |
-|   **Contract Deployment Failed**  |    合约代码问题    |        检查参数 (总供应 >0，无特殊字符)。测试网验证。        |
-|         **Low Gas Price**         |     小费太低     |        提高 Priority Fee 至 1 Gwei+。        |
-|       **Execution Reverted**      |     合约逻辑错    |           查看详情 Tx，常见于 LP 池不存在。           |
-|         **MetaMask Stuck**        |  Gas 估算 Bug  |          启用 "Advanced Gas"，手动设置。         |
+|                错误消息               |      原因      |                   解决方案                  |
+| :-------------------------------: | :----------: | :-------------------------------------: |
+|           **Out of Gas**          | Gas Limit 太低 | 手动加 Gas Limit 至 500k+。GTokenTool 默认安全值。 |
+|       **Nonce Too Low/High**      |   Nonce 冲突   |     钱包等待上一笔确认，或手动设置下一个 Nonce (浏览器查)。    |
+|       **Insufficient Funds**      |     余额不足     |    确认 Gas 代币 (BNB/ETH/OKB)，预留 0.1 单位。   |
+|    **Replacement Transaction**    |     重复签名     |       取消上一笔，或加速 (加 Priority Fee)。       |
+| **RPC Error / Network Not Found** |    RPC 失效    |              切换备用 RPC 资源列表。             |
+|         **User Rejected**         |     签名拒绝     |               确认弹窗无误，重连钱包。              |
+|   **Contract Deployment Failed**  |    合约代码问题    |        检查参数 (总供应 >0，无特殊字符)。测试网验证。       |
+|         **Low Gas Price**         |     小费太低     |        提高 Priority Fee 至 1 Gwei+。       |
+|       **Execution Reverted**      |     合约逻辑错    |           查看详情 Tx，常见于 LP 池不存在。          |
+|         **MetaMask Stuck**        |  Gas 估算 Bug  |         启用 "Advanced Gas"，手动设置。         |
 
 **仍未解决？👉🏻**加入 [Telegram 官方群](https://t.me/gtokentool) 截图求助。
+
+### 🤝 连接 GTokenTool <a href="#lian-jie-gtokentool" id="lian-jie-gtokentool"></a>
+
+* **💬 Telegram社群**：[点击加入官方群组](https://t.me/gtokentool)
+* **🐦 Twitter (X)**：[关注我们获取最新动态](https://x.com/gtokentool)
+* **📚 官方文档**：[查看 Gitbook 文档](https://docs.gtokentool.com/)
+* **💻 开源代码**：[访问 GitHub 仓库](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
+* **📺 视频教程**：[订阅 YouTube 频道](https://www.youtube.com/@GTokenTool)
+
+> ⚠️ 风险提示与免责声明
+>
+> GTokenTool 保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。
+>
+> 以上信息内容仅供参考，GTokenTool 对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。**请谨慎投资。**

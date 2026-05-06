@@ -8,15 +8,15 @@ description: 全网最全的TON领取测试币教程
 
 ### 操作步骤
 
-点击进入领测试币地址：[https://t.me/testgiver\_ton\_bot](https://t.me/testgiver_ton_bot)，点击“发信息”。
+点击进入领测试币地址：[https://t.me/testgiver\_ton\_bot](https://t.me/testgiver_ton_bot)，点击“`发信息`”。
 
 <figure><img src="../.gitbook/assets/image (325).png" alt="" width="563"><figcaption></figcaption></figure>
 
-进入到电报（Telegram）对话框，在底部点击“开始”。
+进入到电报（Telegram）对话框，在底部点击“`开始`”。
 
 <figure><img src="../.gitbook/assets/image (326).png" alt="" width="563"><figcaption></figcaption></figure>
 
-就会收到一条消息，然后选择“Get 5 TON in testnet”。
+就会收到一条消息，然后选择“`Get 5 TON in testnet`”。
 
 <figure><img src="../.gitbook/assets/image (327).png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -33,6 +33,16 @@ description: 全网最全的TON领取测试币教程
 * 如果钱包里没收到测试币，请查看下有没有切换到测试网，在测试网才能看到。
 * 如果不会切换测试网，可以查看这个教程：[https://www.gtokentool.com/ton/tonkeeper-qian-bao-an-zhuang-jiao-cheng](https://www.gtokentool.com/ton/tonkeeper-qian-bao-an-zhuang-jiao-cheng)
 
+### 🤝 连接 GTokenTool <a href="#lian-jie-gtokentool" id="lian-jie-gtokentool"></a>
 
+* **💬 Telegram社群**：[点击加入官方群组](https://t.me/gtokentool)
+* **🐦 Twitter (X)**：[关注我们获取最新动态](https://x.com/gtokentool)
+* **📚 官方文档**：[查看 Gitbook 文档](https://docs.gtokentool.com/)
+* **💻 开源代码**：[访问 GitHub 仓库](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
+* **📺 视频教程**：[订阅 YouTube 频道](https://www.youtube.com/@GTokenTool)
 
-如有不明白或者不清楚的地方，请加入官方电报群：[https://t.me/gtokentool](https://t.me/gtokentool)
+> ⚠️ 风险提示与免责声明
+>
+> GTokenTool 保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。
+>
+> 以上信息内容仅供参考，GTokenTool 对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。**请谨慎投资。**

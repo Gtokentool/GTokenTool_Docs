@@ -12,19 +12,19 @@ description: 全网最好用的Tron市值机器人工具
 
 通过输入代币合约来对代币进行搜索,并选择对应的目标代币。
 
-<figure><img src="../.gitbook/assets/image (346).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (346).png" alt=""><figcaption><p>输入兑换代币</p></figcaption></figure>
 
 ## 3.查看交易池代币的当前价格 <a href="#id-3.-cha-kan-jiao-yi-chi-dai-bi-de-dang-qian-jia-ge" id="id-3.-cha-kan-jiao-yi-chi-dai-bi-de-dang-qian-jia-ge"></a>
 
 选择完代币之后滑动到屏幕最下方的日志，查看当前的交易池代币的当前价格。点击清空日志则可以将日志信息清除。
 
-<figure><img src="../.gitbook/assets/image (347).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (347).png" alt=""><figcaption><p>查看当前价格</p></figcaption></figure>
 
 ## 4.导入批量钱包 <a href="#id-4.-dao-ru-pi-liang-qian-bao" id="id-4.-dao-ru-pi-liang-qian-bao"></a>
 
 导入批量钱包，查询钱包余额，点击刷新钱包可刷新钱包的余额，点击删除操作按钮可删除钱包。
 
-<figure><img src="../.gitbook/assets/image (348).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (348).png" alt=""><figcaption><p>导入钱包</p></figcaption></figure>
 
 ## 5.设置相关配置参数 <a href="#id-5.-she-zhi-xiang-guan-pei-zhi-can-shu" id="id-5.-she-zhi-xiang-guan-pei-zhi-can-shu"></a>
 
@@ -46,20 +46,30 @@ description: 全网最好用的Tron市值机器人工具
 
 ### 拉盘参数展示：
 
-<figure><img src="../.gitbook/assets/image (349).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (349).png" alt=""><figcaption><p>拉盘参数展示</p></figcaption></figure>
 
 ### 砸盘参数展示：
 
-<figure><img src="../.gitbook/assets/image (350).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (350).png" alt=""><figcaption><p>砸盘参数展示</p></figcaption></figure>
 
 ### 刷交易量参数展示：
 
-<figure><img src="../.gitbook/assets/image (351).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (351).png" alt=""><figcaption><p>刷交易量参数展示</p></figcaption></figure>
 
 ## 6.开始批量交易 <a href="#id-6.-kai-shi-pi-liang-jiao-yi" id="id-6.-kai-shi-pi-liang-jiao-yi"></a>
 
 可实时查看交易日志。
 
+### 🤝 连接 GTokenTool <a href="#lian-jie-gtokentool" id="lian-jie-gtokentool"></a>
 
+* **💬 Telegram社群**：[点击加入官方群组](https://t.me/gtokentool)
+* **🐦 Twitter (X)**：[关注我们获取最新动态](https://x.com/gtokentool)
+* **📚 官方文档**：[查看 Gitbook 文档](https://docs.gtokentool.com/)
+* **💻 开源代码**：[访问 GitHub 仓库](https://github.com/Gtokentool/docs/blob/master/SUMMARY.md)
+* **📺 视频教程**：[订阅 YouTube 频道](https://www.youtube.com/@GTokenTool)
 
-如果有任何问题，请进入我们的电报群：[https://t.me/gtokentool](https://t.me/gtokentool)
+> ⚠️ 风险提示与免责声明
+>
+> GTokenTool 保留随时全权酌情因任何理由修改、变更或取消此公告的权利，无需事先通知。
+>
+> 以上信息内容仅供参考，GTokenTool 对本平台上的任何虚拟资产、产品或促销活动不做任何推荐或保证。虚拟资产的价格波动很大，投资交易虚拟资产将面临巨大风险。**请谨慎投资。**
