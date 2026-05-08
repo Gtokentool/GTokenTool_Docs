@@ -18,7 +18,7 @@ description: 全网最好的Solana靓号钱包生成工具
 为避免混淆，Solana合约地址不可使用数字"0"，字母大写"O"，字母大写"I"，和字母小写"l"
 {% endhint %}
 
-## 视频演示
+## 📺视频演示
 
 {% embed url="https://youtu.be/2a9Cm-SX23U" %}
 
@@ -63,6 +63,24 @@ Solana靓号地址生成：[https://sol.gtokentool.com/zh-CN/walletManagement/Li
 
 采用最新256位32字节随机种子进行随机生成私钥, 并通过keccak-256生成公钥根据用户设置匹配对应格式地址。无需担心被破解！
 {% endhint %}
+
+## ❓常见问题 FAQ
+
+### Q：靓号钱包和普通钱包安全一样吗？
+
+**A：**&#x5E95;层安全完全相同（同一种加密算法），但靓号因显眼，更易成为攻击目标，需更严格保管私钥
+
+### &#xD;Q：生成靓号收费吗？
+
+**A：**&#x6B63;规本地生成工具（如 SlerfTools、PandaTool）免费；付费多是第三方代生成或 “秒出” 骗局。
+
+### &#xD;Q：私钥 / 助记词丢了能找回吗？
+
+**A：**&#x4E0D;能！靓号钱包和普通钱包一样，无中心化服务器，私钥 / 助记词丢失 = 资产永久丢失。
+
+### &#xD;Q：可以自定义任意字符吗？
+
+**A：**&#x4E0D;可以，不同链有严格字符限制。Solana：排除 0、O、I、l，其余字母数字可用。
 
 ### 🤝 连接 GTokenTool <a href="#lian-jie-gtokentool" id="lian-jie-gtokentool"></a>
 
