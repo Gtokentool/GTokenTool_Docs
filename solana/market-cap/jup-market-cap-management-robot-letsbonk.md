@@ -12,7 +12,7 @@ description: 基于Jupiter聚合器的Solana市值管理工具，实现智能拆
 
 ## 视频演示
 
-{% embed url="https://youtu.be/yvLvmZFRODM" %}
+{% embed url="https://youtu.be/uO_NzeIGos8?si=tsrIw5ZDSlqMWeN_" %}
 
 ## 准备事项：
 

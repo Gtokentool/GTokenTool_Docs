@@ -12,9 +12,7 @@ description: 基于Jupiter聚合器的Solana市值管理工具，实现智能拆
 
 ## 视频演示
 
-{% embed url="https://youtu.be/wwexq1wDYP0" %}
-视频教程
-{% endembed %}
+{% embed url="https://youtu.be/uO_NzeIGos8?si=tsrIw5ZDSlqMWeN_" %}
 
 使用Jup市值机器人批量交易工具，轻松管理多个账户，高效执行批量交易，降低交易成本和时间，优化资金使用效率。
 
