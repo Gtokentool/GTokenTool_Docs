@@ -43,7 +43,7 @@ PUMP发币和开盘捆绑买入工具：[https://sol.gtokentool.com/zh-CN/pump/b
 ### 四、导入小号优先买入代币
 
 {% hint style="warning" %}
-Pump（每个 0.03 SOL）最多导入 16 个钱包，发币前请确保每个钱包资金来源不一样。
+Pump（每个 0.02 SOL）最多导入 12 个钱包，发币前请确保每个钱包资金来源不一样。
 
 **特别说明**：<mark style="color:purple;">购买数量最好不要超过当前钱包的90%，最少预留0.007 SOL（最好预留10%）</mark>。不会填写请咨询我们再操作。
 
