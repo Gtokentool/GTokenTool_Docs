@@ -34,7 +34,7 @@ Pump卖出并捆绑买入：[https://sol.gtokentool.com/zh-CN/pump/pumpSellAndBu
 ### 2. 输入代币地址
 
 {% hint style="danger" %}
-**注意**：输入代币地址后，请选择正确的DEX。<mark style="color:red;">若不清楚的话，直接选择Jup。</mark>
+**注意**：输入代币地址后，请选择正确的DEX。若 DEX 选择错误，可能导致交易失败，这是交易成功的基础。
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/Snipaste_2025-08-21_13-57-07.png" alt=""><figcaption><p>输入代币地址并选择对应DEX</p></figcaption></figure>
