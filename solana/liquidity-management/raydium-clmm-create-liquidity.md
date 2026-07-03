@@ -117,7 +117,7 @@ GTokenTool 为您提供了两种加池模式（默认为单币加池）：
 
 ### Q: 创建 CLMM 池子需要 Market ID 吗？
 
-**A: ❌ 不需要**。无需 OpenBook/Serum 市场 ID，直接创建交易对池子。
+**A: ❌ 不需要**。无需 OpenBook 市场 ID，直接创建交易对池子。
 
 ### Q: 初始价格设置后能改吗？
 
