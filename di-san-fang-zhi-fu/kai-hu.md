@@ -1,5 +1,6 @@
 ---
 description: G TOKEN官网：https://www.gtokentool.com
+hidden: true
 icon: '1'
 ---
 
