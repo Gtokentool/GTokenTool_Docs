@@ -73,10 +73,11 @@ description: 加池参与分红、池子越来越厚，币价螺旋上涨
 * 营销手续费：交易中指定额度的代币将会自动转入营销钱包中, 用于项目方做其他营销。
 * 销毁手续费：交易中指定额度的代币将会被打入黑洞地址, 变相实现通缩机制。
 * 回流手续费：交易中指定额度的代币将会自动添加到流动池内, 保证交易始终存在流动性。
+* 加池分红手续费：交易中指定额度的代币, 用来购买分红代币, 并发送给LP持有者。
 
 <mark style="color:violet;">注：最低填写0.01，不能超过两位小数。</mark>
 
-<figure><img src="../.gitbook/assets/Snipaste_2026-07-17_10-31-33.png" alt=""><figcaption><p>设置买卖手续费</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2026-07-17_13-28-51.png" alt=""><figcaption><p>设置买卖手续费</p></figcaption></figure>
 
 ### (7) 增加持币地址（可选）
 
