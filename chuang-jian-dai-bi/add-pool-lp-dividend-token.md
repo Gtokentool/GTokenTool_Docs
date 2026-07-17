@@ -30,34 +30,74 @@ description: 加池参与分红、池子越来越厚，币价螺旋上涨
 
 完成后，会看到 “链名称” 和 您的“钱包地址” ，如下图：
 
-<figure><img src="../.gitbook/assets/image (123).png" alt=""><figcaption><p>连接钱包</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2026-07-17_10-22-31 (1).png" alt=""><figcaption><p>连接钱包并选择网络</p></figcaption></figure>
 
 ### (2) 选择代币模式
 
-点击下拉框，选择 “LP分红代币”。
+点击下拉框，选择 “加池（LP分红代币）”。
 
-<figure><img src="../.gitbook/assets/image (226).png" alt=""><figcaption><p>选择LP分红代币</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2026-07-17_11-27-11.png" alt=""><figcaption><p>选择LP分红代币</p></figcaption></figure>
 
 ### (3) 填写您的代币信息
 
 依次填写代币信息，假设我们创建一个代币叫——“G TOKEN”，填写如下：
 
 * **代币全称：**&#x47; TOKEN
-* **代币简称：**&#x47; T
+* **代币简称：**&#x47;T
 * **总供应量：**&#x31;000000（代币数量）
 * **代币精度：**&#x31;8（小数点后的位数）
-* **营销钱包地址：**&#x30;x46ed16F6BCb78d05d38E4765C10CF89e2a542D43
-* **选择池底：**&#x54;BNB
+* **管理员地址：**&#x9ED8;认为连接钱包地址
+* **营销钱包地址：**&#x8BBE;置营销钱包地址
+* **选择池底：**&#x42;NB
 * **选择交易所：**&#x70;ancakeSwapTest V2
-* **分红的代币：**&#x54;BNB
+* **分红的代币：**&#x42;NB
 
-<figure><img src="../.gitbook/assets/000 (14).jpg" alt=""><figcaption><p>填写代币信息</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2026-07-17_11-32-11.png" alt=""><figcaption><p>填写代币信息</p></figcaption></figure>
 
-输入完成后，点击 “`创建`”。
+### (4) 杀机器人（可选）
 
-### (4) 完成
+将对开启交易后在n秒内交易的地址全部拉入黑名单, 用于防止机器人抢跑买入，小于30秒。
 
-点击 “`确认创建`” ，在小狐狸钱包支付gas费，就完成了。
+<figure><img src="../.gitbook/assets/Snipaste_2026-07-17_10-36-14.png" alt=""><figcaption><p>设置杀机器人时间</p></figcaption></figure>
+
+### (5) 开启限购（可选）
+
+加池子后会立即开启交易，如果关闭交易，最大持有设置为0(限购全部设置成0)。
+
+<figure><img src="../.gitbook/assets/Snipaste_2026-07-17_10-41-16.png" alt=""><figcaption><p>开启限购</p></figcaption></figure>
+
+### (6) 买卖手续费设置（可选）
+
+根据自己的需求设置买卖手续费。
+
+* 营销手续费：交易中指定额度的代币将会自动转入营销钱包中, 用于项目方做其他营销。
+* 销毁手续费：交易中指定额度的代币将会被打入黑洞地址, 变相实现通缩机制。
+* 回流手续费：交易中指定额度的代币将会自动添加到流动池内, 保证交易始终存在流动性。
+
+<mark style="color:violet;">注：最低填写0.01，不能超过两位小数。</mark>
+
+<figure><img src="../.gitbook/assets/Snipaste_2026-07-17_10-31-33.png" alt=""><figcaption><p>设置买卖手续费</p></figcaption></figure>
+
+### (7) 增加持币地址（可选）
+
+用户交易时, 将会向随机地址空投最小单位代币以增加持币地址，不得超过10个。
+
+<figure><img src="../.gitbook/assets/Snipaste_2026-07-17_10-39-48.png" alt=""><figcaption><p>增加持币地址</p></figcaption></figure>
+
+### (8) 转账手续费（可选）
+
+<figure><img src="../.gitbook/assets/Snipaste_2026-07-17_10-45-37.png" alt=""><figcaption><p>转账手续费设置</p></figcaption></figure>
+
+### (9) 推荐返利（可选）
+
+1.用户通过空投可绑定上下级关系，下级交易时，上级可获得推荐费用。\
+2.推荐返利只能新增至3级；推荐返利税单位为 %
+
+<figure><img src="../.gitbook/assets/Snipaste_2026-07-17_10-48-25.png" alt=""><figcaption><p>推荐返利设置</p></figcaption></figure>
+
+### (10) 完成
+
+点击 “`创建`” ，弹出窗口后可以设置靓号合约。设置完成后，点击”`确认创建`“，在小狐狸钱包支付gas费，就完成了。
 
 <figure><img src="https://lh7-us.googleusercontent.com/yWjc92x3CtS5eHZwU90XKNwQjefbU53bAA_npiyP6AF1G5z1SlQv2Ke7QvwP0w809kWgfOhHlwRS0-GE--_Z8WlWuIw-DojrAFMsecuSiaz0zdrhjGUG7vwCFkexWrebB7LLZYulqwLp7dyjeb6sTo4" alt=""><figcaption><p>确认创建</p></figcaption></figure>
 

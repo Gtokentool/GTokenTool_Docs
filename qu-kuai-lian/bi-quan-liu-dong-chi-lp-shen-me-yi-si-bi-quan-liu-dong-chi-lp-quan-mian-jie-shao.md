@@ -1,6 +1,6 @@
 # 币圈流动池LP什么意思？币圈流动池LP全面介绍
 
-DeFi世界存在一个独特的玩法就是挖矿，其本质就是由使用者提供平台流动性，平台进而给予奖励。这也就涉及到今天说的流动池[LP](bi-quan-liu-dong-chi-lp-shen-me-yi-si-bi-quan-liu-dong-chi-lp-quan-mian-jie-shao.md)。但是很多人还不知道币圈流动池LP什么意思？其实理解起来很简单，据资料分析来看，币圈流动池LP指的是一池被锁在[智能合约](zhi-neng-he-yue-you-shen-me-zuo-yong-neng-shi-xian-na-xie-gong-neng.md)内的代币，流动性池提供流动性来促进[去中心化交易](/broken/pages/fLUACWAFvdZqyeO5drky)、借贷和其他作用，当中透过流动性池集合资金并锁定在智能合约中。下面[**GTokenTool**](https://docs.gtokentool.com)小编为大家全面介绍一下币圈流动池LP。
+DeFi世界存在一个独特的玩法就是挖矿，其本质就是由使用者提供平台流动性，平台进而给予奖励。这也就涉及到今天说的流动池[LP](bi-quan-liu-dong-chi-lp-shen-me-yi-si-bi-quan-liu-dong-chi-lp-quan-mian-jie-shao.md)。但是很多人还不知道币圈流动池LP什么意思？其实理解起来很简单，据资料分析来看，币圈流动池LP指的是一池被锁在[智能合约](zhi-neng-he-yue-you-shen-me-zuo-yong-neng-shi-xian-na-xie-gong-neng.md)内的代币，流动性池提供流动性来促进[去中心化交易](https://app.gitbook.com/s/aUD1j15UCzdjC6ftyzSr/qu-zhong-xin-hua-jiao-yi)、借贷和其他作用，当中透过流动性池集合资金并锁定在智能合约中。下面[**GTokenTool**](https://docs.gtokentool.com)小编为大家全面介绍一下币圈流动池LP。
 
 ## 币圈流动池LP什么意思？
 

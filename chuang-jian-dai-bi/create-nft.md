@@ -18,33 +18,29 @@ description: 一分钟快速创建NFT，快速简单且便宜，无需任何编�
 
 ## 创建NFT流程
 
-### 1. 进入创建NFT页面
+### 1. 连接钱包
 
-进入 [https://www.gtokentool.com/createnft](https://www.gtokentool.com/createnft) ，点击上传你的图片。
+进入 [https://www.gtokentool.com/createnft](https://www.gtokentool.com/createnft) ，右上角点击连接钱包并选择币安主网。
 
-<figure><img src="../.gitbook/assets/image (434).png" alt=""><figcaption><p>连接钱包并上传Logo</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2026-07-17_11-57-55.png" alt=""><figcaption><p>连接钱包并选择网络</p></figcaption></figure>
 
-### 2. 填写NFT信息
+### 2. 上传Logo
+
+点击上传你的图片。
+
+<figure><img src="../.gitbook/assets/Snipaste_2026-07-17_11-59-26.png" alt=""><figcaption><p>点击上传Logo</p></figcaption></figure>
+
+### 3. 填写NFT信息
 
 依次填入下面需要的资料。
 
-<figure><img src="../.gitbook/assets/image (428).png" alt=""><figcaption><p>填写代币信息</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2026-07-17_12-01-17.png" alt=""><figcaption><p>填写NFT信息</p></figcaption></figure>
 
-### 3. 点击创建NFT
+### 4. 点击“创建NFT”
 
-弹出弹窗，点击"`确认创建`"，弹出钱包确定。
+弹出弹窗，点击"`确认`"，弹出钱包确定。
 
-<figure><img src="../.gitbook/assets/image (431).png" alt=""><figcaption><p>钱包确认</p></figcaption></figure>
-
-### 4. 确定以后会出现前往控制台按钮
-
-<figure><img src="../.gitbook/assets/image (432).png" alt=""><figcaption><p>创建成功</p></figcaption></figure>
-
-### 5. 进入控制台
-
-你就可以看见你的NFT了，也能进行一定的修改。
-
-<figure><img src="../.gitbook/assets/image (433).png" alt=""><figcaption><p>进入控制台</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2026-07-17_13-01-15.png" alt=""><figcaption><p>确认创建</p></figcaption></figure>
 
 ## ❓常见问题 FAQ
 

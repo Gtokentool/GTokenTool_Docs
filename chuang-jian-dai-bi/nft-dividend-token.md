@@ -20,43 +20,81 @@ description: 同时为 NFT 持有者和 LP 提供双重分红的复合型代币
 
 ## 创建NFT分红代币流程
 
-### 第1步，连接钱包
+### (1) 连接钱包
 
 进入创建页面：[https://www.gtokentool.com/tokenfactory](https://www.gtokentool.com/tokenfactory)，点击右上角，连接小狐狸钱包，并切换到主网（这里以BSC测试网为例)。
 
 完成后，会看到 “链名称” 和 您的“钱包地址” ，如下图：
 
-<figure><img src="../.gitbook/assets/image (123).png" alt=""><figcaption><p>连接钱包并选择网络</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2026-07-17_10-22-31 (1).png" alt=""><figcaption><p>连接钱包并选择网络</p></figcaption></figure>
 
-### 第2步，选择代币模式
+### (2) 选择代币模式
 
-点击下拉框，选择 “NFT分红代币”。
+点击下拉框，选择 “NFT分红+LP分红代币”。
 
 <figure><img src="../.gitbook/assets/Snipaste_2026-04-22_16-49-20.png" alt=""><figcaption><p>选择NFT分红+LP分红</p></figcaption></figure>
 
-### 第3步， 填写您的代币信息
+### (3) 填写您的代币信息
 
 依次填写代币信息，假设我们创建一个代币叫——“G TOKEN”，填写如下：
 
-* 代币全称：G TOKEN
-* 代币简称：G T
-* 总供应量：1000000（代币数量）
-* 代币精度：18（小数点后的位数）
-* 营销钱包地址：0x46ed16F6BCb78d05d38E4765C10CF89e2a542D43
-* NFT地址：0xf833716509f703B22A17EbC61A36140Db1116023
-* 选择池底：TBNB
-* 选择交易所：pancakeSwapTest V2
-* 分红的代币：TBNB
+* **代币全称：**&#x47; TOKEN
+* **代币简称：**&#x47;T
+* **总供应量：**&#x31;000000（代币数量）
+* **代币精度：**&#x31;8（小数点后的位数）
+* **管理员地址：**&#x9ED8;认为连接钱包地址
+* **营销钱包地址：**&#x8BBE;置营销钱包地址
+* **NFT地址：**&#x8BBE;置NFT地址
+* **选择池底：**&#x42;NB
+* **选择交易所：**&#x70;ancakeSwapTest V2
+* **分红的代币：**&#x42;NB
 
-<figure><img src="../.gitbook/assets/Snipaste_2026-04-22_16-56-56.png" alt=""><figcaption><p>填写代币信息</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2026-07-17_11-49-59.png" alt=""><figcaption><p>填写代币信息</p></figcaption></figure>
 
-输入完成后，点击 “`创建`”。
+### (4) 买卖手续费设置（可选）
 
-#### (4) 完成
+根据自己的需求设置买卖手续费。
 
-点击 “`确认创建`” ，在小狐狸钱包支付gas费，就完成了。
+* 营销手续费：交易中指定额度的代币将会自动转入营销钱包中, 用于项目方做其他营销。
+* 销毁手续费：交易中指定额度的代币将会被打入黑洞地址, 变相实现通缩机制。
+* 回流手续费：交易中指定额度的代币将会自动添加到流动池内, 保证交易始终存在流动性。
 
-（注：因为每个用户网络速度不同，支付gas费用时可能会延迟1、2秒，属正常现象。）
+<mark style="color:violet;">注：最低填写0.01，不能超过两位小数。</mark>
+
+<figure><img src="../.gitbook/assets/Snipaste_2026-07-17_10-31-33.png" alt=""><figcaption><p>设置买卖手续费</p></figcaption></figure>
+
+### (5) 杀机器人（可选）
+
+将对开启交易后在n秒内交易的地址全部拉入黑名单, 用于防止机器人抢跑买入，小于30秒。
+
+<figure><img src="../.gitbook/assets/Snipaste_2026-07-17_10-36-14.png" alt=""><figcaption><p>设置杀机器人时间</p></figcaption></figure>
+
+### (6) 增加持币地址（可选）
+
+用户交易时, 将会向随机地址空投最小单位代币以增加持币地址，不得超过10个。
+
+<figure><img src="../.gitbook/assets/Snipaste_2026-07-17_10-39-48.png" alt=""><figcaption><p>增加持币地址</p></figcaption></figure>
+
+### (7) 开启限购（可选）
+
+加池子后会立即开启交易，如果关闭交易，最大持有设置为0(限购全部设置成0)。
+
+<figure><img src="../.gitbook/assets/Snipaste_2026-07-17_10-41-16.png" alt=""><figcaption><p>开启限购</p></figcaption></figure>
+
+### (8) 转账手续费（可选）
+
+<figure><img src="../.gitbook/assets/Snipaste_2026-07-17_10-45-37.png" alt=""><figcaption><p>转账手续费设置</p></figcaption></figure>
+
+### (9) 推荐返利（可选）
+
+1.用户通过空投可绑定上下级关系，下级交易时，上级可获得推荐费用。\
+2.推荐返利只能新增至3级；推荐返利税单位为 %
+
+<figure><img src="../.gitbook/assets/Snipaste_2026-07-17_10-48-25.png" alt=""><figcaption><p>推荐返利设置</p></figcaption></figure>
+
+### (10) 完成
+
+点击 “`创建`” ，弹出窗口后可以设置靓号合约。设置完成后，点击”`确认创建`“，在小狐狸钱包支付gas费，就完成了。
 
 <figure><img src="https://lh7-us.googleusercontent.com/VWQRjkhiVXn5n9Rlq1lwSb_dbpEBA8kipX_KdCqX29L4uusWW3wxcNGZL0g7co_QsNK0CsdSIOkk6dI8kUp3JwY4XahFEWFtho_dtvxyirmIEai6pJu773nAZ1ztsoHygYjjqXLzPki0dhaRmbarZG4" alt=""><figcaption><p>确认创建</p></figcaption></figure>
 
