@@ -63,7 +63,7 @@ description: 同时为 NFT 持有者和 LP 提供双重分红的复合型代币
 
 <mark style="color:violet;">注：最低填写0.01，不能超过两位小数。</mark>
 
-<figure><img src="../.gitbook/assets/Snipaste_2026-07-17_10-31-33.png" alt=""><figcaption><p>设置买卖手续费</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2026-07-17_13-31-22.png" alt=""><figcaption><p>设置买卖手续费</p></figcaption></figure>
 
 ### (5) 杀机器人（可选）
 
