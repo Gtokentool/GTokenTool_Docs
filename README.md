@@ -16,6 +16,8 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
 ---
 
 # GTokenTool一键发币
@@ -23,6 +25,10 @@ layout:
 ### **GTokenTool：让区块链资产发行与交易变得更简单**
 
 作为一站式管理平台，我们提供可视化、无代码的全流程服务。从代币创建到交易狙击，无论是项目方还是交易员，都能在这里实现低成本、高效率的链上操作。
+
+> EVM工具：[https://www.gtokentool.com/](https://www.gtokentool.com/)
+>
+> Solana工具：[https://sol.gtokentool.com/](https://sol.gtokentool.com/)
 
 ## **🚀 平台核心能力速览**
 
