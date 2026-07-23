@@ -33,7 +33,7 @@ layout:
 ## **🚀 平台核心能力速览**
 
 * **核心定位**：一站式区块链资产创建与管理工具（无代码/可视化）。
-* **支持公链**：Solana, Ethereum (ERC20), BSC, Base, TON, Polygon, Sui, XLayer 等主流及新兴链。
+* **支持公链**：Solana, Ethereum (ERC20), BSC, Base, TON, Polygon, Sui, XLayer, Robinhood 等主流及新兴链。
 * **核心功能**：
   * **发行端**：多模式代币创建（普通/CLMM/分红/回流/ERC404等）、NFT 铸造、预售/IDO、流动性管理。
   * **交易端**：批量转账/空投、狙击机器人、市值管理工具、跟单交易。
@@ -47,7 +47,7 @@ layout:
 
 ### **🌐 全链覆盖与多交易所支持**
 
-* **支持公链**：Ethereum, BSC, Solana, ARB, Core, Base, OKC, HECO, PEGO 等主流及新兴链。
+* **支持公链**：Ethereum, BSC, Solana, Robinhood, ARB, Core, Base, OKC, HECO, PEGO 等主流及新兴链。
 * **支持交易所**：UniSwap (EVM), PancakeSwap (BSC), Raydium (Solana), 以及 FOUR, Flap 等新兴 DEX。
 * **优势**：极高的灵活性，一处工具，通达多链资产。
 
