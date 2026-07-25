@@ -16,6 +16,7 @@ description: 全网最好的市值机器人，支持多种类型的Swap
 * BASE: Uniswap V2、Uniswap V3
 * Polygon: QuickSwap V2、Uniswap V2、Uniswap V3
 * X Layer: PotatoSwap V2
+* Robinhood: Uniswap V2、Uniswap V3、Flap
 
 ## 市值机器人具体操作流程
 
