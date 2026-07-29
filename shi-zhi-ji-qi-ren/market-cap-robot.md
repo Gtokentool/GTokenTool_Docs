@@ -221,6 +221,7 @@ description: 全网最好的市值机器人，支持多种类型的Swap
 * Base: 0.002 BSAE
 * Polygon: 0 POL
 * X Layer: 0.05 OKB
+* Robinhood: 0.002 ETH
 
 ### Q: 不同链非会员费用？
 
@@ -232,6 +233,7 @@ description: 全网最好的市值机器人，支持多种类型的Swap
 * Base: 0.00003 BSAE
 * Polygon: 0.2 POL
 * X Layer: 0.001 OKB
+* Robinhood: 0.00003 ETH
 
 ### Q: 有哪些常见报错？
 
