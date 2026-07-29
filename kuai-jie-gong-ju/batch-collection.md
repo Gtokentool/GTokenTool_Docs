@@ -26,63 +26,45 @@ description: 将多个钱包地址中的 BNB 或 BEP20 代币，一键批量汇�
 
 ### 1. 连接钱包
 
-批量归集：[https://robotv2.gtokentool.com/#/collect](https://robotv2.gtokentool.com/#/collect)
+批量归集：[https://www.gtokentool.com/collection](https://www.gtokentool.com/collection)
 
 进入页面后，选择币安链并点击连接钱包。这里我用测试网演示。
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-28_10-55-33.png" alt=""><figcaption><p>连接钱包并选择公链</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2026-07-29_16-52-34.png" alt=""><figcaption><p>连接钱包并选择网络</p></figcaption></figure>
 
-### 2. 归集BNB
+### 2. 输入代币地址
 
-选择归集BNB，输入归集钱包地址。
+输入代币地址，不填默认归集BNB。
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-28_11-00-28.png" alt=""><figcaption><p>输入接收地址</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2026-07-29_16-55-04.png" alt=""><figcaption><p>输入代币地址</p></figcaption></figure>
 
-点击“`导入钱包`”，输入要归集的钱包私钥，一行一个。
+### 3. 输入归集地址
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-28_11-02-35.png" alt=""><figcaption><p>导入钱包</p></figcaption></figure>
+输入归集地址，将代币或BNB归集到指定地址。
 
-导入成功后，下面可以看到导入钱包的余额。
+<figure><img src="../.gitbook/assets/Snipaste_2026-07-29_16-57-42.png" alt=""><figcaption><p>输入归集地址</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-28_11-04-08.png" alt=""><figcaption><p>导入钱包成功</p></figcaption></figure>
+### 4. 导入钱包
 
-最后点击“`归集`”。
+导入成功后，下面可以看到导入钱包的余额以及代币数量。
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-28_11-05-56.png" alt=""><figcaption><p>点击归集</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2026-07-29_17-02-19.png" alt=""><figcaption><p>导入钱包</p></figcaption></figure>
 
-然后会弹出确认提示框，最后确认归集地址是否正确。点击“`Yes`”，继续交易。
+### 5. 输入归集数量
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-28_11-07-36.png" alt=""><figcaption><p>确认归集</p></figcaption></figure>
+输入要归集的数量，不填默认归集全部。
 
-归集成功会弹出成功提示，点击“`刷新`”可以确认是否归集成功。
+<figure><img src="../.gitbook/assets/Snipaste_2026-07-29_17-02-42.png" alt=""><figcaption><p>输入归集数量</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-28_11-11-51.png" alt=""><figcaption><p>归集完成</p></figcaption></figure>
+### 6. 点击“归集”
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-28_11-15-40.png" alt=""><figcaption><p>刷新余额</p></figcaption></figure>
+确认无误后，点击”归集“。
 
-### 3. 归集代币
+<figure><img src="../.gitbook/assets/Snipaste_2026-07-29_17-04-14.png" alt=""><figcaption><p>归集成功</p></figcaption></figure>
 
-选择归集代币，输入代币地址和归集钱包地址。
+然后会弹出成功提示，点击“刷新”可以获取最新余额。
 
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-28_11-24-43.png" alt=""><figcaption><p>输入代币地址和接收地址</p></figcaption></figure>
-
-点击“`导入钱包`”，输入要归集的钱包私钥，一行一个。
-
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-28_11-02-35.png" alt=""><figcaption><p>导入钱包</p></figcaption></figure>
-
-导入成功后，下面可以看到导入钱包的余额以及代币余额。
-
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-28_11-26-29.png" alt=""><figcaption><p>导入钱包成功</p></figcaption></figure>
-
-点击“`归集`”，点击之后会有弹框显示归集钱包地址，确认无误后点击“`Yes`”，继续交易。
-
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-28_11-27-19.png" alt=""><figcaption><p>确认归集</p></figcaption></figure>
-
-归集成功会弹出成功提示，点击“`刷新`”可以确认是否归集成功。
-
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-28_11-29-15.png" alt=""><figcaption><p>归集完成</p></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/Snipaste_2025-11-28_11-29-43.png" alt=""><figcaption><p>刷新余额</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2026-07-29_17-09-46.png" alt=""><figcaption><p>刷新余额</p></figcaption></figure>
 
 ## ❓常见问题 FAQ
 
