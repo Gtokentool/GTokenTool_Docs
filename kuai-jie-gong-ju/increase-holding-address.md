@@ -28,21 +28,27 @@ description: 项目生态持续发力，持币地址数量稳步增加，社区�
 
 完成后，会看到 “链名称” 和 您的“钱包地址” ，如下图：
 
-<figure><img src="../.gitbook/assets/Snipaste_2026-01-04_15-16-41.png" alt=""><figcaption><p>连接钱包并选择公链</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Snipaste_2026-08-05_13-59-37.png" alt=""><figcaption><p>连接钱包并选择公链</p></figcaption></figure>
 
 ### 第2步，输入配置信息
 
 假设我们增加20个持币地址，输入如下：
 
 * 代币地址：0x0b29b9959e315e68c007b2cc376ea16f3c850951
-* 单地址发放数量：100
-* 总发放多少地址：20
+* 单地址发放数量：120
+* 总发放多少地址：30
 
-<figure><img src="../.gitbook/assets/Snipaste_2026-01-04_15-18-01.png" alt=""><figcaption><p>输入配置信息</p></figcaption></figure>
+输入完成后，下方会显示总分配代币数量和预估总费用。
+
+{% hint style="warning" %}
+若提示“增加持币地址失败”，请优先查看钱包中代币数量和BNB余额是否充足。
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/Snipaste_2026-08-05_13-56-30.png" alt=""><figcaption><p>输入配置信息</p></figcaption></figure>
 
 ### 第3步，完成
 
-点击 “`增加持币地址`” 按钮，在小狐狸上支付gas费点击“`确认`”，就完成了。
+点击 “`增加持币地址`” 按钮，会弹出两次钱包确认，第一次授权代币支出上限，第二次确认交易。在小狐狸上支付gas费点击“`确认`”，就完成了。
 
 （注：因为每个用户网络速度不同，支付gas费用时可能会延迟1、2秒，属正常现象。）
 
