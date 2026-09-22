@@ -26,7 +26,7 @@ icon: landmark-flag
 
 1. 一台电脑或者一部手机
 2. Solana 钱包（[幻影钱包Phantom安装教程](https://docs.gtokentool.com/solana/auxiliary-tutorial/phantom-wallet-installation)）
-3. 钱包最少准备 **0.5 SOL** (Raydium官方将收取0.5 SOL)
+3. 钱包最少准备 **0.2 SOL** (Raydium官方将收取0.2 SOL)
 4. 要创建流动性池的代币
 
 ## Solana 创建 Raydium CPMM 池子教程
