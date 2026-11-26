@@ -5,6 +5,12 @@ icon: water-arrow-down
 
 # 币安链（BSC）创建流动性并100%提前买入
 
+{% hint style="success" %}
+代币发出来没有价格，是因为还没有交易对——价格只存在于流动性池里。在 GTokenTool 建池：选底池币（BNB 或 USDT），按开盘比例放入代币和底池币即可；想在建池的同时买入第一笔，用「建池同时抢买」，两个动作在同一区块完成，机器人来不及插队。\
+建池入口：https://www.gtokentool.com/addliquidity\
+建池同时抢买：https://www.gtokentool.com/createLiquidityAndBuy
+{% endhint %}
+
 **GTokenTool** 的 **BSC创建流动性并买入** 工具专为 PancakeSwap 交易对设计，实现加池与初始吸筹的原子级同步。该工具具备**一键捆绑操作、多地址自动买入、防夹子防机器人**等特点。其优势在于确保项目方获得零区块底仓，优化持筹比例并锁定成本。它特别适用于追求开盘极致掌控、需快速打造市场深度的 **Web3 初创团队及资深模因币运营者**，是高效开启 BSC 项目的必备利器。
 
 ### 📌 核心摘要

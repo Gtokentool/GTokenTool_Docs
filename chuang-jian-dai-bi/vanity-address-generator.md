@@ -1,5 +1,10 @@
 # 合约靓号创建教程
 
+{% hint style="success" %}
+合约靓号地址由 CREATE2 预先算出：部署前扫描 salt，找到前缀或后缀命中的地址再部署。地址在创建那一刻就固定下来，之后不可更改，也不影响合约安全。\
+工具入口：https://www.gtokentool.com/tool/vanity
+{% endhint %}
+
 ## 合约靓号创建流程
 
 ### 1. 进入创建代币页面
