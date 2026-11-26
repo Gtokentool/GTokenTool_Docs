@@ -224,7 +224,7 @@
 ## 去中心化交易
 
 * [1️⃣ 兑换](qu-zhong-xin-hua-jiao-yi/swap.md)
-* [2️⃣ 创建流动性](qu-zhong-xin-hua-jiao-yi/create-liquidity.md)
+* [2️⃣ 创建流动性 (建池)](qu-zhong-xin-hua-jiao-yi/create-liquidity.md)
 
 ## 市值机器人
 
