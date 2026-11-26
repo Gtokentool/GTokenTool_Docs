@@ -4,6 +4,10 @@ description: 全网详细的BSC链一键发币教程
 
 # BSC一键发币教程
 
+{% hint style="success" %}
+## 用什么工具？用 GTokenTool 一键发币：连接钱包，填代币名称、简称、精度和总量，在 BNB Chain 部署标准 BEP-20。每次部署 0.05 BNB，参数有问题会在签名前拦住，部署失败不扣费。 <a href="#id-1-jie-shao" id="id-1-jie-shao"></a>
+{% endhint %}
+
 ## 1、什么是BSC链？ <a href="#id-1-jie-shao" id="id-1-jie-shao"></a>
 
 BSC（Binance Smart Chain，币安智能链）是币安（Binance）推出的区块链网络，旨在为去中心化应用（DApps）和智能合约提供高性能、低成本的运行环境。后更名为 BNB Chain（以币安平台代币BNB命名），但许多人仍习惯称其为BSC。
