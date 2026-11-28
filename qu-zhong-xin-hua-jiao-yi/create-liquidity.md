@@ -32,23 +32,23 @@ coverHeight: 10
 
 完成后，会看到 “链名称” 和 您的“钱包地址” ，如下图：
 
-<figure><img src="../.gitbook/assets/image (217).png" alt=""><figcaption><p>连接钱包并选择BSC链</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (225).png" alt=""><figcaption><p>连接钱包并选择BSC链</p></figcaption></figure>
 
 ### 第2步，选择有效对
 
 点击 “`创建流动性`” 按钮。
 
-<figure><img src="../.gitbook/assets/image (223).png" alt=""><figcaption><p>点击去创建流动性</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (231).png" alt=""><figcaption><p>点击去创建流动性</p></figcaption></figure>
 
 选择有效对。
 
-<figure><img src="../.gitbook/assets/image (220).png" alt=""><figcaption><p>选择有效对</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (228).png" alt=""><figcaption><p>选择有效对</p></figcaption></figure>
 
 输入代币地址，点 “`导入`” 按钮。
 
-<figure><img src="../.gitbook/assets/image (219).png" alt=""><figcaption><p>导入代币</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (227).png" alt=""><figcaption><p>导入代币</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (112).png" alt=""><figcaption><p>确认导入</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (120).png" alt=""><figcaption><p>确认导入</p></figcaption></figure>
 
 ### 第3步，输入加池信息
 
@@ -68,7 +68,7 @@ G T: 100000
 
 （注：因为每个用户网络速度不同，支付gas费用时可能会延迟1、2秒，属正常现象。）
 
-<figure><img src="../.gitbook/assets/image (113).png" alt=""><figcaption><p>交易完成</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (121).png" alt=""><figcaption><p>交易完成</p></figcaption></figure>
 
 到此创建流动性就结束了。
 

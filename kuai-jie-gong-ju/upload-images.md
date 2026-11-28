@@ -10,21 +10,21 @@ description: https://www.gtokentool.com/
 
 进入页面：[https://gtokentool.com/tool](https://gtokentool.com/tool) ，点击 “批量上传图片” 切换页面。
 
-<figure><img src="../.gitbook/assets/image (210).png" alt=""><figcaption><p>进入批量上传图片页面</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (218).png" alt=""><figcaption><p>进入批量上传图片页面</p></figcaption></figure>
 
 ### 第2步，上传图片
 
 假设我们上传两张GTokenTool 标志图片，先点击上传--->选择图片，如下：
 
-<figure><img src="../.gitbook/assets/image (124).png" alt=""><figcaption><p>点击选择图片</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (132).png" alt=""><figcaption><p>点击选择图片</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (126).png" alt=""><figcaption><p>选择后效果</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (134).png" alt=""><figcaption><p>选择后效果</p></figcaption></figure>
 
 ### 第3步，完成
 
 点击 “批量上传图片” 按钮，就完成了。
 
-<figure><img src="../.gitbook/assets/image (129).png" alt=""><figcaption><p>上传成功</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (137).png" alt=""><figcaption><p>上传成功</p></figcaption></figure>
 
 ## ❓常见问题 FAQ
 

@@ -36,17 +36,17 @@ svmBNB Chain 将 SVM 作为其执行层，将 BNB Chain 作为其结算层。利
 
 ### 2.选择正确的网络并连接到有余额的钱包地址，连接钱包时选择tp钱包连接
 
-<figure><img src="../.gitbook/assets/image (419).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (427).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (420).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (428).png" alt=""><figcaption></figcaption></figure>
 
 连接成功后，应当显示为类似下图，按钮将变为当前连接的地址。
 
-<figure><img src="../.gitbook/assets/image (409).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (417).png" alt=""><figcaption></figcaption></figure>
 
 确保你的钱包连接到的网络也是svmBNB。
 
-<figure><img src="../.gitbook/assets/image (410).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (418).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -106,11 +106,11 @@ svmBNB Chain 将 SVM 作为其执行层，将 BNB Chain 作为其结算层。利
 
 在等待图片上传后弹出钱包确认，点击确认。
 
-<figure><img src="../.gitbook/assets/image (421).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (429).png" alt=""><figcaption></figcaption></figure>
 
 创建完成后可以查看代币地址，点击复制。
 
-<figure><img src="../.gitbook/assets/image (423).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (431).png" alt=""><figcaption></figcaption></figure>
 
 ## 常见问题 FAQ
 

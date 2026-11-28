@@ -35,21 +35,21 @@ Orca是Sol链上较为知名的去中心化交易所之一，和Raydium相比，
 
 我们打开页面：[https://v1.orca.so/liquidity](https://v1.orca.so/liquidity) ，重新连接钱包（如果已经连接，则不需要）。
 
-<figure><img src="../../.gitbook/assets/image (304).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (312).png" alt=""><figcaption></figcaption></figure>
 
 然后点击`Portfolio`，等待几秒钟，就能看到自己的池子。
 
-<figure><img src="../../.gitbook/assets/image (305).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (313).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (306).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (314).png" alt=""><figcaption></figcaption></figure>
 
 如果你想移除池子，可以点击你的交易对，选择 **`提取`** 流动性（如果想继续加池子，就选择 **`存入`**）。
 
-<figure><img src="../../.gitbook/assets/image (307).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (315).png" alt=""><figcaption></figcaption></figure>
 
 之后，按照页面需要，选择移除流动性比例，再点击 **`Withdraw`，** 钱包确认并支付gas即可。
 
-<figure><img src="../../.gitbook/assets/image (308).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (316).png" alt=""><figcaption></figcaption></figure>
 
 以上就是关于ORCA创建流动性/加池子/移除流动性的相关教程了。
 

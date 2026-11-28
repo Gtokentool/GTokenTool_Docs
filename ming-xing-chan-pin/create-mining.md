@@ -46,11 +46,11 @@ description: 搭建质押挖矿系统，丰富通证应用场景，增强用户�
 
 点击 “`确认创建`” ，在小狐狸钱包上支付gas费，就完成了。
 
-<figure><img src="../.gitbook/assets/image (116).png" alt=""><figcaption><p>确认创建</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (124).png" alt=""><figcaption><p>确认创建</p></figcaption></figure>
 
 （注意：因为每个用户网络速度不同，支付gas费用时可能会延迟1、2秒，属正常现象。）
 
-<figure><img src="../.gitbook/assets/image (117).png" alt=""><figcaption><p>创建成功</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (125).png" alt=""><figcaption><p>创建成功</p></figcaption></figure>
 
 ## ❓常见问题 FAQ
 

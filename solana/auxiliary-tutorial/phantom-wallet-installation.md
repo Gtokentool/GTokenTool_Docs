@@ -17,33 +17,33 @@ Phantom中文称之为“幻影钱包”，是Solana生态最常见的钱包之�
 
 1.首先打开幻影钱包Phantom官网：[https://phantom.app/download](https://phantom.app/download)，点击“`Chrome`”浏览器。
 
-<figure><img src="../../.gitbook/assets/image (247).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (255).png" alt=""><figcaption></figcaption></figure>
 
 2.如下图所示，点击“`添加至Chrome`”。
 
-<figure><img src="../../.gitbook/assets/image (249).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (257).png" alt=""><figcaption></figcaption></figure>
 
 3.然后会弹出提示“`添加扩展程序`”，点击添加。
 
-<figure><img src="../../.gitbook/assets/image (250).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (258).png" alt=""><figcaption></figcaption></figure>
 
 4.添加之后，如果你还没有sol钱包，就可以立即创建一个新钱包；如果你在其他钱包工具已经创建了钱包，就可以通过私钥/助记词导入钱包，这里我们选择创建钱包：
 
-<figure><img src="../../.gitbook/assets/image (253).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (261).png" alt=""><figcaption></figcaption></figure>
 
 5.之后需要创建一个钱包密码，完成之后并且记得保存助记词。
 
-<figure><img src="../../.gitbook/assets/image (254).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (262).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (255).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (263).png" alt=""><figcaption></figcaption></figure>
 
 6.至此，就完成了幻影钱包的安装和注册，你可以找到右上角的插件图标来找到钱包，并可以将其固定。
 
-<figure><img src="../../.gitbook/assets/image (256).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (264).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (258).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (266).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (257).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (265).png" alt=""><figcaption></figcaption></figure>
 
 
 

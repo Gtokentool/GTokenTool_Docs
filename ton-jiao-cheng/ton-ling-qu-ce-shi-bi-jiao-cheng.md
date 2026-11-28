@@ -10,23 +10,23 @@ description: 全网最全的TON领取测试币教程
 
 点击进入领测试币地址：[https://t.me/testgiver\_ton\_bot](https://t.me/testgiver_ton_bot)，点击“`发信息`”。
 
-<figure><img src="../.gitbook/assets/image (325).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (333).png" alt="" width="563"><figcaption></figcaption></figure>
 
 进入到电报（Telegram）对话框，在底部点击“`开始`”。
 
-<figure><img src="../.gitbook/assets/image (326).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (334).png" alt="" width="563"><figcaption></figcaption></figure>
 
 就会收到一条消息，然后选择“`Get 5 TON in testnet`”。
 
-<figure><img src="../.gitbook/assets/image (327).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (335).png" alt="" width="563"><figcaption></figcaption></figure>
 
 输入图片中的验证码，发送。
 
-<figure><img src="../.gitbook/assets/image (329).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (337).png" alt="" width="563"><figcaption></figcaption></figure>
 
 将你的钱包地址复制过来，发送，这样就完成了。
 
-<figure><img src="../.gitbook/assets/image (331).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (339).png" alt="" width="563"><figcaption></figcaption></figure>
 
 **常见问题：**
 

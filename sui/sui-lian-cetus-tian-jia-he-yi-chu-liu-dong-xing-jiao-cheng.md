@@ -8,15 +8,15 @@
 
 输入指定的代币地址，并点击所有池。
 
-<figure><img src="../.gitbook/assets/image (457).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (465).png" alt=""><figcaption></figcaption></figure>
 
 可以查询到创建的池子信息，点击此条幅进入池子详细信息页面。
 
-<figure><img src="../.gitbook/assets/image (456).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (464).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (458).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (466).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (460).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (468).png" alt=""><figcaption></figcaption></figure>
 
 ## 增加流动性
 
@@ -26,9 +26,9 @@
 
 一般直接使用默认的滑点即可，选择需要添加流动性数额，点击添加流动性在弹出钱包交易确认后即可完成流动性的添加。
 
-<figure><img src="../.gitbook/assets/image (461).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (469).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (462).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (470).png" alt=""><figcaption></figcaption></figure>
 
 ## 移除流动性
 
@@ -36,9 +36,9 @@
 
 选择完成后点击下方按钮，在弹出钱包交易确认后即可完成流动性的移除。
 
-<figure><img src="../.gitbook/assets/image (463).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (471).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (464).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (472).png" alt=""><figcaption></figcaption></figure>
 
 ### 🤝 连接 GTokenTool <a href="#lian-jie-gtokentool" id="lian-jie-gtokentool"></a>
 

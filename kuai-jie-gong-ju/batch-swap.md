@@ -18,9 +18,9 @@
 
 从按钮部分的位置选择您要交易的代币，默认选择为BNB。
 
-<div align="center"><figure><img src="../.gitbook/assets/image (9).png" alt="" width="436"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../.gitbook/assets/image (17).png" alt="" width="436"><figcaption></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/image (10).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 <mark style="background-color:red;">**注意：**</mark><mark style="background-color:red;">（如上图所示）我们将上方的代币称为token0，下方的代币称为token1，无论您选择哪种代币，都是将token0 兑换成 token1。不管您是买还是卖都将设置好代币的顺序。以免兑换失败！</mark>
@@ -28,7 +28,7 @@
 
 如图所示，选择您要交易的代币。接下来，通过输入框输入交易金额，**token0**代币输入1个金额。您的**token1**代币金额将自动估算，始终要记住通过token0=>token1的兑换顺序。
 
-<figure><img src="../.gitbook/assets/image (12).png" alt="" width="426"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20).png" alt="" width="426"><figcaption></figcaption></figure>
 
 ## 设置参数说明 <a href="#she-zhi-can-shu-shuo-ming" id="she-zhi-can-shu-shuo-ming"></a>
 
@@ -42,7 +42,7 @@
 
 ### **接收地址**
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 您可以在交易对兑时设置一个固定的接收地址，批量兑换时可将token1的代币自动归集到接收地址，可节省在次归集。
 
@@ -52,15 +52,15 @@
 
 ### **运行类型（模式）**
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 **并行执行：** 所有选中的地址将会在同一时间发起兑换交易，这样往往会出现所有的交易都在一个区块同时完成。
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 **串行执行：** 所有选中的地址会有序的进行交易，将按照从上往下的顺序一条条执行。
 
-<figure><img src="../.gitbook/assets/image (17).png" alt="" width="466"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25).png" alt="" width="466"><figcaption></figcaption></figure>
 
 ### **串行间隔时间**
 

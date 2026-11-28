@@ -114,7 +114,7 @@ S链上近期热度持续高升，很多用户都想尝试在 Solana 链上发�
 
 或者前往SOL区块链浏览器（[https://solscan.io](https://solscan.io)）去查看发币信息。
 
-<figure><img src="../../.gitbook/assets/image (245).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (253).png" alt=""><figcaption></figcaption></figure>
 
 此时，Solana发币的流程就算是基本创建完成了，大家可以根据需求去做池子，然后就能交易了。
 

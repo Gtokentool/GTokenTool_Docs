@@ -10,7 +10,7 @@
 
 批量发币 [https://tron.gtokentool.com/#/batchSender](https://tron.gtokentool.com/#/batchSender)
 
-<figure><img src="../.gitbook/assets/image (341).png" alt=""><figcaption><p>连接钱包</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (349).png" alt=""><figcaption><p>连接钱包</p></figcaption></figure>
 
 ### 2.输入接收地址和数量 <a href="#id-2.-tian-xie-xin-xi" id="id-2.-tian-xie-xin-xi"></a>
 
@@ -24,7 +24,7 @@
 
 例：TTona24QrC947jSDjp7hHAzkJmZFQAjp5R,1
 
-<figure><img src="../.gitbook/assets/image (342).png" alt=""><figcaption><p>输入接收地址和数量</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (350).png" alt=""><figcaption><p>输入接收地址和数量</p></figcaption></figure>
 
 ### 3.点击发送 <a href="#id-3.-dian-ji-fa-song" id="id-3.-dian-ji-fa-song"></a>
 

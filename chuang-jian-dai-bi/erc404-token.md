@@ -18,13 +18,13 @@ description: 实现 “持币即持 NFT、碎片可交易、整币出 NFT”
 
 完成后，会看到 “链名称” 和 您的“钱包地址” ，如下图：
 
-<figure><img src="../.gitbook/assets/image (123).png" alt=""><figcaption><p>连接钱包并选择网络</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (131).png" alt=""><figcaption><p>连接钱包并选择网络</p></figcaption></figure>
 
 ### (2) 选择代币模式
 
 点击下拉框，选择 “ERC404”。
 
-<figure><img src="../.gitbook/assets/image (229).png" alt=""><figcaption><p>选择ERC404</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (237).png" alt=""><figcaption><p>选择ERC404</p></figcaption></figure>
 
 ### (3) 填写您的代币信息
 

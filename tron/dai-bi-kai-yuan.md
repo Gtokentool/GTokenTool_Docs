@@ -6,17 +6,17 @@
 
 ## 2、填写开源参数
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 
 
 ## 3、下载代币源代码
 
-<figure><img src="../.gitbook/assets/image (494).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (502).png" alt=""><figcaption></figcaption></figure>
 
 在upload Contract File(s)上传该文件。
 
-<figure><img src="../.gitbook/assets/image (374).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (382).png" alt=""><figcaption></figcaption></figure>
 
 最后点击开源按钮，完成开源。
 

@@ -16,4 +16,4 @@ icon: '1'
 
 3.未开户将看到如下页面，在输入框内设置密码，点击开户，随后在钱包内确认签名即可。
 
-<figure><img src="../.gitbook/assets/image (361).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (369).png" alt=""><figcaption></figcaption></figure>

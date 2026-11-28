@@ -12,17 +12,17 @@ icon: wagon-covered
 
 ### 2.连接钱包，按F12按键弹出如图所示操作
 
-<figure><img src="../.gitbook/assets/image (424).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (432).png" alt=""><figcaption></figcaption></figure>
 
 ### 3.上传头像，按如图所示
 
-<figure><img src="../.gitbook/assets/image (425).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (433).png" alt=""><figcaption></figcaption></figure>
 
 最后获取出来：[https://static.four.meme/market/a4dd9906-e894-4954-98f0-219f23231c3312588615720517745396.png](https://static.four.meme/market/a4dd9906-e894-4954-98f0-219f23231c3312588615720517745396.png)
 
 ### 4.输入系统
 
-<figure><img src="../.gitbook/assets/image (426).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (434).png" alt=""><figcaption></figcaption></figure>
 
 ### 🤝 连接 GTokenTool <a href="#lian-jie-gtokentool" id="lian-jie-gtokentool"></a>
 

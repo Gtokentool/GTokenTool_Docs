@@ -10,19 +10,19 @@
 
 1.打开钱包，点击`send`，找到 添加的流动池 LP 代币 （ 添加流动性后发送给你的新代币）。
 
-<figure><img src="../.gitbook/assets/image (334).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (342).png" alt=""><figcaption></figcaption></figure>
 
 2.选择要发送的LP代币，点击 `Next Step` 。
 
-<figure><img src="../.gitbook/assets/image (335).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (343).png" alt=""><figcaption></figcaption></figure>
 
 3.在发送对象地址上填入黑洞地址（ 顶处可见 ） ，点击`Next Step` 。
 
-<figure><img src="../.gitbook/assets/image (337).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (345).png" alt=""><figcaption></figcaption></figure>
 
 4.选择发送数量（要锁定的流动性比例）后，点击`confirm` 。
 
-<figure><img src="../.gitbook/assets/image (338).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (346).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="background-color:$warning;">**注意： 此操作无法撤销**</mark>
 

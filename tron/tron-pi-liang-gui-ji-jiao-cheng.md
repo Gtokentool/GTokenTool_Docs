@@ -10,7 +10,7 @@
 
 批量归集 [https://tron.gtokentool.com/#/collect](https://tron.gtokentool.com/#/collect)
 
-<figure><img src="../.gitbook/assets/image (343).png" alt=""><figcaption><p>连接钱包</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (351).png" alt=""><figcaption><p>连接钱包</p></figcaption></figure>
 
 ### 2.输入归集信息 <a href="#id-2.-tian-xie-xin-xi" id="id-2.-tian-xie-xin-xi"></a>
 
@@ -22,7 +22,7 @@
 
 #### 2.3 填写钱包小号私钥
 
-<figure><img src="../.gitbook/assets/image (345).png" alt=""><figcaption><p>输入归集信息</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (353).png" alt=""><figcaption><p>输入归集信息</p></figcaption></figure>
 
 ### 3.点击归集 <a href="#id-3.-dian-ji-fa-song" id="id-3.-dian-ji-fa-song"></a>
 

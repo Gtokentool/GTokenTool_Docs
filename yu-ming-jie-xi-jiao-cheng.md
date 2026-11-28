@@ -12,19 +12,19 @@ icon: face-laugh-beam
 
 ### 2.拉到最底部，选择付款方式
 
-<figure><img src=".gitbook/assets/image (376).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (384).png" alt=""><figcaption></figcaption></figure>
 
 ### 3.选择您想要的域名，加入购物车
 
-<figure><img src=".gitbook/assets/image (375).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (383).png" alt=""><figcaption></figcaption></figure>
 
 ### 4.下一步，点击继续进入购物车
 
-<figure><img src=".gitbook/assets/image (378).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (386).png" alt=""><figcaption></figcaption></figure>
 
 ### 5.点击“我已准备好支付”
 
-<figure><img src=".gitbook/assets/image (380).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (388).png" alt=""><figcaption></figcaption></figure>
 
 ### 6.付款
 
@@ -36,27 +36,27 @@ icon: face-laugh-beam
 
 [**`点击进入我的产品页面`**](https://account.godaddy.com/products?go_redirect=disabled)
 
-<figure><img src=".gitbook/assets/image (381).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (389).png" alt=""><figcaption></figcaption></figure>
 
 ### 2.选择你购买的域名，点击DNS
 
-<figure><img src=".gitbook/assets/image (382).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (390).png" alt=""><figcaption></figcaption></figure>
 
 ### 3.点击添加新记录
 
-<figure><img src=".gitbook/assets/image (384).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (392).png" alt=""><figcaption></figcaption></figure>
 
 ### 4.按图所示填入相应的值,点击保存
 
 类型选择 cName , 姓名填ido ,值填 dns.gtokentool.com&#x20;
 
-<figure><img src=".gitbook/assets/image (385).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (393).png" alt=""><figcaption></figcaption></figure>
 
 ### 5.控制台点击域名设置
 
 输入  “ido.你的域名”, 点击确认，例子：
 
-![](<.gitbook/assets/image (386).png>)
+![](<.gitbook/assets/image (394).png>)
 
 ### 6. 至此解析成功
 

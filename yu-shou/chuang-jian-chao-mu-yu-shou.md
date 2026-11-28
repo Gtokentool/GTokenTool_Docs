@@ -12,11 +12,11 @@ description: https://www.gtokentool.com
 
 进入页面：[https://www.gtokentool.com/fairlaunch/create](https://www.gtokentool.com/fairlaunch/create)，在右上角，连接网络（这里以BSC测试网为例)，连接小狐狸钱包。
 
-<figure><img src="../.gitbook/assets/image (251).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (259).png" alt=""><figcaption></figcaption></figure>
 
 完成后，会看到 “链名称” 和 您的“钱包地址” ，如下图：
 
-<figure><img src="../.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (260).png" alt=""><figcaption></figcaption></figure>
 
 ### 第2步，输入信息
 

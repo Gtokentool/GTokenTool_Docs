@@ -53,7 +53,7 @@ icon: coin-vertical
 
 **总供应量：**&#x4EE3;币的总供应量，当精度为9时，总供应量不能超过100亿；当精度为8时，总供应量不能超过1000亿，以此类推。
 
-<figure><img src="../../.gitbook/assets/image (492).png" alt=""><figcaption><p>参数参考</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (500).png" alt=""><figcaption><p>参数参考</p></figcaption></figure>
 
 **简介（选填）：**&#x586B;写你的代币简介。
 

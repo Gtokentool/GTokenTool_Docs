@@ -16,11 +16,11 @@ description: https://www.gtokentool.com
 
 进入页面：[https://www.gtokentool.com/launchpad/create](https://www.gtokentool.com/launchpad/create)，在右上角，连接网络（这里以BSC测试网为例)，连接小狐狸钱包。
 
-<figure><img src="../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
 
 完成后，会看到 “链名称” 和 您的“钱包地址” ，如下图：
 
-<figure><img src="../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
 
 ### 第2步，输入信息 <a href="#di-2-bu-shu-ru-xin-xi" id="di-2-bu-shu-ru-xin-xi"></a>
 
@@ -32,7 +32,7 @@ description: https://www.gtokentool.com
 
 点击“下一步”按钮。
 
-<figure><img src="../.gitbook/assets/image (283).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (291).png" alt=""><figcaption></figcaption></figure>
 
 预售率：1000（1TBNB=? G T）
 

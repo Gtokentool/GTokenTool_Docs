@@ -13,19 +13,19 @@ Meteora是Solana 上提供Defi收益基础设施的协议，他们提供了高�
 
 打开Meteora的官网：[https://app.meteora.ag/#dynamicpools](https://app.meteora.ag/#dynamicpools) 中间的位置找到“`Create Pool`”，点击之后开始创建资金池。
 
-<figure><img src="../../.gitbook/assets/image (397).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (405).png" alt=""><figcaption></figcaption></figure>
 
 ### 2. 选择资金池类型
 
 打开之后，会让你首选选择资金池类型。Volatile 就是正常的代币池，默认都选这个。Stable 是稳定币资金池，如果你不是稳定币，不要选,Memecoin会永久锁定流动性的，按需求选择。
 
-<figure><img src="../../.gitbook/assets/image (398).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (406).png" alt=""><figcaption></figcaption></figure>
 
 ### 3. 选择代币对
 
 确定好池子类型后，就开始选择代币对。
 
-<figure><img src="../../.gitbook/assets/image (399).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (407).png" alt=""><figcaption></figcaption></figure>
 
 **Base Token**就是你发行的代币（通过合约地址进行搜索）。
 
@@ -35,7 +35,7 @@ Meteora是Solana 上提供Defi收益基础设施的协议，他们提供了高�
 
 在输入代币，确定代币数量之后，通过钱包确认创建流动性即可。流动性资金池创建完成后，会自动跳转到你的代币资金池页面，可以在这个页面兑换交易代币，或者增加/撤出流动性，如下图所示：
 
-<figure><img src="../../.gitbook/assets/image (303).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (311).png" alt=""><figcaption></figcaption></figure>
 
 * **Deposit**：增加流动性
 * **Withdraw**：移除流动性

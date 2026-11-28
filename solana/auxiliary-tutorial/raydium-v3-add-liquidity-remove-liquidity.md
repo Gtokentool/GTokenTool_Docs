@@ -21,23 +21,23 @@ V3是Raydium最新推出的一个流动性产品，具有以下特点：
 
 打开RaydiumV3的官网：[https://raydium.io/liquidity-pools/](https://raydium.io/liquidity-pools/)，可以点击右上角的设置切换语言：
 
-<figure><img src="../../.gitbook/assets/image (319).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (327).png" alt=""><figcaption></figcaption></figure>
 
 之后点击“`创建`”按钮。
 
-<figure><img src="../../.gitbook/assets/image (309).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (317).png" alt=""><figcaption></figcaption></figure>
 
 打开之后，选择**标准AMM池**，然后`继续`下一步。
 
 (集中池创建麻烦，且价格不能波动太大，所以一般我们推荐创建标准AMM池)
 
-<figure><img src="../../.gitbook/assets/image (310).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (318).png" alt=""><figcaption></figcaption></figure>
 
 ## 2. 确定价格和比例
 
 在新的页面，我们需要填写相应的代币与数量，进行流动性创建。
 
-<figure><img src="../../.gitbook/assets/image (311).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (319).png" alt=""><figcaption></figcaption></figure>
 
 * **代币数量：**&#x4F60;要添加到池子里面的代币数量（你发行的代币）。
 * **SOL数量：**&#x4F60;的交易对代币（报价代币）。
@@ -46,31 +46,31 @@ V3是Raydium最新推出的一个流动性产品，具有以下特点：
 
 例如：
 
-<figure><img src="../../.gitbook/assets/image (312).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (320).png" alt=""><figcaption></figcaption></figure>
 
 关于开盘时间这一块，在设置的时候，Raydium很人性化的给予了自动转换时区的功能，UTC时间与北京时间自动转换，所以设置起来就比较方便了，例如：
 
-<figure><img src="../../.gitbook/assets/image (313).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (321).png" alt=""><figcaption></figcaption></figure>
 
 确定好没问题之后，点击初始化流动性，钱包确认支付费用就可以了。（注意：加池手续费大概0.2 SOL左右）
 
-<figure><img src="../../.gitbook/assets/image (314).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (322).png" alt=""><figcaption></figcaption></figure>
 
 池子创建成功后，会有个提示给你，如下图所示：
 
-<figure><img src="../../.gitbook/assets/image (315).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (323).png" alt=""><figcaption></figcaption></figure>
 
 ## 3. 移除流动性
 
 同样我们打开Raydium，页面链接：[https://beta.raydium.io/portfolio/](https://beta.raydium.io/portfolio/)找到“`我的投资组合`”，选择标准流动池，就可以看到自己的池子。
 
-<figure><img src="../../.gitbook/assets/image (316).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (324).png" alt=""><figcaption></figcaption></figure>
 
 * 注：如果你设置了开盘时间，那要等到开盘后，才能看到池子。
 
 此时，如果你想移除流动性，选择那个“`-`”按钮就可以了，如下所示：
 
-<figure><img src="../../.gitbook/assets/image (317).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (325).png" alt=""><figcaption></figcaption></figure>
 
 选择你要撤池子的比例，点击`移除流动性`，然后钱包确认，就可以了。
 

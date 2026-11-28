@@ -10,7 +10,7 @@
 
 发币官网 [https://tron.gtokentool.com/](https://tron.gtokentool.com/)
 
-<figure><img src="../.gitbook/assets/image (339).png" alt=""><figcaption><p>连接钱包</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (347).png" alt=""><figcaption><p>连接钱包</p></figcaption></figure>
 
 ### 2.填写代币信息 <a href="#id-2.-tian-xie-dai-bi-xin-xi" id="id-2.-tian-xie-dai-bi-xin-xi"></a>
 
@@ -24,7 +24,7 @@
 
 **管理员地址：**&#x4EE3;币的所有权地址
 
-<figure><img src="../.gitbook/assets/image (340).png" alt=""><figcaption><p>填写代币信息</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (348).png" alt=""><figcaption><p>填写代币信息</p></figcaption></figure>
 
 ### 3.点击"确认创建"，创建代币 <a href="#id-3.-dian-ji-bu-shu-chuang-jian-dai-bi" id="id-3.-dian-ji-bu-shu-chuang-jian-dai-bi"></a>
 

@@ -52,7 +52,7 @@ NFT铸造指的是在区块链网络上初始创建一个非同质化代币的�
 
 （注意：因为每个用户网络速度不同，支付gas费用时可能会延迟1、2秒，属正常现象。）
 
-<figure><img src="../.gitbook/assets/image (120).png" alt=""><figcaption><p>确认创建</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (128).png" alt=""><figcaption><p>确认创建</p></figcaption></figure>
 
 ## ❓常见问题 FAQ
 

@@ -21,17 +21,17 @@ Raydium是SOL链上比较大的去中心化交易所，任何人都可以在上�
 
 创建完OpenBook市场ID后，将其复制保存，准备添加流动池。如果没有及时赋值保存ID,也可以在Solana浏览器搜索创建的哈希，在交易详情里寻找：
 
-<figure><img src="../../.gitbook/assets/image (320).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (328).png" alt=""><figcaption></figcaption></figure>
 
 ### 2. 创建Raydium V2流动性
 
 创建完OpenBook市场之后， 前往到Raydium V2的池子页面：[https://v2.raydium.io/pools/](https://v2.raydium.io/pools/)页面右上角点击连接钱包，之后选择“`创建池子`”(Create  Pool)按钮。
 
-<figure><img src="../../.gitbook/assets/image (332).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (340).png" alt=""><figcaption></figcaption></figure>
 
 点击之后，输入已经获取到的OpenBook市场ID。
 
-<figure><img src="../../.gitbook/assets/image (322).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (330).png" alt=""><figcaption></figcaption></figure>
 
 ### 3. 初始化创建池子
 
@@ -41,7 +41,7 @@ Raydium是SOL链上比较大的去中心化交易所，任何人都可以在上�
 
 **重要提示**：确认并初始化池后，您将无法再编辑起始价格、流动性或开始时间。注意，开始时间由链上的时间确定。
 
-<figure><img src="../../.gitbook/assets/image (323).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (331).png" alt=""><figcaption></figcaption></figure>
 
 * 单击确认后，需要在钱包中批准**两个单独的交易**。这些交易将创建池子，创建AMM帐户和ID，并从您的钱包中添加流动性。如果您没有看到其中一个交易，请检查您的钱包窗口是否隐藏在主浏览器窗口后面。如果您错过了确认交易，则该过程将失败，您需要再次单击确认，然后重新批准所有交易。
 * 确认钱包中的两个交易后，新LP将已创建，您将获得新的AMM ID，并且底池将在设置的启动时间启动。
@@ -55,7 +55,7 @@ Raydium是SOL链上比较大的去中心化交易所，任何人都可以在上�
 
 点击你的流动性，能看到一些选项，添加流动性或者交易，这时候请选择移除流动性，如下：
 
-<figure><img src="../../.gitbook/assets/image (324).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (332).png" alt=""><figcaption></figcaption></figure>
 
 然后填入你要移除的LP数量，点击“`Remove Liquidity`”，钱包确认后，就能撤出了。（如果选择MAX，就是全部撤出）
 

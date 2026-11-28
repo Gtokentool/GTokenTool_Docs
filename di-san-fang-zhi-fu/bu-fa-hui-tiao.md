@@ -11,8 +11,8 @@ icon: '3'
 
 2.也可以选择勾选需要补发的订单随后点击补发选中回调进行一次性多个补发。
 
-<figure><img src="../.gitbook/assets/image (363).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (371).png" alt=""><figcaption></figcaption></figure>
 
 3.若需要补发的订单数量过多，还可以选中进行筛选所有需要补发的订单，随后选择全选，然后点击补发选中回调按钮。
 
-<figure><img src="../.gitbook/assets/image (365).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (373).png" alt=""><figcaption></figcaption></figure>

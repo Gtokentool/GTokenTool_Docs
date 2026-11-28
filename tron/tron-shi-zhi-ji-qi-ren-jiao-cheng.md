@@ -12,19 +12,19 @@ description: 全网最好用的Tron市值机器人工具
 
 通过输入代币合约来对代币进行搜索,并选择对应的目标代币。
 
-<figure><img src="../.gitbook/assets/image (346).png" alt=""><figcaption><p>输入兑换代币</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (354).png" alt=""><figcaption><p>输入兑换代币</p></figcaption></figure>
 
 ## 3.查看交易池代币的当前价格 <a href="#id-3.-cha-kan-jiao-yi-chi-dai-bi-de-dang-qian-jia-ge" id="id-3.-cha-kan-jiao-yi-chi-dai-bi-de-dang-qian-jia-ge"></a>
 
 选择完代币之后滑动到屏幕最下方的日志，查看当前的交易池代币的当前价格。点击清空日志则可以将日志信息清除。
 
-<figure><img src="../.gitbook/assets/image (347).png" alt=""><figcaption><p>查看当前价格</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (355).png" alt=""><figcaption><p>查看当前价格</p></figcaption></figure>
 
 ## 4.导入批量钱包 <a href="#id-4.-dao-ru-pi-liang-qian-bao" id="id-4.-dao-ru-pi-liang-qian-bao"></a>
 
 导入批量钱包，查询钱包余额，点击刷新钱包可刷新钱包的余额，点击删除操作按钮可删除钱包。
 
-<figure><img src="../.gitbook/assets/image (348).png" alt=""><figcaption><p>导入钱包</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (356).png" alt=""><figcaption><p>导入钱包</p></figcaption></figure>
 
 ## 5.设置相关配置参数 <a href="#id-5.-she-zhi-xiang-guan-pei-zhi-can-shu" id="id-5.-she-zhi-xiang-guan-pei-zhi-can-shu"></a>
 
@@ -46,15 +46,15 @@ description: 全网最好用的Tron市值机器人工具
 
 ### 拉盘参数展示：
 
-<figure><img src="../.gitbook/assets/image (349).png" alt=""><figcaption><p>拉盘参数展示</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (357).png" alt=""><figcaption><p>拉盘参数展示</p></figcaption></figure>
 
 ### 砸盘参数展示：
 
-<figure><img src="../.gitbook/assets/image (350).png" alt=""><figcaption><p>砸盘参数展示</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (358).png" alt=""><figcaption><p>砸盘参数展示</p></figcaption></figure>
 
 ### 刷交易量参数展示：
 
-<figure><img src="../.gitbook/assets/image (351).png" alt=""><figcaption><p>刷交易量参数展示</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (359).png" alt=""><figcaption><p>刷交易量参数展示</p></figcaption></figure>
 
 ## 6.开始批量交易 <a href="#id-6.-kai-shi-pi-liang-jiao-yi" id="id-6.-kai-shi-pi-liang-jiao-yi"></a>
 

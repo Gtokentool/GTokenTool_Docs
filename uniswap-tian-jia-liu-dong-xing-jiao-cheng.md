@@ -12,29 +12,29 @@ Uniswap 是以太坊上最常用的去中心化交易所。以下是添加流动
 
 点击进入uniswap添加流动性页面：[Uniswap](https://app.uniswap.org/positions/create/v2)
 
-<figure><img src=".gitbook/assets/image (396).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (404).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (387).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (395).png" alt=""><figcaption></figcaption></figure>
 
 ### **2. 选择V2(Uniswap的老版本，比较易用)**
 
-<figure><img src=".gitbook/assets/image (388).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (396).png" alt=""><figcaption></figcaption></figure>
 
 ### **3. 输入交易对地址**
 
-<figure><img src=".gitbook/assets/image (389).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (397).png" alt=""><figcaption></figcaption></figure>
 
 ### **4. 输入需要添加的数量**
 
-<figure><img src=".gitbook/assets/image (390).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (398).png" alt=""><figcaption></figcaption></figure>
 
 ### **5. 点击审查，创建，钱包点击确认，即可完成**
 
-<figure><img src=".gitbook/assets/image (391).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (399).png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (395).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (403).png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (394).png" alt="" width="360"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (402).png" alt="" width="360"><figcaption></figcaption></figure>
 
 ## **常见问题 FAQ**
 
