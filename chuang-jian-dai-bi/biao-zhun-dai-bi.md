@@ -32,7 +32,7 @@ description: 一分钟快速创建代币，快速简单且便宜，无需任何�
 
 进入创建页面：[https://www.gtokentool.com/tokenfactory](https://www.gtokentool.com/tokenfactory)，点击右上角，连接小狐狸钱包，并切换到主网。完成后，会看到 “链名称” 和 您的“钱包地址” ，如下图：
 
-<figure><img src="../.gitbook/assets/Snipaste_2026-04-22_13-46-31.png" alt=""><figcaption><p>连接钱包并选择网络</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/live-page.png" alt="现行发币页，尚未连接钱包"><figcaption><p>发币页：尚未连接钱包，可在右上角连接并选择网络</p></figcaption></figure>
 
 ### (2) 填写您的代币信息
 
@@ -43,7 +43,7 @@ description: 一分钟快速创建代币，快速简单且便宜，无需任何�
 * **代币精度：**&#x31;8（小数点后的位数）
 * **总供应量：**&#x31;000000（代币数量）
 
-<figure><img src="../.gitbook/assets/Snipaste_2026-04-22_13-49-14.png" alt=""><figcaption><p>填写代币信息</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/live-form.png" alt="填写代币信息"><figcaption><p>填写代币信息</p></figcaption></figure>
 
 输入完成后，点击“`创建`”。
 
@@ -52,8 +52,6 @@ description: 一分钟快速创建代币，快速简单且便宜，无需任何�
 点击 “`确认创建`” ，在小狐狸钱包支付gas费，就完成了。
 
 （注：因为每个用户网络速度不同，支付gas费用时可能会延迟1、2秒，属正常现象。）
-
-<figure><img src="../.gitbook/assets/Snipaste_2026-04-22_13-52-24.png" alt=""><figcaption><p>确认创建弹窗</p></figcaption></figure>
 
 <mark style="background-color:red;">注意：</mark>
 
