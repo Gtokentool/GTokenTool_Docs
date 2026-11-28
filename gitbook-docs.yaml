@@ -21,3 +21,10 @@ site:
       path: ja
       content:
         directory: null
+    - type: space
+      key: space-4
+      title: Product Docs
+      path: product-docs
+      draft: true
+      content:
+        directory: ./product-docs
