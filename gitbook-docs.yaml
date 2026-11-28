@@ -1,0 +1,23 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: GTokenTool一键发币工具平台
+  structure:
+    - type: space
+      key: space-1
+      title: 中文 🇨🇳
+      path: zh
+      default: true
+      content:
+        directory: ./
+    - type: space
+      key: space-2
+      title: English 🇺🇸
+      path: en
+      content:
+        directory: null
+    - type: space
+      key: space-3
+      title: 日本語 🇯🇵
+      path: ja
+      content:
+        directory: null
